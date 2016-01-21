@@ -1,0 +1,16 @@
+{
+	"title": "And then there was one...",
+	"categories": [
+		"ColdFusion"
+	],
+	"tags": [],
+	"date": "2007-11-29T16:11:00+06:00",
+	"url": "/2007/11/29/And-then-there-was-one",
+	"guid": "2505"
+}
+
+Guess what Fedex just dropped off?
+
+<img src="http://www.raymondcamden.com/images/DSC01823.jpg">
+
+Only one more to go!

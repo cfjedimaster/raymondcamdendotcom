@@ -1,0 +1,15 @@
+{
+	"title": "Friday Worthless Post",
+	"categories": [
+		"Misc"
+	],
+	"tags": [],
+	"date": "2007-10-05T18:10:00+06:00",
+	"url": "/2007/10/05/Friday-Worthless-Post",
+	"guid": "2394"
+}
+
+This is too funny to pass up - from way of an <a href="http://appliedliberally.com/blog/">old friend</a> comes this little gem (no known author on it so not sure who to credit):
+
+
+<img src="http://www.raymondcamden.com/images/ihadfriendsonthedeathstar.jpg">
