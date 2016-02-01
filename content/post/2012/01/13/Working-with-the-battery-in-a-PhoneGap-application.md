@@ -55,8 +55,7 @@ Here's a simple demo:
 
 <p>
 
-<code>
-
+<pre><code class="language-markup">
 &lt;!DOCTYPE HTML&gt;
 &lt;html&gt;
   &lt;head&gt;
@@ -113,7 +112,7 @@ Here's a simple demo:
 
   &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 

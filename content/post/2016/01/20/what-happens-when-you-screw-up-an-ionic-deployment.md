@@ -18,7 +18,7 @@ Last week I had the honor of presenting at the <a href="http://www.meetup.com/Io
 
 For folks not familiar with what Ionic's Deploy service does, it basically lets you push updates to your application without doing a formal app store approval. There are restrictions of course. You can't add (or remove) plugins. But basically anything under the www is fair game. Things like typo fixing, new images, audio assets will work fine. You can even add completely new features by updating your app's JavaScript and templates. 
 
-And yes - this <strong>is allowed</strong> by both Apple and Google. You don't want to abuse this though. If your app is a "Kitten Viewer" and you push an update that changes it to a post-apocalyptic shooter (still involving kittens) than you will most likely get a slap down. (If someone has created a post-apocalyptic kitten game, please let me know.)
+And yes - this <strong>is allowed</strong> by both Apple and Google. You don't want to abuse this though. If your app is a "Kitten Viewer" and you push an update that changes it to a post-apocalyptic shooter (still involving kittens) then you will most likely get a slap down. (If someone has created a post-apocalyptic kitten game, please let me know.)
 
 There is a bit of a setup to enable this feature (fully documented via the link above) that takes roughly five minutes, and the code is really simple considering how complex the actions are. Here is an example taken from the docs that demonstrates how to check for and actually do an update.
 
@@ -109,7 +109,7 @@ angular.module('starter', ['ionic','ionic.service.core','appService'])
 })
 </code></pre>
 
-By the way - I used an alert in the code because it was quick and dirty. In a real app, avoid alert and use the Dialog plugin. The service is incredible simple:
+By the way - I used an alert in the code because it was quick and dirty. In a real app, avoid alert and use the Dialog plugin. The service is incredibly simple:
 
 <pre><code class="language-javascript">
 angular.module('appService', [])
@@ -141,7 +141,7 @@ angular.module('appService', [])
 });
 </code></pre>
 
-In the code above, I've added a runtime error to the service that will only be a problem when the user clicks the button. I deployed via the CLI: <code>ionic upload --note="screw up" --deploy="production"</code>. I then clicked the red button, noted the updated in my console, and tried the green button. As expected, clicking the green button will no longer work, and in the console, the error is clearly visible.
+In the code above, I've added a runtime error to the service that will only be a problem when the user clicks the button. I deployed via the CLI: <code>ionic upload --note="screw up" --deploy="production"</code>. I then clicked the red button, noted the update in my console, and tried the green button. As expected, clicking the green button will no longer work, and in the console, the error is clearly visible.
 
 <img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot1-3.png" alt="shot1" width="750" height="286" class="aligncenter size-full wp-image-7408" />
 

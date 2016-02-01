@@ -11,3 +11,14 @@ textarea {
 	width:80%;
 	height:200px;	
 }
+
+#contactform label {
+	display: inline-block;
+	width: 80px;
+	height:25px;
+}
+
+#contactform textarea {
+	width: 100%;
+	height: 150px;
+}
