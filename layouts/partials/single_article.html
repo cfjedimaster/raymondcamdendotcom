@@ -1,5 +1,15 @@
+
 <section id="main">
     <article id="page-undefined" class="article article-type-page" itemscope="" itemprop="blogPost">
+
+		{{ if eq .Type "post" }}
+
+		<p><a href="https://hostek.com/hosting/coldfusion/vps/coldfusion-vps-hosting.html">
+			<img src="/images/ray-ad.jpg" class="centered" style="margin-bottom:10px">
+		</a></p>
+
+		{{ end }}
+
         <div class="article-inner">
             {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
             <img src="{{ .Site.BaseURL }}{{ .Params.banner }}" class="article-banner">
@@ -12,12 +22,8 @@
         </div>
 
     </article>
-	{{ if eq .Type "post" }}
-	
-	<a href="https://hostek.com/hosting/coldfusion/vps/coldfusion-vps-hosting.html">
-		<img src="/images/ray-ad.jpg" class="centered">
-	</a>
-	
+
+	{{ if and (eq .Type "post") (not (isset .Params "nodisqus"))}}	
     <section id="comments">
         <div id="disqus_thread">
             {{ partial "disqus" .}}
