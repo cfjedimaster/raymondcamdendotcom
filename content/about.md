@@ -17,6 +17,7 @@ If you find this information useful, please consider visiting my <a href="http:/
 I have not done a great job of tracking my various articles on other web sites, but I hope to correct that now. Consider the list below a beginning (as of July 2013) and certainly <i>not</i> a complete list.
 
 <ul>
+<li><a href="http://developer.telerik.com/featured/leveling-up-your-javascript/">Leveling Up Your JavaScript</a> for the Telerik Developer Network</li>
 <li><a href="http://developer.telerik.com/featured/review-javascript-error-monitoring-services/">A Review of JavaScript Error Monitoring Services</a> for the Telerik Developer Network</li>
 <li><a href="http://developer.telerik.com/featured/advanced-image-editing-in-the-browser/">Advanced Image Editing in the Browser</a> for the Telerik Developer Network</li>
 <li><a href="http://developer.telerik.com/featured/a-review-of-contenttools-a-rich-content-editor/">A Review of ContentTools – a Rich Content Editor</a> for the Telerik Developer Network</li>

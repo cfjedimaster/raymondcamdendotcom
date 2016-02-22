@@ -9,6 +9,8 @@
 	"guid": "4701"
 }
 
+<strong>Edit on February 19, 2016:</strong> This blog post came up on a [StackOverflow](http://stackoverflow.com/questions/35512739/using-querysort) post today. The code I used in my sort was based on a beta of ColdFusion and will not work in the release or more recent versions. Specifically, my comparator must return 1, 0, or -1, instead of just true and false. See [this answer](http://stackoverflow.com/a/35512880/52160) which talks more about it and shows an example of how you can now do sorting on query objects directly.
+
 Back in May I wrote a <a href="http://www.raymondcamden.com/index.cfm/2012/5/25/Taking-ColdFusion-Closures-all-the-way-to-11">blog entry</a> talking about how impressed I was with closures in ColdFusion 10. This was thanks to <a href="http://www.compoundtheory.com/">Mark Mandel</a> introducing me to the awesome <a href="https://github.com/markmandel/Sesame">Sesame</a> project. For the RIACon keynote I decided to share this and other examples.
 <!--more-->
 I began with a simple example of how arraySort was updated to include closure support. Consider the following example.
