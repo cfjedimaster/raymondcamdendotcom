@@ -26,17 +26,17 @@ basic idea of what's going on, but I'd strongly urge you to go through the [Angu
 You'll also want to peruse the [components](http://ionicframework.com/docs/v2/components) docs. From my quick look through it, things look quite a bit simpler to use, but again, this is still in development. A notable missing component currently is the loading widget. Be sure to notice that the component examples
 give you a quick way to toggle between Android and iOS views, and specifically that Android now has a Material look that is *really* freaking sweet. As an example, here are tabs in iOS:
 
-![iOS Tabs Ionic 2](/images/2016/02/ionic2-2.gif)
+![iOS Tabs Ionic 2](http://static.raymondcamden.com/images/2016/02/ionic2-2.gif)
 
 Now compare it to the Android version:
 
-![Android Tabs Ionic 2](/images/2016/02/ionic2-3.gif)
+![Android Tabs Ionic 2](http://static.raymondcamden.com/images/2016/02/ionic2-3.gif)
 
 That's damn spiffy.
 
 So what's the code like? As I said before, Angular 2 is different. Not bad different, just... *different.*
 
-![Like this...](/images/2016/02/pikacat.jpg)
+![Like this...](http://static.raymondcamden.com/images/2016/02/pikacat.jpg)
 
 While working on my first demo, I ran into things I immediately liked. For example, I love that my "page" template and controller are in a folder nicely packaged together. I could have easily done that in Ionic/Angular1 too I guess, but I like the organization. 
 

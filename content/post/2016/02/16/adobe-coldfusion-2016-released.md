@@ -30,7 +30,7 @@ Another big update is the [API manager](https://helpx.adobe.com/coldfusion/api-m
 
 Finally (and to be clear, I'm just calling out some items I think are interesting), ColdFusion Builder 2016 includes a cool little feature called the Security Analyzer. Right from your editor you can get a scan of your code for common security issues. To be clear, this does *not* replace a real, very deep, security analysis of your code. However, I think it could be really useful for getting some of the simpler stuff out of the way before the real/deeper scan is done later. 
 
-![CFB2016](/images/2016/02/cfb2016.gif)
+![CFB2016](http://static.raymondcamden.com/images/2016/02/cfb2016.gif)
 
 Unfortunately, this feature is tied to your ColdFusion server and only works with ColdFusion Enterprise. I cannot stress enough how much of a mistake I think this is. Yes, you do get 3 copies of CFB 2016 with your purchase, but I can't imagine a ColdFusion team using Enterprise with only three people. I think CFB is worth the price, don't get me wrong, and I say that even though I pretty much despise Eclipse, but I think this upgrade is *not* worth charging for. It should be a free upgrade to CFB. To be clear, *nothing* else changed outside of the syntax library. 
 

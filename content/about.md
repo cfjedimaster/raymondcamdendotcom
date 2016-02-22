@@ -2,7 +2,7 @@
 title = "About Me"
 +++
 
-<img src="http://www.raymondcamden.com/images/ray.jpg" style="float:left;margin-right: 10px"> 
+<img src="http://static.raymondcamden.com/images/ray.jpg" style="float:left;margin-right: 10px"> 
 
 My name is Raymond Camden. I'm a 42 year old married father of six living in beautiful Lafayette, Louisiana. I am a developer advocate for IBM. My primary technical focus is on the MobileFirst platform, web standards and client-side development. Most of my time is spent writing, researching, or presenting. When I'm not behind a computer, I'm an avid XBox/PS4 player, enjoy movies, and read like crazy. 
 

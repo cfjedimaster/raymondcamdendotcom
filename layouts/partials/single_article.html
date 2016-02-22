@@ -5,14 +5,14 @@
 		{{ if eq .Type "post" }}
 
 		<p><a href="https://hostek.com/hosting/coldfusion/vps/coldfusion-vps-hosting.html">
-			<img src="/images/ray-ad.jpg" class="centered" style="margin-bottom:10px">
+			<img src="http://static.raymondcamden.com/images/ray-ad.jpg" class="centered" style="margin-bottom:10px">
 		</a></p>
 
 		{{ end }}
 
         <div class="article-inner">
             {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
-            <img src="{{ .Site.BaseURL }}{{ .Params.banner }}" class="article-banner">
+            <img src="http://static.raymondcamden.com{{ .Params.banner }}" class="article-banner">
             {{ end }}
 
             {{ partial "article_header" . }}

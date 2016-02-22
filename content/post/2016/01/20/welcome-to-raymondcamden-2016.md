@@ -22,6 +22,6 @@ If you do run into anything weird, just drop me a comment below.
 
 And in case you're curious, my first site, before even the blog, looked like this:
 
-![www.deathclock.com/morpheus](/images/2016/01/Raymond_Camden.png)
+![www.deathclock.com/morpheus](http://static.raymondcamden.com/images/2016/01/Raymond_Camden.png)
 
 Don't even ask me what I was thinking about when I chose those colors. 
