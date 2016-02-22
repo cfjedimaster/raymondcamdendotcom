@@ -1,1 +1,0 @@
- camera, device, device orientation, device motion, network information 
