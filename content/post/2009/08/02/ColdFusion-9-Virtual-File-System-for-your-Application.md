@@ -58,7 +58,7 @@ Ok, now for the first test. Here is the index.cfm file I created:
 
 I create a pathname based on the application.rootpath values. I then simply append to it. I load it up in a textarea so I can also see the results. After a few runs, I see this:
 
-<img src="http://www.raymondcamden.com/images/Picture 177.png" />
+<img src="http://static.raymondcamden.com/images/Picture 177.png" />
 
 So that demonstrates simple file reading and writing, but what about an example using cfinclude? As you know, cfinclude can't use a real path. It has to use a relative path or mapping. Remember when we created the mapping? Now we can make use of it:
 
@@ -81,7 +81,7 @@ So that demonstrates simple file reading and writing, but what about an example 
 
 In this example, my virtual file is named test.cfm. It contains CFML code to generate and output a random number from 1 to a 100. The cfinclude tag includes it and executes the CFML I generated. I kept the textarea in so you can see the code saved to the VFS:
 
-<img src="http://www.coldfusionjedi.com/images/Picture 251.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 251.png" />
 
 Woot! Works like a charm, right? I built a super simple VFS dumper and put it in the root of my CF9 install. The code just uses cfdirectory and a dump:
 
@@ -93,7 +93,7 @@ Woot! Works like a charm, right? I built a super simple VFS dumper and put it in
 
 I verified that my demo site was storing it's files within it's own folder:
 
-<img src="http://www.coldfusionjedi.com/images/Picture 334.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 334.png" />
 
 Ok, so now for the final step. Since the VFS is not application based, what's going to happen when my application times out? Nothing! It would be nice if the application cleaned up after itself, right? Check out this simple solution:
 

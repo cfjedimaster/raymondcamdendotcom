@@ -38,7 +38,7 @@ Simple enough, right? Here's what I came up with. Note that I'm using screen sho
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip90.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip90.png" />
 
 <p/>
 
@@ -46,7 +46,7 @@ Once you select  a category, like bar, you get a list of results:
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip91.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip91.png" />
 
 <p/>
 
@@ -54,7 +54,7 @@ And once you click a record, I can show the address, phone number, and a map.
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip93.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip93.png" />
 <p/>
 
 So - here's some issues I'd love some help with:

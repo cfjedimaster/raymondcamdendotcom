@@ -59,7 +59,7 @@ I then used this code in my deviceReady block:
 
 Out the gate, none of this will work. You can see this yourself in your remote inspector:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot110.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot110.png" alt="shot1" width="800" height="427" class="aligncenter size-full wp-image-6203 imgborder" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot110.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/shot110.png" alt="shot1" width="800" height="427" class="aligncenter size-full wp-image-6203 imgborder" /></a>
 
 First, I need to update my CSP to allow a script src at code.jquery.com:
 
@@ -71,7 +71,7 @@ script-src 'self' http://code.jquery.com
 
 Correcting that lets jQuery load - but guess what - there's more:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot23.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot23.png" alt="shot2" width="800" height="427" class="aligncenter size-full wp-image-6204 imgborder" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot23.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/shot23.png" alt="shot2" width="800" height="427" class="aligncenter size-full wp-image-6204 imgborder" /></a>
 
 What's nice is that the error is actually pretty descriptive. In a lot of security things in the browser I've seen things silently fail so this is a big help. It is telling you that you either need to set permission in default-src, or use the policy directive connect-src. connect-src is what you want here and applies to XHR, WebSocket, and EventSource directives. Here is what I added:
 
@@ -83,11 +83,11 @@ So... make sense? Let's get a bit more particular. First off, what happens if yo
 
 See the error? Maybe you don't - that's the point. When running, you will get an error in the console:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot32.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot32.png" alt="shot3" width="800" height="427" class="aligncenter size-full wp-image-6205 imgborder" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot32.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/shot32.png" alt="shot3" width="800" height="427" class="aligncenter size-full wp-image-6205 imgborder" /></a>
 
 I'm shocked - like seriously shocked - how darn helpful that error is. In many cases, I've seen browsers simply "swallow" security issues and say nothing. This one not only noted a syntax issue but pretty much told you exactly how to fix it. In case your curious, Google's Android debug is just as helpful:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot41.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot41.png" alt="shot4" width="800" height="464" class="aligncenter size-full wp-image-6206 imgborder" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot41.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/shot41.png" alt="shot4" width="800" height="464" class="aligncenter size-full wp-image-6206 imgborder" /></a>
 
 Now let me explain why I didn't think this post was necessary. I had read about the changes, but did not think they applied by default. I was confused because I explicitly do not use the default Cordova template. Since my template did not include a CSP tag, it didn't effect me! So I began to check on this and look at the different permutations.
 

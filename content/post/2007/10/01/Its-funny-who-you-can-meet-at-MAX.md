@@ -11,4 +11,4 @@
 
 Meet my new friend...
 
-<img src="http://www.raymondcamden.com/images/bono2.jpg">
+<img src="http://static.raymondcamden.com/images/bono2.jpg">

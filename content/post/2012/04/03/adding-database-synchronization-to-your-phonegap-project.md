@@ -56,11 +56,11 @@ You can find the code for this simple application attached to this blog entry. B
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip63.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip63.png" class="imgborder" />
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip64.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip64.png" class="imgborder" />
 
 <p>
 
@@ -85,7 +85,7 @@ Since the actual display is rather trivial, I'll show the HTML for the applicati
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -100,7 +100,7 @@ Since the actual display is rather trivial, I'll show the HTML for the applicati
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -108,7 +108,7 @@ Yeah, that's it. Obviously a real application would have a bit more meat to it. 
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 var db;
 //var updateurl = "http://localhost/testingzone/dbsyncexample/serverbackend/service.cfc?method=getupdates&returnformat=json";
 var updateurl = "http://www.raymondcamden.com/demos/2012/apr/3/serverbackend/service.cfc?method=getupdates&returnformat=json";
@@ -116,7 +116,7 @@ var updateurl = "http://www.raymondcamden.com/demos/2012/apr/3/serverbackend/ser
 function init() {
 	document.addEventListener("deviceready",startup);
 }
-</code>
+</code></pre>
 
 <p>
 
@@ -124,13 +124,13 @@ In the first block, we've got a few variable definitions. The db variable will c
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 function startup() {
 	console.log("Starting up...");
 	db = window.openDatabase("main","1","Main DB",1000000);
 	db.transaction(initDB,dbError,dbReady);
 }
-</code>
+</code></pre>
 
 <p>
 
@@ -142,12 +142,12 @@ Here's the error handler. Again - this would typically be more robust in a produ
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 function dbError(e) {
 	console.log("SQL ERROR");
 	console.dir(e);
 }
-</code>
+</code></pre>
 
 <p>
 
@@ -155,11 +155,11 @@ Now let's look at initDB:
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 function initDB(tx) {
 	tx.executeSql("create table if not exists docs(id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT, body TEXT, lastupdated DATE, token TEXT)");
 }
-</code>
+</code></pre>
 
 <p>
 
@@ -175,14 +175,14 @@ After our table creation script runs, we finally get to dbReady:
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 function dbReady() {
 	console.log("DB initialization done.");
 	//begin sync process
 	if(navigator.network && navigator.network.connection.type != Connection.NONE) syncDB();
 	else displayDocs();
 }
-</code>
+</code></pre>
 
 <p>
 
@@ -194,10 +194,10 @@ Ok - now for the complex portion. Let's look at our synchronization function.
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 function syncDB() {
 	$("#docs").html("Refreshing documentation...");
-</code>
+</code></pre>
 
 <p>
 
@@ -205,19 +205,19 @@ I begin with a simple message letting the user know that important things are go
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 	var date = localStorage["lastdate"]?localStorage["lastdate"]:'';
 	console.log("Will get items after "+date);
-</code>
+</code></pre>
 
 Local storage? I thought we were using a database? We are! But there's no reason we can't use both. While working on this proof of concept I had an interesting problem. I want to minimize the amount of data going back and forth between the application and the server. To do that, my application needs to tell the server what its most recent update was. One way of doing that would be run SQL against itself and get the date on the last updated document. That works fine... except for deletes. If the most recent update on the server was to delete something, then the client's most recent date wouldn't match. As I said above, we aren't keeping those deleted records. So as a compromise, I simply used a value in localStorage. Later on you will see where this gets updated.
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 	$.get(updateurl, {date:date}, function(resp,code) {
 		console.log("back from getting updates with "+resp.length + " items to process.");
-</code>
+</code></pre>
 
 <p>
 
@@ -225,32 +225,32 @@ Here's our server call. It basically pings the remote code and passes in a date.
 
 <p>
 
-<code>
-        resp.forEach(function(ob) {
-            db.transaction(function(ctx) {
-                ctx.executeSql("select id from docs where token = ?", [ob.token], function(tx,checkres) {
-                    if(checkres.rows.length) {
-                        console.log("possible update/delete");
-                        if(!ob.deleted) {
-                            console.log("updating "+ob.title+ " "+ob.lastupdated);
-                            tx.executeSql("update docs set title=?,body=?,lastupdated=? where token=?", [ob.title,ob.body,ob.lastupdated,ob.token]);
-                        } else {
-                            console.log("deleting "+ob.title+ " "+ob.lastupdated);
-                            tx.executeSql("delete from docs where token = ?", [ob.token]);
-                        }
-                    } else {
-                        //only insert if not deleted
-                        console.log("possible insert");
-                        if(!ob.deleted) {
-                            console.log("inserting "+ob.title+ " "+ob.lastupdated);
-                            tx.executeSql("insert into docs(title,body,lastupdated,token) values(?,?,?,?)", [ob.title,ob.body,ob.lastupdated,ob.token]);
-                        }
-                    }
+<pre><code class="language-javascript">
+resp.forEach(function(ob) {
+	db.transaction(function(ctx) {
+		ctx.executeSql("select id from docs where token = ?", [ob.token], function(tx,checkres) {
+			if(checkres.rows.length) {
+				console.log("possible update/delete");
+				if(!ob.deleted) {
+					console.log("updating "+ob.title+ " "+ob.lastupdated);
+					tx.executeSql("update docs set title=?,body=?,lastupdated=? where token=?", [ob.title,ob.body,ob.lastupdated,ob.token]);
+				} else {
+					console.log("deleting "+ob.title+ " "+ob.lastupdated);
+					tx.executeSql("delete from docs where token = ?", [ob.token]);
+				}
+			} else {
+				//only insert if not deleted
+				console.log("possible insert");
+				if(!ob.deleted) {
+					console.log("inserting "+ob.title+ " "+ob.lastupdated);
+					tx.executeSql("insert into docs(title,body,lastupdated,token) values(?,?,?,?)", [ob.title,ob.body,ob.lastupdated,ob.token]);
+				}
+			}
 
-                });
-            });
-        });
-</code>
+		});
+	});
+});
+</code></pre>
 
 <p>
 
@@ -262,9 +262,9 @@ If a record exists, then we either need to update it, or delete it. Remember tha
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 if(!ob.deleted)
-</code>
+</code></pre>
 
 <p>
 
@@ -280,7 +280,7 @@ Finally - we update our localStorage flag and call displayDocs too. Here's the d
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 function displayDocs() {
     db.transaction(function(tx) {
         tx.executeSql("select title from docs order by title asc", [], function(tx, results) {
@@ -292,8 +292,10 @@ function displayDocs() {
         });
     });
 }
-</code>
+</code></pre>
 
 <p>
 
-The end result is an application that updates its data when online and continues to work fine offline. You can download the entire code base below. Any questions?<p><a href='/enclosures/dbsyncexample.zip'>Download attached file.</a></p>
+The end result is an application that updates its data when online and continues to work fine offline. You can download the entire code base below. Any questions?
+<p>
+<a href='http://static.raymondcamden.com/enclosures/dbsyncexample.zip'>Download attached file.</a></p>

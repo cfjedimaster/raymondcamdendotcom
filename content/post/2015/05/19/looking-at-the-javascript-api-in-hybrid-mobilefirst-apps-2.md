@@ -36,7 +36,7 @@ $scope.clearBadge = function(e) {
 
 Here is a screen shot of the icon updated:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-2.59.25-PM.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-2.59.25-PM.png" alt="iOS Simulator Screen Shot May 19, 2015, 2.59.25 PM" width="423" height="750" class="aligncenter size-full wp-image-6168" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-2.59.25-PM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-2.59.25-PM.png" alt="iOS Simulator Screen Shot May 19, 2015, 2.59.25 PM" width="423" height="750" class="aligncenter size-full wp-image-6168" /></a>
 
 Unfortunately, it appears as if iOS 8 has new requirements for apps that try to add badges. In my testing with the iOS 8.X simulator, I got an error in my console stating that permission was required for this action. I'll try to get back to this later, but for now, keep that in mind.
 
@@ -63,12 +63,12 @@ The options you see above are just some of the options, mainly the ones I was cu
 
 Here is how the indicator looks in iOS:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-3.12.42-PM.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-3.12.42-PM.png" alt="iOS Simulator Screen Shot May 19, 2015, 3.12.42 PM" width="423" height="750" class="aligncenter size-full wp-image-6169" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-3.12.42-PM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-3.12.42-PM.png" alt="iOS Simulator Screen Shot May 19, 2015, 3.12.42 PM" width="423" height="750" class="aligncenter size-full wp-image-6169" /></a>
 
 I think it looks nice, outside of the red text which I specifically asked for. (Remember, I'm where good design goes to die.)
 
 And here it is in Android.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/device-2015-05-19-151454.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/device-2015-05-19-151454.png" alt="device-2015-05-19-151454" width="422" height="750" class="aligncenter size-full wp-image-6170" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/device-2015-05-19-151454.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/device-2015-05-19-151454.png" alt="device-2015-05-19-151454" width="422" height="750" class="aligncenter size-full wp-image-6170" /></a>
 
 That's it for today. As a reminder, if you want to see <i>all</i> of the hybrid API, check out the <a href="http://ibmmobile.info/ClientSideAPI">client-side API</a> docs.

@@ -12,7 +12,7 @@
 
 Well, this took a bit longer than I expected, but the <strong>final</strong> version of my <a href="https://www.manning.com/books/apache-cordova-in-action">Apache Cordova in Action</a> book is for sale! 
 
-<a href="https://www.manning.com/books/apache-cordova-in-action"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/Camden-Apache-HI.jpg" alt="Camden-Apache-HI" width="255" height="320" class="aligncenter size-full wp-image-7007 imgborder" /></a>
+<a href="https://www.manning.com/books/apache-cordova-in-action"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/Camden-Apache-HI.jpg" alt="Camden-Apache-HI" width="255" height="320" class="aligncenter size-full wp-image-7007 imgborder" /></a>
 
 This book was incredibly difficult to write at times. I really hope that it helps people learn (and love) Apache Cordova. Please check it out and let me know what you think!
 

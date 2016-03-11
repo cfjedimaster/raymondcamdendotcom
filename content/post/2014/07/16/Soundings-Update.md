@@ -14,7 +14,7 @@ So hey, remember I built an open source ColdFusion survey application? This morn
 </p>
 <!--more-->
 <p>
-<img src="http://www.raymondcamden.com/images/Survey__Test.png" />
+<img src="http://static.raymondcamden.com/images/Survey__Test.png" />
 </p>
 
 <p>

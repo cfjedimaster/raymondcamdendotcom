@@ -9,7 +9,7 @@
 	"guid": "3390"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi//charlie.jpg" align="left" style="margin-right:10px;margin-bottom:10px;"> Just a quick note to point out tomorrow's meeting of the ColdFusion Online Meetup. Charlie Arehart will be presenting on: "Introducing the Adobe ColdFusion Extensions for Eclipse". More details may be found at his <a href="http://www.carehart.org/blog/client/index.cfm/2009/6/9/am_speaking_on_meetup_Adobe_Eclipse_CF_Extensions">blog post</a>.
+<img src="http://static.raymondcamden.com/images/cfjedi//charlie.jpg" align="left" style="margin-right:10px;margin-bottom:10px;"> Just a quick note to point out tomorrow's meeting of the ColdFusion Online Meetup. Charlie Arehart will be presenting on: "Introducing the Adobe ColdFusion Extensions for Eclipse". More details may be found at his <a href="http://www.carehart.org/blog/client/index.cfm/2009/6/9/am_speaking_on_meetup_Adobe_Eclipse_CF_Extensions">blog post</a>.
 
 As Charlie makes clear, this is <b>not</b> about CFEclipse. I think a lot of people forgot that Adobe released a set of tools for Eclipse. These aren't a duplicate of CFEclipse, but are totally different tools. I know my Eclipse install has both CFEclipse and the Adobe ColdFusion Extensions. If you've never installed these, or maybe thought CFEclipse by itself wasn't enough to move you from HomeSite or Dreamweaver, please check this session out. 
 

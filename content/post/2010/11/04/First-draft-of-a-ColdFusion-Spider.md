@@ -100,4 +100,4 @@ That's it - I've included a zip of the CFC and test below if you want to see the
 
 
 
-<img src="http://www.raymondcamden.com/images/screen38.png" /><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Ftest2%2Ezip'>Download attached file.</a></p>
+<img src="http://static.raymondcamden.com/images/screen38.png" /><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Ftest2%2Ezip'>Download attached file.</a></p>

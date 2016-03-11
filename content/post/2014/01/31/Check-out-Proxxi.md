@@ -14,7 +14,7 @@ Proxxi is a neat little social networking app built by my coworkers <a href="htt
 </p>
 <!--more-->
 <p>
-<img src="http://www.raymondcamden.com/images/p1.jpg" />
+<img src="http://static.raymondcamden.com/images/p1.jpg" />
 </p>
 
 <p>
@@ -37,7 +37,7 @@ You can read more about the stack over at <a href="http://coenraets.org/blog/201
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/p2.jpg" />
+<img src="http://static.raymondcamden.com/images/p2.jpg" />
 </p>
 
 <p>

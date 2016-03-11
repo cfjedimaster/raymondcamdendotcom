@@ -90,7 +90,7 @@ Notice I escape month since it is a reserved word in query of query. Now I creat
 Notice that I loop over my getMonths query, and for each month, I get a set of data for that month. I then supply that query to the chartseries tag. So far so good, but what happens when you view the chart?
 
 
-<img src="http://www.raymondcamden.com/images/Picture%2016.png">
+<img src="http://static.raymondcamden.com/images/Picture%2016.png">
 
 That can't be right. In cases where we don't have data, the bars don't match at all. Unfortunately, I've seen this before. The cfchart support in ColdFusion sometimes seems to get confused by missing values. The only way to fix this is to 'complete' the data and ensure you always have a value for each month and each user. This could be done in SQL, but since my data was fake, I fixed it manually like so:
 
@@ -117,7 +117,7 @@ That can't be right. In cases where we don't have data, the bars don't match at 
 
 When run, we now get the correct chart:
 
-<img src="http://www.coldfusionjedi.com/images/Picture%2024.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture%2024.png">
 
 And lastly, here is the complete template.
 

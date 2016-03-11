@@ -90,7 +90,7 @@ Here's an example:
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip47.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip47.png" />
 
 <p/>
 
@@ -122,7 +122,7 @@ Put together, I've got a nice demo application that lets you test this API again
 
 <p/>
 
-<a href="http://www.raymondcamden.com/demos/2012/mar/19/15_validationapi.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/mar/19/15_validationapi.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p/>
 
@@ -194,4 +194,4 @@ Obviously one could do something a bit more complex here. You're options are pre
 <p/>
 
 
-<a href="http://www.raymondcamden.com/demos/2012/mar/19/16_validationapi2.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/mar/19/16_validationapi2.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

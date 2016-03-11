@@ -82,7 +82,7 @@ The first thing we want to look at is how we could localize some of the static c
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/shot11.png" />
+<img src="http://static.raymondcamden.com/images/shot11.png" />
 
 <p>
 
@@ -90,7 +90,7 @@ In this screen capture, the "Product Search" is a title and would - most likely 
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/shot2.png" />
+<img src="http://static.raymondcamden.com/images/shot2.png" />
 
 <p>
 
@@ -192,7 +192,7 @@ Ok, with me so far? We aren't quite done yet. These modification work to update 
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/shot31.png" />
+<img src="http://static.raymondcamden.com/images/shot31.png" />
 
 <p>
 
@@ -410,7 +410,7 @@ You can demo this here...
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/2012/feb/15/v3/"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/feb/15/v3/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

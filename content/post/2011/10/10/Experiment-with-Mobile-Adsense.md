@@ -16,7 +16,7 @@ Before working with Adsense for Mobile, you have to actually have an Adsense acc
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip198.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip198.png" />
 
 <p/>
 
@@ -24,7 +24,7 @@ I had mobile here originally, and clicking on it was a two step process to enabl
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip199.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip199.png" />
 
 <p/>
 
@@ -33,7 +33,7 @@ These options mirror the same choices you get for regular desktop ads. Since I o
 <p/>
 
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip200.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip200.png" />
 
 <p/>
 
@@ -41,7 +41,7 @@ Note the Device type drop down. This has two options: "iPhones and other highend
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip201.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip201.png" />
 
 <p/>
 
@@ -71,7 +71,7 @@ That's my own code there but you can feel free to use it with your own sites. ;)
 <p/>
 
 
-<img src="http://www.coldfusionjedi.com/images/device-2011-10-10-081859.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device-2011-10-10-081859.png" />
 
 <p/>
 
@@ -79,7 +79,7 @@ The ad choices seem a bit limited. There you can see it is a Google ad. I've see
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/device21.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device21.png" />
 
 <p/>
 

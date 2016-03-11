@@ -20,7 +20,7 @@ I began by creating a simple animation of a box moving from left to right. That 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/sho11.png" />
+<img src="http://static.raymondcamden.com/images/sho11.png" />
 </p>
 
 <p>

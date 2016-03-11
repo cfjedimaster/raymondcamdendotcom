@@ -20,7 +20,7 @@ By using the debug data, one could discover, perhaps, that it's one particular q
 
 Normally this debug information is crapped at the bottom of the page. Firebug and ColdFire make it prettier. Here's an example from the Firebug version:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip111.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip111.png" />
 
 I had previously written a basic extension to create a panel (see <a href="http://www.raymondcamden.com/index.cfm/2012/7/15/How-to-add-a-panel-to-Chrome-Dev-Tools">this blog entry</a>) and then some code to actually update the panel (see <a href="http://www.raymondcamden.com/index.cfm/2012/8/3/How-to-update-the-DOM-in-a-Chrome-Extension-Panel">this blog entry</a>). Now I needed to actually take the debug data returned by the server and render it the Chrome DevTools panel.
 
@@ -36,12 +36,12 @@ For folks who want to try this out, you can download the bits at the end of this
 
 Hey - how about some screen shots? Sure, why not. Here is the General tab:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip112.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip112.png" />
 
 And here is Exec Times - make note of the total times at the bottom. It calls out how much of an impact the database had on the request as well as component calls. 
 
-<img src="http://www.raymondcamden.com/images/ScreenClip113.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip113.png" />
 
 And then finally - the db queries. Note the horrible SQL I wrote to create a cross join. Oddly it still ran incredibly fast.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip114.png" /><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fcoldfire%2Ezip'>Download attached file.</a></p>
+<img src="http://static.raymondcamden.com/images/ScreenClip114.png" /><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fcoldfire%2Ezip'>Download attached file.</a></p>

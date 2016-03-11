@@ -19,7 +19,7 @@ Let me begin by talking about the application's features. When the application s
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip124.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip124.png" />
 
 <p/>
 
@@ -74,7 +74,7 @@ There's a bit going on here, but pay particular attention to the dataProvider. I
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip125.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip125.png" />
 
 <p/>
 
@@ -157,7 +157,7 @@ Let's look at the detail now for the art work. When you click one of the results
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip126.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip126.png" />
 
 <p/>
 

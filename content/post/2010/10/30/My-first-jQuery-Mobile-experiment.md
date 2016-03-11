@@ -50,7 +50,7 @@ Each page consists of one div with an optional header, content, and footer. This
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/Capture20.PNG" />
+<img src="http://static.raymondcamden.com/images/Capture20.PNG" />
 
 <p>
 
@@ -229,7 +229,7 @@ You can see this in action by clicking the big ole demo button below. I tested i
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/mobileart"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/mobileart"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

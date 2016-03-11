@@ -19,15 +19,15 @@ Anyway, this past week Google announced the beta release of a new version of <a 
 
 First off, it was a bit hard for me to actually find the beta download. You can find it <a href="http://tools.android.com/download/studio/canary">here</a> on Android Studio's Canary channel. I downloaded and installed the bits. I fired up the app and went to Tools/Android/AVD Manager. 
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/11/shot16.png" alt="shot1" width="750" height="444" class="aligncenter size-full wp-image-7141" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot16.png" alt="shot1" width="750" height="444" class="aligncenter size-full wp-image-7141" />
 
 I had one pre-existing AVD that was marked as needing repairing, so to make things easy I just deleted it and created a new one. Over all, the UI is a bit refresher and easier to use, but I pretty much just took defaults for my new device.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/11/shot23.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/11/shot23.png" alt="shot2" width="750" height="303" class="aligncenter size-full wp-image-7142" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/11/shot23.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot23.png" alt="shot2" width="750" height="303" class="aligncenter size-full wp-image-7142" /></a>
 
 Anyway, I then dropped down to the CLI, made a new Cordova project, added Android, and told Cordova to emulate it. Surprise surprise, the new emulator popped up just fine. I suppose that is to be expected, but it was nice to see it work well.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/11/shot33.png" alt="shot3" width="417" height="750" class="aligncenter size-full wp-image-7143" /> 
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot33.png" alt="shot3" width="417" height="750" class="aligncenter size-full wp-image-7143" /> 
 
 The first launch is still not exactly speedy compared to iOS, but as I've seen it take 5 or so minutes in the past, it was a heck of a lot faster. The second launch was really speedy - I'd say less then 10 seconds - on par with Genymotion. (I haven't done scientific testing, but I figure once you get below 10 seconds, it doesn't much matter.) Genymotion though has additional benefits on top of the simulator though so you still want to check it out. 
 

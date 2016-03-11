@@ -41,7 +41,7 @@ Ok - so let's talk about the application. My demo application is called SimpleNo
 <p/>
 
 
-<img src="http://www.raymondcamden.com/images/cfjedi/device-2011-10-20-091716.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device-2011-10-20-091716.png" />
 
 <p/>
 
@@ -49,7 +49,7 @@ You can click a note to edit it, or simply click Add Note.
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/device-2.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device-2.png" />
 
 <p/>
 

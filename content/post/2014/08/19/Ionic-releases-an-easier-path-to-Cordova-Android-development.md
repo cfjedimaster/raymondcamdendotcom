@@ -63,7 +63,7 @@ If you expanded the image zip to /Users/ray/Downloads/ionic-cordova-android-vagr
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/vagrant.png" />
+<img src="http://static.raymondcamden.com/images/vagrant.png" />
 </p>
 
 <p>

@@ -13,7 +13,7 @@ Hi everyone. First off - for those who celebrate it, I hope today is a wonderful
 <!--more-->
 <p/>
 
-<img src="http://www.raymondcamden.com/images/12.jpg"  />
+<img src="http://static.raymondcamden.com/images/12.jpg"  />
 
 <p/>
 
@@ -27,7 +27,7 @@ China is - incredible. In ways it reminds of something out of a science fiction 
 
 Of course, there is great beauty too. In Beijing we visited Tiananmen Square, the Forbidden City, and the Great Wall as well. 
 
-<img src="http://www.raymondcamden.com/images/32.jpg" />
+<img src="http://static.raymondcamden.com/images/32.jpg" />
 
 <p/>
 
@@ -35,7 +35,7 @@ Visiting these sites was truly awe inspiring. Again, you aren't truly prepared f
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/51.jpg" />
+<img src="http://static.raymondcamden.com/images/51.jpg" />
 
 <p/>
 
@@ -47,7 +47,7 @@ We spent a few days in Nanchang before eventually flying to Guangzhou. Guangzhou
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/6.jpg" />
+<img src="http://static.raymondcamden.com/images/6.jpg" />
 
 <p/>
 

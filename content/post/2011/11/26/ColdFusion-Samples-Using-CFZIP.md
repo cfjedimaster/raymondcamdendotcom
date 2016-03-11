@@ -18,7 +18,7 @@ I've built a small web application that allows you to upload image.
 <p>
 
  
-<img src="http://www.raymondcamden.com/images/ScreenClip237.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip237.png" />
 
 <p>
 
@@ -155,7 +155,7 @@ Consider the template as two halves. The bottom half simply handles outputting t
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip238.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip238.png" />
 
 Let's focus more on the top portion. First, we wrap our main handling code in a check for an actual file upload. If the form was submitted and nothing was uploaded, we could provide an error. (In fact, you can see where I made use of an error display in the bottom half, but I ended up not bothering creating any errors.) I send the upload to a temp directory <b>outside of web root</b>. Hopefully we all know why. 
 

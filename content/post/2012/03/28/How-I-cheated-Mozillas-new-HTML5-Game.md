@@ -18,7 +18,7 @@ So first - some context. Yesterday Mozilla announced the launch of <a href="http
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip55.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip55.png" />
 
 <p>
 
@@ -26,7 +26,7 @@ Simply connect to the site, enter a name, cross your fingers (it is a bit overwh
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip56.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip56.png" />
 
 <p>
 
@@ -38,7 +38,7 @@ I played it for a bit (research!) and noticed right away that they were using Lo
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip57.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip57.png" />
 
 <p>
 
@@ -80,7 +80,7 @@ Reloaded the page, and voila - I'm an Epic Avenger of Mighty Awesomeness:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip58.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip58.png" />
 
 <p>
 

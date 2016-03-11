@@ -110,4 +110,4 @@ It's not the most scientific method, but it seems to work well in my testing. Ch
 
 <p/>
 
-<a href="http://www.raymondcamden.com/demos/2012/jan/23/test.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/jan/23/test.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

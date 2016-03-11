@@ -18,7 +18,7 @@ In case you're curious, here is an example. I searched my test directory for cfq
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Adobe_Dreamweaver_CC_2014.png" />
+<img src="http://static.raymondcamden.com/images/Adobe_Dreamweaver_CC_2014.png" />
 </p>
 
 <p>
@@ -30,7 +30,7 @@ I did a quick search and was able to find an Eclipse plugin that has similar fun
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ss6.png" />
+<img src="http://static.raymondcamden.com/images/ss6.png" />
 </p>
 
 <p>
@@ -38,7 +38,7 @@ The change wasn't immediately obvious (hence me adding a big arrow to the screen
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_6_26_14__9_22_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_6_26_14__9_22_AM.png" />
 </p>
 
 <p>

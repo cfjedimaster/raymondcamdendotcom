@@ -22,7 +22,7 @@ Every day is a chance to start anew. Every day is a new beginning. While trite, 
 I mean serious, what do these two things have in common?
 <p>
 
-<img src="http://www.raymondcamden.com/images//phcf.jpg">
+<img src="http://static.raymondcamden.com/images//phcf.jpg">
 <p>
 
 Let's be honest. I'm whoring my blog for Google AdSense. Does that help the community? No. From now on, I'll use serious variable names. All variable names will use East Hungarian Pre-WW1 Variable Name Scheme Rules (Rv. 2). Example:
@@ -36,7 +36,7 @@ Let's be honest. I'm whoring my blog for Google AdSense. Does that help the comm
 (By the way, that outputs "Hello World", but we all knew that, right?)
 <p>
 
-<img src="http://www.coldfusionjedi.com/images//stormtrooper_lincoln_Mike_Mitchell_500.jpg" align="left">
+<img src="http://static.raymondcamden.com/images/cfjedi//stormtrooper_lincoln_Mike_Mitchell_500.jpg" align="left">
 2) No more talking about Star Wars. Star Wars is for <b>kids</b>, not grown men. I'm clearing my room of all Star Wars toys and replacing them with copies of Ayn Rand books and tag posters. Also, in relation to rule #1 above, no more using Star Wars planets for code samples. It's stupid. I shall have <a href="http://www.coldfusionjedi.com/images/tat.jpg">this</a> stupid thing lasered off my body at my earliest convenience. And as for ColdFusion Jedi? Seriously? How long have you guys been laughing at me. Am I four years old?
 
 <br clear="left">
@@ -51,7 +51,7 @@ Let's be honest. I'm whoring my blog for Google AdSense. Does that help the comm
 5) A casual dress implies a casual mind. No more working in shorts and a tee shirt (with optional shoes). Today I begin my official, and daily, new dress code...
 <p>
 
-<img src="http://www.coldfusionjedi.com/images//tux.JPG">
+<img src="http://static.raymondcamden.com/images/cfjedi//tux.JPG">
 <p>
 
 6) And finally, no more going hyper over the 'lastest' cool thing. If you follow my Twitter and this blog, you know a typical day for me is something like this:

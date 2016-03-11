@@ -22,7 +22,7 @@ When he told me about this I was a bit skeptical that it would work well. Covers
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/unnamed.jpg" />
+<img src="http://static.raymondcamden.com/images/unnamed.jpg" />
 </p>
 
 <p>
@@ -30,7 +30,7 @@ If it looks cool, you double click on the desktop and it comes into focus.
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/unnamed2.jpg" />
+<img src="http://static.raymondcamden.com/images/unnamed2.jpg" />
 </p>
 
 <p>

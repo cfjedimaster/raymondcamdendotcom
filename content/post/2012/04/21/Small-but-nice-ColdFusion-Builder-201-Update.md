@@ -25,4 +25,4 @@ One of the most critical features of ColdFusion Builder, in my opinion, has been
 
 And finally - and this one I think is not mentioned in the docs - your extensions can now work with non-CFM/CFC files. I think that's a big one and it really opens up the possibilities with extensions.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip71.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip71.png" />

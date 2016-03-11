@@ -17,17 +17,17 @@ My reader was having an issue with the uploader where files were being processed
 
 First off - the Flash network call was a POST but it was not rendered properly in Chrome dev tools. Chrome actually showed the POST but the response wasn't displayed:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip104.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip104.png" />
 
 Firebug didn't even render the request. So I switched to a lower-level tool I like - <a href="http://www.charlesproxy.com/">Charles</a>. I've often used Charles (and <a href="http://kevinlangdon.com/serviceCapture/">ServiceCapture</a>) for Flash and Flex-based applications since it does a real good job of handling those applications.
 
 Charles monitors pretty much every network request on your box so the first thing you want to do is click Proxy/Recording Settings , go to the Include tab and enter a new record for your testing site. This makes it a lot easier to keep track of the network requests you care about. 
 
-<img src="http://www.raymondcamden.com/images/ScreenClip105.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip105.png" />
 
 I then simply switched over to the browser, uploaded a file via the Flash app, and then popped back into Charles. I selected the individual request and then the Response tab. This is the real result and I bet you can see the error right away:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip106.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip106.png" />
 
 Yep - extra HTML comments from the server side code (see note for ColdFusion folks below) breaking the JSON. In this case, it was something emitted from earlier in his code in a completely different file but executed during the request. 
 

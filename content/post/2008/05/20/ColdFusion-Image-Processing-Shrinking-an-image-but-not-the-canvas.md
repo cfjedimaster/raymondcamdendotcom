@@ -41,4 +41,4 @@ Lastly, all you do is paste the shrunken image over the blank canvas we just mad
 
 Here is the final result: 
 
-<img src="http://www.raymondcamden.com/images/imgs.png">
+<img src="http://static.raymondcamden.com/images/imgs.png">

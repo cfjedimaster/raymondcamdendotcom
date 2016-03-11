@@ -42,7 +42,7 @@ function fubar(data) {
 
 I've created a simple structure with one key. I've created a UDF that changes the value and returns a 'new' struct (right?). But look at what the dumps show:
 
-<img src="http://www.raymondcamden.com/images//Picture 410.png">
+<img src="http://static.raymondcamden.com/images//Picture 410.png">
 
 Fail! Luckily enough it is easy to fix: 
 
@@ -76,7 +76,7 @@ function fubar2(data) {
 
 I've got an array with 3 values. Values 1 and 3 are strings, value 2 is a structure. My new UDF, fubar2, changes all 3 values. And the result?
 
-<img src="http://www.coldfusionjedi.com/images//Picture 53.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 53.png">
 
 As you can see, the simple values weren't changed in the original, but the embedded structure was. As before, using a duplicate around 'a' would solve the problem.
 

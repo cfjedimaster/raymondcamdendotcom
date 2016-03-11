@@ -15,7 +15,7 @@ How do developers keep up with the latest updates from the <a href="http://cordo
 </p>
 <!--more-->
 <p>
-<img src="http://www.raymondcamden.com/images/Apache_Cordova1.png" />
+<img src="http://static.raymondcamden.com/images/Apache_Cordova1.png" />
 </p>
 
 <p>

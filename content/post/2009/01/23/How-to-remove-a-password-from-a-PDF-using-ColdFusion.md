@@ -26,11 +26,11 @@ This is the PDF that I'll protect. My bank atm is 5318008.
 This code makes a simple one line PDF, adds the password 'paris', and encrypts the document. I then serve it up witha filename of foo. Here is a quick screen shot of how it comes out in Preview (btw Mac users, you definitely want to assign Preview for PDF files and not Acrobat):
 
 <b>Before the password...</b><br/>
-<img src="http://www.raymondcamden.com/images//Picture 133.png">
+<img src="http://static.raymondcamden.com/images//Picture 133.png">
 
 <b>After the password...</b><br/>
 
-<img src="http://www.coldfusionjedi.com/images//Picture 219.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 219.png">
 
 Alright, so that's how we can create the password protected PDF, but how do we remove the password? Well I began by trying to use various combinations of cfpdf attributes. I tried to set newUserPassword to a blank string, but that returned an error. I tried setting encrypt to None, which is documented, but was told I didn't have permission. (This was after opening the PDF using the password option which worked just fine.) I spent a good hour just playing around and no combination worked for me. 
 

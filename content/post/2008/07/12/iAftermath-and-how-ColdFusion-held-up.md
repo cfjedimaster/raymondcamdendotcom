@@ -37,7 +37,7 @@ This was thrown by the scopecache tag, and I was a bit surprised by this. All I 
 
 Although really - how big was the load? My views for the entry were around 15,000 last night, but the views count is a bit low compared to actual page count. A lot of folks were sitting there, reloading, posting new comments. I use the Session scope to remember which entries you have viewed, and I only increase the view count once per session. I checked Google Analytics this morning. Check out the spike:
 
-<img src="http://www.coldfusionjedi.com/images/Picture 34.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 34.png">
 
 Even with that spike though, my page views were only at 22,000. That's 660,000 page views per month. I used to run <a href="http://www.deathclock.com">DeathClock.com</a> on a shared host with ColdFusion 5 and get 4 million hits per month. Oh, and that was with <i>Access</i> as a database. (Because I was cheap!)
 

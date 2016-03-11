@@ -43,7 +43,7 @@ Notice the very first method, badboy, returns a TR tag. This is perfectly valid 
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/screen50.png" />
+<img src="http://static.raymondcamden.com/images/screen50.png" />
 
 <p/>
 
@@ -51,7 +51,7 @@ As you can see, it stops at badboy and doesn't render anything past that. If we 
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/screen51.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen51.png" />
 
 <p/>
 

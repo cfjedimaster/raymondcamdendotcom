@@ -13,4 +13,4 @@ Pardon the brief, probably overly dramatic title, but I wanted to get your atten
 
 And yes - the blue arrow is his house:
 
-<img src="http://www.raymondcamden.com/images/aw.jpg" />
+<img src="http://static.raymondcamden.com/images/aw.jpg" />

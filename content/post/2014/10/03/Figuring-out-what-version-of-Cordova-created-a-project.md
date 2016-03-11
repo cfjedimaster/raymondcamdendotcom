@@ -27,7 +27,7 @@ You can determine what version was used for your platforms by typing <code>cordo
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s125.png" />
+<img src="http://static.raymondcamden.com/images/s125.png" />
 </p>
 
 <p>
@@ -35,7 +35,7 @@ And of course the same can be done for plugins:
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s220.png" />
+<img src="http://static.raymondcamden.com/images/s220.png" />
 </p>
 
 <p>

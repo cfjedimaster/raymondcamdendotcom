@@ -57,5 +57,5 @@ Ninja cat provided for no good reason.
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Ninja_cat.jpg" />
+<img src="http://static.raymondcamden.com/images/Ninja_cat.jpg" />
 </p>

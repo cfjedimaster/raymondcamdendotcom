@@ -175,4 +175,4 @@ As you can see, I've added a simple query on top. I then replaced the 2nd-N slid
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/aug82011/preso/index.cfm"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/aug82011/preso/index.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

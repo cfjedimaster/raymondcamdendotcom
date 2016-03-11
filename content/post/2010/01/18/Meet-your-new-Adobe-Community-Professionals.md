@@ -13,4 +13,4 @@ Today Liz Frederick <a href="http://lizfrederick.blogspot.com/2010/01/new-acps-f
 
 I've been part of this group, in it's various incarnations, for <i>many</i> years. In fact, I think my only 'break' was when I was actually hired by Allaire. The original group was known as Team Allaire, and while my jogging shorts finally bit the bullet last year, the watch has survived:
 
-<img src="http://www.raymondcamden.com/images/watch1.jpg" />
+<img src="http://static.raymondcamden.com/images/watch1.jpg" />

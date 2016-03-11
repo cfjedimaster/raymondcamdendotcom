@@ -79,4 +79,4 @@ p.s. I'll use this blog entry as another excuse to recommend <a href="http://col
 
 
 
-<img src="http://www.raymondcamden.com/images//Picture 121.png">
+<img src="http://static.raymondcamden.com/images//Picture 121.png">

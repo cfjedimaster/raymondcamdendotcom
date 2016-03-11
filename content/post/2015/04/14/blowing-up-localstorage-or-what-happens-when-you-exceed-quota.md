@@ -71,30 +71,30 @@ So - that's it. Read the binary, convert, store, and on error, print it out and 
 
 Throws an exception with the name QuotaExceedError. The code is 22. The message is nice as it tells you what key it was trying to set:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/chromedesktop.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/chromedesktop.png" alt="chromedesktop" width="850" height="269" class="alignnone size-full wp-image-6002" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/chromedesktop.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/chromedesktop.png" alt="chromedesktop" width="850" height="269" class="alignnone size-full wp-image-6002" /></a>
 
 <h4>Firefox 37 (OSX)</h4>
 
 Throws an exception, but with a completely different name/code. The name is NS_ERROR_DOM_QUOTA_REACHED and the code is 1014.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/firefox.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/firefox.png" alt="firefox" width="750" height="283" class="alignnone size-full wp-image-6003" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/firefox.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/firefox.png" alt="firefox" width="750" height="283" class="alignnone size-full wp-image-6003" /></a>
 
 <h4>Safari 8.0.5</h4>
 
 Throws the same exception as Chrome (name and code anyway):
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/safari.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/safari.png" alt="safari" width="750" height="332" class="alignnone size-full wp-image-6004" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/safari.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/safari.png" alt="safari" width="750" height="332" class="alignnone size-full wp-image-6004" /></a>
 
 <h4>Internet Explorer 11 (Windows 10)</h4>
 So, IE really threw me for a loop. When I ran my code (again, I had started with a loop of 5), it didn't throw an error. So I thought, ok, it has a bigger cache. So I added a 0. And then another 0. And another. I got it up to 5K calls and it still worked. That seemed... wrong. I did some Googling and turns out that IE supports a non-standard <a href="https://msdn.microsoft.com/en-us/library/ie/cc197016(v=vs.85).aspx">remainingSpace</a> property. (Non-standard but a good idea imo. Client-storage does <i>not</i> help developers at all in terms of managing space.) When I inspected that value, it never seemed to change no matter how many additional 0s I added. I could inspect localStorage in the console and see all the values just fine.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/ie11.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/ie11.png" alt="ie11" width="750" height="594" class="alignnone size-full wp-image-6005" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/ie11.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/ie11.png" alt="ie11" width="750" height="594" class="alignnone size-full wp-image-6005" /></a>
 
 Then on a whim I tried something. I killed IE, re-opened it, and discovered that localStorage only had 2-3 of my images stored. From what I can tell, IE11 stopped storing items, <strong>but never threw an error!</strong> Which is really, really bad. Even worse, if you try to <i>read</i> the value, it reads it just fine, but on restart, it is gone. I'm not exactly sure what to think about that, outside of the fact that "silent fail" is the worst thing to happen to development since starting arrays at 0.
 
 I tried an interesting little test. I checked remainingSpace before and after a set, and when the set fails, you can clearly see the space does <strong>not</strong> change. In theory, you could use this (on IE11 anyway) to confirm a proper save.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/ie112.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/ie112.png" alt="ie112" width="750" height="384" class="alignnone size-full wp-image-6006" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/ie112.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/ie112.png" alt="ie112" width="750" height="384" class="alignnone size-full wp-image-6006" /></a>
 
 As an aside, <a href="https://twitter.com/jonathansampson">Jonathan Sampson</a> tried the latest Spartan build with my code and saw the same. 
 

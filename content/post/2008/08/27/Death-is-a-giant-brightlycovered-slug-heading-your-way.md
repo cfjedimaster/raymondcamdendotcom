@@ -11,7 +11,7 @@
 
 A picture is worth a thousand words...
 
-<img src="http://www.raymondcamden.com/images/gustavwillkickmy.gif" alt="Death or cake?">
+<img src="http://static.raymondcamden.com/images/gustavwillkickmy.gif" alt="Death or cake?">
 
 This is from NOAA's <a href="http://www.nhc.noaa.gov/refresh/graphics_at2+shtml/203214.shtml?hwind120?large#contents">hurricane strength prediction chart</a> for Gustav. I've got a feeling it will continue to pull to the right. I was pretty impressed by the data services at NOAA, especially the use of RSS feeds. I just wish there was a feed/API to get the long/lat of Gustav currently. In theory you could look for:
 

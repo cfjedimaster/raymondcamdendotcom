@@ -95,7 +95,7 @@ Before getting into the code, let me share a screen shot so you have an idea of 
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/screen52.png" />
+<img src="http://static.raymondcamden.com/images/screen52.png" />
 
 <p/>
 

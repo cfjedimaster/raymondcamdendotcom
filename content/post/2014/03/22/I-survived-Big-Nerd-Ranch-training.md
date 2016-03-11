@@ -31,7 +31,7 @@ From the moment you arrive for a BNR course to the time you leave, every need is
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/book.jpg" />
+<img src="http://static.raymondcamden.com/images/book.jpg" />
 </p>
 
 <p>
@@ -54,7 +54,7 @@ I mentioned it above, but I want to call out the instructors by name. The first 
 </p>
  
 <p>
-<img src="http://www.raymondcamden.com/images/b.jpg" />
+<img src="http://static.raymondcamden.com/images/b.jpg" />
 </p>
 
 <p>
@@ -62,7 +62,7 @@ The course progresses well, and I feel like I ended up with a good understanding
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/unix-jurassic-park.jpg" />
+<img src="http://static.raymondcamden.com/images/unix-jurassic-park.jpg" />
 </p>
 
 <p>
@@ -70,7 +70,7 @@ So what were the negatives? Only one. One of the things BNR tries to do is provi
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/IMG_3420.jpg" />
+<img src="http://static.raymondcamden.com/images/IMG_3420.jpg" />
 </p>
 
 <p>

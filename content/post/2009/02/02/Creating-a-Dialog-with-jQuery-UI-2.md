@@ -42,6 +42,6 @@ In this version, I use the $(document).ready to set up the dialog box when the p
 
 You can see a demo of this, and the amazing 'Swanky Purse' theme, here: <a href="http://www.coldfusionjedi.com/demos/jqueryuitest2/test4.html">http://www.coldfusionjedi.com/demos/jqueryuitest2/test4.html</a> Remember you can View Source for the complete page.
 
-<img src="http://www.coldfusionjedi.com/images//Picture 137.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 137.png">
 
 I will also point out two other fixes by posters on the last blog entry. One by <a href="http://www.coldfusionjedi.com/index.cfm/2009/2/1/Creating-a-Dialog-with-jQuery-UI#c3756144B-19B9-E658-9D520379F25FC045">Akira</a> and one by <a href="http://www.coldfusionjedi.com/index.cfm/2009/2/1/Creating-a-Dialog-with-jQuery-UI#c377472A5-19B9-E658-9D8A4FD907CB6E07">Joel Cox</a>.

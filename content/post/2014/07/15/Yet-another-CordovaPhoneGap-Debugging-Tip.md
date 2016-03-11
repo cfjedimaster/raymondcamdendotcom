@@ -23,7 +23,7 @@ What this is telling you is that you have a log file that will report on errors 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/tail.jpg" />
+<img src="http://static.raymondcamden.com/images/tail.jpg" />
 </p>
 
 <p>

@@ -86,7 +86,7 @@ You can view a live version of this in all its glory here:
 </p>
 
 <p>
-<a href="http://www.raymondcamden.com/demos/2014/mar/21/test.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>   
+<a href="http://www.raymondcamden.com/demos/2014/mar/21/test.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>   
 </p>
 
 <p>

@@ -23,4 +23,4 @@ He also makes good use of closures within his processing code. Here's a random s
 
 Overall - I think this is an incredibly practical application and something I can see using in the future. Want to try it? You can hit the Demo button below to run it on my server. You can also watch a demo video Ben created <a href="http://screencast.com/t/HaraSkHbF8">here</a> and get the code from his Github repo <a href="https://github.com/bennadel/Best-Of-ColdFusion-10">here</a>.
 
-<a href="http://www.raymondcamden.com/demos/2012/may/24/"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/may/24/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

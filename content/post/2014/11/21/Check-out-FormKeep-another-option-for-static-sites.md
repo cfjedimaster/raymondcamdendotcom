@@ -11,7 +11,7 @@
 	"guid": "5356"
 }
 
-<img src="http://www.raymondcamden.com/images/keep1.png" class="bthumb" align="left" style="margin-right:10px" />
+<img src="http://static.raymondcamden.com/images/keep1.png" class="bthumb" align="left" style="margin-right:10px" />
 <p>
 Over the past year or so I've been playing around with static site generators. After nearly fifteen years spent building dynamic web applications on the server-side, a <i>simple</i> solution involving a static site generator can be pretty darn appealing. Unfortunately, moving to static means you need to find alternatives for things that simply can't be static. Forms, forums, calendars, etc. I discussed options to handle this problem in my article for modernweb, <a href="http://modernweb.com/2013/12/16/moving-to-static-and-keeping-your-toys/">Moving to Static and Keeping Your Toys</a>. Today I'm going to introduce you to another option I discovered yesterday, <a href="http://www.formkeep.com">FormKeep</a>
 </p>
@@ -21,11 +21,11 @@ FormKeep is a service that provides an end point for form submissions. They basi
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/fk1.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/fk1.png" class="bthumb" />
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/fk2.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/fk2.png" class="bthumb" />
 </p>
 
 <p>
@@ -37,7 +37,7 @@ By default, form submissions will display a FormKeep page as a response:
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/fk41.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/fk41.png" class="bthumb" />
 </p>
 
 <p>
@@ -95,7 +95,7 @@ By default form submissions are sent to you via email. This works as you imagine
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/fk5.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/fk5.png" class="bthumb" />
 </p>
 
 <p>
@@ -103,7 +103,7 @@ You also get a decent little online viewer as well:
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screen Shot 2014-11-21 at 14.27.15.png" class="bthumb"/>
+<img src="http://static.raymondcamden.com/images/Screen Shot 2014-11-21 at 14.27.15.png" class="bthumb"/>
 </p>
 
 <p>

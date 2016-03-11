@@ -24,7 +24,7 @@ Here is an example. In the screen shot below, the image you see on the top left 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ss1.jpg" />
+<img src="http://static.raymondcamden.com/images/ss1.jpg" />
 </p>
 
 <p>
@@ -32,7 +32,7 @@ And another one. (Again, the image on the top left, the kitten, came from my com
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/skitch.jpg" />
+<img src="http://static.raymondcamden.com/images/skitch.jpg" />
 </p>
 
 <p>
@@ -140,4 +140,4 @@ This returns an array of colors. From that I can build a RGB string and pass it 
 And that's it. I've actually put the demo online so you can see, <strong>but please remember that Behance limits API calls to 150 an hour.</strong> Based on the average traffic of my blog that limit will probably be blown away. But you may get lucky. I've attached the code as a zip as well.
 </p>
 
-<a href="http://www.raymondcamden.com/demos/2013/oct/18/ct_demo.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2013%2Eraymondcamden%2Ecom%5Cenclosures%2FArchive33%2Ezip'>Download attached file.</a></p>
+<a href="http://www.raymondcamden.com/demos/2013/oct/18/ct_demo.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2013%2Eraymondcamden%2Ecom%5Cenclosures%2FArchive33%2Ezip'>Download attached file.</a></p>

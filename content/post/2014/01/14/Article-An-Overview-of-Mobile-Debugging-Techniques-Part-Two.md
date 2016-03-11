@@ -14,5 +14,5 @@
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screen Shot 2014-01-14 at 12.50.291.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2014-01-14 at 12.50.291.png" />
 </p>

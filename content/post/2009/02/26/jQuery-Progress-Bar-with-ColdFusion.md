@@ -14,7 +14,7 @@ I mentioned in yesterday's <a href="http://www.raymondcamden.com/index.cfm/2009/
 <!--more-->
 The jQuery <a href="http://jqueryui.com/demos/progressbar/">Progress Bar</a> is pretty much what you would expect it to be. A bar. That shows progress. Yes, not rocket science, I know. Here is an example using the Swanky Purse theme (still my favorite theme):
 
-<img src="http://www.coldfusionjedi.com/images//Picture 222.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 222.png">
 
 The code behind this is ridiculously simple:
 

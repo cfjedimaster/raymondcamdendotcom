@@ -59,4 +59,4 @@ And the result...
 <p>
 
 
-<img src="http://www.raymondcamden.com/images/ScreenClip109.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip109.png" />

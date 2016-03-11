@@ -58,7 +58,7 @@ I begin by creating a bind to "keyup" event on the textarea. I get the value, an
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/jan52011/test.cfm"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/jan52011/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

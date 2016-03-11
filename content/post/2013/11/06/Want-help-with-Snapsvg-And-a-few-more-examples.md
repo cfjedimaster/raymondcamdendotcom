@@ -103,5 +103,5 @@ For something that <i>is</i> thrilling, check out this article on animating icon
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_11_6_13__2_22_PM.jpg" />
+<img src="http://static.raymondcamden.com/images/Screenshot_11_6_13__2_22_PM.jpg" />
 </p>

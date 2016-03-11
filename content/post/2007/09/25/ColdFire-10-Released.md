@@ -13,6 +13,6 @@ I'm happy to say that as of about 2 minute ago, the bits for <a href="http://col
 
 Below is a screen show showing both a dump in the actual page and what tracing the form scope looks like in ColdFire:
 
-<img src="http://www.raymondcamden.com/images/cfv.png">
+<img src="http://static.raymondcamden.com/images/cfv.png">
 
 For folks who don't know what ColdFire is - it is an addon to the popular Firebug extension. It allows you to use ColdFusion debugging without all the crazy output added to the bottom of the page.

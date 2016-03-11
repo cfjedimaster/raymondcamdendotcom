@@ -19,7 +19,7 @@ The short answer is absolutely yes - just use your operating system's native sch
 
 On the flip side, Windows has support for this too. You can use the Tool Scheduler which apparently got a little bit of an update in Windows 7:
 
-<img src="http://www.raymondcamden.com/images/screen15.png" />
+<img src="http://static.raymondcamden.com/images/screen15.png" />
 
 After sharing this with the reader, he replied with:
 

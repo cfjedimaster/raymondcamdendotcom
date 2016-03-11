@@ -39,7 +39,7 @@ If you were to click the first button, you will see the page load, but no gist w
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip70.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip70.png" />
 
 <p>
 

@@ -19,7 +19,7 @@ In the screen shot below, I've got a folder called source. I've made a new proje
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot15.png" />
+<img src="http://static.raymondcamden.com/images/shot15.png" />
 </p>
 
 <p>

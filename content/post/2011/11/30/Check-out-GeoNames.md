@@ -75,4 +75,4 @@ This page fires off a HTML5 geolocation request. Once it has it, it then uses jQ
 
 <p>
 
-<a href="http://coldfusionjedi.com/demos/2011/nov/30/test.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://coldfusionjedi.com/demos/2011/nov/30/test.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

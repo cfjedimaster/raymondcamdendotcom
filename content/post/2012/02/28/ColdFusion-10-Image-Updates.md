@@ -40,7 +40,7 @@ Nice and simple right? Here's the result:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip28.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip28.png" />
 
 <p>
 
@@ -70,7 +70,7 @@ The function takes in an image as the source and a number from 0 to 100 for how 
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip29.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip29.png" />
 
 <p>
 
@@ -117,7 +117,7 @@ You can see we've got 3 different types of text. The actual text is the same, bu
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip30.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip30.png" />
 
 <p>
 

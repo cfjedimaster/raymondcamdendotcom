@@ -10,7 +10,7 @@
 	"guid": "4992"
 }
 
-<img src="http://www.raymondcamden.com/images/4402065176_60a746cf19_b.jpg" />
+<img src="http://static.raymondcamden.com/images/4402065176_60a746cf19_b.jpg" />
 
 It's been a while since I've done a Friday Puzzler. Josh Knutson sent in an idea that was good, but a bit simpler. Since I'm an evil bastard, I took his simple idea and made it - hopefully - just the right amount more difficult.
 <!--more-->

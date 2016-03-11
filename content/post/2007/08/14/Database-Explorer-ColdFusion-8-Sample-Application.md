@@ -11,7 +11,7 @@
 
 The Database Explorer is a simple application that allows you to browse databases and write SQL. You can select a datasource, browse the tables (and columns), and then write simple SQL statements and see what they return. You can also export the results into an Excel file. Now let me go into detail on how the application works. 
 
-<a href="http://www.raymondcamden.com/images/de.png"><img src="http://www.coldfusionjedi.com/images/de_thumb.png" alt="Click for bigger picture."></a>
+<a href="http://www.raymondcamden.com/images/de.png"><img src="http://static.raymondcamden.com/images/cfjedi/de_thumb.png" alt="Click for bigger picture."></a>
 
 The application starts off by asking you to authenticate to your local ColdFusion server. The application supports both 'simple' CF Administrators protected by one password or systems that require a username and a password. The login template makes use of two &lt;CFWINDOW&gt; tags. The first one is used to host the main login form. The second one is used to display an error in case authentication fails. Authentication is provided by the Admin API. 
 

@@ -32,7 +32,7 @@ limit 5
 
 The issue seems to be the join. If I just get the last 5 comments it runs instantly. However, from what little SQL skills I have, a join like this shouldn't be so slow. I've got an index on comment.id and comment.entryidfk. Entry has an index on it's ID and the blog column. Here is the result of the EXPLAIN:
 
-<img src="http://www.raymondcamden.com/images/Picture 77.png" />
+<img src="http://static.raymondcamden.com/images/Picture 77.png" />
 
 Unfortunately nothing really here makes sense to me. This seems to only be an issue with a BlogCFC install with a lot of data as I don't see it on my test version. If folks are bored and want to recreate this locally, just download BlogCFC and fill it with some random data. (I'd be willing to give folks an export, but I'd need to prune out the email addresses from my commenters.) 
 

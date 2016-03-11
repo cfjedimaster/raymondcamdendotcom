@@ -27,7 +27,7 @@ This code loops over every character and prints out the ascii code for each. Che
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/Screen shot 2010-09-18 at 11.54.39 AM.png" />
+<img src="http://static.raymondcamden.com/images/Screen shot 2010-09-18 at 11.54.39 AM.png" />
 
 <p/>
 

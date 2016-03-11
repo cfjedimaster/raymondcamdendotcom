@@ -35,6 +35,6 @@ First off, let me be sure folks note that the UDF is <i>not</i> included in the 
 
 The demo addresses give me a result of 2000.1 miles. That's a bit too precise so I did a quick test on Google Maps. Using driving directions, it gave me a result of 2907 miles. I noticed the path though wasn't exactly a straight line:
 
-<img src="http://www.raymondcamden.com/images//Picture 158.png">
+<img src="http://static.raymondcamden.com/images//Picture 158.png">
 
 Not sure if this is useful or not, but enjoy.

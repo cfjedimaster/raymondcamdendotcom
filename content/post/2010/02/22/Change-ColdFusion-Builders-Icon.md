@@ -23,10 +23,10 @@ and change it to whatever you want. So for example, I changed mine to:
 
 And now I can run it in "Old School" mode:
 
-<img src="http://www.raymondcamden.com/images/mydock.png" title="Studio Forever, Baby" />
+<img src="http://static.raymondcamden.com/images/mydock.png" title="Studio Forever, Baby" />
 
 You can download the ICNS file I used below. I also tried CFDude:
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-02-22 at 9.51.56 AM.png" title="I'm too sexy for this dock." />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-22 at 9.51.56 AM.png" title="I'm too sexy for this dock." />
 
 But the icon was a bit too small. Note - when you start CFBuilder, you will see the original icon for a second or two. After it goes done loading though the new icon will be used.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fstudio%2Ezip'>Download attached file.</a></p>

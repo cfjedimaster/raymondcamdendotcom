@@ -14,11 +14,11 @@ Back a few months ago I <a href="http://www.raymondcamden.com/2014/12/07/quick-r
 
 <!--more-->
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot11.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot11.png" alt="shot1" width="800" height="926" class="alignnone size-full wp-image-5840" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot11.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot11.png" alt="shot1" width="800" height="926" class="alignnone size-full wp-image-5840" /></a>
 
 What I like about this are the simple bars between each number. They give you a real quick way to see your relative growth/drop from one day to the next. Like any good web developer, I was curious as to how they built this, so I right clicked, selected Inspect Element, and took a look at the code.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot21.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot21.png" alt="shot2" width="800" height="726" class="alignnone size-full wp-image-5841" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot21.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot21.png" alt="shot2" width="800" height="726" class="alignnone size-full wp-image-5841" /></a>
 
 So - first off - there's a <i>lot</i> of markup to make this work. That isn't because the SumAll developers suck, it's simply  a matter of life when dealing with HTML email. But the base mechanism isn't that difficult - a simple div with CSS. Obviously you could use one of the hundred or so different JS charting libraries out there, or Canvas, but why do all that when a bit of CSS is all you need.
 
@@ -108,7 +108,7 @@ So really - it just comes down to math. Figure out the highest value, then the p
 
 Here's a screen shot of the result:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot31.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot31.png" alt="shot3" width="400" height="150" class="alignnone size-full wp-image-5842" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot31.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot31.png" alt="shot3" width="400" height="150" class="alignnone size-full wp-image-5842" /></a>
 
 You can see this version in all its glory here: <a href="http://www.raymondcamden.com/demos/2015/mar/19/test2.html">http://www.raymondcamden.com/demos/2015/mar/19/test2.html</a>
 
@@ -171,6 +171,6 @@ $(document).ready(function() {
 
 You can then play around with the data and see the bars go up and down. Because... I don't know. It's fun.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot41.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot41.png" alt="shot4" width="400" height="232" class="alignnone size-full wp-image-5843" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot41.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot41.png" alt="shot4" width="400" height="232" class="alignnone size-full wp-image-5843" /></a>
 
 You can test this version here: <a href="http://www.raymondcamden.com/demos/2015/mar/19/test3.html">http://www.raymondcamden.com/demos/2015/mar/19/test3.html</a>

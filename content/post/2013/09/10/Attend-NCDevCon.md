@@ -17,5 +17,5 @@ Ok, that sounds a bit like a demand, so consider this a request. If you haven't 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ncdevcon-250x250_speaking.gif" />
+<img src="http://static.raymondcamden.com/images/ncdevcon-250x250_speaking.gif" />
 </p>

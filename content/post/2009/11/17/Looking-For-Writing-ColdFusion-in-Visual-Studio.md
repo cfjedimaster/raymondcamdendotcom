@@ -10,6 +10,6 @@
 	"guid": "3608"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/vs_mainlogo.png" style="align:left;padding-right:5px" />
+<img src="http://static.raymondcamden.com/images/cfjedi/vs_mainlogo.png" style="align:left;padding-right:5px" />
 A reader asked me this morning about plugins/extensions/etc for doing ColdFusion development in Microsoft's Visual Studio. He was able to find Flex support (Amethyst and Tofino) and is hoping something may exist for ColdFusion. Anyone have a suggestion?
 <br clear="left">

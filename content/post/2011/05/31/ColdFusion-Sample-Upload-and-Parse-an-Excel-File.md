@@ -141,7 +141,7 @@ How does it look? Here's the result of uploading a sample XLS sheet.
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip102.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip102.png" />
 
 <p>
 

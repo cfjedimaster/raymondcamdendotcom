@@ -89,7 +89,7 @@ If you run this and hit submit without filling a value, you will indeed get an e
 
 Which results in, after a few clicks:
 
-<img src="http://www.raymondcamden.com/images//Picture 127.png">
+<img src="http://static.raymondcamden.com/images//Picture 127.png">
 
 What I'd recommend is a simpler approach. Move the form itself into a new file and switch your tab to:
 

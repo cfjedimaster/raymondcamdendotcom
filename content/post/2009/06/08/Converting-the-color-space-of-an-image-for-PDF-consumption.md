@@ -73,7 +73,7 @@ Finally, I use imageNew to suck in the new buffered image and create a ColdFusio
 The result:
 <p/>
 
-<img src="http://www.raymondcamden.com/images//Picture 161.png">
+<img src="http://static.raymondcamden.com/images//Picture 161.png">
 <p/>
 
 You can see that the color space is definitely different in both images.

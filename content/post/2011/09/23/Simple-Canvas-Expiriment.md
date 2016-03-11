@@ -150,4 +150,4 @@ After this code I've got the calls to setup my grid and create some sample data.
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/sep232011/canvas_test.cfm"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/sep232011/canvas_test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

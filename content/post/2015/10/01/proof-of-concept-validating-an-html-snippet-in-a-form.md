@@ -84,15 +84,15 @@ I then had an idea - what if I tried the <a href="https://validator.w3.org/">W3C
 
 The form is pretty simple - just a textarea. Obviously a real form would have more values. Since the assumption here is that I'm validating a "snippet" of HTML, I create a 'full' doc by wrapping the form value with a doctype, html, head, and body tags. I then simply pass this to the W3C validation API. Finally, I check the results. I don't have any nice UI here, just a console dump, but let's look at some tests.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot1.png" alt="shot1" width="566" height="655" class="aligncenter size-full wp-image-6850 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot1.png" alt="shot1" width="566" height="655" class="aligncenter size-full wp-image-6850 imgborder" />
 
 In the first test, I didn't close the italics tag correctly, and the service caught it. It reports it twice, which may be confusing, but I'd be fine with it.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot2.png" alt="shot2" width="559" height="547" class="aligncenter size-full wp-image-6851 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot2.png" alt="shot2" width="559" height="547" class="aligncenter size-full wp-image-6851 imgborder" />
 
 In my second test, I just left it off completely, and it was also caught.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot3.png" alt="shot3" width="608" height="488" class="aligncenter size-full wp-image-6852 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot3.png" alt="shot3" width="608" height="488" class="aligncenter size-full wp-image-6852 imgborder" />
 
 For my final test, I used proper wrapping with an unknown tag, and it also worked. Obviously this could be an issue if I'm embedding a Polymer example. (Actually, no, since it would have been escaped.)
 

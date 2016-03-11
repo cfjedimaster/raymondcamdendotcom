@@ -78,7 +78,7 @@ I won't go into detail about this code since it is just a simplified version of 
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-08-06 at 12.41.19 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-06 at 12.41.19 PM.png" />
 
 <p>
 
@@ -90,7 +90,7 @@ I began by digging up an XML service. Yahoo has a nice <a href="http://developer
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-08-06 at 12.45.46 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-06 at 12.45.46 PM.png" />
 
 <p>
 

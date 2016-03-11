@@ -334,7 +334,7 @@ So - which version is better? The HTML5 one, right?
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/HTML5_Badge_256.png" />
+<img src="http://static.raymondcamden.com/images/HTML5_Badge_256.png" />
 
 <p>
 

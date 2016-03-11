@@ -62,7 +62,7 @@ In this example I've added two cflayoutareas. One on top, with a title, and one 
 
 Here is a screen shot of how this looks: 
 
-<img src="http://www.raymondcamden.com/images/Picture%201.png">
+<img src="http://static.raymondcamden.com/images/Picture%201.png">
 
 Want to get crazy? Add a left and right layoutarea as well:
 
@@ -94,7 +94,7 @@ Want to get crazy? Add a left and right layoutarea as well:
 
 Which results in this: 
 
-<img src="http://www.coldfusionjedi.com/images/Picture_2.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture_2.png">
 
 The layoutareas that surround the center have numerous options. You can set an initial size. You can set a max and min size. You can even allow them to be collapsed or even closed. Most of these options require the splitter attribute to be true. This creates a "grippable" handle that lets you change the size of the area. Consider this example:
 
@@ -119,7 +119,7 @@ The layoutareas that surround the center have numerous options. You can set an i
 
 I've set up a left area with both an initial size, a max size, and set it so that it can be collapsed. This is how the layout is rendered:
 
-<img src="http://www.coldfusionjedi.com/images/Picture_3.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture_3.png">
 
 Now you may have noticed that my demo code created a menu in the left hand side. What happens when you put a real link in? It may not be what you expect. If you use this:
 

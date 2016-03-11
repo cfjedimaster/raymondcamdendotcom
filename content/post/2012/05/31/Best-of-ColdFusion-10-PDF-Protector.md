@@ -13,20 +13,20 @@ Welcome to the second entry in the <a href="http://www.raymondcamden.com/index.c
 
 The first thing I noticed about this application was how well designed it was. Sure, it's just another application using Bootstrap, but Guust did a great job with it and it looks incredibly professional.
 
-<img src="http://www.raymondcamden.com/images/screenshot.png" />
+<img src="http://static.raymondcamden.com/images/screenshot.png" />
 
 You begin by selecting a PDF and uploading. A nice progress bar is used as the file is sent to the server.
 
 
-<img src="http://www.raymondcamden.com/images/screenshot1.png" />
+<img src="http://static.raymondcamden.com/images/screenshot1.png" />
 
 Once uploaded, you switch to the Protect menu. You can select what options you wish to use (watermarking, copyright notice, or both) and enter a name to be used for the copyright. 
 
-<img src="http://www.raymondcamden.com/images/screenshot2.png" />
+<img src="http://static.raymondcamden.com/images/screenshot2.png" />
 
 Once you hit Protect, a very slick real-time progress updater shows you what's going on. When everything is done, it even displays a small preview of your PDF.
 
-<img src="http://www.raymondcamden.com/images/screenshot3.png" />
+<img src="http://static.raymondcamden.com/images/screenshot3.png" />
 
 What's even cooler is that the copyright notice is localized. Guust made use of a library that detects the language and supports a different copyright notice in three languages: English, French and Dutch. 
 

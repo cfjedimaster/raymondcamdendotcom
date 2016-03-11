@@ -11,7 +11,7 @@
 
 Yesterday at CFUNITED I presented some more (useless) code concerning mazes and ColdFusion. I've blogged on this a few times already, but I decided to play around with it a bit more. For the derby, I demonstrated code that generated mazes in a slightly different way than I've had before. I've shown outputting mazes with text. I've shown outputting mazes with graphics. But this version puts one more little spin on it - old school style:
 
-<img src="http://www.raymondcamden.com/images/Picture 181.png" />
+<img src="http://static.raymondcamden.com/images/Picture 181.png" />
 
 What you are seeing here is a text based description of a maze stored in the session scope. This is done by first figuring out what directions are allowed based on your current position in the maze:
 

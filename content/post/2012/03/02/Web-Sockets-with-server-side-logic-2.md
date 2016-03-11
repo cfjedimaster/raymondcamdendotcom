@@ -169,4 +169,4 @@ Does that logic make sense? Basically we are just comparing clientids. I've rest
 
 <p>
 
-<a href="http://fivetag-cf10beta.securecb1cf10.ezhostingserver.com/chat5"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fchat5%2Ezip'>Download attached file.</a></p>
+<a href="http://fivetag-cf10beta.securecb1cf10.ezhostingserver.com/chat5"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fchat5%2Ezip'>Download attached file.</a></p>

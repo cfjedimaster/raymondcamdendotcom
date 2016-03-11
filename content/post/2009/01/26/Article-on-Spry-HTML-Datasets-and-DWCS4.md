@@ -16,4 +16,4 @@ I went into this being convinced that I'd never use an HTML dataset in Spry, but
 Also, I was <i>extremely</i> impressed with how easy DWCS4 made the process. I hope I was able to adequately express that in the article. You can go from a few clicks in the IDE to a table that loads data via AJAX and has column sorting built in. For people who don't make their day to day living slinging JavaScript code or working in ColdFusion, DW can really be a powerful tool. 
 
 Oh, and I love the Smurf Ray on the ADC home page: <br/>
-<img src="http://www.raymondcamden.com/images//Picture 135.png">
+<img src="http://static.raymondcamden.com/images//Picture 135.png">

@@ -92,11 +92,11 @@ Once I had his panel as a component, I then created my application:
 
 There is a lot here - so let me begin with the layout portion towards the bottom. The application has an incredibly simple UI. A set of buttons on top to start and stop the snapshot process and finally Koen's WebcanPanel so I can see what the camera sees. Here is a screen shot of it running:
 
-<img src="http://www.raymondcamden.com/images/Picture 191.png" />
+<img src="http://static.raymondcamden.com/images/Picture 191.png" />
 
 Clicking the Start button is where the magic happens. Scroll back up to the ActionScript code. I've got a Timer object that handles the "every N seconds" process. I've set it to 10 seconds which is a bit aggressive, but my hard drive is mostly empty so I figured what the heck. The timer process runs takeShot. Half of this code comes from the blog entry linked to above. It creates a Bitmap object from the camera object. To actually save it, I used this excellent entry from Rich Tretola: <a href="http://blog.everythingflex.com/2008/02/25/create-images-with-air-and-jpegencoder/">Create Images with AIR and JPEGEncoder</a>. In it, Rich describes saving bitmap graphics as JPG files to the file system. I modified his code just a tiny bit to make the file name dynamic based on time. Notice it makes use of File.desktopDirectory. This means that the AIR application will have an easy way to find the user's desktop, no matter what operating system. Let it run for a while and your Images folder (under the Desktop) will begin to fill.
 
-<img src="http://www.coldfusionjedi.com/images/Picture 261.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 261.png" />
 
 And that's it. You can download a zip of the code and the compiled AIR application below. As I said, this can probably be done much cooler. (Earlier today some sent me a link to an AIR application that only took pictures when movement was detected. That's <i>definitely</i> more intelligent. Unfortunately Firefox's history tool is failing me.) Now the question is - where do I run this? I'm thinking of just leaving my laptop facing out the front window of my house. It would give me a view of the front yard and the street. We've got a pretty quiet neighborhood though so I doubt I'd see much. I could do it Halloween night though and see if anyone comes to TP the house. 
 

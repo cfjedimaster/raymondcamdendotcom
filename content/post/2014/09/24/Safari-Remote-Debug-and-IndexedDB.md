@@ -14,5 +14,5 @@ I just tweeted this on - er - Twitter - but I thought I'd expand a bit on it her
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot7.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/shot7.png" class="bthumb" />
 </p>

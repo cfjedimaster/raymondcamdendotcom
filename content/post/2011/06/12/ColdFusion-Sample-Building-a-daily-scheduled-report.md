@@ -104,7 +104,7 @@ What we have here is a simple HTML email. I used a lot of inline styling since -
 
 <p/>
 
-<a href="http://www.raymondcamden.com/images/ScreenClip112.png"><img src="http://www.coldfusionjedi.com/images/ScreenClip_thumb.png" title="Click for larger image" /></a>
+<a href="http://www.raymondcamden.com/images/ScreenClip112.png"><img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip_thumb.png" title="Click for larger image" /></a>
 
 <p/>
 
@@ -116,7 +116,7 @@ I then clicked the button to create a new task. There's a lot of options here bu
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip113.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip113.png" />
 
 <p/>
 
@@ -124,7 +124,7 @@ Once scheduled, you can test it right away. Back in the lists, the first icon wi
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip114.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip114.png" />
 
 <p/>
 

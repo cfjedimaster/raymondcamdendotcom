@@ -21,7 +21,7 @@ To begin, first you want to download the new Flash Builder <a href="http://labs.
 Once you've got Burrito up and running, create a new Flex Mobile project:
 
 <p>
-<img src="http://www.coldfusionjedi.com/images/screen25.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen25.png" />
 
 <p>
 
@@ -29,7 +29,7 @@ You may notice that you can also build an ActionScript Mobile Project as well. F
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/screen26.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen26.png" />
 
 <p>
 
@@ -57,7 +57,7 @@ Ok, next up, let's run this baby. Click the pretty little green button on top:
 <p>
 
 
-<img src="http://www.coldfusionjedi.com/images/screen27.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen27.png" />
 
 <p>
 
@@ -65,7 +65,7 @@ This will load up the run configuration screen (the first time only - after that
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/screen28.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen28.png" />
 
 <p>
 
@@ -74,7 +74,7 @@ Finally, you can see your lovely little mobile app running:
 <p>
 
 
-<img src="http://www.coldfusionjedi.com/images/screen29.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen29.png" />
 
 <p>
 

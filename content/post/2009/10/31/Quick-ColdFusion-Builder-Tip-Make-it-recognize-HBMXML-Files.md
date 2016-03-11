@@ -26,14 +26,14 @@ Ok, so far so good. Back in ColdFusion Builder I refreshed my project so I could
 
 I opened up my Preferences and went to General/Editors/File Associations. 
 
-<img src="http://www.raymondcamden.com/images/Picture 192.png" />
+<img src="http://static.raymondcamden.com/images/Picture 192.png" />
 
 Click add and specify *.hbmxml for the file type.
 
-<img src="http://www.coldfusionjedi.com/images/Picture 262.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 262.png" />
 
 Lastly - click Add under Associated editors. Select CF Builder XML Editor.
 
-<img src="http://www.coldfusionjedi.com/images/Picture 339.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 339.png" />
 
 Hit Ok to dismiss the preferences panel and you are done.

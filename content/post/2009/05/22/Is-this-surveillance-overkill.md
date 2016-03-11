@@ -16,7 +16,7 @@ A few weeks ago I noticed a few utility trucks working at an intersection I driv
 <link rel="stylesheet" href="http://www.coldfusionjedi.com/js/thickbox/thickbox.css" type="text/css" media="screen" />
 
 Click to enlarge:<br/>
-<a href="http://www.coldfusionjedi.com/images/done/b.jpg" title="Red Light Camera?" class="thickbox" rel="gallery-rlc"><img src="http://www.coldfusionjedi.com/images/done/b_t.jpg" alt="Red Light Camera" /></a> 
+<a href="http://www.coldfusionjedi.com/images/done/b.jpg" title="Red Light Camera?" class="thickbox" rel="gallery-rlc"><img src="http://static.raymondcamden.com/images/cfjedi/done/b_t.jpg" alt="Red Light Camera" /></a> 
 
 As time went on though, and work continued, I realized it was definitely red light camera related. What surprised me, and soon shocked me, was how intensive the camera setup became. It got to a point where I couldn't count the total number of cameras at this one intersection. 
 
@@ -24,20 +24,20 @@ Now, let me be clear on something. I'm pro-red light cameras. I'm pro-speed vans
 
 But I have to say - when I drive through this intersection now I feel like I'm in a prison, or in the middle of 1984. It's just... awe-inspiring the amount of camera "stalks" that are now set up. Check it out (and click to enlarge):
 
-<a href="http://www.coldfusionjedi.com/images/done/1.jpg" title="Stalks" class="thickbox" rel="gallery-rlc2"><img src="http://www.coldfusionjedi.com/images/done/1_t.jpg" alt="Stalks" /></a> 
+<a href="http://www.coldfusionjedi.com/images/done/1.jpg" title="Stalks" class="thickbox" rel="gallery-rlc2"><img src="http://static.raymondcamden.com/images/cfjedi/done/1_t.jpg" alt="Stalks" /></a> 
 
-<a href="http://www.coldfusionjedi.com/images/done/2.jpg" title="More Stalks" class="thickbox" rel="gallery-rlc2"><img src="http://www.coldfusionjedi.com/images/done/2_t.jpg" alt="Stalks" /></a> 
+<a href="http://www.coldfusionjedi.com/images/done/2.jpg" title="More Stalks" class="thickbox" rel="gallery-rlc2"><img src="http://static.raymondcamden.com/images/cfjedi/done/2_t.jpg" alt="Stalks" /></a> 
 
-<a href="http://www.coldfusionjedi.com/images/done/3.jpg" title="Yes, More Stalks" class="thickbox" rel="gallery-rlc2"><img src="http://www.coldfusionjedi.com/images/done/3_t.jpg" alt="Stalks" /></a> 
+<a href="http://www.coldfusionjedi.com/images/done/3.jpg" title="Yes, More Stalks" class="thickbox" rel="gallery-rlc2"><img src="http://static.raymondcamden.com/images/cfjedi/done/3_t.jpg" alt="Stalks" /></a> 
 
-<a href="http://www.coldfusionjedi.com/images/done/4.jpg" title="Holy crap, more?" class="thickbox" rel="gallery-rlc2"><img src="http://www.coldfusionjedi.com/images/done/4_t.jpg" alt="Stalks" /></a> 
+<a href="http://www.coldfusionjedi.com/images/done/4.jpg" title="Holy crap, more?" class="thickbox" rel="gallery-rlc2"><img src="http://static.raymondcamden.com/images/cfjedi/done/4_t.jpg" alt="Stalks" /></a> 
 
-<a href="http://www.coldfusionjedi.com/images/done/5.jpg" title="A few more..." class="thickbox" rel="gallery-rlc2"><img src="http://www.coldfusionjedi.com/images/done/5_t.jpg" alt="Stalks" /></a> 
+<a href="http://www.coldfusionjedi.com/images/done/5.jpg" title="A few more..." class="thickbox" rel="gallery-rlc2"><img src="http://static.raymondcamden.com/images/cfjedi/done/5_t.jpg" alt="Stalks" /></a> 
 
-<a href="http://www.coldfusionjedi.com/images/done/6.jpg" title="This is what you normally expect to see I think" class="thickbox" rel="gallery-rlc2"><img src="http://www.coldfusionjedi.com/images/done/6_t.jpg" alt="Normal" /></a> 
+<a href="http://www.coldfusionjedi.com/images/done/6.jpg" title="This is what you normally expect to see I think" class="thickbox" rel="gallery-rlc2"><img src="http://static.raymondcamden.com/images/cfjedi/done/6_t.jpg" alt="Normal" /></a> 
 
-<a href="http://www.coldfusionjedi.com/images/done/7.jpg" title="And a few more..." class="thickbox" rel="gallery-rlc2"><img src="http://www.coldfusionjedi.com/images/done/7_t.jpg" alt="More, more, more" /></a> 
+<a href="http://www.coldfusionjedi.com/images/done/7.jpg" title="And a few more..." class="thickbox" rel="gallery-rlc2"><img src="http://static.raymondcamden.com/images/cfjedi/done/7_t.jpg" alt="More, more, more" /></a> 
 
-<a href="http://www.coldfusionjedi.com/images/done/8.jpg" title="A shot back at one view of the intersection" class="thickbox" rel="gallery-rlc2"><img src="http://www.coldfusionjedi.com/images/done/8_t.jpg" alt="Last..." /></a> 
+<a href="http://www.coldfusionjedi.com/images/done/8.jpg" title="A shot back at one view of the intersection" class="thickbox" rel="gallery-rlc2"><img src="http://static.raymondcamden.com/images/cfjedi/done/8_t.jpg" alt="Last..." /></a> 
 
 The street in question does suffer from speeder, but more so about 2 blocks down. This area is relatively stable as far as I know. In all my time on the road I've yet to see one accident. So what do folks think? Have you ever seen an intersection like this in your town? Is it overkill?

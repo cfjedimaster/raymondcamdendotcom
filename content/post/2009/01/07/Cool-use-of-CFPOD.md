@@ -29,6 +29,6 @@ Footer...
 
 It worked rather well:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 131.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 131.png">
 
 Ok, so I know a bit of CSS can turn a div into a scrollable region, but this seemed like a nice use of the tag and it was easy to implement.

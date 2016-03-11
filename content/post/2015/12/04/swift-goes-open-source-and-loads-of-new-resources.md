@@ -21,11 +21,11 @@ By open sourcing Swift, Apple has really broadened the environments where Swift 
 
 So where does IBM come into play? We've partnered with Apple to help the Swift developer community. You can read more at our developer center:
 
-<a href="https://developer.ibm.com/swift/"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot11.png" alt="shot1" width="500" height="213" class="aligncenter size-full wp-image-7207" /></a>
+<a href="https://developer.ibm.com/swift/"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot11.png" alt="shot1" width="500" height="213" class="aligncenter size-full wp-image-7207" /></a>
 
 At the <a href="https://developer.ibm.com/swift/">Swift@IBM</a>, you'll find articles, links, and even cooler, a web-based <a href="http://swiftlang.ng.bluemix.net/?cm_mmc=developerWorks-_-dWdevcenter-_-swift-_-lp">Sandbox</a> that let's you test Swift in your browser:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot2.png" alt="shot2" width="750" height="554" class="aligncenter size-full wp-image-7208" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot2.png" alt="shot2" width="750" height="554" class="aligncenter size-full wp-image-7208" />
 
 Make sure you use the drop down on the upper left side to try out the different samples. I missed that at first. XCode itself provides a way to test code, but I found this web-based sandbox a lot easier to use. 
 

@@ -52,7 +52,7 @@ As you can see, I've wrapped a call to my bold tag and added some special CSS as
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip5.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip5.png" />
 
 <p>
 

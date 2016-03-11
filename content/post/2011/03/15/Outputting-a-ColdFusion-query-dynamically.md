@@ -113,7 +113,7 @@ You get an array of structs containing data about the columns:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip47.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip47.png" />
 
 <p>
 

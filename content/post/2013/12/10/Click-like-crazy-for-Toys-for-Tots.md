@@ -14,5 +14,5 @@ Just a quick note for those of you with a bit of OCD. Visit <a href="http://sant
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Santa_s_Helper.jpg" />
+<img src="http://static.raymondcamden.com/images/Santa_s_Helper.jpg" />
 </p>

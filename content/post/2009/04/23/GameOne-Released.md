@@ -16,6 +16,6 @@ Ok, if you have been following me on <a href="http://www.twitter.com/cfjedimaste
 
 The game is basically a stock simulator. The stocks are fake and update every few minutes. When you buy/sell stocks, it is announced to all active players. You can chat as well. So for example:
 
-<img src="http://www.raymondcamden.com/images//Picture 152.png">
+<img src="http://static.raymondcamden.com/images//Picture 152.png">
 
 So, it's late. I'm tired. And there is a lot I want to talk about this game, especially in regards to messaging and LCDS/BlazeDS+CF. (Seriously, why aren't people using it more?) But for now I figured I'd let folks download and play with it. I'll post the full source code (client+server side) later in the week. Enjoy. Oh, and for those of you who are competitive, you can view a dump of all users sorted by funds here: <a href="http://gameone.coldfusionjedi.com/">http://gameone.coldfusionjedi.com/</a>

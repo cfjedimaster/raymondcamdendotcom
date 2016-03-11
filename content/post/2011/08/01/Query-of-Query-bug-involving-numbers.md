@@ -38,7 +38,7 @@ We know that ColdFusion looks at the query metadata to figure out how to do sort
 
 <p/>
  
-<img src="http://www.raymondcamden.com/images/ScreenClip149.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip149.png" />
 
 <p/>
 

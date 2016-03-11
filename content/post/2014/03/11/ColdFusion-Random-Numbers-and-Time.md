@@ -18,7 +18,7 @@ If you read the comments for the bug, you will see one in particular that stands
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_3_11_14__9_18_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_3_11_14__9_18_AM.png" />
 </p>
 
 <p>
@@ -26,7 +26,7 @@ I assume this is one of the engineers, although I don't know. It makes sense - k
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ZombieKitten.png" />
+<img src="http://static.raymondcamden.com/images/ZombieKitten.png" />
 </p>
 
 <p>

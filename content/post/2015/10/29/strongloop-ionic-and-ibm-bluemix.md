@@ -20,7 +20,7 @@ Over the past few weeks I've been digging deep into <a href="http://www.stronglo
 
 <!--more-->
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/wecandothis.jpg" alt="wecandothis" width="400" height="400" class="aligncenter size-full wp-image-7027" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/wecandothis.jpg" alt="wecandothis" width="400" height="400" class="aligncenter size-full wp-image-7027" />
 
 <h1>Getting the Code and Testing</h1>
 

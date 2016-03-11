@@ -9,7 +9,7 @@
 	"guid": "2782"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi//rockingray2.gif" align="left" hspace="5" vspace="5"> 
+<img src="http://static.raymondcamden.com/images/cfjedi//rockingray2.gif" align="left" hspace="5" vspace="5"> 
 
 Are you a code diva? Do you <b>demand</b> spaces over tabs? Do you insist on Hungarian notation for variables? Do you get into a hissy fit when the order of attributes for the cffunction tag don't follow name/access/output/returnType/hint format? Do you throw your cell phone at fellow developers who laugh when you insist on strict white space suppression? If so - you may be a <b>Code Diva</b>. 
 

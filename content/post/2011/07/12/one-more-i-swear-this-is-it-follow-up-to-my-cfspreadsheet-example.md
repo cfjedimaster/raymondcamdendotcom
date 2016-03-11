@@ -122,7 +122,7 @@ So the top portion is pretty much the same as before, except now we've changed t
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/ScreenClip138.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip138.png" />
 
 <p/>
 

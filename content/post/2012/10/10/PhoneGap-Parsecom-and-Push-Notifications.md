@@ -26,7 +26,7 @@ Ok, so let's get started. First - create an Android PhoneGap project. I used the
 
 Go to the <a href="https://parse.com/docs/downloads">Parse downloads</a> and get the Android SDK. Note that this SDK is just a jar file (Parse-1.1.6.jar). Copy this jar file to your PhoneGap project's libs folder:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip136.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip136.png" />
 
 At this point you probably want to refresh the view in Eclipse so it recognizes a new file. As we all know, Eclipse gets snooty if you dare to actually use your file system.
 
@@ -42,7 +42,7 @@ The Parse docs then tell you to add three sets of permissions, but by default Ph
 
 Ok, now you need to get into the Java a bit. When you created your application, you had to give it a package name. I called mine org.camden.test1. I ended up with a Java file called MyPhoneGapActivity.java. You can find this under the src folder.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip137.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip137.png" />
 
 <b>Do not worry about the com.borismus.webintent folder. You will not have it yet and we'll come to that later.</b>
 
@@ -66,15 +66,15 @@ Ok, at this point you want to ensure the application still compiles. Hit the nic
 
 I know I sound like a Parse fanboy (even though they don't seem to want to ever tweet about my blog posts ;) but I cannot stress how nice the developer tools are at Parse. Creating messages can be done with Android, iOS, REST, and the <a href="https://parse.com/docs/js_guide#push">JavaScript API</a>. But they went ahead and built in a push notifications panel on their application dashboard:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip138.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip138.png" />
 
 I recognize that screen shot has a lot of information on it, so let me quickly review it. You can see a list of all previously sent messages on top. Beneath it is a form to let you send messages. I mentioned above that applications can choose to subscribe to a particular channel. What channels you use are entirely dependent on your application. For now you will just ignore this and use the default <b>Broadcast</b> channel. In the Push Data box, keep the radio button at the default (Message) and enter something wise.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip139.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip139.png" />
 
 Hit the Send button and you should see - pretty darn immediately - the alert arrive on your device:
 
-<img src="http://www.raymondcamden.com/images/device-2012-10-10-155033.png" />
+<img src="http://static.raymondcamden.com/images/device-2012-10-10-155033.png" />
 
 You can even close the application. If you send a new notification and select it in your Android... err.... whatever they call it (notification tray?) your application should open up. 
 
@@ -102,7 +102,7 @@ To my surprise, this worked! So it turns out the WebIntent plugin's JavaScript A
 
 All I do is run the has test followed by a get call. I take the data, JSON stringify it, and log it to my console. 
 
-<img src="http://www.raymondcamden.com/images/ScreenClip140.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip140.png" />
 
 And that's it. Obviously real code would parse this data and do, well, whatever you want with it. As should be clear from the Parse.com form, you can send more than simple messages. Complex structures of data can be sent to your listening devices. Again, the whole Push Notification feature as a whole is <i>very</i> powerful. I definitely encourage you to look at it yourself, and knowing that you can use it within PhoneGap as well just makes it even better.
 

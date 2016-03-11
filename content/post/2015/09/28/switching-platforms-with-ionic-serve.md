@@ -16,14 +16,14 @@ Yesterday a question came up in an Ionic session I was attending involving <code
 
 <!--more-->
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/09/shot14.png" alt="shot1" width="529" height="750" class="aligncenter size-full wp-image-6823 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot14.png" alt="shot1" width="529" height="750" class="aligncenter size-full wp-image-6823 imgborder" />
 
 And here it is with the lab option - you can now see that the iOS one was used by default.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/09/shot22.png" alt="shot2" width="750" height="670" class="aligncenter size-full wp-image-6824" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot22.png" alt="shot2" width="750" height="670" class="aligncenter size-full wp-image-6824" />
 
 Ok, so the question was - how do you ionic serve to just Android? Turns out, you can use the platform attribute with ionic serve. This was added (<a href="https://github.com/driftyco/ionic-cli/issues/314">[Request] ionic serve --platform="android"</a>) back in May. Simply do<code> ionic serve --platform android</code>:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/09/shot3.png" alt="shot3" width="396" height="750" class="aligncenter size-full wp-image-6825 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot3.png" alt="shot3" width="396" height="750" class="aligncenter size-full wp-image-6825 imgborder" />
 
 In case you're curious, this works without needing to actually add the Android platform. (And on the flip side, if you don't have iOS, the default behavior for ionic serve is to still show the iOS CSS.)

@@ -367,7 +367,7 @@ So - next up is a click handler defined using jQuery syntax. If you look down a 
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/april132011/test4.cfm"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/april132011/test4.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

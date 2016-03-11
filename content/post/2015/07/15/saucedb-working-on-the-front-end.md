@@ -24,7 +24,7 @@ This release focuses on the front end. I've decided to try to get as much of the
 
 <h2>Login</h2>
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-15-2015-2.51.51-PM.png" alt="iOS Simulator Screen Shot Jul 15, 2015, 2.51.51 PM" width="394" height="700" class="aligncenter size-full wp-image-6398 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-15-2015-2.51.51-PM.png" alt="iOS Simulator Screen Shot Jul 15, 2015, 2.51.51 PM" width="394" height="700" class="aligncenter size-full wp-image-6398 imgborder" />
 
 This has a lot of wasted space - and I'd imagine some nice logo above the button - but as I don't have a logo yet (any volunteers) I've let it simple. The Facebook button is going to use the <a href="https://github.com/ccoenraets/OpenFB">OpenFB</a> library I mentioned before. Let's take a look at the controller.
 
@@ -81,7 +81,7 @@ The first thing you'll notice is a "skipAuth" flag. As you can guess, this lets 
 
 Next up is the "Feed"/Stream/etc view. This is meant to show all the most recent sauce reviews. Here is how it looks - and yes - it definitely needs some love. This also handles the "Add Review" logic of writing your own sauce reviews. For now though we'll focus on the feed.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-15-2015-3.40.26-PM.png" alt="iOS Simulator Screen Shot Jul 15, 2015, 3.40.26 PM" width="394" height="700" class="aligncenter size-full wp-image-6399 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-15-2015-3.40.26-PM.png" alt="iOS Simulator Screen Shot Jul 15, 2015, 3.40.26 PM" width="394" height="700" class="aligncenter size-full wp-image-6399 imgborder" />
 
 Let's take a look at the code. First, the controller.
 
@@ -162,7 +162,7 @@ For absolutely no good reason, I decided I'd make use of the <a href="https://ra
 
 Clicking on Add Review pops open a modal. The idea for the modal is to let you search for a sauce to see if it exists. If it does, you can select it and then just write your review. Otherwise you need to include the sauce name and company when writing the review. I built a very simple "search as you type" service in the modal window:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-15-2015-3.52.45-PM.png" alt="iOS Simulator Screen Shot Jul 15, 2015, 3.52.45 PM" width="394" height="700" class="aligncenter size-full wp-image-6400 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-15-2015-3.52.45-PM.png" alt="iOS Simulator Screen Shot Jul 15, 2015, 3.52.45 PM" width="394" height="700" class="aligncenter size-full wp-image-6400 imgborder" />
 
 I showed the search code at the controller layer up above. The search service itself is hard coded:
 
@@ -187,7 +187,7 @@ I showed the search code at the controller layer up above. The search service it
 
 My static list is short, but useful enough for testing. For now, I don't support adding new sauces, so I just bound the list to a new review form:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-15-2015-3.55.02-PM.png" alt="iOS Simulator Screen Shot Jul 15, 2015, 3.55.02 PM" width="394" height="700" class="aligncenter size-full wp-image-6401 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-15-2015-3.55.02-PM.png" alt="iOS Simulator Screen Shot Jul 15, 2015, 3.55.02 PM" width="394" height="700" class="aligncenter size-full wp-image-6401 imgborder" />
 
 The fancy star widget there came from <a href="https://github.com/fraserxu/ionic-rating">https://github.com/fraserxu/ionic-rating</a>. It's rather easy to use. You can see it in the view below:
 
@@ -225,7 +225,7 @@ For now, clicking the Add Review button just returns the user to the sauce.
 
 Speaking of - you can also view a sauce and all its reviews. This really needs some formatting love:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-15-2015-3.59.17-PM.png" alt="iOS Simulator Screen Shot Jul 15, 2015, 3.59.17 PM" width="394" height="700" class="aligncenter size-full wp-image-6402 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-15-2015-3.59.17-PM.png" alt="iOS Simulator Screen Shot Jul 15, 2015, 3.59.17 PM" width="394" height="700" class="aligncenter size-full wp-image-6402 imgborder" />
 
 For yet another completely silly reason, I changed the user pics here to kittens. Because kittens. Here's the service method that "fakes" a sauce retrieval:
 

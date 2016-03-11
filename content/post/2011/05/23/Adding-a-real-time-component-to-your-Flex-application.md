@@ -18,7 +18,7 @@ I decided to build a simple version of the old Tamagotchi game. This was a big c
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/perfect.png" />
+<img src="http://static.raymondcamden.com/images/perfect.png" />
 
 <p>
 
@@ -26,7 +26,7 @@ Over time - the developer will "degrade" and get more and more unhappy. Here is 
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/vu.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/vu.png" />
 
 <p>
 

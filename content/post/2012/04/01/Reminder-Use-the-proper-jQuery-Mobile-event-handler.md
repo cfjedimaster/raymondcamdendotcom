@@ -61,7 +61,7 @@ If you know what's going to happen already - pat yourself on the back. If you do
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip61.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip61.png" />
 
 <p>
 
@@ -69,7 +69,7 @@ Ok, now I hit the Home button to return to the initial page in my jQuery Mobile 
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip62.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip62.png" />
 
 <p>
 

@@ -14,7 +14,7 @@ Today Nathan Mische and I released ColdFire 0.0.802. This update adds basic supp
 ColdFire now supports a Variables tab. You tell ColdFire the variables you want to display and it will then show the values when the page is refreshed. This is the initial release of Variables support and there are a few caveats. First - I only support simple values. It won't be hard to add support for arrays and other complex variables, but I wanted folks to do some quick testing first. Second, you must use full scopes. Don't just type "x", but rather, variables.x. Or url.x. Or form.x. You get the picture. Here is a screen shot:
 
 
-<img src="http://www.raymondcamden.com/images/coldfire8.png">
+<img src="http://static.raymondcamden.com/images/coldfire8.png">
 
 Also in this fix are updates by Nathan in the XPI to help with memory leaks and other issues as well.
 

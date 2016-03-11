@@ -54,7 +54,7 @@ Since JSON "just works" in ColdFusion, there really isn't much to say here. The 
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip184.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip184.png" />
 
 <p/>
 

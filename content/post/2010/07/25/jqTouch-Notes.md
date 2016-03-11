@@ -104,7 +104,7 @@ That's basically it for a simple app. Here is a screen shot of the home page:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/Screen shot 2010-07-25 at 10.23.12 AM.png" />
+<img src="http://static.raymondcamden.com/images/Screen shot 2010-07-25 at 10.23.12 AM.png" />
 
 <p>
 
@@ -112,7 +112,7 @@ And here is a shot of one of the "pages":
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-07-25 at 10.23.53 AM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-07-25 at 10.23.53 AM.png" />
 
 <p>
 
@@ -152,7 +152,7 @@ I then wrapped the paragraphs in my 2 "pages" with the div class="body" tags. Th
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-07-25 at 10.50.10 AM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-07-25 at 10.50.10 AM.png" />
 <p>
 
 6) So, I mentioned earlier that by default, jQTouch expects your pages to be in the same page. I don't think that makes much sense for a dynamic application. Luckily it's easy enough to work around. Any link that is <i>not</i> an anchor link is automatically converted to an AJAX get request. Let's add a link to our menu:

@@ -18,7 +18,7 @@ Turns out - there was: <a href="http://github.eclipsesource.com/jshint-eclipse/"
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/screenshot88.png" />
+<img src="http://static.raymondcamden.com/images/screenshot88.png" />
 </p>
 
 <p>
@@ -26,7 +26,7 @@ Turns out - there was: <a href="http://github.eclipsesource.com/jshint-eclipse/"
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s114.png" />
+<img src="http://static.raymondcamden.com/images/s114.png" />
 </p>
 
 <p>
@@ -42,7 +42,7 @@ There is a little downward caret on the upper right side of the panel that lets 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screen Shot 2014-05-17 at 1.29.23 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2014-05-17 at 1.29.23 PM.png" />
 </p>
 
 <p>

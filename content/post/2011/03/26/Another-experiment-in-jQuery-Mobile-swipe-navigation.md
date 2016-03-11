@@ -132,7 +132,7 @@ You can play with this here:
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/artbrowse"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/artbrowse"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

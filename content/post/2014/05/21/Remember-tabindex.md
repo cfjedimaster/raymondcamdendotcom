@@ -49,7 +49,7 @@ Nothing special - but notice the link after the password? If you use the tab but
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Demo.png" />
+<img src="http://static.raymondcamden.com/images/Demo.png" />
 </p>
 
 <p>

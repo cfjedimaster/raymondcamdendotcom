@@ -23,7 +23,7 @@ Which game me...
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip8.png" title="Something ain't quite kosher about these results..." />
+<img src="http://static.raymondcamden.com/images/ScreenClip8.png" title="Something ain't quite kosher about these results..." />
 
 <p>
 
@@ -45,7 +45,7 @@ Nope. Didn't work at all. On a whim I looked at the metadata for the query and s
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip9.png" title="Crap - that's REALLY not right!" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip9.png" title="Crap - that's REALLY not right!" />
 
 <p>
 
@@ -70,7 +70,7 @@ Which gives us...
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip10.png" title="Everything is now perfect. Sweeeeeet."  />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip10.png" title="Everything is now perfect. Sweeeeeet."  />
 
 <p>
 

@@ -21,4 +21,4 @@ What am I going to do about it? Well speaking specifically of BlogCFC, <a href="
 
 So open question. What do you regret? 
 
-<img src="http://www.raymondcamden.com/images/regret_trooper.jpg" />
+<img src="http://static.raymondcamden.com/images/regret_trooper.jpg" />

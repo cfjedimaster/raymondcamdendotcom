@@ -13,4 +13,4 @@ Just a quick note here. My buddy Todd Sharp's web site, <a href="http://www.slid
 
 Secondly, SlideSix also added widgets this weekend. You can find the details on <a href="http://cfsilence.com/blog/client/index.cfm/2009/8/31/SlideSix-Gets-A-New-Home-Page-Again-And-Widgets">Todd's blog post</a>. I've added a list of my presentations to my <a href="http://www.raymondcamden.com/page.cfm/About-Me">About Me</a> page. I never have to update it again - instead the widget will just update automagically for me. And as Cartman would say....
 
-<img src="http://www.coldfusionjedi.com/images/cartmansweet.jpg" />
+<img src="http://static.raymondcamden.com/images/cfjedi/cartmansweet.jpg" />

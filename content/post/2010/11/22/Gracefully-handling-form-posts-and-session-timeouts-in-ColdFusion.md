@@ -264,4 +264,4 @@ This system is not perfect of course. File uploads will be lost. But - it is cer
 
 <p/>
 
-<a href="http://www.raymondcamden.com/demos/nov222010/"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Flogin2%2Ezip'>Download attached file.</a></p>
+<a href="http://www.raymondcamden.com/demos/nov222010/"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Flogin2%2Ezip'>Download attached file.</a></p>

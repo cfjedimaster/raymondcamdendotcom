@@ -32,7 +32,7 @@ So - as I said - this was all pretty simple. I think I burned through the Read A
 
 After even more furious Googling (and a quick Diablo 3 break), I found this <a href="http://onteria.wordpress.com/2011/05/30/multipartform-data-uploads-using-node-js-and-http-request/">post</a>. I'd love to actually name the guy or gal - but his About page doesn't actually say who he or she is. Therefore I've decided this person is...
 
-<img src="http://www.raymondcamden.com/images/5028859259_81bcfb811b.jpg" />
+<img src="http://static.raymondcamden.com/images/5028859259_81bcfb811b.jpg" />
 
 ... just because s/he/it was so damn helpful. I incorporated some of his logic into my final code, and while I'm not terribly happy with the mashup, it is working correctly. Here's an example of the call:
 
@@ -40,7 +40,7 @@ After even more furious Googling (and a quick Diablo 3 break), I found this <a h
 
 And here it is up on the shiny new PhoneGap Build site...
 
-<img src="http://www.raymondcamden.com/images/ScreenClip115.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip115.png" />
 
 Interestingly - browsers have made file uploads in JavaScript much easier with XHR2. If you haven't seen this in action, check out the excellent <a href="http://www.html5rocks.com/en/tutorials/file/xhr2/">HTML5 Rocks</a> article on it.
 

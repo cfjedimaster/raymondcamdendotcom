@@ -11,7 +11,7 @@
 
 I've got a big update to the my little Time Tracker AIR application, thanks mostly to <a href="http://www.kylehayes.info/blog/">Kyle Hayes</a>. He gave some UI loving to the app - see below:
 
-<img src="http://www.raymondcamden.com/images/Picture 41.png">
+<img src="http://static.raymondcamden.com/images/Picture 41.png">
 
 I've done a bit more cleanup. One of the things I fixed was my duplicate labelFormatter. The labelFunction feature is one of the neatest things in Flex. When it comes to a control that takes a set of data, you can say, "When displaying X, call this function." Your function can then do stuff like, "If the row of data has a price more than 100, mark it (Expensive!)". You get the idea. What was bugging me though was that I wanted to use the same labelFunction for my DataGrid and my ComboBox. But the DataGrid passes 2 arguments to it's label function, and the ComboBox passes one. I wrote two functions which both did the exact same thing. Turns out (and I found this online but forgot to bookmark where) there is a simpler solution - just mark the section argument as optional. Here is an example from my code:
 

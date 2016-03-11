@@ -63,7 +63,7 @@ Note that I begin by asking for media types. Our database categories art by a me
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip139.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip139.png" />
 
 <p/>
 
@@ -116,7 +116,7 @@ Next up we have the category page - which is really just a slightly different ve
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip140.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip140.png" />
 
 <p/>
 
@@ -169,7 +169,7 @@ This page is even simpler. We just get the art detail and render it within the p
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip141.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip141.png" />
 
 <p/>
 
@@ -437,7 +437,7 @@ Nothing fancy here either. Just simple content with some buttons. Here's a shot 
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip142.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip142.png" />
 
 <p/>
 
@@ -445,7 +445,7 @@ And here's a shot of the dialog.
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip143.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip143.png" />
 
 <p/>
 
@@ -453,7 +453,7 @@ And finally - the new home page:
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip144.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip144.png" />
 
 <p/>
 
@@ -471,4 +471,4 @@ Adding that helped right away. Ok - that's it. I've included a zip below and you
 
 <p/>
 
-<a href="http://www.coldfusionjedi.com/demos/artbrowser/v4"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fartbrowser%2Ezip'>Download attached file.</a></p>
+<a href="http://www.coldfusionjedi.com/demos/artbrowser/v4"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fartbrowser%2Ezip'>Download attached file.</a></p>

@@ -57,7 +57,7 @@ And the result:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip242.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip242.png" />
 
 <p>
 

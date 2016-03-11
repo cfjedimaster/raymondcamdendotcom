@@ -142,10 +142,10 @@ I decided to inject the service in the <code>run</code> method of my main Angula
 
 Pretty simple I think. As a quick note, the button index passed to onConfirm is 1-based, which is good, but don't forget. For testing, I fired up my iOS Simulator. What you may not know is that it lets you change your location. This can be found under the Debug menu.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-18-at-8.35.31-AM.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-18-at-8.35.31-AM.png" alt="Screen Shot 2015-05-18 at 8.35.31 AM" width="458" height="344" class="aligncenter size-full wp-image-6157" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-18-at-8.35.31-AM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/Screen-Shot-2015-05-18-at-8.35.31-AM.png" alt="Screen Shot 2015-05-18 at 8.35.31 AM" width="458" height="344" class="aligncenter size-full wp-image-6157" /></a>
 
 Notice it has a "Custom Location" item. You can select this, enter a location, and it will remember it. I entered my values (which are the same as the static values in the code) and in the next iteration of the heart beat, it matched:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-18-2015-8.37.44-AM.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-18-2015-8.37.44-AM.png" alt="iOS Simulator Screen Shot May 18, 2015, 8.37.44 AM" width="450" height="800" class="aligncenter size-full wp-image-6158" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-18-2015-8.37.44-AM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-18-2015-8.37.44-AM.png" alt="iOS Simulator Screen Shot May 18, 2015, 8.37.44 AM" width="450" height="800" class="aligncenter size-full wp-image-6158" /></a>
 
 If you want to play with this, check out the full source code here: <a href="https://github.com/cfjedimaster/Cordova-Examples/tree/master/geoalert">https://github.com/cfjedimaster/Cordova-Examples/tree/master/geoalert</a>.

@@ -19,7 +19,7 @@ Take a simple static chart with one series, like the code below.
 
 When displayed, note that the legend shows one item for each data point.
 
-<img src="http://www.raymondcamden.com/images/screenshot56.png" />
+<img src="http://static.raymondcamden.com/images/screenshot56.png" />
 
 If you add another series to the chart, then the legend switches to identifying each series, not each point. Turns out, this is actually documented:
 
@@ -34,6 +34,6 @@ How to change this is actually described right there in the note - by using a cu
 
 Which results in...
 
-<img src="http://www.raymondcamden.com/images/screenshot57.png" />
+<img src="http://static.raymondcamden.com/images/screenshot57.png" />
 
 As an aside, the new HTML-based charts in ColdFusion 10 Enterprise automatically have this behavior.

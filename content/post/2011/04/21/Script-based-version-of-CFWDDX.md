@@ -70,7 +70,7 @@ And the result...
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip72.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip72.png" />
 
 <p>
 

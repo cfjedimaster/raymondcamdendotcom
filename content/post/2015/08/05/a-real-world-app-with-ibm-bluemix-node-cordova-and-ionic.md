@@ -23,15 +23,15 @@ I'm still working on my <a href="https://github.com/cfjedimaster/SauceDB">large 
 
 Before we get to the code, what are we actually building? We're building an application that makes use of the <a href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/visual-recognition.html">Watson Visual Recognition</a> service. We'll create a mobile application that lets you select a picture and send it to the Watson service so it can try and find what's in the picture. If this sounds familiar, it should. I <a href="http://www.raymondcamden.com/2015/02/06/using-the-new-bluemix-visual-recognition-service-in-cordova">blogged</a> about this back in February. However, back then I built a simple Cordova-only demo with the service credentials hard coded into the code. That was bad. This version is "proper" with a Node.js server running as a proxy to Watson on Bluemix. Here's a screen show of the mobile app on start:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/iOS-Simulator-Screen-Shot-Aug-5-2015-10.40.39-AM.png" alt="iOS Simulator Screen Shot Aug 5, 2015, 10.40.39 AM" width="500" height="323" class="aligncenter size-full wp-image-6588 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/iOS-Simulator-Screen-Shot-Aug-5-2015-10.40.39-AM.png" alt="iOS Simulator Screen Shot Aug 5, 2015, 10.40.39 AM" width="500" height="323" class="aligncenter size-full wp-image-6588 imgborder" />
 
 Clicking the button brings up a prompt to select an image. Note - it would be trivial to make this use a real camera - but by using the photo gallery it is easier to run on a simulator. And obviously you could use two buttons so the user could choose.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/iOS-Simulator-Screen-Shot-Aug-5-2015-10.42.25-AM1.png" alt="iOS Simulator Screen Shot Aug 5, 2015, 10.42.25 AM" width="259" height="300" class="aligncenter size-full wp-image-6590 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/iOS-Simulator-Screen-Shot-Aug-5-2015-10.42.25-AM1.png" alt="iOS Simulator Screen Shot Aug 5, 2015, 10.42.25 AM" width="259" height="300" class="aligncenter size-full wp-image-6590 imgborder" />
 
 After you select the image, it will be uploaded to the Node.js server, sent to Watson for processing (I imagine Watson as millions of tiny minions), and the results returned to the mobile app. Watson includes both labels for things it believe it found as well as scores, but for this app, we'll just display the labels.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/iOS-Simulator-Screen-Shot-Aug-5-2015-10.44.48-AM.png" alt="iOS Simulator Screen Shot Aug 5, 2015, 10.44.48 AM" width="338" height="600" class="aligncenter size-full wp-image-6591 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/iOS-Simulator-Screen-Shot-Aug-5-2015-10.44.48-AM.png" alt="iOS Simulator Screen Shot Aug 5, 2015, 10.44.48 AM" width="338" height="600" class="aligncenter size-full wp-image-6591 imgborder" />
 
 <h2>Prereqs</h2>
 
@@ -48,37 +48,37 @@ In order to build this project, there's a few things you'll need to get started.
 
 Let's begin by creating the application on Bluemix. Assuming you've logged in, begin by clicking Create App under Cloud Foundry Apps.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot1.png" alt="shot1" width="500" height="217" class="aligncenter size-full wp-image-6593" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot1.png" alt="shot1" width="500" height="217" class="aligncenter size-full wp-image-6593" />
 
 Then select Mobile for the type of app you are creating. To be clear, this will only set some default services. You can, and we will in this project, also create a web site via your Node.js application.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot2.png" alt="shot2" width="500" height="204" class="aligncenter size-full wp-image-6594" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot2.png" alt="shot2" width="500" height="204" class="aligncenter size-full wp-image-6594" />
 
 Now select the Mobile option that supports hybrid. To be clear, even though you aren't picking iOS 8, you can still deploy to iOS 8. All we're doing is driving what's automatically added to our application in Bluemix.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot3.png" alt="shot3" width="500" height="246" class="aligncenter size-full wp-image-6595" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot3.png" alt="shot3" width="500" height="246" class="aligncenter size-full wp-image-6595" />
 
 Click Continue and then give this bad boy a name. I like to name my applications optimistically:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot4.png" alt="shot4" width="500" height="220" class="aligncenter size-full wp-image-6596" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot4.png" alt="shot4" width="500" height="220" class="aligncenter size-full wp-image-6596" />
 
 Click Finish and let Bluemix set stuff up for you. When done, you'll get a confirmation screen with some tips for where to go next.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot5.png" alt="shot5" width="600" height="490" class="aligncenter size-full wp-image-6597" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot5.png" alt="shot5" width="600" height="490" class="aligncenter size-full wp-image-6597" />
 
 Just hit continue, and then select the <strong>Start Coding</strong> link in the left hand nav. This next page has a few important links on it:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot6.png" alt="shot6" width="510" height="600" class="aligncenter size-full wp-image-6598 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot6.png" alt="shot6" width="510" height="600" class="aligncenter size-full wp-image-6598 imgborder" />
 
 That first item, "Download CF Command Line Interface", is a <strong>one time</strong> download to get the command line tool. The command line tool, cf, lets you push up your code to the Bluemix server. You'll do this when you want to deploy the app live to the Internet. For our project here you won't ever <i>need</i> to do that, but can if you want to show your app to others. 
 
 The second item, "Download Start Code", gives you the Node.js code to start your server. Normally you could download this to get started on a new application. But our project exists up on GitHub already. Before diving into the code, let's go ahead and set up the service our application will load. Click "Overview" to return to the main application home page, and then "Add a Service or API".
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot8.png" alt="shot8" width="600" height="456" class="aligncenter size-full wp-image-6600" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot8.png" alt="shot8" width="600" height="456" class="aligncenter size-full wp-image-6600" />
 
 Bluemix offers quite a few services, and while I can see "Visual Recognition" there clearly, you may not. You can use the search field on top to quickly narrow down your search. When you click on the Visual Recognition service it will give you a confirmation of the price (free, well, beta, but free!) and where the service will be installed. For now you can accept the defaults.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot9.png" alt="shot9" width="700" height="368" class="aligncenter size-full wp-image-6601" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot9.png" alt="shot9" width="700" height="368" class="aligncenter size-full wp-image-6601" />
 
 <h2>Recap</h2>
 
@@ -194,7 +194,7 @@ Ok, let's break this down. The first thing you'll notice is a config block:
 
 You need to change these values to the ones specified in the Bluemix console. If you go back to that web page and click the <code>Mobile Options</code> link, you'll see the values there:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot7.png" alt="shot7" width="420" height="120" class="aligncenter size-full wp-image-6599" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot7.png" alt="shot7" width="420" height="120" class="aligncenter size-full wp-image-6599" />
 
 In the screen shot above, the <code>app key</code> value is the <code>applicationId</code> value in code.
 
@@ -211,7 +211,7 @@ var visual_recognition = watson.visual_recognition({
 
 So first off, we've added a library called <a href="https://www.npmjs.com/package/watson-developer-cloud">watson-developer-cloud</a> to our application. This provides simple access to various Watson services including the visual recognition one. In order to use the service you need to configure access by supplying the username and password. You can find it by clicking the "Show Credentials" link for the service.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot10.png" alt="shot10" width="400" height="374" class="aligncenter size-full wp-image-6602" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot10.png" alt="shot10" width="400" height="374" class="aligncenter size-full wp-image-6602" />
 
 I want to point out something kinda important here. When your app runs in the Bluemix environment, you have access to environment variables for everything, including services and their authentication information. A <i>better</i> approach here would be for my code to sniff for those variable and use hard coded values when they aren't available. For now though we're keeping it simple. This will let us run the code locally and on Bluemix. Let's carry on through the code. (Note - I'm skipping over some code from the boilerplate that isn't necessarily important. If there is something you want to ask me about, just use the comments below.)
 
@@ -275,21 +275,21 @@ And that's it. The desktop form is just that - a simple form (you can see all th
 
 At the command line, fire up the server by typing <code>node app</code> then open your browser to the port mentioned in the last line of your terminal:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot11.png" alt="shot11" width="400" height="53" class="aligncenter size-full wp-image-6603" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot11.png" alt="shot11" width="400" height="53" class="aligncenter size-full wp-image-6603" />
 
 Given that your port is probably 3000, open your browser to localhost:3000/desktop:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot12.png" alt="shot12" width="274" height="97" class="aligncenter size-full wp-image-6604 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot12.png" alt="shot12" width="274" height="97" class="aligncenter size-full wp-image-6604 imgborder" />
 
 Select an image and then submit the form. We don't have any validation on the upload for now so be sure to select a valid image. When done, you'll get a result.
 
 Here's the source image:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/Bj1dYR8IUAAaDE4.jpg" alt="Bj1dYR8IUAAaDE4" width="300" height="300" class="aligncenter size-full wp-image-6605" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/Bj1dYR8IUAAaDE4.jpg" alt="Bj1dYR8IUAAaDE4" width="300" height="300" class="aligncenter size-full wp-image-6605" />
 
 And here is the result:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot13.png" alt="shot13" width="500" height="82" class="aligncenter size-full wp-image-6606 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot13.png" alt="shot13" width="500" height="82" class="aligncenter size-full wp-image-6606 imgborder" />
 
 Ok, time to turn to the mobile device!
 

@@ -106,7 +106,7 @@ Here comes the cool part - and it's something I discovered when I was working on
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/device-2011-11-14-102805.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device-2011-11-14-102805.png" />
 
 <p>
 
@@ -114,7 +114,7 @@ And that's it. You can demo this yourself by clicking the demo button below. In 
 
 <p>
 
-<a href="http://coldfusionjedi.com/demos/2011/nov/14/test.html"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://coldfusionjedi.com/demos/2011/nov/14/test.html"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

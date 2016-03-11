@@ -9,7 +9,7 @@
 	"guid": "3266"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi//Picture 225.png" align="left" style="margin-right:10px">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 225.png" align="left" style="margin-right:10px">
 I'm such a jQuery nerd that I set my alarm and woke up early just to be one of the first to blog the good news. If you read my blog, you know I've been playing quite a bit with jQuery, and the jQuery UI project specifically. (Also note I've been blogging on <a href="http://www.insideria.com">InsideRIA</a> as well.) The version I've been using, and was recommended to use, was the 1.6 Release Candidate. Well, you can remove the RC label now as the final, official release of the new version is <a href="http://jqueryui.com/">here</a> today.
 
 Their <a href="http://blog.jqueryui.com/2009/03/jquery-ui-17/">blog entry</a> covers the details completely, but at a high level, here is what you can expect.

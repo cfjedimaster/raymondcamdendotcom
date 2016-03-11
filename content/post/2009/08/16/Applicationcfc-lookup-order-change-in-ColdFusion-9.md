@@ -13,7 +13,7 @@ In previous versions of ColdFusion, the server would look for an Application.cfc
 
 ColdFusion 9 adds the ability to modify this behavior. In the ColdFusion Administrator, Settings panel, you will see the following new option:
 
-<img src="http://www.raymondcamden.com/images/Picture 253.png" />
+<img src="http://static.raymondcamden.com/images/Picture 253.png" />
 
 Now the first two options make sense. The 'Default order' option is the same as the previous version of ColdFusion. The next option, 'Until webroot', will tell ColdFusion to only search until it gets to the root of the web server. The last option, 'In webroot', didn't make sense to me. 
 

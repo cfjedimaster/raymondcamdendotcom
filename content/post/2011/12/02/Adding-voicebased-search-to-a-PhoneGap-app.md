@@ -68,7 +68,7 @@ Nothing special there - just a form field and a button. Btw - Pro Tip here - whe
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/device-2011-12-02-083521.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device-2011-12-02-083521.png" />
 
 <p>
 
@@ -114,7 +114,7 @@ Again - nothing terribly complex here. Bind to the button - check the value - an
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/device-2011-12-02-083540.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device-2011-12-02-083540.png" />
 
 <p>
 
@@ -184,7 +184,7 @@ And the new UI....
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/device-2011-12-02-092309.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device-2011-12-02-092309.png" />
 
 <p>
 
@@ -263,7 +263,7 @@ So first off, we have to see if we can even do recognition. Therefore I've got a
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/device-2011-12-02-092332.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device-2011-12-02-092332.png" />
 
 <p>
 
@@ -271,7 +271,7 @@ In the result handler, we can simply then grab the response object and assume th
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/device-2011-12-02-092341.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device-2011-12-02-092341.png" />
 
 <p>
 

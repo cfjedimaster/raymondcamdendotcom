@@ -13,7 +13,7 @@ Sorry folks - slow blog week. A few weeks ago I got a letter saying our househol
 <!--more-->
 First - this is what came in the package:
 
-<img src="http://www.raymondcamden.com/images/2013-07-30 16.03.32.jpg" />
+<img src="http://static.raymondcamden.com/images/2013-07-30 16.03.32.jpg" />
 
 I'll answer the question I know people are asking first. Yes, that's money. Real money. Five bucks. Kinda nice I suppose. They are definitely selling their research for quite a bit more than that. 
 
@@ -23,7 +23,7 @@ First strike.
 
 Now check out the actual diary.
 
-<img src="http://www.raymondcamden.com/images/2013-07-30 16.06.27.jpg" />
+<img src="http://static.raymondcamden.com/images/2013-07-30 16.06.27.jpg" />
 
 Well, to be clear, that's just the sample page. There's about 20 more pages of graphs like that. Insane. I can't believe anyone who has any life at all would actually fill this stuff out. Note it mentions VCR or DVD, but not DVR. (Although the initial survey does ask if you have a DVR.) 
 

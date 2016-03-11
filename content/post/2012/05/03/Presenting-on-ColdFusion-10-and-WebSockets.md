@@ -17,6 +17,6 @@ Next week (Wednesday night) I'll be doing a presentation on ColdFusion 10 and We
 
 If you haven't played with WebSockets yet, this is a perfect opportunity to investigate them and see how easy ColdFusion 10 makes it. How easy?
 
-<img src="http://www.raymondcamden.com/images/take_it_easy_kitten-7530.jpg" />
+<img src="http://static.raymondcamden.com/images/take_it_easy_kitten-7530.jpg" />
 
 That easy.

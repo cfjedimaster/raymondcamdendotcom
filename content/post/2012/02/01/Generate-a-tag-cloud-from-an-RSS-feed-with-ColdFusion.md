@@ -132,7 +132,7 @@ Sexy, eh? Here is the output from my blog:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip23.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip23.png" />
 
 <p>
 
@@ -140,7 +140,7 @@ I then pointed it at the RSS feed from <a href="http://www.coldfusionbloggers.or
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip24.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip24.png" />
 
 <p>
 
@@ -159,7 +159,7 @@ This tag cloud then represents categories from the RSS feed:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip25.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip25.png" />
 
 <p>
 

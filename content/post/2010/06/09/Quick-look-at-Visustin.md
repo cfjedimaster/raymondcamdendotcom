@@ -27,16 +27,16 @@ To start off with - I took a fairly simply program.
 <p>
 As you can see, I've got a UDF and a loop that calls it 10 times. Here is what Visustin produced:
 <p> 
-<img src="http://www.raymondcamden.com/images/v12.png" />
+<img src="http://static.raymondcamden.com/images/v12.png" />
 <p>
 Not too bad. But changing the UDF to script produced a less useful chart:
 <p>
-<img src="http://www.coldfusionjedi.com/images/v22.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/v22.png" />
 <p>
 I questioned them on it (and let me say - the company, Aivosoto, was pretty darn responsive) and they said they don't currently support cfscript. That's a downer - but on the flip side - those of making heavy use of cfscript in our CFML are probably in the minority still. Here is another example, taken from the CFM I built for <a href="http://www.coldfusionjedi.com/index.cfm/2010/6/4/Automating-watermarking-of-images-with-ColdFusion">automating watermarking</a> in ColdFusion:
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/automarker.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/automarker.png" />
 
 <p>
 

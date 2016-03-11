@@ -34,7 +34,7 @@ I ran the code and it worked perfectly. <b>Once.</b> I looked in my browser that
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip164.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip164.png" />
 
 <p/>
 

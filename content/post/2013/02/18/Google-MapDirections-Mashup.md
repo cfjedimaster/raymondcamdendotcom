@@ -15,7 +15,7 @@ A while back I ran into an interesting problem with Google Maps. I was booking t
 <!--more-->
 The code for this application is relatively simple. I began by creating a simple Bootstrapped UI:
 
-<img src="http://www.raymondcamden.com/images/screenshot64.png" />
+<img src="http://static.raymondcamden.com/images/screenshot64.png" />
 
 I built in a bit of basic validation logic (which isn't too exciting) and then began work on the real meat of the application. Here's the entire JavaScript library behind the demo.
 
@@ -25,8 +25,8 @@ The interesting part begins around line 47. I geocode the destination address fi
 
 Here's a quick example:
 
-<img src="http://www.raymondcamden.com/images/screenshot65.png" />
+<img src="http://static.raymondcamden.com/images/screenshot65.png" />
 
 You can try this yourself by hitting the demo button below.
 
-<a href="http://www.raymondcamden.com/demos/2013/feb/13/test.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2013/feb/13/test.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

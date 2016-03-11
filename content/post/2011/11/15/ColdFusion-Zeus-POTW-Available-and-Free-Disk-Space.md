@@ -69,4 +69,4 @@ So, that's pretty much it. Here's a quick example that converts the bytes to meg
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip226.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip226.png" />

@@ -11,7 +11,7 @@
 
 So this is a minor nit - I really do love AIR, but I've noticed something funny. I go to install an application - one that I've installed before, and the installer tells me:
 
-<img src="http://www.raymondcamden.com/images//airerror.png">
+<img src="http://static.raymondcamden.com/images//airerror.png">
 
 Ok, no big deal, I'll just move the old file or pick another file, but nope, you can't do that, because the installer dies right there! Why not let the user go back and correct the install folder? Or move the file? Sure it takes me all of 5 seconds to do this and rerun the installer, but I wish it wouldn't abort the process because of a simple problem like that.
 

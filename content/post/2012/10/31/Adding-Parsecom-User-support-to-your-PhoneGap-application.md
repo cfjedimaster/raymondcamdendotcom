@@ -27,11 +27,11 @@ Before we get into the code, let's talk a bit high level about what Parse does f
 
 That's the high level overview, so let's get into the code. For my demo, I decided to build an application that supported registering new users, logging in existing users, and storing simple "Note" objects. These Note objects should be tied to a user so that I can't read someone else's notes. I began by creating a simple home screen.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip151.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip151.png" />
 
 Clicking on the Register button takes you to a simple form.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip152.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip152.png" />
 
 As I mentioned above, Parse has a special User type. At minimum, it requires a username and password. Email is supported too, and has special consequences. You can also add anything else you want as well, including birthday, gender, and so on. For my demo I just went with the basics. Let's look at the code that handles the submission of this form.
 
@@ -43,11 +43,11 @@ The signUp method is what handles user creation. The first argument you can igno
 
 The error function will get called for all possible cases you can imagine. User already exists? You get an error. Email address already exists? You get an error. You get both an error code and a message. Oddly the message is all lowercase. In production applications I'd probably use the code and handle the messages yourself, but to keep things simple I used it as is. Here is an example.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip153.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip153.png" />
 
 Let's switch now to the login form. Here's a screen cap. 
 
-<img src="http://www.raymondcamden.com/images/ScreenClip154.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip154.png" />
 
 As you can see, I've got both a login form here as well as a reset password form. Note that while Parse requires a username, the email address is optional. You can also skip asking a user for a username and just ask for their email address. You still <b>store</b> it as a username, but if you want to make the email address the username, that is very much supported as well. Let's tackle login first.
 
@@ -55,7 +55,7 @@ As you can see, I've got both a login form here as well as a reset password form
 
 As before, we've got a bit of simple form field grabbing and checking in the first half of the function. The logIn function is where the fun is. You pass in the authentication values and then handle the success or failure. For the most part we handle this the exact same way as registration. If we're good, store a copy of the user and then load the notes page. Otherwise, report the error. In case you're curious, the messages here are lowercase as well.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip155.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip155.png" />
 
 So what about password reset? The code for that is equally as simple.
 
@@ -64,17 +64,17 @@ So what about password reset? The code for that is equally as simple.
 As before, almost half of the code is simple DOM manipulation. The Parse API has a simple method to call and our work is done. In case you're curious, this is the email you get:
 
 
-<img src="http://www.raymondcamden.com/images/ScreenClip156.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip156.png" />
 
 "notebook" is the name I gave the application. Normally you would have something much more descriptive.
 
 Once clicked, you end up on a pretty simple page on Parse.com.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip157.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip157.png" />
 
 And finally, you get this when done:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip158.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip158.png" />
 
 So just to be clear, at no point did you need to actually email your user. You didn't need to set up an email account. Nor did you need to set up a web server. I do think Parse.com should perhaps offer a bit of customization here, perhaps for paying customers. I'd imagine it would be nice to be able to include an application logo of some sort, and perhaps add a bit of verbiage to the screens.
 
@@ -106,7 +106,7 @@ Personally, I think it makes sense to use both. You're explicitly saying "Ray ma
 
 To test this, I added a simple form that allowed you to write some text, the note this application was built to support.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip159.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip159.png" />
 
 And here is the code that handles creating the object. As I said, I made use of both methods of linking the data to the user.
 
@@ -120,7 +120,7 @@ And... that's it. Before I leave you though, let me share a few tips. First, you
 
 Secondly, Users are called out in your dashboard. You can even manually change passwords there, which was helpful during testing.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip160.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip160.png" />
 
 Thirdly, don't forget what I said in my last series. You have options to block anonymous users from doing <i>anything</i> with your application at all. 
 

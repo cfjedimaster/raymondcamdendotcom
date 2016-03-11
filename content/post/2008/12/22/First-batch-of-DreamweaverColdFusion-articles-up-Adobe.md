@@ -12,7 +12,7 @@
 
 So none of the articles will probably interest readers here, but the first batch of my article updates for Dreamweaver CS4 and ColdFusion are up at Adobe...
 
-<img src="http://www.raymondcamden.com/images//Picture 214.png">
+<img src="http://static.raymondcamden.com/images//Picture 214.png">
 
 Here is a direct link: <a href="http://www.adobe.com/devnet/dreamweaver/application_development.html#coldfusion">http://www.adobe.com/devnet/dreamweaver/application_development.html#coldfusion</a>
 

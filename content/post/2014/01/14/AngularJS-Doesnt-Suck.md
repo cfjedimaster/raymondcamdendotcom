@@ -34,7 +34,7 @@ I built this in Flex Mobile as an excuse to play with it, but obviously, this do
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot13.png" />
+<img src="http://static.raymondcamden.com/images/shot13.png" />
 </p>
 
 <p>
@@ -42,7 +42,7 @@ Once you select a service type, Google will then tell you what businesses it kno
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot22.png" />
+<img src="http://static.raymondcamden.com/images/shot22.png" />
 </p>
 
 <p>
@@ -50,7 +50,7 @@ Finally, you can see details about a business. Google's API actually returns qui
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot32.png" />
+<img src="http://static.raymondcamden.com/images/shot32.png" />
 </p>
 
 <p>

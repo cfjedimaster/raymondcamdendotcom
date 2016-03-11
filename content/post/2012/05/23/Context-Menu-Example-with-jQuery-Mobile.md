@@ -22,11 +22,11 @@ I've taken a few simple images and embedded them into the page. Note that each e
 In the code block at the bottom, I register an event listener for the taphold event and fire off a call to the SimpleDialog2 control. I won't go into a lot of detail over the options, use the link above for details, but I basically wanted a non-modal window with a set of options for the image. (For now those links don't actually do anything, but you get the idea.) You can demo this yourself below. Remember that if you are not on a touch device, you're screwed, unless you use Chrome which allows you to emulate touch events now.
 
 
-<a href="http://raymondcamden.com/demos/2012/may/23/"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://raymondcamden.com/demos/2012/may/23/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 Here's a quick screen shot so you can see it in action.
 
-<img src="http://www.raymondcamden.com/images/photo2.PNG" />
+<img src="http://static.raymondcamden.com/images/photo2.PNG" />
 
 Ok, if you want to stop reading now, you can. What follows is an interesting issue I discovered with iOS and tap events and how I debugged it using <a href="http://labs.adobe.com/technologies/shadow/">Adobe Shadow</a>. Still here? Ok, I warned you.
 

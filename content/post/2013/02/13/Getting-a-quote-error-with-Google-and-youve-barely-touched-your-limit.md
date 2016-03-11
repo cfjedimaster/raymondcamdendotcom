@@ -19,10 +19,10 @@ The "site" in question was localhost and I knew I was nowhere near my 25,000 dai
 
 Turns out I had forgotten to <b>enable</b> Google Maps V3. This is done in the "Services" menu:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip183.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip183.png" />
 
 You must turn on API access on the relevant line:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip184.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip184.png" />
 
 Obvious, right? I just wish the console message had been actually helpful.

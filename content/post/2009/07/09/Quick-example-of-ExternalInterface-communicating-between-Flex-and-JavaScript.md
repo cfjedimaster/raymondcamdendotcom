@@ -81,7 +81,7 @@ The basic idea for 'speaking' to the Flex application is to use the name of embe
 
 Here is a quick screen shot: 
 
-<img src="http://www.raymondcamden.com/images//Picture 246.png">
+<img src="http://static.raymondcamden.com/images//Picture 246.png">
 
 Ok, not so terribly exciting, but you get the idea. Note that document.X is Netscape only, it would be window.X in IE. 
 

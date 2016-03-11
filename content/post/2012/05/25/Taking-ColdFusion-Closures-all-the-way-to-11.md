@@ -31,6 +31,6 @@ Things get <i>real</i> interesting though when you look at the concurrency aspec
 
 In case it isn't obvious - the _eachParallel function runs once for each item in the array and fires the code concurrently. My closure runs a sleep function which will slow down the processing of the page. But since the closures run concurrently, you will only have to wait for the slowest one (5 seconds) and everything else will be complete. Here's a screen shot of the output from that sample:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip86.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip86.png" />
 
 Pretty cool!

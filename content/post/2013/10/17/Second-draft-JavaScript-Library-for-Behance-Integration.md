@@ -162,7 +162,7 @@ So to be clear, this is <strong>not</strong> as powerful of a solution as Handle
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/bapi.jpg" />
+<img src="http://static.raymondcamden.com/images/bapi.jpg" />
 </p>
 
 <p>

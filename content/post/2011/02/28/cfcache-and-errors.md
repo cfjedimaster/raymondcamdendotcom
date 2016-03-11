@@ -34,7 +34,7 @@ I've got a simple template that caches for one minute. (<b>Notice - the usequery
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip33.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip33.png" />
 
 <p>
 

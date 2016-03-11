@@ -25,7 +25,7 @@ As you can imagine, it contains links for JavaScript and CSS resources and lets 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screen Shot 2014-10-02 at 15.56.40.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2014-10-02 at 15.56.40.png" />
 </p>
 
 <p>

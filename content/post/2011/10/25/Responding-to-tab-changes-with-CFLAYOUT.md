@@ -89,7 +89,7 @@ Not much, right? ColdFusion provides a helper function to retrieve the underlyin
 
 <p>
 
-<a href="http://coldfusionjedi.com/demos/2011/oct/25/test2.cfm"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://coldfusionjedi.com/demos/2011/oct/25/test2.cfm"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

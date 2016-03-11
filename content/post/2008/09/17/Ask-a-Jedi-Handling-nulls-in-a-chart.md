@@ -70,7 +70,7 @@ So if you follow Nat's links, you will see what he is talking about. I'm sure we
 
 As you can see, I set it up so that for one year, 1996, the sales value is blank. This produces the following chart (your chart may look different since I'm using random numbers):
 
-<img src="http://www.raymondcamden.com/images//Picture 36.png">
+<img src="http://static.raymondcamden.com/images//Picture 36.png">
 
 Note that for 1996, the value is half way between 1995 and 1997. So what do we do? Not to sound like a broken record, but as I always say with these cfchart questions, you should go to the chart designer that is shipped with ColdFusion. Along with making it real easy to design a chart, it also lets you muck with the sample data as well. On a whim I decided to just erase one of the values. When I looked back at the design, it was perfect. The line didn't have any data for that part. I took a look around the design options and I found the value we need: isInterpolated. If this value is set to true then we get what we get in ColdFusion. ColdFusion must be setting this to true by default and doesn't - as far as I can see - provide a way around that.
 
@@ -92,7 +92,7 @@ Luckily we can just supply our XML to cfchart. Consider this version (I'm not re
 
 As you can see, I have an XML style with one value, isInterpolated="false". This produces the following chart:
 
-<img src="http://www.coldfusionjedi.com/images/Picture 51.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 51.png">
 
 Which now has the nice null values for your data. Note too that the look is a bit different. You will need to use the designer to specify other values if you want it to look exactly like the first chart above (but with null values).
 

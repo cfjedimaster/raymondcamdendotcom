@@ -18,7 +18,7 @@ In order to use remote debugging with iOS, you have to run Safari, open the Deve
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot1.jpg" />
+<img src="http://static.raymondcamden.com/images/shot1.jpg" />
 </p>
 
 <p>

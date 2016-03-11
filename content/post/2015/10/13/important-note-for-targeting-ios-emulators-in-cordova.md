@@ -45,7 +45,7 @@ The list above is about half of my list and your list will be different. Ok, pro
 
 <code>cordova emulate ios --target="iPhone-6, 8.4"</code>
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shotA.png" alt="shotA" width="750" height="193" class="aligncenter size-full wp-image-6915" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shotA.png" alt="shotA" width="750" height="193" class="aligncenter size-full wp-image-6915" />
 
 Wtf? Confusing, right? If you keep reading on that StackOverflow page, you come to <a href="http://stackoverflow.com/a/29705666/52160">this answer</a> by Ruslan Soldatenko. He points out that the <code>platforms/ios/cordova/lib/run.js</code> file has a specific list of allowed targets. I'm sure there is a good reason for this. Maybe the Cordova CLI doesn't want to keep asking the system for valid targets. Either way, if you open it up, you will find a line like this:
 

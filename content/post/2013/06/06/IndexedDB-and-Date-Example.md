@@ -26,7 +26,7 @@ So at this point we'd have an application that lets us add data containing a cre
 
 For the final portion I added two date fields on my page. In Chrome this is rendered nicely:
 
-<img src="http://www.raymondcamden.com/images/Screenshot_6_6_13_9_52_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_6_6_13_9_52_AM.png" />
 
 Based on these, I can then create an IndexedDB range of either bounds, lowerBounds, or upperBounds. I.e., give me crap either after a date, before a date, or inside a date range.
 
@@ -34,8 +34,8 @@ Based on these, I can then create an IndexedDB range of either bounds, lowerBoun
 
 The only conversion required here was to take the user input and turn it into "real" date objects. Once done, everything works great:
 
-<img src="http://www.raymondcamden.com/images/Screenshot_6_6_13_9_55_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_6_6_13_9_55_AM.png" />
 
 You can run the full demo below.
 
-<a href="http://www.raymondcamden.com/demos/2013/jun/6/test1.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2013/jun/6/test1.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

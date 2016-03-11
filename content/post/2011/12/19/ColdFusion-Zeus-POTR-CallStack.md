@@ -37,7 +37,7 @@ callStackGet returns an array of "invokers", or basically, how in the heck did w
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip.png" />
 
 <p>
 
@@ -86,7 +86,7 @@ And the result...
 <p>
 
 
-<img src="http://www.raymondcamden.com/images/ScreenClip1.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip1.png" />
 
 <p>
 
@@ -124,7 +124,7 @@ Notice I've added two calls to callstackDump. Most likely, this is a more real w
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip2.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip2.png" />
 
 <p>
 

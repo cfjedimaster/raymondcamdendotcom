@@ -41,7 +41,7 @@ I have a simple page with a time stamp on top. Then I have 2 tabs. The first tab
 
 And here is where things get freaky. Notice I didn't do an action for the cfform. That means the action is the same as the current page. The current page defines tabs. So guess what I get inside? Yep, tabs within tabs. Consider this screen shot:
 
-<img src="http://www.raymondcamden.com/images//Picture 21.png">
+<img src="http://static.raymondcamden.com/images//Picture 21.png">
 
 Most likely this isn't what you want. You want to be sure you specify an action and that the action isn't the same as the page that hosts the form itself. So here is an example from an upcoming update to <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers</a>:
 

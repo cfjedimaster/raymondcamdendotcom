@@ -9,7 +9,7 @@
 	"guid": "2733"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi//pe.png" align="left" style="margin-right: 10px;margin-bottom: 10px">
+<img src="http://static.raymondcamden.com/images/cfjedi//pe.png" align="left" style="margin-right: 10px;margin-bottom: 10px">
 
 Photoshop Express, an online image manipulation service, has launched today. This was demoed at the last MAX and was pretty impressive looking. They also give you 2 gigs of image storage. I'm surprised though that it doesn't integrate with Share (is anything happening with Share?) though. Oddly - you don't use your normal Adobe login, but must create a new account. I signed up about an hour ago but haven't gotten my confirmation email yet. 
 

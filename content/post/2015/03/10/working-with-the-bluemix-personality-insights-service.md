@@ -230,14 +230,14 @@ The rest was just presenting the results. The folks at Bluemix created a <a href
 
 Once I got this working, I was mostly OK, but then I did stupid crap like adding a helper in the Node.js app.js when I really needed it in the client-side app.js. I probably shouldn't have named those files the same. So what do the results look like? I'm going to link to the demo of course, but here are some examples. First, my own blog:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/pi_ray.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/pi_ray.png" alt="pi_ray" width="850" height="609" class="alignnone size-full wp-image-5805" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/pi_ray.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/pi_ray.png" alt="pi_ray" width="850" height="609" class="alignnone size-full wp-image-5805" /></a>
 
 Next, Gruber of <a href="http://daringfireball.net/">Daring Fireball</a>:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/pi_df.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/pi_df.png" alt="pi_df" width="850" height="604" class="alignnone size-full wp-image-5806" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/pi_df.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/pi_df.png" alt="pi_df" width="850" height="604" class="alignnone size-full wp-image-5806" /></a>
 
 And finally, <a href="http://www.sarahpac.com/">Sarah Palin's blog</a>:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/pi_sp.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/pi_sp.png" alt="pi_sp" width="850" height="598" class="alignnone size-full wp-image-5807" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/pi_sp.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/pi_sp.png" alt="pi_sp" width="850" height="598" class="alignnone size-full wp-image-5807" /></a>
 
 Want to try it yourself? Check out the demo here: <a href="http://bloginsights.mybluemix.net/">http://bloginsights.mybluemix.net/</a>. You can see the entire source code for the project here: <a href="https://github.com/cfjedimaster/bloginsights">https://github.com/cfjedimaster/bloginsights</a>.

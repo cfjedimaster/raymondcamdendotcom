@@ -26,7 +26,7 @@ There. I said it.
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/puke.jpg" />
+<img src="http://static.raymondcamden.com/images/puke.jpg" />
 </p>
 
 <p>

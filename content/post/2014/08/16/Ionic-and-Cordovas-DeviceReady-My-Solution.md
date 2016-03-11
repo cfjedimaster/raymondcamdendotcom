@@ -86,7 +86,7 @@ One of the more recent features to land in Ionic is <a href="http://ionicframewo
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/defaulttabs 2.png" />
+<img src="http://static.raymondcamden.com/images/defaulttabs 2.png" />
 </p>
 
 <p>
@@ -94,7 +94,7 @@ But when moved to the top using tabs-top, it is a bit more dramatic.
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/tabsontop.png" />
+<img src="http://static.raymondcamden.com/images/tabsontop.png" />
 </p>
 
 <p>

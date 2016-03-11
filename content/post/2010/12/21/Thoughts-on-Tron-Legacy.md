@@ -9,7 +9,7 @@
 	"guid": "4061"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/405px-Tronlegacy.jpg.jpg" align="left" style="margin-right:10px" /> It's rather late - but my eldest boy is keeping me up so we can see the eclipse in another hour so I figured I'd do a quick write up of my thoughts on Tron Legacy. Everything above the word SPOILER will be spoiler free. Anything below, including comments, should be considered free reign for anything folks want to say. 
+<img src="http://static.raymondcamden.com/images/cfjedi/405px-Tronlegacy.jpg.jpg" align="left" style="margin-right:10px" /> It's rather late - but my eldest boy is keeping me up so we can see the eclipse in another hour so I figured I'd do a quick write up of my thoughts on Tron Legacy. Everything above the word SPOILER will be spoiler free. Anything below, including comments, should be considered free reign for anything folks want to say. 
 
 There are a few movies from my youth that hold a warm spot in my heart. Star Wars (and Empire and Jedi of course) are one of them obviously. Tron is another. In fact, I'd probably say Tron had the biggest impact on me as a young computer programmer. Tron came out in 1982. I was 9 then and to be honest - I don't remember if I had even used a computer at that point. But I remember being in awe of the special effects and even more so - at the idea of a living, breathing world inside of computers. I know that when I did begin to program (Apple IIe FTW!) that the idea of my programs being actual living creatures was always there in my mind. All thanks to Tron of course.
 <!--more-->
@@ -17,7 +17,7 @@ Tron was one of those magical films of my youth. I had no expectations that Tron
 
 So with that in mind, my hopes were simple. Let me see what transpired in the world of Tron and let me be impressed by the visual design and effects. As cool as Tron was in terms of CGI, a lot of the iconic designs are what impress me today. Take the Recognizer:
 
-<img src="http://www.raymondcamden.com/images/cfjedi/Reco.PNG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Reco.PNG" />
 
 Pretty simplistic - but I remember being in awe of them on the big screen and they still look menacing to me today. The entire movie was full of design choices that just... felt right. And this is where Tron Legacy succeeds well. Obviously the effects are top notch. But frankly, we live in a world where crap SyFy shows have more than passable decent CGI. Tron Legacy does a good job by both being impressive and imaginative. The updated Recognizer reminds me of comparing Windows 7 to 95. You can see a similar hand in the creation of both but the newer model is quite a bit shiner. 
 

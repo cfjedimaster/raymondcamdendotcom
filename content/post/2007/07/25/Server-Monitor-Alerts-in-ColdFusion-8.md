@@ -11,7 +11,7 @@
 
 So this isn't exactly old news, but while I've played quite a bit with the new Server Monitor in ColdFusion 8, I never really took a good look at the Alerts section. This week I finally took some time to play with alerts. Alerts are a great way to monitor your box without having to have the Server Monitor constantly running in a browser window. As you can guess, alerts will monitor various different things on your server and let you know if something goes wrong. 
 
-<a href="http://www.raymondcamden.com/images/smalerts1.png"><img src="http://www.coldfusionjedi.com/images/smalerts1_thumb.jpg" align="left" style="margin-right: 15px" title="Alerts Screen - Click for Large Image"></a>
+<a href="http://www.raymondcamden.com/images/smalerts1.png"><img src="http://static.raymondcamden.com/images/cfjedi/smalerts1_thumb.jpg" align="left" style="margin-right: 15px" title="Alerts Screen - Click for Large Image"></a>
 
 Out of the box you can monitor the following: 
 
@@ -35,11 +35,11 @@ There is also another option which is pretty darn cool. An alert can trigger an 
 
 You can browse alerts in the Server Monitor as well:
 
-<img src="http://www.coldfusionjedi.com/images/smalerts2.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/smalerts2.png">
 
 The above screen shows that I have one alert. Double clicking on the alert lets me see the snapshot since I enabled that option. ColdFusion will also alert you when the status reverts to normal:
 
-<img src="http://www.coldfusionjedi.com/images/smalerts3.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/smalerts3.png">
 
 In order for snapshots to work, you must enable Server Monitoring, which as <a href="http://carehart.org/blog/client/index.cfm/2007/6/15/cf8_hiddengem_monitoring_incredibleinfo">Charlie has blogged</a> will add minimal overhead to your server. I also pinged Adobe about any impact from alerts in general and was told there was no impact that folks would need to be concerned about. 
 

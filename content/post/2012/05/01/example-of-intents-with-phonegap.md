@@ -39,14 +39,14 @@ And then I used a bit of JavaScript to notice the intent.
 
 Simple, right? After installing the application, I whipped up a quick HTML page with two links. One pointing to my blog, another to a random <a href="http://www.youtube.com/watch?v=dQw4w9WgXcQ">Youtube video</a>.
 
-<img src="http://www.raymondcamden.com/images/wishot1.png" />
+<img src="http://static.raymondcamden.com/images/wishot1.png" />
 
 When I click the Youtube link, I now get this:
 
-<img src="http://www.raymondcamden.com/images/wishot2.png" />
+<img src="http://static.raymondcamden.com/images/wishot2.png" />
 
 and if I select my own application, the JavaScript I wrote notices and responds to the invocation:
 
-<img src="http://www.raymondcamden.com/images/wishot3.png" />
+<img src="http://static.raymondcamden.com/images/wishot3.png" />
 
 Pretty simple! I really barely touched on the power and reach of Intents, and I have no idea if something similar exists for iOS (surely it must), but all in all this is <i>incredibly</i> easy to use with PhoneGap.<p><a href='/enclosures/intenttest%2Ezip'>Download attached file.</a></p>

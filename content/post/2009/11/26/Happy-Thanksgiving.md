@@ -11,4 +11,4 @@
 
 Just a quick note to say Happy Thanksgiving to all who celebrate it. I want to thank all my readers here. Your questions, your comments, even your arguments, help make this a better blog. Thanks! 
 
-<img src="http://www.raymondcamden.com/images/StarWarsThanksgiving1.jpg" title="Everything is better with Star Wars" />
+<img src="http://static.raymondcamden.com/images/StarWarsThanksgiving1.jpg" title="Everything is better with Star Wars" />

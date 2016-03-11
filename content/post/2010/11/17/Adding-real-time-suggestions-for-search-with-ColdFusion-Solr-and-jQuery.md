@@ -19,13 +19,13 @@ First, I created a simple form:
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;form method="post"&gt;
 &lt;cfoutput&gt;&lt;input type="text" name="search" id="search" value="#htmlEditFormat(form.search)#"&gt;&lt;/cfoutput&gt;
 &lt;input type="submit" value="Search"&gt;&lt;br/&gt;
 &lt;span id="suggestion"&gt;&lt;/span&gt;
 &lt;/form&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -33,13 +33,13 @@ Everything above should make sense except perhaps for the span. The span is an e
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfif len(form.search)&gt;
 	&lt;cfsearch collection="cfdocs" criteria="#form.search#" name="results" maxrows="10"&gt;
 
 	&lt;cfdump var="#results#"&gt;
 &lt;/cfif&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -47,7 +47,7 @@ Now let's look at the jQuery. Back on the top of my document I've got this:
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 $(document).ready(function() {
 
 	$("#search").keyup(function() {
@@ -59,7 +59,7 @@ $(document).ready(function() {
 		});
 	});
 })
-</code>
+</code></pre>
 
 <p>
 
@@ -67,7 +67,7 @@ As you type, I grab the current value of the search field. This gets passed to a
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfcomponent output="false"&gt;
 
 &lt;cffunction name="getSuggestion" access="remote" returnType="string" output="false"&gt;
@@ -87,7 +87,7 @@ As you type, I grab the current value of the search field. This gets passed to a
 &lt;/cffunction&gt;
 
 &lt;/cfcomponent&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -95,7 +95,7 @@ All my component does is handle suggestions. I'd probably have the real search i
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cffunction name="getSuggestion" access="remote" returnType="string" output="false"&gt;
 	&lt;cfargument name="search" type="string" required="true"&gt;
 	&lt;cfset var status = ""&gt;
@@ -106,7 +106,7 @@ All my component does is handle suggestions. I'd probably have the real search i
 			  
 	&lt;cfreturn trim(status.collatedresult)&gt;
 &lt;/cffunction&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -114,4 +114,4 @@ You can see a demo of this by clicking the big button below. Useful? Suggestion 
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/nov172010/test4.cfm"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<i>Sorry - this demo is no longer available online.</i>

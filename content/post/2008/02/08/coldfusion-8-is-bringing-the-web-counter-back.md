@@ -9,11 +9,11 @@
 	"guid": "2641"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/jt.jpg" align="left" style="margin-right: 10px;margin-bottom: 10px"> Justin Timberlake may be a <i>little</i> more popular than ColdFusion for bringing sexy back, but let me share how ColdFusion 8 is bringing the web counter back. What's the web counter?
+<img src="http://static.raymondcamden.com/images/cfjedi/jt.jpg" align="left" style="margin-right: 10px;margin-bottom: 10px"> Justin Timberlake may be a <i>little</i> more popular than ColdFusion for bringing sexy back, but let me share how ColdFusion 8 is bringing the web counter back. What's the web counter?
 
 Back in the "old" days, your web site wasn't truly a web site until it had a web counter. This little graphical doodad would show you how many visitors had hit your web site. Here is an example:
 
-<img src="http://www.raymondcamden.com/images/cfjedi/Picture%2018.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture%2018.png">
 
 You would paste once of these bad boys on your site and reload your page watching the numbers go up. And if the number actually went up twice in one hit - holy smokes - that means someone else actually hit your web page!
 

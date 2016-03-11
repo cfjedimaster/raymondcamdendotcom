@@ -13,7 +13,7 @@ My past set of blog entries on ColdFusion 10 and web sockets has focused on a si
 
 <p/>
 <!--more-->
-<img src="http://www.raymondcamden.com/images/ScreenClip34.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip34.png" />
 
 <p>
 
@@ -118,7 +118,7 @@ This broadcasts out over the web socket the line that was just drawn. Now take a
 
 <p>
 
-<a href="http://fivetag-cf10beta.securecb1cf10.ezhostingserver.com/whiteboard/"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://fivetag-cf10beta.securecb1cf10.ezhostingserver.com/whiteboard/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

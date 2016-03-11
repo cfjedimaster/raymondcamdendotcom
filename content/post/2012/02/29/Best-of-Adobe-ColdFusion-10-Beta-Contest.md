@@ -24,4 +24,4 @@ Participating in the contest constitutes permission to Adobe Systems Incorporate
 The contest runs from now until May 1st.
 
 
-<img src="http://www.raymondcamden.com/images/Picture1.jpg" />
+<img src="http://static.raymondcamden.com/images/Picture1.jpg" />

@@ -93,7 +93,7 @@ ColdFusion 8 makes it incredibly easy with the CFIMAGE tag. One of the many acti
 
 And this generates:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 19.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 19.png">
 
 You have many options to customize the CAPTCHA. Please see the ColdFusion documentation for a complete list, but in general, the attributes you care about are:
 

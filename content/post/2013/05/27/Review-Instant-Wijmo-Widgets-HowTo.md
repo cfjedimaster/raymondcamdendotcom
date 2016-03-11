@@ -11,11 +11,11 @@
 
 I've not looked at <a href="http://wijmo.com/">Wijmo</a> in some time, so when offered the chance to review a book on it, I thought it would be a great chance to reacquaint myself. Wijmo is a UI library of 40+ controls that are extended from the core functionality provided by <a href="http://www.jqueryui.com">jQuery UI</a>. Wijmo is not free, but seems fairly priced for its size.
 <!--more-->
-<img src="http://www.raymondcamden.com/images/Screenshot_5_27_13_5_54_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_5_27_13_5_54_AM.png" />
 
 I've not honestly used Wijmo in a production environment yet, but it <i>looks</i> great, and it was my hope that the book would give me a feel for whether or not I'd actually use it.
 
-<img src="http://www.raymondcamden.com/images/1868OS_0.jpg" style="float:left;margin-right: 10px; margin-bottom:10px" /> <a href="http://www.packtpub.com/how-to-use-wijmo-widgets/book">"Instant Wijmo Widgets How-To"</a> was written by Tochi Eke-Okoro. It clocks in at only 82 pages, which is slim, but I have no problem with that. I would imagine that a UI library probably doesn't need a huge book. I kind of like the idea of shorter, more focused e-books when it comes to technology. You should know, however, that with the front-matter being near 20 pages, you are looking at an approximately 60 page-length book.
+<img src="http://static.raymondcamden.com/images/1868OS_0.jpg" style="float:left;margin-right: 10px; margin-bottom:10px" /> <a href="http://www.packtpub.com/how-to-use-wijmo-widgets/book">"Instant Wijmo Widgets How-To"</a> was written by Tochi Eke-Okoro. It clocks in at only 82 pages, which is slim, but I have no problem with that. I would imagine that a UI library probably doesn't need a huge book. I kind of like the idea of shorter, more focused e-books when it comes to technology. You should know, however, that with the front-matter being near 20 pages, you are looking at an approximately 60 page-length book.
 
 Given that size, and given that Wijmo has 40+ controls, I'd expect the book to cover the basics of how Wijmo controls work in general followed by a deeper dive into maybe 5-10 controls. I'd also expect some good real world scenarios. (If you read some of my earlier reviews you know that's kind of an important thing to me.)
 

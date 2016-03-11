@@ -20,13 +20,13 @@ This idea relies on two main aspects. First is the ability to draw on a map. I'm
 
 While I researched this idea, I discovered they had a feature called <a href="https://developers.google.com/maps/documentation/javascript/examples/user-editable-shapes">"User-editable Shapes"</a>. As you can imagine, this lets a user move and adjust a shape on a map:
 
-<img src="http://www.raymondcamden.com/images/forb.png" />
+<img src="http://static.raymondcamden.com/images/forb.png" />
 
 This is nice - but a box isn't exactly precise enough. I decided to begin with simple lines (what Google calls Polylines). I created a map and then used click events to add markers with lines connecting them. Luckily Google had an example of this already (<a href="https://developers.google.com/maps/documentation/javascript/examples/polyline-complex">Polyline complex</a>) so I began with that. I made one modification though. I set it up so that as soon as you had clicked three times, I'd "close" the box automatically for you. 
 
 As an example:
 
-<img src="http://www.raymondcamden.com/images/forb2.png" />
+<img src="http://static.raymondcamden.com/images/forb2.png" />
 
 The code is rather simple - just notice how many lines we've drawn and on the 3rd click, automatically close the box:
  
@@ -34,15 +34,15 @@ The code is rather simple - just notice how many lines we've drawn and on the 3r
 
 This worked... ok (and you can demo it <a href="http://www.raymondcamden.com/demos/2013/aug/16_2/test1.html">here</a>), but I felt bad I was forcing you to search within a four sided polygon. What I really wanted was the ability to let you click as much as you want, and when you're done, close the 'box' automatically. As an example, I've created a multi-segmented polygon here and clicked search to complete the region:
 
-<img src="http://www.raymondcamden.com/images/forb3.png" />
+<img src="http://static.raymondcamden.com/images/forb3.png" />
 
 Overall, I felt like this was a good solution. Now - right away you may be asking - what happens if you draw something crazy, like, oh say this:
 
-<img src="http://www.raymondcamden.com/images/forb4.png" />
+<img src="http://static.raymondcamden.com/images/forb4.png" />
 
 Don't do that. Seriously. 
 
-<img src="http://www.raymondcamden.com/images/streams.jpg" />
+<img src="http://static.raymondcamden.com/images/streams.jpg" />
 
 Ok... so at this point, we've covered the first main aspect of this project - giving you the ability to 'draw' a region. Now comes the second. Given that we know the region, how do we find crap inside it? 
 
@@ -56,6 +56,6 @@ Now that I had my data, I could update my code to load it into memory. As to how
 
 As you can see, I loop over the data and pass it to the Geometry API. If a match is found, I add a marker. When done, I report on the total matches. You can demo this by hitting the giant demo button below. Note that hitting Search twice will destroy the universe. Don't hit search twice.
 
-<a href="http://www.raymondcamden.com/demos/2013/aug/16_2/test3.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2013/aug/16_2/test3.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 p.s. I actually tested "crossing the streams" and it worked perfectly. I knew it would. Honest.

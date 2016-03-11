@@ -13,7 +13,7 @@ So this falls into the pretty obvious category, but as I had not tried it before
 <!--more-->
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip19.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip19.png" />
 
 <p>
 
@@ -53,7 +53,7 @@ The application consists of three simple buttons. Whenever you click one, I use 
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip20.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip20.png" />
 
 <p>
 

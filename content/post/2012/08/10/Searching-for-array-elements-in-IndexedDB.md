@@ -68,8 +68,8 @@ And that worked. I mean, <i>of course</i> it worked. It allowed me to search for
 
 I'm not 100% sure I get why the range search was required, but it doesn't feel too entirely wonky to me. For those of you without a modern Firefox, here's a quick screen capture of the display:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip109.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip109.png" />
 
 And for those of you want to test, hit the demo button below and enjoy. I apologize if this blog post is a bit confusing. Please feel free to ask any questions, or correct any mistakes. 
 
-<a href="http://www.raymondcamden.com/demos/2012/aug/10/test2.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/aug/10/test2.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

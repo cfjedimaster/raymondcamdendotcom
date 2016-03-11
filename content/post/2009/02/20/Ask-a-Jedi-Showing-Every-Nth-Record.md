@@ -23,7 +23,7 @@
 
 This creates my fake query with 342 rows. I did a dump just to be sure it was that big. 
 
-<img src="http://www.raymondcamden.com/images//Picture 140.png">
+<img src="http://static.raymondcamden.com/images//Picture 140.png">
 
 I made my 'every N' logic dynamic using a variable:
 

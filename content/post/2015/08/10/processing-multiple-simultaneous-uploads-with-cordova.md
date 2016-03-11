@@ -54,7 +54,7 @@ function selPic() {
 
 I assume this stuff is rather simple, but if not, just let me know in the comments below. Here is a screen shot of the app in action.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/iOS-Simulator-Screen-Shot-Aug-10-2015-5.23.33-PM.png" alt="iOS Simulator Screen Shot Aug 10, 2015, 5.23.33 PM" width="546" height="700" class="aligncenter size-full wp-image-6620 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/iOS-Simulator-Screen-Shot-Aug-10-2015-5.23.33-PM.png" alt="iOS Simulator Screen Shot Aug 10, 2015, 5.23.33 PM" width="546" height="700" class="aligncenter size-full wp-image-6620 imgborder" />
 
 As you can guess, the upload button at the bottom there will begin the process. For my testing, I set up a ColdFusion script to simply save the uploads to a temporary directory. To add a bit of randonmness though, it will randomly reject images by outputting 0. On successful uploads, it will output 1.
 

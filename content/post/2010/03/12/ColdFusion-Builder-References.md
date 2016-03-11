@@ -13,7 +13,7 @@ In my <a href="http://www.raymondcamden.com/index.cfm/2010/3/10/ColdFusion-Build
 <p/>
 In order to perform any refactoring, ColdFusionBuilder first has to actually <i>find</i> the stuff that needs updating. There are a few ways you can make use of this feature. First - you can right click on a file in your Navigator view. Unfortunately you can only do this for CFM and CFCs, and not JavaScript or CSS files. In my first test, I simply ran a references report on my layout custom tag for BlogCFC:
 <p/>
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-03-12 at 10.27.26 AM.png" title="References for layout.cfm" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-03-12 at 10.27.26 AM.png" title="References for layout.cfm" />
 <p/>
 Nice, and pretty much what I expected. I then tried it on blog.cfc, but the only result then was blog.cfc itself, specifically the returnType="blog" line. CFBuilder wasn't able to recognize that I made an instance of blog.cfc within my Application.cfm file. Since I typically always create my CFCs within Application.cfc/cfm or ColdSpring, this isn't a huge big deal to me.
 <p/>

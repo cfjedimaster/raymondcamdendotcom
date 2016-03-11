@@ -13,7 +13,7 @@ On a private list, Ryan Guill asked if it was possible to get the ColdFusion's s
 <!--more-->
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip207.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip207.png" />
 
 <p>
 
@@ -121,7 +121,7 @@ Here's a screen shot:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip208.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip208.png" />
 
 <p>
 

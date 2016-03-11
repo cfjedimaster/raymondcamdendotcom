@@ -37,7 +37,7 @@ And... yeah, that's it. Even better, it degrades perfectly. So in Chrome it work
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip31.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip31.png" />
 
 <p>
 
@@ -45,7 +45,7 @@ to...
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip33.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip33.png" />
 
 <p>
 

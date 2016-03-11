@@ -14,7 +14,7 @@ As I've mentioned before, I've got a few videos available at O'Reilly (<a href="
 
 <!--more-->
 
-<a href="http://shop.oreilly.com/category/learning-path/beginning-javascript.do"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/09/shot12.png" alt="shot1" width="750" height="314" class="aligncenter size-full wp-image-6804" /></a>
+<a href="http://shop.oreilly.com/category/learning-path/beginning-javascript.do"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot12.png" alt="shot1" width="750" height="314" class="aligncenter size-full wp-image-6804" /></a>
 
 This video series consists of three parts. First is Semmy Purewal giving an introduction to JavaScript. Next up is my video. Then it ends with Douglas Crockford giving a "Master Class" in JavaScript. 
 

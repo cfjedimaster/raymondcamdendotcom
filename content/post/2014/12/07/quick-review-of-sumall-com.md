@@ -15,7 +15,7 @@ For a few months now I've been using <a href="http://sumall.com">SumAll</a> as a
 
 SumAll, a free service (with paid upgrades), works by connecting you to a variety of services. Everything from the expected stuff for social media and web (Google Analytics, Facebook, Twitter, etc) to the more personal (FitBit, RunKeeper, even banks). 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/shot1.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2014/12/shot1.png" alt="SumAll Shot 1" width="700" height="334" class="alignnone size-full wp-image-5393" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/shot1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/shot1.png" alt="SumAll Shot 1" width="700" height="334" class="alignnone size-full wp-image-5393" /></a>
 
 I'm not sure how often they add new sources, but I can say that I was just surprised by how many I saw. It definitely seems to be a lot more compared to when I first signed up. Each source can be added to one or more groups so you could organize your data as you see fit. 
 
@@ -25,34 +25,34 @@ SumAll has a beautiful design. It summarizes source data in a very slim, very fo
 
 First - my Google Analytics:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/sumall_ga.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2014/12/sumall_ga.png" alt="SumAll Google Analytics" width="1440" height="693" class="alignnone size-full wp-image-5396" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/sumall_ga.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/sumall_ga.png" alt="SumAll Google Analytics" width="1440" height="693" class="alignnone size-full wp-image-5396" /></a>
 
 Then - my Twitter stats:
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_twitter.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_twitter.png" alt="summall_twitter" width="300" height="144" class="alignnone size-medium wp-image-5395" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_twitter.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/summall_twitter.png" alt="summall_twitter" width="300" height="144" class="alignnone size-medium wp-image-5395" /></a>
 
 And here is Google Plus and YouTube. YouTube was - in particular - a revelation for me. I tried to make more use of YouTube (and Google Hangouts) this year and while I didn't achieve as much as I wanted, I was surprised by how many views my YouTube videos were getting. I'm no Gangnam Style, but what I saw was enough to convince me to ensure I keep up the effort in 2015. To be clear, this is not anything I couldn't have found out myself, but having it aggregated directly in SumAll was incredibly helpful.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_gplusyt.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_gplusyt.png" alt="summall_gplusyt" width="1440" height="693" class="alignnone size-full wp-image-5394" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_gplusyt.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/summall_gplusyt.png" alt="summall_gplusyt" width="1440" height="693" class="alignnone size-full wp-image-5394" /></a>
 
 Each stat (well I assume most stats) also has a detail view and a chart display as well. Here is the detail from my blog's Page View stats (and it was a rough week for me as you can tell by the downturn):
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_detail1.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_detail1.png" alt="summall_detail1" width="750" height="358" class="alignnone size-full wp-image-5401" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_detail1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/summall_detail1.png" alt="summall_detail1" width="750" height="358" class="alignnone size-full wp-image-5401" /></a>
 
 And here is the chart view. Note that there seems to be a rendering issue with the chart being a bit off screen in Firefox. I just tested in Chrome and it was perfect, so I'll be filing a bug report on this.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_detail2.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_detail2.png" alt="summall_detail2" width="700" height="334" class="alignnone size-full wp-image-5402" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_detail2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/summall_detail2.png" alt="summall_detail2" width="700" height="334" class="alignnone size-full wp-image-5402" /></a>
 
 On top of simply adding sources to your SumAll dashboard, there are a number of "Power Ups" as well.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_powerups.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_powerups.png" alt="Sumall Powerups" width="700" height="337" class="alignnone size-full wp-image-5398" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_powerups.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/summall_powerups.png" alt="Sumall Powerups" width="700" height="337" class="alignnone size-full wp-image-5398" /></a>
 
 These power ups (again, some free, some paid) provide additional functionality on top of just stat aggregation. For a while now (and you know this if you follow me) I've used the "Performance Tweet" that summarizes how I've done on Twitter over the past week with an auto tweet. Another example (included at the paid level), is "Always Aware", which provides alerts when certain thresholds aren't made. For example, if you want to ensure you always tweet a certain amount every day, the power up can warn you if you haven't hit that threshold. I'm using the "Email Digests" power up to get an email report every week. (Sometimes I forget to go directly to the SumAll site.) 
 
 You can also download mobile apps for SumAll for both Android and iOS. I had difficulty with the iOS version. To log on to the mobile app you have to use a "real" password for SumAll. I had originally logged in via my Twitter account but that isn't sufficient for mobile access. That is <strong>not</strong> made clear and I just assumed the iOS app was broken. I randomly discovered a note about this on the SumAll Account page so I got lucky. I've already reached out to their support (and again, more on that in a bit) about making this more clear. I tried again with the Android app (after adding a real password on SumAll.com) and it worked great. I <i>really</i> like the mobile app. You can't add any sources there, which is fine, but it is a great "viewer" for what you've set up. Here are two screen shots I stole from Google Play:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_mobile1.jpg"><img src="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_mobile1.jpg" alt="summall_mobile1" width="394" height="700" class="alignnone size-full wp-image-5399" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/summall_mobile1.jpg"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/summall_mobile1.jpg" alt="summall_mobile1" width="394" height="700" class="alignnone size-full wp-image-5399" /></a>
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/sumall_mobile2.jpg"><img src="http://www.raymondcamden.com/wp-content/uploads/2014/12/sumall_mobile2.jpg" alt="sumall_mobile2" width="168" height="300" class="alignnone size-medium wp-image-5400" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/sumall_mobile2.jpg"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/sumall_mobile2.jpg" alt="sumall_mobile2" width="168" height="300" class="alignnone size-medium wp-image-5400" /></a>
 
 Overall, for a free service, SumAll kicks butt. I love it. But it isn't perfect. I've been trying to add Google Analytics support since I first signed up, but it has been broken until I tested this morning. I'm not sure why it took so long to get corrected, and as I've paid them nothing, I can't really complain too much (grin), but I'm happy it finally got corrected. I still run into odd bugs as I use the service and sometimes the site is down (of course, so is <i>this</i> site), so it has the feel of a new service still getting the kinks out. 
 

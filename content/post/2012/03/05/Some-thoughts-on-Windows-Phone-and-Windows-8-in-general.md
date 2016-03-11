@@ -21,7 +21,7 @@ The UI (named Metro) is fascinating though. Maybe I'm just intrigued because it'
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/Windows_Phone_7.5_Start_Screen.png" />
+<img src="http://static.raymondcamden.com/images/Windows_Phone_7.5_Start_Screen.png" />
 
 <p>
 

@@ -9,7 +9,7 @@
 	"guid": "3825"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> Another contest has come to an end. I love running these things. It's a lot of work - but in the end - the results are always worth it. We didn't get many entries this time - but the ones we got were interesting, unique, and I think they go a long way to really demonstrating what a powerful platform ColdFusion Builder is. Speaking for myself - I definitely think I learned a few things:
+<img src="http://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> Another contest has come to an end. I love running these things. It's a lot of work - but in the end - the results are always worth it. We didn't get many entries this time - but the ones we got were interesting, unique, and I think they go a long way to really demonstrating what a powerful platform ColdFusion Builder is. Speaking for myself - I definitely think I learned a few things:
 <!--more-->
 <ul>
 <li>Many extensions (in this contest, mine, etc) don't properly handle all the various ways the IDE can send input to the extension. As an example, an extension built to work on a file may fail if you specify 2 or more files. For people whose extensions work with the project system it is something to check. Ditto for extensions tied to the editor. In one example, I selected no text and just assumed it would work on the complete file. It did not. So I really think we need to look out for these variations and handle them properly.

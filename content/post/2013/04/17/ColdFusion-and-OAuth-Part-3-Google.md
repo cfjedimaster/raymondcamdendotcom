@@ -9,7 +9,7 @@
 	"guid": "4912"
 }
 
-Welcome to my third and final blog post on ColdFusion and OAuth. (You may find the earlier entries below.) I apologize for the delay but I traveled last week so I'm a bit behind. If you have not yet read the earlier entries (<a href="http://www.raymondcamden.com/index.cfm/2013/4/1/ColdFusion-and-OAuth-Part-1--Facebook">part 1</a> and <a href="http://www.raymondcamden.com/index.cfm/2013/4/3/ColdFusion-and-OAuth-Part-2--Facebook">part 2</a>), please do so as I will not be repeating the information I wrote about before.
+Welcome to my third and final blog post on ColdFusion and OAuth. (You may find the earlier entries below.) I apologize for the delay but I traveled last week so I'm a bit behind. If you have not yet read the earlier entries (<a href="http://www.raymondcamden.com/2013/04/01/ColdFusion-and-OAuth-Part-1-Facebook/">part 1</a> and <a href="http://www.raymondcamden.com/2013/04/03/ColdFusion-and-OAuth-Part-2-Facebook/">part 2</a>), please do so as I will not be repeating the information I wrote about before.
 <!--more-->
 So - hopefully you've gotten an idea of how easy OAuth can be. After I got things working right the first time, the second demo was quite easy. For this demo I decided to get a bit fancier. Google has an OAuth API that lets you authenticate against their servers. What if you wanted to use Google for your user system? In other words, skip the whole custom registration process and offload user management to Google. That's not only possible but actually one of the recommended use cases in their <a href="https://developers.google.com/accounts/docs/OAuth2">documentation</a>.
 
@@ -21,7 +21,7 @@ Since our application is going to use Google for login, I've created a simple Ap
 
 The onApplicationStart is virtually a carbon copy of the earlier examples, but the onRequestStart is new. It checks to see if we are logged in, and barring that, checks to see if we are requesting either the login page or the callback page. When the user first hits the application, they are sent to the login page:
  
-<img src="http://www.raymondcamden.com/images/Screen Shot 2013-04-17 at 1.17.26 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-17 at 1.17.26 PM.png" />
 
 Notice that there isn't a form here. Remember, we're sending the user to Google instead. I could have automatically pushed them, but I felt this was more friendly. Here's the code for that template.
 
@@ -29,7 +29,7 @@ Notice that there isn't a form here. Remember, we're sending the user to Google 
 
 I've put the Google OAuth code into a CFC to abstract a bit, but for now, don't worry about it. The link generation is very similar to the previous two examples. Once the user clicks login, they are sent to Google. In this case, Google recognized my account and preset the login, but I have the option to switch users as well.
 
-<img src="http://www.raymondcamden.com/images/Screen Shot 2013-04-17 at 1.18.20 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-17 at 1.18.20 PM.png" />
 
 As before, the user is sent to a callback page. Here is that template. Again note that I've put much more into the CFC now so this is somewhat simpler.
 
@@ -37,7 +37,7 @@ As before, the user is sent to a callback page. Here is that template. Again not
 
 Finally, the user is directed to the homepage. As part of the Google API, I can get info about the user. I did so and dumped it out:
 
-<img src="http://www.raymondcamden.com/images/Screen Shot 2013-04-17 at 1.17.48 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-17 at 1.17.48 PM.png" />
 
 Here is that template:
 

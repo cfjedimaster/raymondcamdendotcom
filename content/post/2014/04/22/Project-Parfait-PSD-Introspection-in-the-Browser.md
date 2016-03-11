@@ -15,7 +15,7 @@ Today Adobe launched a pretty cool new site - <a href="https://projectparfait.ad
 </p>
 <!--more-->
 <p>
-<img src="http://www.raymondcamden.com/images/s0.png" />
+<img src="http://static.raymondcamden.com/images/s0.png" />
 </p>
 
 <p>
@@ -23,7 +23,7 @@ By default you're presented with a default PSD to work with, but you can quickly
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s19.png" />
+<img src="http://static.raymondcamden.com/images/s19.png" />
 </p>
 
 <p>
@@ -31,7 +31,7 @@ When done, you can open the PSD in the interface and start working with the vari
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s9.png" />
+<img src="http://static.raymondcamden.com/images/s9.png" />
 </p>
 
 <p>
@@ -39,7 +39,7 @@ Lots of interesting information is available. The styles tab, for example, shows
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s111.png" />
+<img src="http://static.raymondcamden.com/images/s111.png" />
 </p>
 
 <p>
@@ -47,7 +47,7 @@ If I select one particular element from my PSD, I get both the specific colors u
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s20.png" />
+<img src="http://static.raymondcamden.com/images/s20.png" />
 </p>
 
 <p>
@@ -55,7 +55,7 @@ Notice that I can copy the CSS from the right panel, or directly from the blue c
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s_extract3.png" />
+<img src="http://static.raymondcamden.com/images/s_extract3.png" />
 </p>
 
 <p>
@@ -63,7 +63,7 @@ You can also extract the text if you have something useful there as opposed to t
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s_layers.png" />
+<img src="http://static.raymondcamden.com/images/s_layers.png" />
 </p>
 
 <p>

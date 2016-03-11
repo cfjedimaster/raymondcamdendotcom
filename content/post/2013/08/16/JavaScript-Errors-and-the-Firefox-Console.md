@@ -13,14 +13,14 @@ This may fall into the category of "so obvious I'm the only one who didn't get i
 <!--more-->
 Check out the screen shot below:
 
-<img src="http://www.raymondcamden.com/images/Screenshot_8_16_13_7_04_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_8_16_13_7_04_AM.png" />
 
 Notice that CSS warnings are showing up - which is cool - and "1" is my console.log message. But my JavaScript error isn't there. I clicked the console drop down to see what options were there:
 
-<img src="http://www.raymondcamden.com/images/Screen Shot 2013-08-16 at 7.06.24 AM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2013-08-16 at 7.06.24 AM.png" />
 
 Yep - logging of errors is enabled. So what the heck? Turns out I had to <strong>also</strong> check the options on the JavaScript tab:
 
-<img src="http://www.raymondcamden.com/images/Screen Shot 2013-08-16 at 7.07.25 AM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2013-08-16 at 7.07.25 AM.png" />
 
 Ugh. I can't imagine why Errors would be turned off, but maybe it's a sensible default for some reason. That complaint aside - I have to say I <strong>really</strong> like the look of the console.

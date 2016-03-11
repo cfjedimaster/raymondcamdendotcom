@@ -19,7 +19,7 @@ First off, multi-file search in both Edge Code and Brackets has been much improv
 
 
 <p>
-<img src="http://www.raymondcamden.com/images/s1a.png" />
+<img src="http://static.raymondcamden.com/images/s1a.png" />
 </p>
 
 <p>
@@ -27,7 +27,7 @@ Another update is to the built-in Kuler integration. Previously you had access t
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s22.png" />
+<img src="http://static.raymondcamden.com/images/s22.png" />
 </p>
 
 <p>

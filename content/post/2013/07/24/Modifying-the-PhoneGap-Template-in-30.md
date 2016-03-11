@@ -24,4 +24,4 @@ Obviously this folder would be slightly different for Windows, and obviously the
 Here is my <strong>much superior</strong> default template that I humbly offer to the PhoneGap team for their consideration.
 
 
-<img src="http://www.raymondcamden.com/images/iOS Simulator Screen shot Jul 24, 2013 12.05.27 PM.png" />
+<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Jul 24, 2013 12.05.27 PM.png" />

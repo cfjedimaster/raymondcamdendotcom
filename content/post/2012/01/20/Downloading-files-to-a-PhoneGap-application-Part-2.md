@@ -61,7 +61,7 @@ With my code in place, I immediately ran into an issue with my remote URL. Remem
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip16.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip16.png" />
 
 <p/>
 
@@ -89,4 +89,4 @@ My gut tells me this same path would be fine on both - but in my third entry, wh
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip17.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip17.png" />

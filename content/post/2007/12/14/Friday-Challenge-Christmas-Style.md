@@ -9,7 +9,7 @@
 	"guid": "2540"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/12DaysChristmasHallmark.jpg" align="left" style="margin-right: 10px">
+<img src="http://static.raymondcamden.com/images/cfjedi/12DaysChristmasHallmark.jpg" align="left" style="margin-right: 10px">
 Last year I did a few Christmas style friday challenges, so I'm a bit overdue. This one is rather simple. Given a query that contains an ID, which corresponds to a day, and a gift, print out the famous "12 Days of Christmas" song dynamically. Ie, day 1 you get gift 1. Day 2 you get 1 of gift 1, and 2 of gift 2. And so on.
 
 Bonus points if you use festive green and red fonts in your display. (Once again, this is why they don't let me design.)

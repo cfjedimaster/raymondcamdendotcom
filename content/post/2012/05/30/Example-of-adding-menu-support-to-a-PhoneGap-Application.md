@@ -29,10 +29,10 @@ As I said - this part is trivial. Now that I know when the menu button is clicke
 
 Nothing too much to it, right? Here's how the application looks when I start it...
 
-<img src="http://www.raymondcamden.com/images/shot12.png" />
+<img src="http://static.raymondcamden.com/images/shot12.png" />
 
 And here is it with the menu open:
 
-<img src="http://www.raymondcamden.com/images/shot21.png" />
+<img src="http://static.raymondcamden.com/images/shot21.png" />
 
 That's it. Obviously it could look a lot better. Also - my links don't actually do anything. A real application would not only listen out for those clicks but also ensure they dispose of the menu. But hopefully this gives you enough to get started.

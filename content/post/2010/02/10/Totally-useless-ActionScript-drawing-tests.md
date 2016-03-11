@@ -51,7 +51,7 @@ Even if you don't know ActionScript, you can probably read that and grok what it
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/Screen shot 2010-02-10 at 8.12.52 AM.png" />
+<img src="http://static.raymondcamden.com/images/Screen shot 2010-02-10 at 8.12.52 AM.png" />
 
 <p>
 
@@ -109,7 +109,7 @@ In this example, I simply draw from one random position to the next. I added a b
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-02-10 at 8.14.12 AM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-10 at 8.14.12 AM.png" />
 
 <p>
 

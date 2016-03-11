@@ -13,10 +13,10 @@ I'm upgrading my desktop soon (a MacPro from close to 3 years ago) and I'm going
 
 First the Dell...
 
-<img src="http://www.raymondcamden.com/images/xps.png" />
+<img src="http://static.raymondcamden.com/images/xps.png" />
 
 And then the HP...
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-05-07 at 9.45.42 AM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-05-07 at 9.45.42 AM.png" />
 
 The price for the HP is 2498.

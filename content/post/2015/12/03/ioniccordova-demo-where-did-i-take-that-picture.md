@@ -18,7 +18,7 @@ Every now and then I think of an idea for a cool (aka useless and pointless but 
 
 <!--more-->
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/smile-kitten-large.jpg" alt="smile-kitten-large" width="400" height="276" class="aligncenter size-full wp-image-7197" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/smile-kitten-large.jpg" alt="smile-kitten-large" width="400" height="276" class="aligncenter size-full wp-image-7197" />
 
 Why? Because if I run into problems with my little "toy" demo, most likely you, the poor reader who has to put up with my silly demos, will run into it in a production app. And if my pain helps you avoid issues, then this blog will earn its keep. Ok, so what was the idea?
 
@@ -26,7 +26,7 @@ A few weeks ago I was shopping with my wife. It was the type of store where pret
 
 Turns out that many pictures automatically include data that relates to the location where the picture was taken. You can - with a few clicks - get the latitude and longitude of the picture. That's nice - but frankly, I can't translate those values into a 'real' location off the top of my head. I'm sure web apps exist to help with that, but I thought, wouldn't it be nice if I could just select a picture and have it tell me where it was taken - in English? For example:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot1.png" alt="shot1" width="422" height="750" class="aligncenter size-full wp-image-7198" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot1.png" alt="shot1" width="422" height="750" class="aligncenter size-full wp-image-7198" />
 
 For my demo, I decided to build the following:
 
@@ -191,10 +191,10 @@ Not too complex, right? I just run my service and deal with the result. The serv
 
 In both cases, I'm assuming the first result from the API is the best result. That may not always be true, but it works for now. You've seen an example of Foursquare working, here is an example of the reverse geocode.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/geocode.png" alt="geocode" width="750" height="779" class="aligncenter size-full wp-image-7199 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/geocode.png" alt="geocode" width="750" height="779" class="aligncenter size-full wp-image-7199 imgborder" />
 
 And here it is with the last fallback. Yes, this is the same picture, I just temporarily disabled the Geocode service for a quick test.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/map.png" alt="map" width="422" height="750" class="aligncenter size-full wp-image-7200 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/map.png" alt="map" width="422" height="750" class="aligncenter size-full wp-image-7200 imgborder" />
 
 All in all, this was a fun little app to build, and as I said, I'm glad I ran into the EXIF issues. I know I'll need that in the future. You can find the complete source code for this demo here: <a href="https://github.com/cfjedimaster/Cordova-Examples/tree/master/photolocate">https://github.com/cfjedimaster/Cordova-Examples/tree/master/photolocate</a>

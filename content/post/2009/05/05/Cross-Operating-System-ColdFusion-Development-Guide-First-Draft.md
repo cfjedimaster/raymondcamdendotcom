@@ -19,4 +19,4 @@ Wow, that title is a heck of a lot more serious than I intended it to be. A few 
 
 Ok, what am I forgetting folks? Try to focus on things that should apply to most cases. Odd edge cases may not make sense in a general document like I the one I want to create. (But those tips could always be added to an Errata section). 
 
-<img src="http://www.raymondcamden.com/images//im_a_pc_mac_linux_bsd_tronguy_hippie.jpg">
+<img src="http://static.raymondcamden.com/images//im_a_pc_mac_linux_bsd_tronguy_hippie.jpg">

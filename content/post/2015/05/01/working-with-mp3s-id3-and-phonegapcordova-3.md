@@ -20,13 +20,13 @@ This week I've done a few blog posts (<a href="http://www.raymondcamden.com/2015
 
 First - I updated my sample music a bit. My 5 year old <i>loves</i> the Daisy Chainsaw track:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-01-at-2.25.27-PM.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-01-at-2.25.27-PM.png" alt="Screen Shot 2015-05-01 at 2.25.27 PM" width="527" height="850" class="alignnone size-full wp-image-6103" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-01-at-2.25.27-PM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/Screen-Shot-2015-05-01-at-2.25.27-PM.png" alt="Screen Shot 2015-05-01 at 2.25.27 PM" width="527" height="850" class="alignnone size-full wp-image-6103" /></a>
 
 And here is the detail view - now with album art:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-01-at-2.26.14-PM.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-01-at-2.26.14-PM.png" alt="Screen Shot 2015-05-01 at 2.26.14 PM" width="527" height="850" class="alignnone size-full wp-image-6104" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-01-at-2.26.14-PM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/Screen-Shot-2015-05-01-at-2.26.14-PM.png" alt="Screen Shot 2015-05-01 at 2.26.14 PM" width="527" height="850" class="alignnone size-full wp-image-6104" /></a>
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-01-at-2.26.24-PM1.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-01-at-2.26.24-PM1.png" alt="Screen Shot 2015-05-01 at 2.26.24 PM" width="527" height="850" class="alignnone size-full wp-image-6107" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-01-at-2.26.24-PM1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/Screen-Shot-2015-05-01-at-2.26.24-PM1.png" alt="Screen Shot 2015-05-01 at 2.26.24 PM" width="527" height="850" class="alignnone size-full wp-image-6107" /></a>
 
 Ok, so how did I do this? While ID3 data can actually include album art (see the <a href="https://github.com/aadsm/JavaScript-ID3-Reader">docs</a> for the JavaScript library I use), it didn't seem like any of my files actually had this data. I made the call that - probably - most files do not. I don't have any scientific data to back this up, but I decided to make use of the <a href="http://www.last.fm">last.fm</a> API. The API was super easy to use. Like - "Wait, it worked on my first try?" easy. Given that you know an artist and an album, you can use the <a href="http://www.last.fm/api/show/album.getInfo">album.getInfo</a> call to fetch data about the album. This includes multiple different sized images.
 

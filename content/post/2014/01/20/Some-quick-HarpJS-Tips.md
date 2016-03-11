@@ -21,7 +21,7 @@ Today I ran into an odd problem where Harp wouldn't tell me what went wrong with
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/bp11.jpg" />
+<img src="http://static.raymondcamden.com/images/bp11.jpg" />
 </p>
 
 <p>
@@ -40,7 +40,7 @@ And that was it. So on a whim, I nuked my 404.ejs file and just wrote "Hello Wor
 So how would you find this? Compile your Harp app. Even if you aren't done yet, try it. When I did, I immediately got an error in the output.
 </p>
 
-<img src="http://www.raymondcamden.com/images/bp21.jpg" />
+<img src="http://static.raymondcamden.com/images/bp21.jpg" />
 
 <p>
 <b>Tip Two: Debugging Output</b><br/>

@@ -18,7 +18,7 @@ Or so you would think. It isn't obvious at first (or wasn't to me), but the API 
 
 In order to test this, you will need to have an account with Meetup and be logged in. Then simply go to the <a href="https://secure.meetup.com/meetup_api/console/">API Console</a> and begin testing. Here is a screen shot of that in action:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/11/shot13.png" alt="shot1" width="750" height="593" class="aligncenter size-full wp-image-7119 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot13.png" alt="shot1" width="750" height="593" class="aligncenter size-full wp-image-7119 imgborder" />
 
 You'll want to use the console to get your API calls down exactly as you want them and once you're satisfied, just copy and paste that URL into your code. I went ahead and whipped up a quick demo that performs a search for Ionic meetups around the world. Here's the code - and to be clear - this was quick and dirty, not nice.
 

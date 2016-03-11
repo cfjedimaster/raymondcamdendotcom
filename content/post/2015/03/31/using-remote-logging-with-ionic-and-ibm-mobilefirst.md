@@ -20,11 +20,11 @@ As the latest in my series of blog posts on <a href="http://ionicframework.com">
 The "Remote Logging" feature is really just that - a logging service that stores data on your server (in this case, MobileFirst). What's nice from the client-side perspective is that it is incredibly simple to use. You send a log message and that's it. The API worries about <i>when</i> to send it and tries to wait till an opportune time before sending a bunch of log data. If you want, you can force it to send logs immediately, and by default, it will also send existing logs on application startup up. Let's begin by taking a look at the code. 
 
 I created an instance of the Ionic tabs template, one of the default "starter" templates you can use with the Ionic CLI. Just to give you some context, here are some screen shots of the app in action. (And again, <i>all</i> of this comes from the template.)
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot15.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot15.png" alt="shot1" width="281" height="500" class="alignnone size-full wp-image-5935" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot15.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot15.png" alt="shot1" width="281" height="500" class="alignnone size-full wp-image-5935" /></a>
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot23.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot23.png" alt="shot2" width="281" height="500" class="alignnone size-full wp-image-5936" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot23.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot23.png" alt="shot2" width="281" height="500" class="alignnone size-full wp-image-5936" /></a>
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot33.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot33.png" alt="shot3" width="281" height="500" class="alignnone size-full wp-image-5937" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot33.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot33.png" alt="shot3" width="281" height="500" class="alignnone size-full wp-image-5937" /></a>
 
 I decided to create a service that would log when each tab was activated for the first time. I also create a log event for loading a chat detail (see the second screen shot above) and for toggling the radio button (see the third screen shot). I began by modifying the services.js file from the template. 
 
@@ -84,19 +84,19 @@ You can see where I've injected Logger and then make calls to the log method. On
 
 Ok, so that's the code, how does the server side look? When you have the MobileFirst console open, you can go to analytics by clicking the pretty little chart icon in the upper right nav.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/mf1.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/mf1.png" alt="mf1" width="800" height="487" class="alignnone size-full wp-image-5930" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/mf1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/mf1.png" alt="mf1" width="800" height="487" class="alignnone size-full wp-image-5930" /></a>
 
 In this dashboard, click Search to bring up the Client Log Search form:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/mf2.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/mf2.png" alt="mf2" width="800" height="437" class="alignnone size-full wp-image-5931" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/mf2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/mf2.png" alt="mf2" width="800" height="437" class="alignnone size-full wp-image-5931" /></a>
 
 At this point, it is pretty much what you expect. Set your filters and go crazy:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/mf3.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/mf3.png" alt="mf3" width="800" height="430" class="alignnone size-full wp-image-5932" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/mf3.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/mf3.png" alt="mf3" width="800" height="430" class="alignnone size-full wp-image-5932" /></a>
 
 Each log entry can be expanded for even more data:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/mi4.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/mi4.png" alt="mi4" width="800" height="402" class="alignnone size-full wp-image-5933" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/mi4.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/mi4.png" alt="mi4" width="800" height="402" class="alignnone size-full wp-image-5933" /></a>
 
 So - all in all - a fairly cool service - and only a small part of MobileFirst. Let me know what you think. I've also created a video demonstrating this.
 

@@ -33,7 +33,7 @@ My application, SauceDB, is basically a BBQ Sauce version of Untappd. The featur
 
 I whipped up a quick prototype on paper first. Here is my completely incomprehensible attempt at drawing screens.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/07/IMAG2260.jpg" alt="IMAG2260" width="565" height="1000" class="aligncenter size-full wp-image-6383" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/IMAG2260.jpg" alt="IMAG2260" width="565" height="1000" class="aligncenter size-full wp-image-6383" />
 
 I'm actually pretty impressed by how bad my drawing is. If I was a D&D character and Drawing was a skill, I'd have a -5 in it. In case you can't read my chicken scratch, the screens are:
 
@@ -48,13 +48,13 @@ I'm actually pretty impressed by how bad my drawing is. If I was a D&D character
 
 I don't create prototypes often, but I definitely see the value. Just typing out the list there makes me realize I don't have a page that is Sauce-centric, ie a Sauce with all the reviews. I went ahead and set up a "real" prototype using <a href="http://creator.ionic.io">Ionic Creator.</a>
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/07/Ionic_Creator.png" alt="Ionic_Creator" width="800" height="659" class="aligncenter size-full wp-image-6384 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/Ionic_Creator.png" alt="Ionic_Creator" width="800" height="659" class="aligncenter size-full wp-image-6384 imgborder" />
 
 I essentially built all the screens you saw from the pen drawing above and added some basic interactivity. So for example, the login button goes right to the feed. Doing this was also helpful. For example, the 'feed' page (see the shot above) used a list view, but I'm pretty sure I'll switch to a card view to give the reviews more space. 
 
 Ionic Creator has multiple export options, including a way to use it as a seed for a new project. 
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/07/shot13.png" alt="shot1" width="462" height="241" class="aligncenter size-full wp-image-6385 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot13.png" alt="shot1" width="462" height="241" class="aligncenter size-full wp-image-6385 imgborder" />
 
 I find the output of Ionic Creator to be a bit undesirable, so I used this in a new project just for the Creator output. I then <a href="https://surge.sh">Surged</a> it up to a real site: <a href="http://jittery-bait.surge.sh">http://jittery-bait.surge.sh</a>. 
 

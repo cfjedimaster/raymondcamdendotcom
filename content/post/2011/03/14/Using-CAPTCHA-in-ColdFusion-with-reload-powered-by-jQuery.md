@@ -199,7 +199,7 @@ And that's it. The form page has changed quite a bit so I'll display it complete
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/march142011/index2.cfm"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/march142011/index2.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

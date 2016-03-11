@@ -32,7 +32,7 @@ Our code needs to:
 
 So let's start off by creating an instance of the DirectoryWatcher gateway. This is done in the ColdFusion Administrator. In order to do it, though, you need to specify a CFC and a configuration file. I created two empty files, watcher.cfc and config.ini. The figure below shows the values I set for my gateway. The name isn't important - but should reflect what your gateway is doing, or the application it is working with.
 
-<img src="http://www.raymondcamden.com/images/degi.png">
+<img src="http://static.raymondcamden.com/images/degi.png">
 
 
 Now we need to edit the config file. This file is used by the event gateway to control the behavior of the code watching the directory. As I mentioned above - the gateway can notice adds, edits, and deletes. All I really care about is the add, so my config file looks like so:

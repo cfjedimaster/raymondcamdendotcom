@@ -271,4 +271,4 @@ All in all - it works ok. You can see my note about commas and values, but for t
 
 <p>
 
-<a href="http://coldfusionjedi.com/demos/2011/nov/22/draft5/"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://coldfusionjedi.com/demos/2011/nov/22/draft5/"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

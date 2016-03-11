@@ -48,7 +48,7 @@ That's it. No JavaScript library. No form submit handler. Nada. In compliant bro
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip44.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip44.png" />
 
 <p>
 
@@ -56,7 +56,7 @@ The browser actually prevents you from submitting the form. Entering a value for
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip45.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip45.png" />
 
 <p>
 
@@ -147,7 +147,7 @@ But wait! There's more. What if you want to do a more customized validation? I m
 
 Note the use of the title attribute to provide a hint to the user. In Chrome and Firefox, this is even rendered in the error:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip46.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip46.png" />
 
 <p>
 

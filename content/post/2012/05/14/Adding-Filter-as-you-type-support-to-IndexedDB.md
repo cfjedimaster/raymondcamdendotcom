@@ -35,6 +35,6 @@ Outside of that - the code is identical. I moved the success portion into a new 
 You can demo this yourself by hitting the demo button below, but as before, this is Firefox only due to - what I believe - is a bad implementation in Chrome. (I think it could be made to work in Chrome, but as I'm building these examples to help me learn more about IndexedDB, I'm fine supporting the most compatible browser.)
 
 
-<a href="http://raymondcamden.com/demos/2012/may/14/test6.html?"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://raymondcamden.com/demos/2012/may/14/test6.html?"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 You can find the complete source by .... viewing source. ;)

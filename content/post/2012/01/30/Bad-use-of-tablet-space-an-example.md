@@ -16,18 +16,18 @@ Late last year I discovered <a href="http://www.tripit.com/">TripIt</a>. Apparen
 I've had the mobile version for some time now, but just today I decided to check out their iPad2 version. I was pretty surprised by how badly they made use of the tablet form. After selecting a trip, this is what you see:
 
 
-<img src="http://www.raymondcamden.com/images/IMG_0054 - Copy.PNG" />
+<img src="http://static.raymondcamden.com/images/IMG_0054 - Copy.PNG" />
 
 That's a heck of a lot of white space. I thought maybe I had hit the wrong button, but as far as I can see, that's the main view. To actually see your itinerary, you click the itinerary button to make it fly out:
 
-<img src="http://www.raymondcamden.com/images/IMG_0055 - Copy.PNG" />
+<img src="http://static.raymondcamden.com/images/IMG_0055 - Copy.PNG" />
 
 I find it really odd that the default view makes so little use of the space. Maybe there is other data that shows up there, but wouldn't the itinerary normally be the most critical information? Compare this to their Android version:
 
-<img src="http://www.raymondcamden.com/images/Screenshot_2012-01-30-11-35-58.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_2012-01-30-11-35-58.png" />
 
 I thought that was the end of it until I accidentally oriented my iPad into Landscape mode and saw this:
 
-<img src="http://www.raymondcamden.com/images/IMG_0056 - Copy.PNG" />
+<img src="http://static.raymondcamden.com/images/IMG_0056 - Copy.PNG" />
 
 Now <i>that</i> makes sense to me. So any ideas why the Portrait mode is so bare? As I said, maybe there is trip information folks store that normally show up there. I only use TripIt in a pretty basic manner so I may be missing something.

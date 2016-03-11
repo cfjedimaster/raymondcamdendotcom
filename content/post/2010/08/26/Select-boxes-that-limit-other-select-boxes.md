@@ -110,4 +110,4 @@ Finally I store the current selection as my previous value. And that's it. You c
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/aug262010/test.cfm"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/aug262010/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

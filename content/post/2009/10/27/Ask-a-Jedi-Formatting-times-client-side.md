@@ -46,7 +46,7 @@ function formatTime(t) {
 
 I create a simple div on top. The JavaScript section begins by creating a pointer to it. The tests array represent all my inputs. Next I loop over the inputs and add to the div the initial value and the result of the format. As you can see, the format does nothing now. I ran this and got the following output:
 
-<img src="http://www.raymondcamden.com/images/Picture 190.png" />
+<img src="http://static.raymondcamden.com/images/Picture 190.png" />
 
 Nice and simple. But the point is - I can easily then add more inputs and test the output to ensure my function works correctly. So now for the actual formatting - and again - consider this code rough - I know it could be improved:
 
@@ -130,4 +130,4 @@ function formatTime(t) {
 
 And the output:
 
-<img src="http://www.coldfusionjedi.com/images/Picture 260.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 260.png" />

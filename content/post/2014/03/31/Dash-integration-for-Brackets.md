@@ -14,7 +14,7 @@ So after <a href="http://www.raymondcamden.com/index.cfm/2014/3/30/Check-out-Das
 </p>
 <!--more-->
 <p>
-<img src="http://www.raymondcamden.com/images/shot.png" />
+<img src="http://static.raymondcamden.com/images/shot.png" />
 </p>
 
 <p>

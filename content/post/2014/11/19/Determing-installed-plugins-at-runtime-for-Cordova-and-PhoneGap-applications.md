@@ -28,7 +28,7 @@ If you look at the platform build version of your www code, you will notice it i
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot30.png" />
+<img src="http://static.raymondcamden.com/images/shot30.png" />
 </p>
 
 <p>
@@ -42,7 +42,7 @@ The <code>metadata</code> part came from what I saw in cordova_plugins.js. While
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot214.png" />
+<img src="http://static.raymondcamden.com/images/shot214.png" />
 </p>
 
 <p>

@@ -27,7 +27,7 @@ be &lt;i&gt;so&lt;/i&gt; cool.
 I create a string with a few links in it. I then use the new reMatch function to grab all the matches. My regex says - find all HTML links. It isn't exactly perfect, it won't match a closing A tag that has an extra space in it, but you get the picture. This results in a match of all the links:
 
 
-<img src="http://www.coldfusionjedi.com/images/Picture 22.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 22.png">
 
 But you will notice that the HTML links are still there. How can we get rid of them? I simply looped over the array and did a second pass:
 
@@ -42,6 +42,6 @@ But you will notice that the HTML links are still there. How can we get rid of t
 
 This gives you the following output:
 
-<img src="http://www.coldfusionjedi.com/images/Picture 31.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 31.png">
 
 p.s. Running on ColdFusion 7? Try the <a href="http://www.cflib.org/udf.cfm?ID=1027">reFindAll</a> UDF as a replacement to reMatch.

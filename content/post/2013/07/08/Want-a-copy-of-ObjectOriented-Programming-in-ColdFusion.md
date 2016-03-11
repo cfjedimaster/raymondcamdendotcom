@@ -13,4 +13,4 @@ A few weeks ago I read, and reviewed, a book for Packt. As my reward I was given
 
 So... to keep this nice and simple, here is how the giveaway will work. Post a comment (ensure you use your real email address, only I will see it) that answers this question: "The only thing that would make a movie with robots and giant monsters better would be ...." Don't stress too much over this as I'll be picking a winner by random selection, but you must answer the question. I'll pick a winner Wednesday. Enjoy.
 
-<img src="http://www.raymondcamden.com/images/6323_MockupCover.jpg" />
+<img src="http://static.raymondcamden.com/images/6323_MockupCover.jpg" />

@@ -30,4 +30,4 @@ And I've got a few 'maybies' as well. So the date? It will be held <b>December 8
 
 One more thing. Last week I gave away a copy of ColdFusion Builder. I've got a copy of ColdFusion Standard as well. If you show up to the panel, there is a slight chance I may be convinced to give that away as well. 
 
-<img src="http://www.raymondcamden.com/images/robocop unicorn.png" title="The only graphic that makes sense for this post." />
+<img src="http://static.raymondcamden.com/images/robocop unicorn.png" title="The only graphic that makes sense for this post." />

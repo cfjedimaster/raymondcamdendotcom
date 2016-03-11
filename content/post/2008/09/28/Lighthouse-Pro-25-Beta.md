@@ -25,14 +25,14 @@ Ok, some quick screen shots:
 
 
 <h2>Login Screen</h2>
-<img src="http://www.raymondcamden.com/images/Picture 122.png">
+<img src="http://static.raymondcamden.com/images/Picture 122.png">
 
 <h2>Home Screen</h2>
 
-<img src="http://www.coldfusionjedi.com/images//Picture 28.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 28.png">
 
 <h2>Issue Screen</h2>
 
-<img src="http://www.coldfusionjedi.com/images//Picture 37.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 37.png">
 
 You can find the download below. Please note that this is beta, and should be handled with care. The readme tells you what to do on the database side. I'll blog a bit later today about the ColdSpring integration. I may also blog a bit more detail about the Ajax change if folks are interested.<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FLighthouseProSVN4%2Ezip'>Download attached file.</a></p>

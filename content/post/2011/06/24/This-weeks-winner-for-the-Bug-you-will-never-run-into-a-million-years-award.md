@@ -49,4 +49,4 @@ Yep. There ya go. I filed a <a href="http://cfbugs.adobe.com/cfbugreport/flexbug
 
 
 
-<img src="http://www.raymondcamden.com/images/mirror_spock.jpg" />
+<img src="http://static.raymondcamden.com/images/mirror_spock.jpg" />

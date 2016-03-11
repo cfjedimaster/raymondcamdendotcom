@@ -16,4 +16,4 @@ To make finding them even easier, I decided to add a bit of geolocation to the p
 
 By the way - the headers you see are <b>temporary</b> - Adobe isn't buying Marvel anytime soon.
 
-<a href="http://www.raymondcamden.com/downloads/2011-08-30_0850.swf"><img src="http://www.coldfusionjedi.com/images/ScreenClip170.png"></a>
+<a href="http://www.raymondcamden.com/downloads/2011-08-30_0850.swf"><img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip170.png"></a>

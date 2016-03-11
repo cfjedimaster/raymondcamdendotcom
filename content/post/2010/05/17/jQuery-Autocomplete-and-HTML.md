@@ -80,7 +80,7 @@ Again - this is pretty similar to the previous entry, but notice that I've added
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-05-17 at 12.22.57 PM.png" title="HTML-ified auto suggest" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-05-17 at 12.22.57 PM.png" title="HTML-ified auto suggest" />
 
 <p>
 
@@ -88,4 +88,4 @@ Again - this is pretty similar to the previous entry, but notice that I've added
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/autocompletedemo/test4.cfm"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/autocompletedemo/test4.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo" border="0"></a>

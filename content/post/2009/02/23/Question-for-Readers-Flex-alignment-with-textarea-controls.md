@@ -28,11 +28,11 @@ Here is an odd one for you. Consider the following Flex code:
 
 You would expect 3 items to show up, left aligned, in a VBox, and you get that of course, but the textarea is <i>very</i> slightly more to the left than the two labels. Check out this screen shot where I placed another window directly above the left edge of the text:
 
-<img src="http://www.raymondcamden.com/images//Picture 141.png">
+<img src="http://static.raymondcamden.com/images//Picture 141.png">
 
 Notice the red border is very slightly smaller than the other ones. If I remove the borderColor and set borderThickness to 0, it is still there:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 221.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 221.png">
 
 It almost seems as if Flex is aligning by the text of the TextArea control. In other words, when I typed in there it seemed as if that was the 'line' Flex used to line up all 3 controls, as opposed to the 'chrome' of the TextArea.
 

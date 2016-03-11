@@ -29,4 +29,4 @@ The next change was simple - I just got rid of the geocoder call and its callbac
 
 And that's it. You can run this version by hitting the demo link below. It probably isn't that terribly faster in your desktop browser, but on a mobile device the savings would be much more important.
 
-<a href="http://www.raymondcamden.com/demos/2012/dec/3/new5.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/dec/3/new5.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

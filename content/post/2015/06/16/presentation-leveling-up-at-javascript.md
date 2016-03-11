@@ -16,4 +16,4 @@ So last week - right before I left on vacation, and yes, I shouldn't be posting 
 
 You can see the slides here: <a href="http://www.slideshare.net/raymondcamden/leveling-up-at-javascript">http://www.slideshare.net/raymondcamden/leveling-up-at-javascript</a>
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/leveling-up-at-javascript-1-1024.jpg" alt="leveling-up-at-javascript-1-1024" width="500" height="375" class="aligncenter size-full wp-image-6296" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/leveling-up-at-javascript-1-1024.jpg" alt="leveling-up-at-javascript-1-1024" width="500" height="375" class="aligncenter size-full wp-image-6296" />

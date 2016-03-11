@@ -9,25 +9,25 @@
 	"guid": "3676"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" a style="float:left;margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry is MultiMail, created by Guust Nieuwenhuis and reviewed by Daniel Short. MultiMail was created to solve a problem I'm well aware of - multiple browser tabs dedicated to web based mail clients. Guust's solution was to design a web application that allowed you to define multiple mail accounts (both POP and IMAP). Once your accounts are defined you can then browse the inbox for each. The application also allows you to send mail from any account.  The design is simple, but nice:
+<img src="http://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" a style="float:left;margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry is MultiMail, created by Guust Nieuwenhuis and reviewed by Daniel Short. MultiMail was created to solve a problem I'm well aware of - multiple browser tabs dedicated to web based mail clients. Guust's solution was to design a web application that allowed you to define multiple mail accounts (both POP and IMAP). Once your accounts are defined you can then browse the inbox for each. The application also allows you to send mail from any account.  The design is simple, but nice:
 <br clear="all"/>
 <!--more-->
 <p>
-<img src="http://www.raymondcamden.com/images/cfjedi/mm_home.png" title="Home Page" />
+<img src="http://static.raymondcamden.com/images/cfjedi/mm_home.png" title="Home Page" />
 </p>
 <br clear="all"/>
 <p>
 Adding accounts is pretty straight forward. Once you've added accounts, you can easily edit them later as well. I ran into a bug creating IMAP accounts. If you get an error, try simply backing out and getting to the edit screen. It seems like the application created it fine but threw an error afterwards.
 </p>
 <p>
-<img src="http://www.raymondcamden.com/images/cfjedi/mm_edit.png" title="Edit Accounts" />
+<img src="http://static.raymondcamden.com/images/cfjedi/mm_edit.png" title="Edit Accounts" />
 </p>
 <p>
 The mailbox design makes use of CFGRID and uses nice icons within the grid itself:
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/cfjedi/mm_inbox.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/mm_inbox.png" />
 </p>
 <p>
 All in all, a pretty, and handy, little application. But let's start nit picking. The primary ColdFusion 9 usage here is ORM, CFIMAP, and script enhancements. If you read the install instructions they mention running a MySQL install script, but Daniel discovered that wasn't necessary. He set up a Derby database and simply loaded the application. He did modify Application.cfc a bit. The original ormSettings were:

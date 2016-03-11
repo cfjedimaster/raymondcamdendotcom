@@ -62,7 +62,7 @@ cc.get("/allfree").then(function(data){
 
 The initial block configures your use of Bluemix. All three values can be found by clicking the Mobile Options link on your Bluemix app dashboard:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/shot12.png" alt="shot1" width="800" height="327" class="aligncenter size-full wp-image-6282" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/shot12.png" alt="shot1" width="800" height="327" class="aligncenter size-full wp-image-6282" />
 
 You can keep the instance variable around obviously. Also, you get methods for each HTTP type as well, so cc.post, cc.delete, etc. During testing when your Node.js app is running locally, you can switch to hitting your local instance:
 
@@ -89,7 +89,7 @@ That's calling unsecured routes, but what about routes you want locked down? Mob
 
 That big value up front there is my Google project client ID. Believe it or not - that's the entirety of the code. The plugin handles popping open a window and running the entire OAuth flow:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/iOS-Simulator-Screen-Shot-Jun-9-2015-1.10.42-PM.png" alt="iOS Simulator Screen Shot Jun 9, 2015, 1.10.42 PM" width="450" height="800" class="aligncenter size-full wp-image-6278 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/iOS-Simulator-Screen-Shot-Jun-9-2015-1.10.42-PM.png" alt="iOS Simulator Screen Shot Jun 9, 2015, 1.10.42 PM" width="450" height="800" class="aligncenter size-full wp-image-6278 imgborder" />
 
 Once OAuth is done, we can use the access token returned by that process to "sign" our calls to Cloud Code:
 
@@ -140,6 +140,6 @@ app.use(mas);
 
 Simple, right? Any routes after this call will then require a security token to execute. There's one more part to this that I forgot to mention. When selecting what types of authentication you want to allow, you will want to select the Mobile Application Security service in your dashboard and click the checkbox to enable it, as I've done here:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/shot21.png" alt="shot2" width="800" height="662" class="aligncenter size-full wp-image-6279" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/shot21.png" alt="shot2" width="800" height="662" class="aligncenter size-full wp-image-6279" />
 
 I hope this makes sense - if not - just add a comment below.

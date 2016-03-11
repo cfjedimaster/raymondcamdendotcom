@@ -17,21 +17,21 @@ To be clear - this is a sucky way of doing it. "Sub-optimal" is being too nice. 
 <!--more-->
 First - I assume that you are actually using the Android SDK to create your APK files and install. What I'm going to show will work if you use <a href="http://build.phonegap.com">Build</a> to generate your APK, but the tool comes from the SDK. Open up your SDK folder, go into the tools subdirectory, and run "ddms". This stands for "Dalvik Debug Monitor." Here's a screen shot. Notice it has my device in the upper left hand corner.
 
-<img src="http://www.raymondcamden.com/images/ddms.png" />
+<img src="http://static.raymondcamden.com/images/ddms.png" />
 
 You will also notice an ungodly amount of messages in the main log panel. This is everything your device is doing. <i>Everything.</i> We'll filter that in a second.
 
 So start up your application, and you should notice the process is now listed below the device. My application had an ID of com.camden.bare, and this is what shows up when I run it.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip73.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip73.png" />
 
 The first thing you want to do is create a filter. In order to actually see your messages in all the noise your device is generating, you need to create a filter by hitting the pretty little green plus sign.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip74.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip74.png" />
 
 In the form that pops up, give it any name you want, but be sure to use the 'by Log Tag' field and specify "Web Console":
 
-<img src="http://www.raymondcamden.com/images/ScreenClip75.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip75.png" />
 
 Ok, at this point, you can now see messages when your application makes use of console.log. Consider this simple PhoneGap/Camera application:
 
@@ -39,11 +39,11 @@ Ok, at this point, you can now see messages when your application makes use of c
 
 I've got a few console messages for my events. They aren't incredibly helpful, but they let me know things are progressing as I expect. Here's a quick example:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip76.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip76.png" />
 
 What's cool is that it will also log unexpected errors for you. I wish I could say I planned this, but I did make a mistake in my "simple" little application and I saw it immediately in ddms:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip77.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip77.png" />
 
 In general, that's it, but here are a few more tips to keep in mind:
 

@@ -29,19 +29,19 @@ If you remember my previous blog posts, I defined a "Cat" and "Dog" model for my
 
 That's a fairly simple design and doesn't support the idea of different types of users. LoopBack definitely supports that but I wanted to keep it as simple as possible. I followed the guide (<a href="https://docs.strongloop.com/display/public/LB/Controlling+data+access">Controlling data access</a>) and began by locking down <strong>all</strong> access to the Dog API:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot17.png" alt="shot1" width="750" height="164" class="aligncenter size-full wp-image-6973" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot17.png" alt="shot1" width="750" height="164" class="aligncenter size-full wp-image-6973" />
 
 Next, I wanted to add anonymous access to get dogs and an individual dog. Here is where things get weird. When using the CLI, the prompt will ask if you want to modify access to a property or method. In my case I wanted to enable the REST API to let me read dogs. However, when you look at the API explorer, this is what you see:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot27.png" alt="shot2" width="750" height="427" class="aligncenter size-full wp-image-6974" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot27.png" alt="shot2" width="750" height="427" class="aligncenter size-full wp-image-6974" />
 
 Getting all dogs corresponds to <code>GET /dogs</code> and getting one dog corresponds to <code>GET /dogs/ID</code>. But that is <strong>not</strong> what LoopBack wants in the ACL. Instead it wants <code>find</code> and <code>findById</code>. Ok, that kinda makes sense, but I was not able to find a good table that maps the REST APIs to various internal LoopBack methods. You'll have to figure these out one by one I suppose (and remember it of course ;). So here I am adding support for running <code>find</code> for anonymous users:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot34.png" alt="shot3" width="750" height="163" class="aligncenter size-full wp-image-6975" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot34.png" alt="shot3" width="750" height="163" class="aligncenter size-full wp-image-6975" />
 
 And I simply did this again for findById. Finally, I added support for making new dogs:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot44.png" alt="shot4" width="750" height="158" class="aligncenter size-full wp-image-6976" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot44.png" alt="shot4" width="750" height="158" class="aligncenter size-full wp-image-6976" />
 
 The CLI is easy to use, but check out the Dog model. As you can see, these ACLs aren't too complex. I think after you've used the CLI a few times you won't need to generate them via the CLI.
 
@@ -105,7 +105,7 @@ Woot! Ok, so how do you test? Again, the docs do a good job of walking you throu
 
 When you create your user, you'll specifically want to use the email property and password property. They document this (image stolen from their docs):
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/Explorer-credentials.png" alt="Explorer-credentials" width="750" height="415" class="aligncenter size-full wp-image-6977" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/Explorer-credentials.png" alt="Explorer-credentials" width="750" height="415" class="aligncenter size-full wp-image-6977" />
 
 But I was confused since the password field as an argument does not map to a password property (that you can see on the right hand side). Also, I wondered they used email instead of username. In the end, I just used what they demonstrated and it worked.
 

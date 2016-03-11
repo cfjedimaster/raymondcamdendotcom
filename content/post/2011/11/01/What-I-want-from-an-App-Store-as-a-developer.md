@@ -14,21 +14,21 @@ Here is a list of things I want from an App Store as a developer - in a perfect 
 
 1) A link to the application. You won't believe how many app stores don't do this. I want a quick way to see how the public views my application. In the screen shot below, none of these links will take you to my application. I have no idea how the public sees my application unless I bookmark them on the public site.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip209.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip209.png" />
 
 2) Better view of <i>recent</i> data. For example, Google provides you with the total number of comments (see above) but I have no idea if I have <i>new</i> comments unless I remember the count from yesterday. Depending on how proactive I am, I'd love for the App Store to possibly email me on every single comment if I chose to care that much. My apps are relatively low traffic now so I'd definitely turn that on. Errors is a bit better...
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip211.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip211.png" />
 
 But notice how that isn't exposed on the top level page. So I need to click into every application to see if I have new errors this week. Again, depending on how "busy" my application is, I'd love for the market to email me every time something goes wrong. 
 
 3) Good stats. And yes - I know that's pretty vague. But to give you an idea, this is a real good page:
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip212.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip212.png" />
 
 You can't tell by the static screen shot, but the graph is very interactive. Compare that chart to this chart:
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClipFIXED.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClipFIXED.png" />
 
 I won't say where that chart comes from - but believe it or not - that app store doesn't even tell you how many times your application has been downloaded. You are somehow expected to guess from the line chart how many downloads you had per day (and no, nothing happens when you mouseover the chart). That particular app store can't even tell you the total number of downloads you've had unless you schedule, yes, schedule a report. They email you when the report is done and you then count the number of rows in the CSV file.
 

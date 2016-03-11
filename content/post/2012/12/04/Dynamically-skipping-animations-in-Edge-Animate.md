@@ -26,4 +26,4 @@ The else portion is interesting. My animation is 3 seconds long. So at first I t
 
 Obviously you wouldn't have to go to the end either. Maybe you just want to skip part of the animation or go to some other label. You can play with this demo below.
 
-<a href="http://www.raymondcamden.com/demos/2012/dec/4/"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/dec/4/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

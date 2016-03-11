@@ -44,6 +44,6 @@ As always, the answer is in the chart editor. I opened it up and simply disabled
 Note - I stripped the XML down to the bare minimum to get it working, but you get the idea. The visual result is:
 
 
-<img src="http://www.coldfusionjedi.com/images//Picture 143.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 143.png">
 
 Just pretend you can mouse over that and nothing shows up. Trust me - it works. ;) I'm not convinced this is 100% safe though. I bet you could get the SWF, decompile it, and see the numbers. Anyone want to try?

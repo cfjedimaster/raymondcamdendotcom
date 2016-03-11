@@ -21,7 +21,7 @@ Another change I made was to prompt you for a title and a name - this leads righ
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/Screen shot 2010-10-17 at 12.37.39 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen shot 2010-10-17 at 12.37.39 PM.png" />
 
 <p>
 
@@ -29,7 +29,7 @@ The actual game screen is... well... better than 1980s BASIC text input. But not
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-10-17 at 12.41.08 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-10-17 at 12.41.08 PM.png" />
 
 <p>
 

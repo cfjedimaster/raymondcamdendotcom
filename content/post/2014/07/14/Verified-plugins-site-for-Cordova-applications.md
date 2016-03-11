@@ -14,5 +14,5 @@ Currently the main site I use for finding Cordova plugins is <a href="http://plu
 </p>
 
 <p>
-<a href="http://plugins.telerik.com/"><img src="http://www.raymondcamden.com/images/Screen Shot 2014-07-14 at 13.44.51.png" /></a>
+<a href="http://plugins.telerik.com/"><img src="http://static.raymondcamden.com/images/Screen Shot 2014-07-14 at 13.44.51.png" /></a>
 </p>

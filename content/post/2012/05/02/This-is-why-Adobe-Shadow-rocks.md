@@ -11,7 +11,7 @@
 	"guid": "4605"
 }
 
-<img src="http://www.raymondcamden.com/images/shadow_128x128.gif" style="float:left;margin-right: 15px;" /> I've blogged about <a href="http://labs.adobe.com/technologies/shadow/">Adobe Shadow</a> before, and I've played with it, but I don't think I truly appreciated it till just now.
+<img src="http://static.raymondcamden.com/images/shadow_128x128.gif" style="float:left;margin-right: 15px;" /> I've blogged about <a href="http://labs.adobe.com/technologies/shadow/">Adobe Shadow</a> before, and I've played with it, but I don't think I truly appreciated it till just now.
 
 A coworker pinged me about an issue he was having with a jQuery Mobile page and iOS. I got the code from him, dropped it in my local web root, turned on Shadow, and began editing.
 

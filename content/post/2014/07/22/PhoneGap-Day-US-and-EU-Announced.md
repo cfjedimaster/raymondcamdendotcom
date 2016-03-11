@@ -22,5 +22,5 @@ Want to speak? The <a href="https://docs.google.com/spreadsheet/viewform?key=0Av
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/buildbot2013-2.png" />
+<img src="http://static.raymondcamden.com/images/buildbot2013-2.png" />
 </p>

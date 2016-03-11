@@ -9,7 +9,7 @@
 	"guid": "4920"
 }
 
-<img src="http://www.raymondcamden.com/images/Screenshot_4_28_13_10_31_AM.png" style="float:left;margin-right:10px;margin-bottom:10px" /> A few weeks ago I <a href="http://www.raymondcamden.com/index.cfm/2013/3/21/New-online-material-for-Chrome-DevTools">blogged</a> about an online course dedicated to Chrome's DevTools. That was my first experience with <a href="http://www.codeschool.com">Code School</a> and I thought it worked very well.
+<img src="http://static.raymondcamden.com/images/Screenshot_4_28_13_10_31_AM.png" style="float:left;margin-right:10px;margin-bottom:10px" /> A few weeks ago I <a href="http://www.raymondcamden.com/index.cfm/2013/3/21/New-online-material-for-Chrome-DevTools">blogged</a> about an online course dedicated to Chrome's DevTools. That was my first experience with <a href="http://www.codeschool.com">Code School</a> and I thought it worked very well.
 <!--more-->
 This weekend I decided to try their <a href="http://www.codeschool.com/paths/javascript#backbone-js">Backbone</a> course. I've been learning Backbone over the past month and as I had a free pass, I thought I'd check it out. The course is very well designed. Each video is approximately 7 or so minutes long, a perfect chunk of content to digest. I've completed the first Backbone course and am mostly through the second, and only once or twice did I need to pause the video so I could mentally "catch up" with the material. Each video is a professional affair. This isn't some guy with a web cam (like most of my videos). 
 

@@ -17,4 +17,4 @@ I just blogged a few minutes ago about the new ColdFusion 9.0.1 release so I tho
 
 3) And finally - not a bug - but a welcome change. When you cfdump a CFC, the methods are now alpha sorted. Now you may ask - why is that a big deal - don't you normally know what methods are in a CFC? Sure - normally you do. But ORM-based CFCs could have quite a few methods auto created by CF. Also, some of the CFCs Adobe ships (like for Query in cfscript) contain methods you may not be very familiar with yet. So the little act of alpha sorting the methods is a real improvement!
 
-<img src="http://www.coldfusionjedi.com/images/cfdump.png" title="cfdump screen shot" />
+<img src="http://static.raymondcamden.com/images/cfjedi/cfdump.png" title="cfdump screen shot" />

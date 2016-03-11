@@ -23,7 +23,7 @@ User hits a form on your site:
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/screen54.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen54.png" />
 
 <p/>
 
@@ -32,7 +32,7 @@ They enter a site name, a URL, and a RSS URL and then hit submit. Next they see:
 <p/>
 
 
-<img src="http://www.coldfusionjedi.com/images/screen55.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen55.png" />
 
 <p/>
 
@@ -40,7 +40,7 @@ At this point, the APK could be emailed to them (on an Android phone you can ins
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/device.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device.png" />
 
 <p/>
 

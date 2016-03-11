@@ -20,10 +20,10 @@ Then I simply exported a release build. This process takes a few minutes on Wind
 
 Here is my app on the iPad2 desktop (I didn't specify a custom icon)
 
-<img src="http://www.raymondcamden.com/images/IMAG0235.jpg" />
+<img src="http://static.raymondcamden.com/images/IMAG0235.jpg" />
 
 And here is the app actually running (and no - my app doesn't actually do anything)
 
-<img src="http://www.coldfusionjedi.com/images/IMAG02361.jpg" />
+<img src="http://static.raymondcamden.com/images/cfjedi/IMAG02361.jpg" />
 
 Sorry for the awful pictures, but I mainly wanted to prove that it does indeed work. All in all the process took me about an hour. Next time will be significantly shorter now that I know what I'm doing.

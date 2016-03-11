@@ -11,9 +11,9 @@
 
 This weekend I shared a few emails with Dario (who I imagine to be a Dothraki) concerning something interesting he noticed with images and ColdFusion. He took two images and used ColdFusion to check their height and width. Here are the two images he used. (I got permission to use the pictures. I've got no idea who the subject is but I assume they are ok with it. :)
 <!--more-->
-<img src="http://www.raymondcamden.com/images/s1.jpg" />
+<img src="http://static.raymondcamden.com/images/s1.jpg" />
 <br/>
-<img src="http://www.raymondcamden.com/images/s2.jpg" />
+<img src="http://static.raymondcamden.com/images/s2.jpg" />
 
 Now, before we go any further, let me clarify that I resized his original images and may have modified things a bit. Keep in mind they aren't 100% the same as his original pics.
 

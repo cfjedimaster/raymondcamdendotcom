@@ -28,11 +28,11 @@ Mozilla's Brick library is a great example of this. Their library contains widge
 
 Some of these act like polyfills. So for example, Firefox doesn't yet support input type="date". (*sigh*) So if you use their datepicker in Firefox you see:
 
-<img src="http://www.raymondcamden.com/images/Screenshot_8_23_13_10_01_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_8_23_13_10_01_AM.png" />
 
 Whereas the same code in Chrome does nothing as it is natively supported:
 
-<img src="http://www.raymondcamden.com/images/Screenshot_8_23_13_10_02_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_8_23_13_10_02_AM.png" />
 
 The UI widgets are nice, but what interests me the most right now are the <ahref="http://mozilla.github.io/brick/docs.html#deck">decks</a>. Take the following code:
 

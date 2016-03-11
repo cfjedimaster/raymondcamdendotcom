@@ -11,7 +11,7 @@
 
 I saw Prometheus last night. It was cool. Stop reading now if you haven't seen it. Seriously - this is your last warning...
 <!--more-->
-<img src="http://www.raymondcamden.com/images/pro.jpg" style="float: left;margin-right: 10px;" />
+<img src="http://static.raymondcamden.com/images/pro.jpg" style="float: left;margin-right: 10px;" />
 
 Overall, I really enjoyed the movie, and some of the shots on the large screen made me <i>so</i> happy I was seeing it in a theater. I loved how the show began. In ways, it reminded me of Green Lantern. I know that show wasn't liked by most folks, but I liked how it began in a very alien, sci-fi manner. Ditto for Prometheus. The opening was confusing, alien, and just off-putting. I loved it. 
 

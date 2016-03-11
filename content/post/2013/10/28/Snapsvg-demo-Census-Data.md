@@ -167,7 +167,7 @@ And that's it. As I said above - the Snap.svg portion of this isn't terribly exc
 </p>
 
 <p>
-<a href="http://www.raymondcamden.com/demos/2013/oct/26/state.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>  
+<a href="http://www.raymondcamden.com/demos/2013/oct/26/state.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>  
 </p>
 
 <p>

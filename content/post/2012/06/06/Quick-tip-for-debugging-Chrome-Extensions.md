@@ -13,7 +13,7 @@ I'm working on a new Chrome extension now (mainly as an excuse to avoid writing 
 
 This <a href="http://code.google.com/chrome/extensions/tut_debugging.html">tutorial</a> on the Chrome Extensions site mentioned right clicking on your extension icon and selecting "Inspect popup". But my extension didn't have an UI and that option wasn't available. I then noticed something on the Extensions page:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip95.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip95.png" />
 
 See the link by "Inspect views"? Clicking that fires up a Developer Tools window just for your extension. It's like Chrome was smart enough to recognize that there wasn't a real background page and generated one for you. 
 

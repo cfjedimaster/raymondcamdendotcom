@@ -66,7 +66,7 @@ Once we get the FileEntry object we can then run the <code>file</code> method on
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screen Shot 2014-07-15 at 1.43.27 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2014-07-15 at 1.43.27 PM.png" />
 </p>
 
 <p>

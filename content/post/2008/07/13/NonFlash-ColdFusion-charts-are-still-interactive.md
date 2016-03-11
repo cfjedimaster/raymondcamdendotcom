@@ -11,7 +11,7 @@
 
 So this is news to me. In preparation for talking about the Lemonade Stand results tomorrow, I worked a bit more on the reporting for my simulator. Since I love charts, I plopped a chart down at the end that shows each stand and how it performs over all 50 days. I knew I was going to want to share the complete chart on the blog post, so I switched from the default Flash format to PNG. When I moused over the chart though I noticed the tool tips still worked! Here is an example:
 
-<img src="http://www.raymondcamden.com/images/Picture 115.png">
+<img src="http://static.raymondcamden.com/images/Picture 115.png">
 
 Turns out that for both PNG and JPG formats, the charting engine will actually output an image map and support the same tool tips you get with the Flash version. 
 

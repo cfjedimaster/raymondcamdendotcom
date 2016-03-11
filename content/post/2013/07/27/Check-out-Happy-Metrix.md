@@ -11,11 +11,11 @@
 
 I've got something of a soft spot for dashboards. That's why I was pleasantly surprised recently to discover <a href="http://www.happymetrix.com/">Happy Metrix</a>. Happy Metrix, currently in beta, is an Adobe AIR based desktop application that lets you build dashboard reports for a variety of different datasources. As an example, you can integrate with Google Analytics, Twitter, and YouTube to see how your content is performing. Here's my main dashboard (click for a larger size picture):
 <!--more-->
-<a href="http://www.raymondcamden.com/images/hm1.png"><img src="http://www.raymondcamden.com/images/hm1small.png" /></a>
+<a href="http://www.raymondcamden.com/images/hm1.png"><img src="http://static.raymondcamden.com/images/hm1small.png" /></a>
 
 And here is a panel I built just for my web sites. I like that I can quickly scan the percentage values to see if I'm growing or losing traffic.
 
-<a href="http://www.raymondcamden.com/images/hm2.png""><img src="http://www.raymondcamden.com/images/hm2small.png" /></a>
+<a href="http://www.raymondcamden.com/images/hm2.png""><img src="http://static.raymondcamden.com/images/hm2small.png" /></a>
 
 The only thing missing now are custom remote data sources. You <i>can</i> add custom widgets, but the data has to be hard coded. That would be fine for a presentation (or for a machine at a conference), but not for any real usage now. Happy Metrix is currently free (no idea if it will cost money) so definitely check it out.
 

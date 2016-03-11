@@ -13,7 +13,7 @@ My readers know that I've become somewhat of a proponent of static sites lately.
 
 <!--more-->
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/surge.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/surge.png" alt="surge" width="200" height="328" class="alignleft size-full wp-image-5769" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/surge.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/surge.png" alt="surge" width="200" height="328" class="alignleft size-full wp-image-5769" /></a>
 
 Surge is a command-line program that handles deploying static sites to a CDN. You install it via npm (<code>npm install -g surge</code>) and then simply go into a directory of static files and type <code>surge</code>. And yeah - that's it. Seriously. 
 
@@ -22,7 +22,7 @@ The command line will prompt you for both a directory and domain, but you can ac
 Here's an example. I've already registered and logged in so it skips that. I also had an existing random domain already so I typed that in. (And you can skip that by creating a file called CNAME with the host.) 
 
 <br clear="all">
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/surge2.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/surge2.png" alt="surge2" width="850" height="280" class="alignnone size-full wp-image-5768" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/surge2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/surge2.png" alt="surge2" width="850" height="280" class="alignnone size-full wp-image-5768" /></a>
 
 About 30 seconds or so later, the deployment is done. If you want, you can enter a "real" domain and simply update your DNS settings to point to the IP address returned in the surge output. (Read more about that here: <a href="https://medium.com/surge-sh/make-something-of-your-ridiculous-domains-bb26fadeb93c">Make something of your ridiculous domains</a>). 
 

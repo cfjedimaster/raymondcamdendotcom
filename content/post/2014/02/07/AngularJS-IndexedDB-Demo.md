@@ -132,7 +132,7 @@ The ready call was simply a wrapper to the flag variable. So yeah, this worked f
 </p>
 
 <p>
-<a href="http://www.raymondcamden.com/demos/2014/feb/7/#/home"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>  
+<a href="http://www.raymondcamden.com/demos/2014/feb/7/#/home"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>  
 </p>
 
 <p>

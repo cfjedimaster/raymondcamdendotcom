@@ -11,7 +11,7 @@
 
 I'm not sure if this is a bug or totally expected, but as it hit my blog, I figured I'd share it. A reader (thank you Aaron!) noted that searches on my blog were all returning dates in 2000 and 2001:
 <!--more-->
-<img src="http://www.raymondcamden.com/images/screenshot78.png" />
+<img src="http://static.raymondcamden.com/images/screenshot78.png" />
 
 I noticed that the months and dates were right, it was just the year that was off. I then noticed that most of my posts were in the AM, including some at 1 and 3AM. Now, I'm not that great of a sleeper, but even I need to sleep some time. 
 

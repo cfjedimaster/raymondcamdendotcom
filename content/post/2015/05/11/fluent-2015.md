@@ -11,7 +11,7 @@
 	"guid": "6126"
 }
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/fluent_web_platform_og200x200.gif"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/fluent_web_platform_og200x200.gif" alt="fluent_web_platform_og200x200" width="200" height="200" class="alignleft size-full wp-image-6128" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/fluent_web_platform_og200x200.gif"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/fluent_web_platform_og200x200.gif" alt="fluent_web_platform_og200x200" width="200" height="200" class="alignleft size-full wp-image-6128" /></a>
 
 I had meant to write up my thoughts on <a href="http://fluentconf.com/javascript-html-2015">Fluent 2015</a> as soon as I got back home, but, life has a way of - well - being life. And as I'm about to leave for <i>another</i> conference tomorrow I figured I'd better write up some thoughts about Fluent 2015 before I head out. I should point out that these nuggets are not in any particular order (heck, the first one is probably the least important), and that I've been to a couple Fluent conferences so part of my what I'm responding to are changes from previous years (and in <strong>every</strong> case - a good change). 
 

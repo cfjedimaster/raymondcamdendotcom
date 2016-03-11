@@ -105,7 +105,7 @@ Notice I modify the message a bit just so I can see it working right. Here's a s
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip174.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip174.png" />
 
 <p>
 
@@ -117,7 +117,7 @@ As I mentioned before, the Server Monitor allows you to specify alerts, and allo
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip175.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip175.png" />
 
 <p>
 
@@ -268,7 +268,7 @@ Yeah - a bit more code there. It may help if I run it so you can see it first:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip176.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip176.png" />
 
 <p>
 

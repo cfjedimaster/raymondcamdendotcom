@@ -43,7 +43,7 @@ Note that these methods are on the BackgroundHandler object (so the full API is 
 
 Here is a screenshot. Note that the scratch app is blanked out.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot16.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot16.png" alt="shot1" width="850" height="669" class="alignnone size-full wp-image-6075" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot16.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot16.png" alt="shot1" width="850" height="669" class="alignnone size-full wp-image-6075" /></a>
 
 <h4>addActionReceiver/removeActionReceiver/sendActionToNative</h4>
 

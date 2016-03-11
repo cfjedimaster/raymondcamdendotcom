@@ -16,27 +16,27 @@ One of the more interesting features on the bleeding edge of HTML5 is <a href="h
 <!--more-->
 In the excellent <a href="http://www.html5rocks.com/en/tutorials/getusermedia/intro/">HTML5 Rocks tutorial</a> on getUserMedia, they discuss how live video passed to a canvas object can be modified using CSS filters in real time. This allows for interesting effects. For example, Hulk Ray:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip79.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip79.png" />
 
 When I saw this demo, I was curious if something fun could be done with it. Along with basic color changes you can also blur the video. I thought it might be cool to create a user registration form that creates a crystal-clear image of you as you fill it out. I know many of you can't use this feature yet in your browser, so here are a few screen shots to demonstrate what I mean. Upon hitting the form, here is how things look.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip80.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip80.png" />
 
 And then I fill in a field...
 
-<img src="http://www.raymondcamden.com/images/ScreenClip81.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip81.png" />
 
 And another...
 
-<img src="http://www.raymondcamden.com/images/ScreenClip82.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip82.png" />
 
 And so on...
 
-<img src="http://www.raymondcamden.com/images/ScreenClip83.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip83.png" />
 
 And finally...
 
-<img src="http://www.raymondcamden.com/images/ScreenClip85.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip85.png" />
 
 How does it work? I'm going to assume you read my earlier post (or the excellent HTML5 Rocks article I already linked to). The basic gist is - once you've gotten access to the web cam and have directed the output to the canvas, you simply apply different CSS filters based on how correct the form is.
 
@@ -45,4 +45,4 @@ How does it work? I'm going to assume you read my earlier post (or the excellent
 Want to test this yourself or see all of the code? Head over to the demo below.
 
 <a href="http://www.raymondcamden.com/demos/2012/may/25/test2.html
-"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

@@ -26,6 +26,6 @@ Anyway, here is a sample:
 
 Which gives this result:
 
-<img src="http://www.coldfusionjedi.com/images/pdftotext.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/pdftotext.png">
 
 The zip includes 2 PDFs, the component, and my test script.<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FArchive7%2Ezip'>Download attached file.</a></p>

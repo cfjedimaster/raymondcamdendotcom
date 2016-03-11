@@ -23,11 +23,11 @@ So this falls into the "interesting but not sure I'd use it" bucket. Lucee provi
 
 This one is cool as heck. You can use a database for session storage versus just plain RAM. You can setup the DSN in the admin enable this feature by checking the "Storage" checkbox:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/Lucee_Server_Administrator.png" alt="Lucee_Server_Administrator" width="750" height="44" class="aligncenter size-full wp-image-6855" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/Lucee_Server_Administrator.png" alt="Lucee_Server_Administrator" width="750" height="44" class="aligncenter size-full wp-image-6855" />
 
 While I was writing this, I was curious how this would be done in App.cfc code instead. I just now discovered that the Lucee admin will actually tell you how to define your DSN in code. THAT IS EPIC.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot21.png" alt="shot2" width="1382" height="398" class="aligncenter size-full wp-image-6856" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot21.png" alt="shot2" width="1382" height="398" class="aligncenter size-full wp-image-6856" />
 
 One cool thing this allows for is ad hoc queries against the database for things like checking the number of active sessions or gathering up session data in general. That's doable now with the Server Monitoring API in ColdFusion, but that's Enterprise only and requires admin-level access. This would require a database query.
 
@@ -57,11 +57,11 @@ Nice - you know how you can disable type checking in the ColdFusion Administrato
 
 This allows you to enable GZip compression for the application. I kinda feel like this should be done on the web server and not the app server, but meh, it works well and is incredibly easy to enable. Here is a page with the setting turned off:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot31.png" alt="shot3" width="750" height="359" class="aligncenter size-full wp-image-6857" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot31.png" alt="shot3" width="750" height="359" class="aligncenter size-full wp-image-6857" />
 
 I then added <code>this.compression=true;</code> to my App.cfc:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot4a1.png" alt="shot4a" width="750" height="377" class="aligncenter size-full wp-image-6861" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot4a1.png" alt="shot4a" width="750" height="377" class="aligncenter size-full wp-image-6861" />
 
 That's a pretty big change there.
 

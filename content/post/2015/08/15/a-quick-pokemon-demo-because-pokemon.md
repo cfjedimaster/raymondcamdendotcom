@@ -82,6 +82,6 @@ I begin by simply Ajaxing the CSV file that contains all the Pokemon data. I str
 
 The GitHub repo also contains images (sprites) so I include that in the table display. Here is a quick snapshot of some of the report:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot14.png" alt="shot1" width="716" height="750" class="aligncenter size-full wp-image-6634 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot14.png" alt="shot1" width="716" height="750" class="aligncenter size-full wp-image-6634 imgborder" />
 
 If you want to run the demo yourself, you can do so here: <a href="http://static.raymondcamden.com/pokemon/">http://static.raymondcamden.com/pokemon/</a>

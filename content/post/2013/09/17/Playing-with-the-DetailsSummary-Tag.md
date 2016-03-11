@@ -27,7 +27,7 @@ The details element represents a disclosure widget from which the user can obtai
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ss11.png" />
+<img src="http://static.raymondcamden.com/images/ss11.png" />
 </p>
 
 <p>
@@ -35,7 +35,7 @@ See the little arrow? Clicking it opens content beneath it:
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ss21.png" />
+<img src="http://static.raymondcamden.com/images/ss21.png" />
 </p>
 
 <p>
@@ -67,7 +67,7 @@ On mobile, support is pretty good. On desktop, IE and Firefox are the big ones m
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ss31.png" />
+<img src="http://static.raymondcamden.com/images/ss31.png" />
 </p>
 
 <p>

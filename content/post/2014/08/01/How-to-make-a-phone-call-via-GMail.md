@@ -18,7 +18,7 @@ First, sign into Hangouts. I used to keep my account signed out as I used Adium 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ss15.png" />
+<img src="http://static.raymondcamden.com/images/ss15.png" />
 </p>
 
 <p>
@@ -26,7 +26,7 @@ After you sign in, click the Search button:
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ss24.png" />
+<img src="http://static.raymondcamden.com/images/ss24.png" />
 </p>
 
 <p>
@@ -34,7 +34,7 @@ In the popup, notice it has a phone icon there, that's your first clue. But it m
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ss33.png" />
+<img src="http://static.raymondcamden.com/images/ss33.png" />
 </p>
 
 <p>

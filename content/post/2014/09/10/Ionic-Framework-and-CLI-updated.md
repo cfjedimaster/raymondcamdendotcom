@@ -23,6 +23,6 @@ In honor of this release - here is a result from a Google image search for "kryp
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/koala.jpg" /><br/>
+<img src="http://static.raymondcamden.com/images/koala.jpg" /><br/>
 <i>Image credit: <a href="http://news.discovery.com/animals/zoo-animals/koala-survives-terrifying-ride-clinging-to-car-140728.htm">Discovery News</a></i>
 <p>

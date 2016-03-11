@@ -17,11 +17,11 @@ Currently these stats are secured, but here are a few screen shots to give you a
 
 
 
-<a href="http://www.raymondcamden.com/images/ga1.png" title="Downloads" class="thickbox" rel="gallery-gass"><img src="http://www.coldfusionjedi.com/images/ga1_small.png" alt="Downloads" /></a> 
+<a href="http://www.raymondcamden.com/images/ga1.png" title="Downloads" class="thickbox" rel="gallery-gass"><img src="http://static.raymondcamden.com/images/cfjedi/ga1_small.png" alt="Downloads" /></a> 
 
 
-<a href="http://www.coldfusionjedi.com/images/ga2.png" title="Keywords" class="thickbox" rel="gallery-gass"><img src="http://www.coldfusionjedi.com/images/ga2_small.png" alt="Keywords" /></a> 
+<a href="http://www.coldfusionjedi.com/images/ga2.png" title="Keywords" class="thickbox" rel="gallery-gass"><img src="http://static.raymondcamden.com/images/cfjedi/ga2_small.png" alt="Keywords" /></a> 
 
-<a href="http://www.coldfusionjedi.com/images/ga3.png" title="Views" class="thickbox" rel="gallery-gass"><img src="http://www.coldfusionjedi.com/images/ga3_small.png" alt="Views" /></a> 
+<a href="http://www.coldfusionjedi.com/images/ga3.png" title="Views" class="thickbox" rel="gallery-gass"><img src="http://static.raymondcamden.com/images/cfjedi/ga3_small.png" alt="Views" /></a> 
 
-<a href="http://www.coldfusionjedi.com/images/ga4.png" title="Traffic Sources" class="thickbox" rel="gallery-gass"><img src="http://www.coldfusionjedi.com/images/ga4_small.png" alt="Traffic Sources" /></a>
+<a href="http://www.coldfusionjedi.com/images/ga4.png" title="Traffic Sources" class="thickbox" rel="gallery-gass"><img src="http://static.raymondcamden.com/images/cfjedi/ga4_small.png" alt="Traffic Sources" /></a>

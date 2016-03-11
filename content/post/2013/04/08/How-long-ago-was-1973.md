@@ -11,4 +11,4 @@
 
 A long, long, <i>long</i> time ago. Today I turn 40 and thankfully I don't feel a day over 39. ;)
 
-<img src="http://www.raymondcamden.com/images/Ray1976.png" />
+<img src="http://static.raymondcamden.com/images/Ray1976.png" />

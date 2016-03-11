@@ -17,11 +17,11 @@ I thought to myself - what if I took that data and used my incredible design ski
 <!--more-->
 In the first demo, I decided to get fancy and build gradients that represented support. I focused on the current version of the major browsers only. Here's an example that shows three particular CSS features. Notice that the bottom is red in IE and Opera showing that support for the flexible box layout module is missing:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip116.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip116.png" />
 
 Here's another example with 8 features selected:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip117.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip117.png" />
 
 You get the idea. Want to test it yourself? Check it out here:
 

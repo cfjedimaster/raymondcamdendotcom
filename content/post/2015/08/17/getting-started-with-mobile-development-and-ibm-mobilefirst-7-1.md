@@ -41,13 +41,13 @@ Working with MobileFirst requires two things - a server and a command line inter
 
 Start off here: <a href="https://www14.software.ibm.com/webapp/iwm/web/signup.do?source=swg-worklight&S_PKG=ov1268&S_CMP=web_dw_rt_swd">Get the Developer Edition</a>. You'll need to register with IBM, but this is a one time thing and we won't spam you. (In fact, I'm proud to say we seem to default the 'can we send you crap' email stuff to <i>off</i>, which is rare for companies.) Once past the registration you'll end up on the download page:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot15.png" alt="shot1" width="750" height="416" class="aligncenter size-full wp-image-6639 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot15.png" alt="shot1" width="750" height="416" class="aligncenter size-full wp-image-6639 imgborder" />
 
 Click the "Command line interface" tab and then select the binary for your platform. 
 
 Once downloaded, just run the installer and you'll be good to go. When it is done, open up Terminal or CMD and ensure things are kosher by typing <code>mfp</code>:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot21.png" alt="shot2" width="749" height="750" class="aligncenter size-full wp-image-6640" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot21.png" alt="shot2" width="749" height="750" class="aligncenter size-full wp-image-6640" />
 
 Note - if you don't prefer the CLI, you can also get an Eclipse add on called "MobileFirst Studio".
 

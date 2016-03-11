@@ -22,9 +22,9 @@ I've finished this game, and I enjoyed it, but I'd definitely <i>not</i> pick it
 By the way - I wonder if I'm the only one who encountered the "ship bug". I had been playing for roughly five minutes when a wave pushed me into a room with no exits. I can't remember the last time I saw a bug like that in a video game. 
 
 
-<img src="http://www.raymondcamden.com/images/di1.jpg" />
+<img src="http://static.raymondcamden.com/images/di1.jpg" />
 
-<img src="http://www.raymondcamden.com/images/di2.jpg" />
+<img src="http://static.raymondcamden.com/images/di2.jpg" />
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=B005THAX5Q&nou=1&ref=qf_sp_asin_til&fc1=000000&IS2=1&lt1=_top&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;float:left;margin-right:10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
@@ -36,7 +36,7 @@ My thoughts going into this game were simple - as long as the game was barely de
 
 Well, the first thing you notice when playing is how horrible the graphics are. I mean - my god. The graphics are so bad you almost want to congratulate the developers. They had to work <i>hard</i> to ship a game with an engine that looks - I kid you not - like a 10 year old game. Way back in 2011 I reviewed <a href="http://www.raymondcamden.com/index.cfm/2011/3/27/Review-Homefront-and-Bad-Company-2">Homefront</a>. This was another game with a bad graphics engine. But to me - the story and other aspects more than made up for it. Let me be clear. Aliens:CM makes Homefront look like freaking Crysis. As others have noted - many screenshots of the game were released before the game and not one of them come close to the actual final product. Here is a great image which just about sums it up. (Credit: <a href="http://furiousfanboys.com/2013/02/aliens-colonial-marines-summed-up-in-one-image/">http://furiousfanboys.com/2013/02/aliens-colonial-marines-summed-up-in-one-image/</a>)
 
-<img src="http://www.raymondcamden.com/images/AliensColonialCrap.jpg" />
+<img src="http://static.raymondcamden.com/images/AliensColonialCrap.jpg" />
 
 Then there's the controller. I can pretty much deal with any controller setup, but something about this game's design just doesn't work out well for me. Mainly it is the melee attack. I accidentally trigger it in just about every encounter I have. I've died multiple times when I swung my weapon instead of actually firing it. 
 

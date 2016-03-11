@@ -25,7 +25,7 @@ In browsers that support it, the user will be able to select multiple files. In 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_9_10_13_9_32_AM.jpg" />
+<img src="http://static.raymondcamden.com/images/Screenshot_9_10_13_9_32_AM.jpg" />
 </p>
 
 <p>
@@ -33,7 +33,7 @@ Notice something? The user isn't told <i>what</i> files they selected. Now obvio
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_9_10_13_9_35_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_9_10_13_9_35_AM.png" />
 </p>
 
 <p>
@@ -121,7 +121,7 @@ Pretty simple, right? You can view an example of this here: <a href="http://www.
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_9_10_13_9_42_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_9_10_13_9_42_AM.png" />
 </p>
 
 <p>
@@ -201,7 +201,7 @@ You can view a demo of this here: <a href="http://www.raymondcamden.com/demos/20
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_9_11_13_5_49_AM.png" /></p>
+<img src="http://static.raymondcamden.com/images/Screenshot_9_11_13_5_49_AM.png" /></p>
 
 <p>
 Check it out and let me know what you think. As I said, it should be fully backwards compatible (in that it won't break) and works well in Chrome, Firefox, IE10, and Safari.

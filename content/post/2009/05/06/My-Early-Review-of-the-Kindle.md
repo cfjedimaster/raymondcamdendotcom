@@ -13,15 +13,15 @@ A couple of weeks ago I got the Kindle 2 (<a href="http://www.amazon.com/gp/prod
 <!--more-->
 First off, let me talk about the hardware itself. While a bit simple looking (the color is a bit bland), the device is pretty darn cool. Out of all the high tech gadgets I own, including the iPhone, I think this is easily the one that is the most futuristic looking. I <i>feel</i> like I'm holding something from the future. I know that's a bit dorky, but I mean it. Physically it feels good in the hands. I don't honestly care what the dimensions are, I just care about how it feels when I'm reading. The best comparison I can think of is a half-size magazine, like the size of the <a href="http://www.fusionauthority.com/">Fusion Authority</a> magazine. My hands are probably a bit bigger than most (insert joke here), but maybe this picture can give you an idea:
 
-<img src="http://www.raymondcamden.com/images//Photo 4.jpg">
+<img src="http://static.raymondcamden.com/images//Photo 4.jpg">
 
 Of course, I also thought it would make sense to compare it to my big head:
 
-<img src="http://www.coldfusionjedi.com/images//Photo 5.jpg">
+<img src="http://static.raymondcamden.com/images/cfjedi//Photo 5.jpg">
 
 In case you can't tell, that's Milton on the left, me on the right. Lastly, here is a picture of both the Kindle and my iPhone. While the Kindle is bigger height and width wise, it feels much thinner:
 
-<img src="http://www.coldfusionjedi.com/images//Photo 6.jpg">
+<img src="http://static.raymondcamden.com/images/cfjedi//Photo 6.jpg">
 
 The screen is <i>very</i> crisp. I didn't get a chance to try it outside, but I did try it in my office, in my son's taekwondo gym, and in the car, and it always looked fine. I was a bit worried since it doesn't look too bright, but it seemed fine. However, I did not try it outside in the direct sunlight. As a programmer, that is strictly forbidden. 
 

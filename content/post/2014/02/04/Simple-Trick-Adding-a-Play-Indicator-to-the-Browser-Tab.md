@@ -15,7 +15,7 @@ I'm a Soundcloud user and a while ago I noticed they did something cool with the
 </p>
 <!--more-->
 <p>
-<img src="http://www.raymondcamden.com/images/s18.png" />
+<img src="http://static.raymondcamden.com/images/s18.png" />
 </p>
 
 <p>
@@ -23,7 +23,7 @@ If you've ever been jamming out and needed to quickly mute your computer then th
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s210.png" />
+<img src="http://static.raymondcamden.com/images/s210.png" />
 </p>
 
 <p>
@@ -81,5 +81,5 @@ If you are incredibly bored and want to see this in action, hit the demo link be
 </p>
 
 <p>
-<a href="http://raymondcamden.com/demos/2014/feb/4/nowplaying.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>  
+<a href="http://raymondcamden.com/demos/2014/feb/4/nowplaying.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>  
 </p>

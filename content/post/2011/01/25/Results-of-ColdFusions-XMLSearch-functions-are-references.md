@@ -43,7 +43,7 @@ I begin with a simple XML packet of products. Each product has a name and a pric
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip17.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip17.png" />
 
 <p>
 

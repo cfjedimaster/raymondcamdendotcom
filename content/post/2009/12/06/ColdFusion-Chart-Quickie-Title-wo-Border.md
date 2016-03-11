@@ -17,7 +17,7 @@ How do I hide the box/border surrounding the title in a cfchart?  Can that be do
 
 Correct - showBorder is for the chart as a whole. And like (almost) always - the chart editor comes to the rescue. Click the Title value in the chart editor opens up a sub editor with a butt load of options for the title:
 
-<img src="http://www.raymondcamden.com/images/Picture 194.png" />
+<img src="http://static.raymondcamden.com/images/Picture 194.png" />
 
 Notice the style attribute on the right? That handles the border around the title. You can set it to a variety of different styles or just select "None" to get rid of it. The generated XML is:
 
@@ -29,4 +29,4 @@ Notice the style attribute on the right? That handles the border around the titl
 
 You can also play with the other styles and tweak the color too if you want.
 
-<img src="http://www.coldfusionjedi.com/images/Picture 264.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 264.png" />

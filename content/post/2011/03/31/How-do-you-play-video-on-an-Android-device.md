@@ -13,4 +13,4 @@ This comes right from the "Obvious" department, but I've had various Android dev
 
 So please tell me I'm not the only one who didn't know this?
 
-<img src="http://www.raymondcamden.com/images/thx-captain-obvious.jpg" />
+<img src="http://static.raymondcamden.com/images/thx-captain-obvious.jpg" />

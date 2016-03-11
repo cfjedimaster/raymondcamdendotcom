@@ -86,7 +86,7 @@ Woot! Pretty simple, right? Check out the result:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/device1.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device1.png" />
 
 <p>
 
@@ -220,7 +220,7 @@ That's pretty darn simple, right? Once the directions are returned, I can simply
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/device2.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device2.png" />
 
 <p>
 

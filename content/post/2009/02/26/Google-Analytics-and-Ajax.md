@@ -13,10 +13,10 @@ About 10 days ago or so I <a href="http://www.raymondcamden.com/index.cfm/2009/2
 
 First off - the visits value didn't seem to change at all:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 223.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 223.png">
 
 But when I switched to page views, there was a big jump:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 317.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 317.png">
 
 I guess this makes perfect sense. I didn't get a lot of new people visiting the site, but certainly the registered count of page hits should have improved.

@@ -15,7 +15,7 @@ The reader wanted to take county data for America and render it on screen. Initi
 
 I decided to start simple though. I knew that Adobe Illustrator could spit out SVG files, so I opened up Illustrator and used all of my artistic talent to create this.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip168.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip168.png" />
 
 While not the most exciting graphic in the world, it gave me something to start with. The SVG file is completely XML based. You can see the source for it here:
 
@@ -27,7 +27,7 @@ Having never seen SVG before you can take a good guess as to what each part does
 
 Not terribly exciting, but also pretty darn simple. You can run the demo <a href="http://www.raymondcamden.com/demos/2013/feb/2/test1.html">here</a>, or look at  the screen shot below. 
 
-<img src="http://www.raymondcamden.com/images/ScreenClip169.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip169.png" />
 
 I tested this in Chrome, Firefox, and IE10 and it worked great there. From what I could see in my research, the "basics" of SVG worked pretty well everywhere, but the more advanced options weren't universally available. (Check out this <a href="http://caniuse.com/#search=svg">list</a> of SVG options at CanIUse.com for more information.)
 

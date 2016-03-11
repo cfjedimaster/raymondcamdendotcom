@@ -38,7 +38,7 @@ Again, nice and simple. Michal also mentioned something I hadn't noticed before.
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot112.png" />
+<img src="http://static.raymondcamden.com/images/shot112.png" />
 </p>
 
 <p>

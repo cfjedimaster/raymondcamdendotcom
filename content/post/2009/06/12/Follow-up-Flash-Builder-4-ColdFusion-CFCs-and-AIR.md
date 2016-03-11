@@ -14,7 +14,7 @@ I've done a few blog entries recently showing simple examples of connecting to a
 <!--more-->
 First, when creating the new Flex project, be sure to select AIR (Desktop):
 
-<img src="http://www.coldfusionjedi.com/images//Picture 163.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 163.png">
 
 After that, follow the same directions from the last blog post, specifically ensuring you select ColdFusion and Flash Remoting in the Server Technology part.
 
@@ -78,6 +78,6 @@ Notice the CFJ? I uploaded this to www.coldfusionjedi.com/demos. Back in Flash B
 
 Notice I changed the endpoint to point to my service, and I had to tweak source a bit. Whereas before testa.cfc was in web root, now it's in the demos folder. Once again I clicked the little run button and it worked like a charm:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 239.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 239.png">
 
 Woot. Just call me an Experience Designer! If you want to confirm this works, I've placed the AIR file online <a href="http://www.coldfusionjedi.com/demos/TestCFC.air">here</a>. I also included the source. (Easily one of the coolest features of Flex Builder 3/Flash Builder 4 is the ability to include the source code in your apps!)

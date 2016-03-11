@@ -48,11 +48,11 @@ For the most part, this should just "make sense", but definitely let me know if 
 
 Here's an example of the application running in Ripple. Notice that I've done a search already. 
 
-<img src="http://www.raymondcamden.com/images/screenshot79.png" />
+<img src="http://static.raymondcamden.com/images/screenshot79.png" />
 
 I can now use Ripple to take my device offline. Notice that Ripple fakes an in-device notification with a simple HTML element overlaying the device.
 
-<img src="http://www.raymondcamden.com/images/screenshot80.png" />
+<img src="http://static.raymondcamden.com/images/screenshot80.png" />
 
 It may be a bit hard to see, but the button has been disabled as well. This way the user can't accidentally click it again. When network access is restored, the button will be re-enabled. 
 

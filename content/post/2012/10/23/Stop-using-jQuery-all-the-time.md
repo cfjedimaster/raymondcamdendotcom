@@ -16,7 +16,7 @@ Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2012/10/22/Simple-PO
 
 About an hour or so after I posted it, something began to bug me. I opened up the template and looked at the Network requests in Chrome dev tools.
 <!--more-->
-<img src="http://www.raymondcamden.com/images/ScreenClip144.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip144.png" />
 
 Just in case it isn't obvious, let me break it down for you. My HTML document was a bit over 1.5K. The jQuery library, compressed, was 33K. To be fair, my HTML was limited to what was required for the demo, but even if I increased the size of my document ten fold, it would still be less than the size of the jQuery library.
 
@@ -42,7 +42,7 @@ For adding and removing classes, I made use of the <a href="https://developer.mo
 
 After these changes, the size of my application was pretty much next to nothing.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip145.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip145.png" />
 
 Here is the complete template. Any questions?
 

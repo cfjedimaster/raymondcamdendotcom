@@ -15,23 +15,23 @@ To begin, head over to <a href="http://www.aptana.com/">Aptana.com</a> and downl
 
 After installing and running Aptana, the Welcome screen should appear. Notice the giant Plugins icon?
 
-<img src="http://www.coldfusionjedi.com/images/Capture1.PNG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Capture1.PNG" />
 
 Click it and the very first one you will see (at least at the time of this blog entry) is the Adobe AIR 2.0 Beta. I <i>believe</i> the Beta tag is just for the plugin, not AIR 2 which is now final.
 
-<img src="http://www.coldfusionjedi.com/images/Capture2.PNG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Capture2.PNG" />
 
 This will start the plugin installation process. For some odd reason, the UI will not actually <i>select</i> the plugin you asked it to install. In the screen shot below you can see that it isn't checked. Yeah, um, ok. So check that.
 
-<img src="http://www.coldfusionjedi.com/images/Capture3.PNG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Capture3.PNG" />
 
 Now, for the most part, you can just hit Ok, Accept, etc, for the rest of the process, but don't screw up like  I did and not click the checkbox on the certificate page at the end. 
 
-<img src="http://www.coldfusionjedi.com/images/Capture4.PNG" title="This is what happens when coders do UX." />
+<img src="http://static.raymondcamden.com/images/cfjedi/Capture4.PNG" title="This is what happens when coders do UX." />
 
 When it finishes, go ahead and let the application restart. You're now ready to create an AIR project. Go to the file menu, project, and create a new web project. The first option will be Adobe AIR.
 
-<img src="http://www.coldfusionjedi.com/images/Capture5.PNG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Capture5.PNG" />
 
 There are a <i>lot</i> of options here, and they are all important later on, but for now, you can get by with just entering a name. Internet Law dictates that your first project must be called HelloWorld. As before, you can accept all the defaults and just let the project creation finish.
 
@@ -39,7 +39,7 @@ You will end up with a new project and a few default files. Your main file shoul
 
 So how do you test the application? Two ways. The main way will be to run the application. Just hit the lovely, maybe not so obvious green arrow button:
 
-<img src="http://www.coldfusionjedi.com/images/Capture6.PNG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Capture6.PNG" />
 
 You will then end up with a running AIR application! Of course, it probably doesn't display anything if you didn't edit the HTML. Even if you did, it won't do anything fancy. That's coming up later. 
 
@@ -47,15 +47,15 @@ Finally - let's talk packaging AIR applications. This is how you create the .air
 
 Packing an AIR application begins by clicking the .air icon (two to the right of the green icon). The very first time you do this you will see that you have no certificates.
 
-<img src="http://www.coldfusionjedi.com/images/Capture8.PNG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Capture8.PNG" />
 
 Click the "Configure Certificates" link to bring up:
 
-<img src="http://www.coldfusionjedi.com/images/Capture9.PNG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Capture9.PNG" />
 
 Click Add and enter information for your self-signed cert. Here is an example:
 
-<img src="http://www.coldfusionjedi.com/images/Capture10.PNG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Capture10.PNG" />
 
 Which finally brings you back to the package form. Select the certificate you just created and enter the password. After that - just take the defaults and you're good to go.
 

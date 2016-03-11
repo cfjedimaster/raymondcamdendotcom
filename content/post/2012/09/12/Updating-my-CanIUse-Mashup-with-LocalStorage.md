@@ -32,7 +32,7 @@ The version value is hard coded, which means when I push up a new data file I ne
 
 Overall - this was about 5 minutes of code - but the update should be worth it. Other resources on the page, like jQuery and Handlebars, also add up to 200k, so I pretty much cut the download time in half. As an example, here's Chrome Dev Tools showing the load and its impact on the request.
 
-<img src="http://www.raymondcamden.com/images/screenshot24.png" />
+<img src="http://static.raymondcamden.com/images/screenshot24.png" />
 
 What's next? I'd like to update the demos to dynamically change the URL so that folks could bookmark various configurations. So for example, selecting feature A, B, and D, should create a URL you could send to someone else.
 

@@ -81,7 +81,7 @@ Here is a quick example of what the grid looks like on start:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/Screen shot 2010-04-29 at 6.25.14 AM.png" title="Grid before searching" />
+<img src="http://static.raymondcamden.com/images/Screen shot 2010-04-29 at 6.25.14 AM.png" title="Grid before searching" />
 
 <p>
 
@@ -89,7 +89,7 @@ And here it is after I entered a search term:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-04-29 at 6.25.27 AM.png" title="Search and selected" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-29 at 6.25.27 AM.png" title="Search and selected" />
 
 <p>
 

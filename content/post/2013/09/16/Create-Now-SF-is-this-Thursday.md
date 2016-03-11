@@ -16,7 +16,7 @@ OK, so I don't know how many of my readers live in the Bay Area (or within drivi
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/sf.jpg" />
+<img src="http://static.raymondcamden.com/images/sf.jpg" />
 </p>
 
 <p>

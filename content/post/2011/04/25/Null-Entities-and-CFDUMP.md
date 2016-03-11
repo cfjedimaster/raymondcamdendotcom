@@ -29,7 +29,7 @@ This returned...
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip74.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip74.png" />
 
 <p>
 
@@ -65,7 +65,7 @@ Check out the difference:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip75.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip75.png" />
 
 <p>
 

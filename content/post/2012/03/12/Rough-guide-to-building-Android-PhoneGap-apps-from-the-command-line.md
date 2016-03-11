@@ -54,7 +54,7 @@ If everything worked right, you should see the following:
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip41.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip41.png" />
 <p/>
 
 For the next step, you need to follow, partially, the <a href="http://phonegap.com/start#android">PhoneGap Getting Started Guide</a> for Android, obviously skipping the setup steps. Basically, go to step 3 and follow from there. <b>HOWEVER</b> there is one critical change. Instead of <b>import com.phonegap.*</b>, you want to use <b>import org.apache.cordova.*</b>. It looks like this change is specifically required for PhoneGap 1.5, and is part of the process of the move to Cordova. 
@@ -75,7 +75,7 @@ If you see "Build Successful" at the end, congrats, you should now have an APK f
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip42.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip42.png" />
 
 The guide I linked to above also tells you how to create a release or release and signed build. Since I primarily just build stupid demos, I wasn't worried about that now. 
 

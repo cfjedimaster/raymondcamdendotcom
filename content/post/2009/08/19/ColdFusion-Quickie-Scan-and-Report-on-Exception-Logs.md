@@ -91,7 +91,7 @@ Reporting is as simple as doing a structSort and displaying an ugly table:
 
 Here is some sample output from my local exception.log:
 
-<img src="http://www.raymondcamden.com/images/Picture 336.png" />
+<img src="http://static.raymondcamden.com/images/Picture 336.png" />
 
 Enjoy. The complete script may be found here:
 

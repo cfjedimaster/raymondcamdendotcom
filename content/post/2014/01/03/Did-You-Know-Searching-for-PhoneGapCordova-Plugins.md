@@ -22,7 +22,7 @@ What I normally do is just pop open a tab to <a href="http://docs.cordova.io">do
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_1_3_14__10_16_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_1_3_14__10_16_AM.png" />
 </p>
 
 <p>
@@ -30,7 +30,7 @@ This searches the entire set of plugins at <a href="http://plugins.cordova.io">C
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_1_3_14__10_18_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_1_3_14__10_18_AM.png" />
 </p>
 
 <p>

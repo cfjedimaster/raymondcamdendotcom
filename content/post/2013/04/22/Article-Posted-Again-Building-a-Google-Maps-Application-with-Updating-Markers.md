@@ -10,7 +10,7 @@
 	"guid": "4915"
 }
 
-<img src="http://www.raymondcamden.com/images/map-trucks.jpg" style="float:left;margin-right: 10px;margin-bottom:10px" /> Just as an FYI, today my first article on <a href="http://flippinawesome.org/">flippin' awesome!</a> was published this morning: <a href="http://flippinawesome.org/2013/04/22/google-maps-markers/">Building a Google Maps Application with Updating Markers</a>
+<img src="http://static.raymondcamden.com/images/map-trucks.jpg" style="float:left;margin-right: 10px;margin-bottom:10px" /> Just as an FYI, today my first article on <a href="http://flippinawesome.org/">flippin' awesome!</a> was published this morning: <a href="http://flippinawesome.org/2013/04/22/google-maps-markers/">Building a Google Maps Application with Updating Markers</a>
 
 In the article I discuss how to create a Google Map that automatically refreshes marker data every few seconds. The idea being that you may have data for moving items (trucks, dragons, users with jetpacks) and your map can automatically update the display in near real time.
 <!--more-->

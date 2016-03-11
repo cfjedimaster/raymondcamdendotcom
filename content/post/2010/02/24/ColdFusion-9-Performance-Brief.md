@@ -9,7 +9,7 @@
 	"guid": "3732"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/pbp1.png" title="Performance Brief - the sexiest brief you will read today." style="float:left;margin-right:5px" />I just twittered this, but figured I'd share it here as well. Adobe has released a ColdFusion 9 Performance Brief. You can download the PDF here:
+<img src="http://static.raymondcamden.com/images/cfjedi/pbp1.png" title="Performance Brief - the sexiest brief you will read today." style="float:left;margin-right:5px" />I just twittered this, but figured I'd share it here as well. Adobe has released a ColdFusion 9 Performance Brief. You can download the PDF here:
 
 <a href="http://bit.ly/CFFast">http://bit.ly/CFFast</a>
 

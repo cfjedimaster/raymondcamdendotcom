@@ -146,7 +146,7 @@ All we do here is simply get the log and display it. After running it a few time
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip188.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip188.png" />
 
 <p>
 
@@ -298,7 +298,7 @@ Which gives me this:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip189.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip189.png" />
 
 <p>
 

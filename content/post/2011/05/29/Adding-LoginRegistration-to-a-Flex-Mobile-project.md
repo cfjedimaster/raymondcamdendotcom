@@ -19,7 +19,7 @@ I began with a new Flex Mobile application that started off with the Tabbed view
 <p>
 
 
-<img src="http://www.raymondcamden.com/images/cfjedi/ScreenClip98.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip98.png" />
 
 <p>
 
@@ -27,7 +27,7 @@ One of the things I really like about Flash Builder is how far it goes to help y
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/ScreenClip99.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip99.png" />
 
 <p>
 
@@ -131,8 +131,8 @@ Ok - hopefully everything so far seems pretty simple. Remember that Flash Builde
 <p>
 
 
-<img src="http://www.raymondcamden.com/images/cfjedi/login.png" align="left" />
-<img src="http://www.raymondcamden.com/images/cfjedi/reg.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/login.png" align="left" />
+<img src="http://static.raymondcamden.com/images/cfjedi/reg.png" />
 
 <br clear="left">
 
@@ -198,7 +198,7 @@ So - what's going on here? The TabbedViewNavigator has a few APIs that allow you
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/ScreenClip100.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip100.png" />
 
 <p>
 
@@ -206,7 +206,7 @@ For now those views don't do anything so I won't bother posting the code here. (
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/ScreenClip101.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip101.png" />
 
 <p>
 

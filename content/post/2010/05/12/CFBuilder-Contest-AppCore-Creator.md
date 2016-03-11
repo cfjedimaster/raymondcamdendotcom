@@ -9,7 +9,7 @@
 	"guid": "3816"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> It's been a few days since the last entry, and for that, I apologize. I'm in Rhode Island now in the middle of some big meetings, so I've been pretty much brain dead since Monday. Today's entry is a simple one - but I think it shows some promise and it's a good beginning. The entry was sent in by Akbarsait (aka Akbar, but not <i>that</i> one) and is called AppCore Creator.
+<img src="http://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> It's been a few days since the last entry, and for that, I apologize. I'm in Rhode Island now in the middle of some big meetings, so I've been pretty much brain dead since Monday. Today's entry is a simple one - but I think it shows some promise and it's a good beginning. The entry was sent in by Akbarsait (aka Akbar, but not <i>that</i> one) and is called AppCore Creator.
 <br clear="left">
 <p>
 <!--more-->
@@ -17,7 +17,7 @@ The idea behind the extension is a simple one. You right click in your project n
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/Screen shot 2010-05-12 at 9.59.49 PM.png" title="Shot One" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-05-12 at 9.59.49 PM.png" title="Shot One" />
 
 <p>
 
@@ -25,7 +25,7 @@ You pick a version (for the old timers out there I picked 7) and then the extens
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/Screen shot 2010-05-12 at 10.00.00 PM.png" title="Shot Two" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-05-12 at 10.00.00 PM.png" title="Shot Two" />
 
 <p>
 

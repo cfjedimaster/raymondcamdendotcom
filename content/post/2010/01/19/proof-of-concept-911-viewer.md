@@ -36,7 +36,7 @@ So I let this run for a week or so and then created my first report using CFMAP.
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/map1.png"  title="Lots of death and mayhem..." />
+<img src="http://static.raymondcamden.com/images/cfjedi/map1.png"  title="Lots of death and mayhem..." />
 
 <p>
 

@@ -53,7 +53,7 @@ simple form:&lt;br/&gt;
 
 Nothing special about that. On Chrome, once I enter a value once, I will get prompted to autofill the field, but only one field at a time. It didn't remember that last time I did "Raymond" that "Camden" was an associated value.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/11/shot14.png" alt="shot1" width="247" height="86" class="aligncenter size-full wp-image-7123" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot14.png" alt="shot1" width="247" height="86" class="aligncenter size-full wp-image-7123" />
 
 Note the lovely pee-yellow CSS Chrome uses to signify an autocomplete field. I honestly don't know why it does this when it requires user action in order to fill. Maybe the thinking is that I'll forget where the name came from? (FYI, apparently you can tweak it: <a href="http://stackoverflow.com/questions/2781549/removing-input-background-colour-for-chrome-autocomplete">http://stackoverflow.com/questions/2781549/removing-input-background-colour-for-chrome-autocomplete</a>)
 
@@ -61,11 +61,11 @@ Firefox has the same behavior (without the CSS pee) as does MS Edge (but with pe
 
 Safari lets you use either other forms or your local contact info for form data. You can actually use both if you want:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/11/shot21.png" alt="shot2" width="750" height="276" class="aligncenter size-full wp-image-7124" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot21.png" alt="shot2" width="750" height="276" class="aligncenter size-full wp-image-7124" />
 
 However, Safari will not begin suggesting a value until you type one letter. To me, that's a mistake, because at the point I'm typing, I can finish typing my name in less time it takes for Safari to draw a list of names. The UI for filling from a contact card is different from 'regular' autofill:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/11/safari.png" alt="safari" width="331" height="145" class="aligncenter size-full wp-image-7125" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/safari.png" alt="safari" width="331" height="145" class="aligncenter size-full wp-image-7125" />
 
 Ok, how about some more tests. I was first curious about why/when a form would <i>completely</i> fill out. I tried this test:
 
@@ -90,11 +90,11 @@ autocomplete hints&lt;br/&gt;
 
 In Chrome, while I could autocomplete fields in the first form, only the second form let me completely fill the entire form. I'm guessing it is the number of fields that matter here. Again, the UI is slightly different in each case. First, Chrome offering to fill just one field:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/11/shot31.png" alt="shot3" width="242" height="74" class="aligncenter size-full wp-image-7126" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot31.png" alt="shot3" width="242" height="74" class="aligncenter size-full wp-image-7126" />
 
 Versus the entire form:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/11/shot41.png" alt="shot4" width="314" height="105" class="aligncenter size-full wp-image-7127" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot41.png" alt="shot4" width="314" height="105" class="aligncenter size-full wp-image-7127" />
 
 To be honest, the second screen shot doesn't really imply that it will fill the entire form, but it is certainly different. Maybe the fact that the street address there is supposed to be the clue.
 
@@ -125,7 +125,7 @@ autocomplete using hints but weird names
 
 And oddly - Chrome finally got it working right: 
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-23-at-3.12.41-PM.png" alt="Screen Shot 2015-11-23 at 3.12.41 PM" width="307" height="123" class="aligncenter size-full wp-image-7128" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/Screen-Shot-2015-11-23-at-3.12.41-PM.png" alt="Screen Shot 2015-11-23 at 3.12.41 PM" width="307" height="123" class="aligncenter size-full wp-image-7128" />
 
 No other browser changed though in terms of its behavior. 
 
@@ -148,18 +148,18 @@ autocomplete using hints but weird names and datalist
 
 I love datalist - and <a href="http://caniuse.com/#search=datalist">support is good</a> if you ignore Safari (sigh). Firefox and Chrome will render both past entries <i>and</i> autocomplete values at once, which is kinda nice:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/11/ff.png" alt="ff" width="384" height="176" class="aligncenter size-full wp-image-7129" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/ff.png" alt="ff" width="384" height="176" class="aligncenter size-full wp-image-7129" />
 
 Unfortunately, while Edge supports datalist, it doesn't handle rendering autocomplete and the list at the same time - you can see them overlapping here:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/11/shot9.png" alt="shot9" width="750" height="500" class="aligncenter size-full wp-image-7130" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot9.png" alt="shot9" width="750" height="500" class="aligncenter size-full wp-image-7130" />
 
 It gets weird if you add more values and the field is towards the bottom of the screen:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/11/shot10.png" alt="shot10" width="680" height="408" class="aligncenter size-full wp-image-7131" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot10.png" alt="shot10" width="680" height="408" class="aligncenter size-full wp-image-7131" />
 
 But give it enough space at the bottom and it messes up again:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/11/shot111.png" alt="shot11" width="589" height="313" class="aligncenter size-full wp-image-7132" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot111.png" alt="shot11" width="589" height="313" class="aligncenter size-full wp-image-7132" />
 
 I need to remember to file a bug report on this, of course, since I can't expect it to be fixed if I don't bother to report it.

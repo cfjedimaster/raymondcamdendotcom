@@ -30,6 +30,6 @@ He begins with an initial image resize to a decent, but still large, size. Notic
 
 Altogether, you get this effect when you mouseover the image:
 
-<img src="http://www.raymondcamden.com/images//moo.png">
+<img src="http://static.raymondcamden.com/images//moo.png">
 
 Pretty nifty. Just one nit - I'd save the resized images. Image resizing on the fly for every request is typically a bad idea.

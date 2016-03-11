@@ -10,7 +10,7 @@
 	"guid": "6424"
 }
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/07/book.jpg" alt="book" width="226" height="300" class="alignleft size-full wp-image-6425" /> I've said on more than one occasion that it was gaming that initially got me into programming. Initially just cheating at games (I hacked my Bard's Tale save and I modified the source code in Lemonade Stand), but what I really wanted to do was create my own games. That dream pretty much went away when I left the computer science program in college and discovered the web, but I've toyed with the idea of building my own web-based games from time to time. A while back, I was lucky enough to get a copy of "Build an HTML5 Game" by Karl Bunyan. 
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/book.jpg" alt="book" width="226" height="300" class="alignleft size-full wp-image-6425" /> I've said on more than one occasion that it was gaming that initially got me into programming. Initially just cheating at games (I hacked my Bard's Tale save and I modified the source code in Lemonade Stand), but what I really wanted to do was create my own games. That dream pretty much went away when I left the computer science program in college and discovered the web, but I've toyed with the idea of building my own web-based games from time to time. A while back, I was lucky enough to get a copy of "Build an HTML5 Game" by Karl Bunyan. 
 
 <!--more-->
 

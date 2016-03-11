@@ -18,11 +18,11 @@ I was. Even more odd was the fact that one had the "nice" application name and o
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/good.png" />
+<img src="http://static.raymondcamden.com/images/good.png" />
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/bad.png" />
+<img src="http://static.raymondcamden.com/images/bad.png" />
 </p>
 
 <p>

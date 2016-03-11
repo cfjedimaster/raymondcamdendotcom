@@ -32,13 +32,13 @@ First and foremost, Ionic is <strong>not just another UI framework</strong>. Not
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ionic1.png" />
+<img src="http://static.raymondcamden.com/images/ionic1.png" />
 </p>
 
 And here is a list view:
 
 <p>
-<img src="http://www.raymondcamden.com/images/ionic2.png" />
+<img src="http://static.raymondcamden.com/images/ionic2.png" />
 </p>
 
 <p>
@@ -66,7 +66,7 @@ Ionic has a CLI that can be used to create a new project. It also wraps Cordova 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ionic3.png" />
+<img src="http://static.raymondcamden.com/images/ionic3.png" />
 </p>
 
 <p>
@@ -118,7 +118,7 @@ Let's take a look at the screens. The initial screen is temporary while your loc
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screen Shot 2014-07-28 at 1.22.28 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2014-07-28 at 1.22.28 PM.png" />
 </p>
 
 <p>
@@ -126,7 +126,7 @@ After selecting the service type, the Places API will then fetch results based o
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screen Shot 2014-07-28 at 1.23.00 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2014-07-28 at 1.23.00 PM.png" />
 </p>
 
 <p>
@@ -134,7 +134,7 @@ When a business is selected, I show you details of the location. I decided to ma
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screen Shot 2014-07-28 at 1.23.12 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2014-07-28 at 1.23.12 PM.png" />
 </p>
 
 <p>
@@ -142,7 +142,7 @@ If you scroll down a tiny bit, you'll see that you can swipe those pictures left
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screen Shot 2014-07-28 at 1.23.24 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2014-07-28 at 1.23.24 PM.png" />
 </p>
 
 <p>

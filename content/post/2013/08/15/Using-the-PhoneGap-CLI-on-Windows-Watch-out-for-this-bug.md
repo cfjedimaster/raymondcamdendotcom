@@ -13,16 +13,16 @@ I've recently spoken to more and more people who are working with PhoneGap on Wi
 <!--more-->
 One of the coolest things about the PhoneGap CLI is that it tells you what SDKs it is ready to use locally. It's a quick way to see if you've got your crap set up right. Here is what I see on my Mac.
 
-<img src="http://www.raymondcamden.com/images/Screenshot_8_15_13_5_27_PM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_8_15_13_5_27_PM.png" />
 
 Awesome, right? But here is what I see in Windows:
 
-<img src="http://www.raymondcamden.com/images/Screenshot_8_15_13_5_28_PM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_8_15_13_5_28_PM.png" />
 
 Oh, sad face. Seeing all those question marks, my assumption was that the CLI wasn't able to determine if the SDKs were available or not. Fair enough. I figured I'd check the docs and see if I missed something. 
 
 Unfortunately, it turned out to be something far weirder. Captain Obvious (no, seriously, that's his/her name in the Google Group) pointed out that those question marks were actually high ASCII characters. Sending the result of the PhoneGap CLI to a text file and opening with Notepad++ reveals the truth:
 
-<img src="http://www.raymondcamden.com/images/Screenshot_8_15_13_5_33_PM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_8_15_13_5_33_PM.png" />
 
 Boom. This is already filed as a bug (<a href="https://github.com/phonegap/phonegap-cli/issues/155">Issue 155</a>) if you want to track it. I'm still having issues with the CLI on Windows, so expect a follow up later this week.

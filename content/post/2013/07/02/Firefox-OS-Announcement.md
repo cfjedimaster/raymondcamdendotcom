@@ -28,4 +28,4 @@ Firefox OS is brought to you by Mozilla, a global nonprofit organization that em
 You can test out FF OS easily enough using a Firefox add-on. Addy Osmani has a great article talking about this: <a href="http://thenittygritty.co/ffos-apps">Building Apps for Firefox OS, Chrome OS, and The Web</a>. I tested out the Yeoman generator and can verify that it works, but you need to modify the base paths in manifest.webapp.
 
 Honestly - I have no idea how successful Firefox OS will be - but it is an impressive idea and one with a good heart as well. Have any of my readers started playing with it yet?
-<img src="http://www.raymondcamden.com/images/foxy-splash.png" />
+<img src="http://static.raymondcamden.com/images/foxy-splash.png" />

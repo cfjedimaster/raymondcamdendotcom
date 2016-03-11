@@ -9,7 +9,7 @@
 	"guid": "3857"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/maxsmall.png" align="left" style="margin-right: 5px" title="MAX 2010" /> Just a quick note to let you know that MAX 2010 sessions are now posted. You can view them here: <a href="http://max.adobe.com/schedule/by-session/">http://max.adobe.com/schedule/by-session/</a>. The site makes use of Ajax (although not jQuery - boo ;) for the catalog. Oddly though they don't allow for any type of deep linking. I can tell you that I'll be speaking this year, but I'll have to cut and paste the info here.
+<img src="http://static.raymondcamden.com/images/cfjedi/maxsmall.png" align="left" style="margin-right: 5px" title="MAX 2010" /> Just a quick note to let you know that MAX 2010 sessions are now posted. You can view them here: <a href="http://max.adobe.com/schedule/by-session/">http://max.adobe.com/schedule/by-session/</a>. The site makes use of Ajax (although not jQuery - boo ;) for the catalog. Oddly though they don't allow for any type of deep linking. I can tell you that I'll be speaking this year, but I'll have to cut and paste the info here.
 
 <b>Best Practices of the Modern ColdFusion Developer</b><br/>
 Join Raymond Camden to learn which techniques (source control, unit testing, load testing, and so forth) are considered best practices for the Adobe ColdFusion developer and, more important, why they are considered best practices. Practical examples of the benefits of these practices will be provided.

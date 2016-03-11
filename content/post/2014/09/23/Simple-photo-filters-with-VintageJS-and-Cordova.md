@@ -91,7 +91,7 @@ And here is one result from the iOS Simulator:
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/iOS Simulator Screen Shot Sep 23, 2014, 9.47.28 AM.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/iOS Simulator Screen Shot Sep 23, 2014, 9.47.28 AM.png" class="bthumb" />
 </p>
 
 <p>
@@ -99,7 +99,7 @@ And here is an example running from my Nexus 7. My UI isn't optimized so forgive
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/device-2014-09-23-094841.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/device-2014-09-23-094841.png" class="bthumb" />
 </p>
 
 <p>

@@ -22,7 +22,7 @@ Unfortunately there isn't a cool logo for the betas but as I've said for a while
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Byrne-X-men-Montage-Small.jpg" />
+<img src="http://static.raymondcamden.com/images/Byrne-X-men-Montage-Small.jpg" />
 </p>
 
 <p>

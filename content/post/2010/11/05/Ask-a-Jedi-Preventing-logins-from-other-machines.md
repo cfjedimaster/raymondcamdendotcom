@@ -20,7 +20,7 @@ There are a couple of questions here and I'd like to start off by tackling the s
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/screen39.png" />
+<img src="http://static.raymondcamden.com/images/screen39.png" />
 
 <p>
 

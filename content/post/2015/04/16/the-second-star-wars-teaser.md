@@ -19,4 +19,4 @@ There is <i>so</i> much to love in this. I love how the opening shot is reminisc
 
 Can't. Freaking. Wait.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/sstfa.jpg"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/sstfa.jpg" alt="sstfa" width="534" height="831" class="alignnone size-full wp-image-6016" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/sstfa.jpg"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/sstfa.jpg" alt="sstfa" width="534" height="831" class="alignnone size-full wp-image-6016" /></a>

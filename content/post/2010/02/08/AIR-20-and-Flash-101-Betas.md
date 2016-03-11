@@ -9,7 +9,7 @@
 	"guid": "3710"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/air_icon_special.gif" style="align:left;margin-right:5px" align="left" /> As I (slowly) try to recover from yesterday, I thought I'd send out a quick reminder to folks that the latest betas of both AIR 2.0 and Flash 10.1 are available. 
+<img src="http://static.raymondcamden.com/images/cfjedi/air_icon_special.gif" style="align:left;margin-right:5px" align="left" /> As I (slowly) try to recover from yesterday, I thought I'd send out a quick reminder to folks that the latest betas of both AIR 2.0 and Flash 10.1 are available. 
 
 <a href="http://labs.adobe.com/technologies/air2/">AIR 2.0</a> should be an amazing release. I highly recommend catching up on <a href="http://blogs.adobe.com/cantrell/">Christian Cantrell's blog</a> as he has quite a few entries on the new release.
 

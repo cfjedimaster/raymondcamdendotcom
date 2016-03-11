@@ -58,6 +58,6 @@ Notice the dataLabel and the use of $(desc). So what happens next is kind of coo
 
 And ColdFusion will ignore the string portion of the data. The charting engine will use this as the label:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 146.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 146.png">
 
 This could have some interesting uses. For example, you could add descriptions for data points that have special meanings. For example, you could correlate your query to product releases, and for every year that had a product release, mention it: "Released Phaser Gun". This would help give some context to the ups and downs of the chart.

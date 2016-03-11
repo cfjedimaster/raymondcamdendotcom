@@ -67,7 +67,7 @@ This results in the rather lovely chart you see here:
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/Screen shot 2010-03-12 at 5.49.12 PM.png" title="CFCHART Example One" />
+<img src="http://static.raymondcamden.com/images/Screen shot 2010-03-12 at 5.49.12 PM.png" title="CFCHART Example One" />
 
 <p/>
 
@@ -112,7 +112,7 @@ And voila:
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-03-12 at 5.52.52 PM.png" title="CFCHART Example Two... is it beer time yet?" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-03-12 at 5.52.52 PM.png" title="CFCHART Example Two... is it beer time yet?" />
 
 <p/>
 

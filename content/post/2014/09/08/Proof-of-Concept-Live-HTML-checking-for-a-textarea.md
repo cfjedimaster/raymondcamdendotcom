@@ -107,7 +107,7 @@ From the top, I'm caching my results div so I can reuse it when doing validation
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s123.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/s123.png" class="bthumb" />
 </p>
 
 <p>
@@ -119,5 +119,5 @@ If you want to play with it yourself, I set up a demo below.
 </p>
 
 <p>
-<a href="http://www.raymondcamden.com/demos/2014/sep/8/"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>   
+<a href="http://www.raymondcamden.com/demos/2014/sep/8/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>   
 </p>

@@ -14,7 +14,7 @@ For folks who are used to doing native Android development, this is old news, bu
 <!--more-->
 <p>
 
-<img src="http://www.raymondcamden.com/images/holyshit1.png" />
+<img src="http://static.raymondcamden.com/images/holyshit1.png" />
 
 <p>
 
@@ -22,7 +22,7 @@ And...
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/holyshit2.png" />
+<img src="http://static.raymondcamden.com/images/holyshit2.png" />
 
 <p>
 
@@ -30,7 +30,7 @@ But wait, there's more....
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/holyshit3.png" />
+<img src="http://static.raymondcamden.com/images/holyshit3.png" />
 
 <p>
 
@@ -78,4 +78,4 @@ Most Google results mention android.permission.READ_PHONE_STATE as well, but tha
 <p>
 
 
-<img src="http://www.raymondcamden.com/images/thatsbetter.png" />
+<img src="http://static.raymondcamden.com/images/thatsbetter.png" />

@@ -14,7 +14,7 @@ I'm a big fan of <a href="http://lab.hakim.se/reveal-js/">reveal.js</a>. It is a
 </p>
 <!--more-->
 <p>
-<img src="http://www.raymondcamden.com/images/Leving_Up_at_JavaScript.png" />
+<img src="http://static.raymondcamden.com/images/Leving_Up_at_JavaScript.png" />
 </p>
 
 <p>
@@ -55,7 +55,7 @@ Here is the updated slide.
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Leving_Up_at_JavaScript2.png" />
+<img src="http://static.raymondcamden.com/images/Leving_Up_at_JavaScript2.png" />
 </p>
 
 <p>

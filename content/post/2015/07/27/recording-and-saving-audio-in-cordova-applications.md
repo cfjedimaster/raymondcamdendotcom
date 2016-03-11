@@ -23,7 +23,7 @@ Because this problem turned into a royal cluster-you know what, I've decided to 
 
 Simple, right? So I began working on a form that would let the user make the recording as well as name it. I wanted them to be able to do the recording as well as play it back to ensure they liked it.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-27-2015-1.38.09-PM.png" alt="iOS Simulator Screen Shot Jul 27, 2015, 1.38.09 PM" width="422" height="750" class="aligncenter size-full wp-image-6538 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-27-2015-1.38.09-PM.png" alt="iOS Simulator Screen Shot Jul 27, 2015, 1.38.09 PM" width="422" height="750" class="aligncenter size-full wp-image-6538 imgborder" />
 
 Clicking Record fires off a call to the Media Capture plugin:
 
@@ -59,17 +59,17 @@ This is boiler-plate Media Capture usage here. I'm storing both the URL and file
 
 This worked fine in Android and iOS. But I noticed something weird. When I looked at the Media Capture object in captureSuccess, I saw this in Android:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/07/shot110.png" alt="shot1" width="500" height="192" class="aligncenter size-full wp-image-6539 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot110.png" alt="shot1" width="500" height="192" class="aligncenter size-full wp-image-6539 imgborder" />
 
 See the portion I called out there? Persistent. Cool. That gives me the warm fuzzies. However, in iOS, I saw this:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/07/shot25.png" alt="shot2" width="500" height="134" class="aligncenter size-full wp-image-6540 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot25.png" alt="shot2" width="500" height="134" class="aligncenter size-full wp-image-6540 imgborder" />
 
 As you can see, it is being stored in a temporary location, which is not good. Unfortunately, there is nothing in the Media Capture plugin that you can change to modify this behavior. Therefore - the answer was clear.
 
 The File System!
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/07/onesimply.jpg" alt="onesimply" width="568" height="335" class="aligncenter size-full wp-image-6541" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/onesimply.jpg" alt="onesimply" width="568" height="335" class="aligncenter size-full wp-image-6541" />
 
 So in theory, this should be easy. First, we pick a persistent location that covers both Android and iOS. The File plugin provides such an alias: <code>cordova.file.dataDirectory</code>
 
@@ -115,7 +115,7 @@ All in all, it isn't that bad. A few nested callbacks, and nearly half my code t
 
 Luckily, everything worked perfectly.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/07/yeah-right.jpg" alt="yeah-right" width="275" height="183" class="aligncenter size-full wp-image-6542" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/yeah-right.jpg" alt="yeah-right" width="275" height="183" class="aligncenter size-full wp-image-6542" />
 
 So at this point, I've saved the location of my audio file so I can use it in the Media api, but the new location doesn't work in the Media plugin anymore. Why? I don't freaking know. I <a href="http://www.raymondcamden.com/2014/06/23/Cordova-Media-API-Example">blogged</a> last year about how when you use the Media plugin and a relative path, you have to do something funky on Android, basically prefix your relative URL. In my case, I'm using a file:// url and I just assumed it would work.
 

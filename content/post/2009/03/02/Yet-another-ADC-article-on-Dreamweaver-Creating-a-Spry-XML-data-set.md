@@ -11,4 +11,4 @@
 
 Just a quick note to point out another of my Adobe Developer Connection articles has been published: <a href="http://www.adobe.com/devnet/dreamweaver/articles/spry_creating_xml_data_set.html">Creating a Spry XML data set</a>. The title doesn't make it exactly clear, but this is a Dreamweaver CS4 related article. 
 
-<img src="http://www.raymondcamden.com/images//Picture 142.png">
+<img src="http://static.raymondcamden.com/images//Picture 142.png">

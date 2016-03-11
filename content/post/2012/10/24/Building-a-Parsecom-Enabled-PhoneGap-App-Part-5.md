@@ -25,7 +25,7 @@ The Android set up is relatively simple and can be done in about 5 minutes. For 
 
 The good news is that once you have created the certificates for both platforms, PhoneGap Build makes it super easy to use them. You simply upload the proper documents and then edit your project to ensure they point to them.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip146.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip146.png" />
 
 Once you've done that, you can generate release builds just as you would any other build. Simply update your code and PhoneGap Build will do the hard work for you.
 
@@ -37,17 +37,17 @@ In this series (and other blog entries), I've raved about how darn cool Parse is
 
 The very first thing you will want to do is go into your application setting and <b>disable</b> "Allow client class creation."
 
-<img src="http://www.raymondcamden.com/images/ScreenClip147.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip147.png" />
 
 This will prevent hackers and ne'er-do-wells from adding random types of data to your storage. (In case you're wondering - I did this for my application.)
 
 The second option you have is a bit more involved. Parse allows for full ACLs (Access Control Lists) over data. By default it's free for all. Anyone can make anything. You can disable this globally in the settings by disabling anonymous users:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip148.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip148.png" />
 
 But most likely you want to provide more fine-grained control. Parse allows you to control access at the type and object level. Here is a screen shot of the permissions screen for the TipObject.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip149.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip149.png" />
 
 As you can see, you have incredible control over your data and how people will be able to interact with it. I disabled both Delete and Add Fields. But you have many more options here. You can assign users and roles to specific permissions based on whatever your application's needs are.
 
@@ -65,7 +65,7 @@ In all fairness, they're probably right. Most cow tipping would probably involve
 
 Luckily Google ain't a prude like those fellows over at Apple!
 
-<img src="http://www.raymondcamden.com/images/ScreenClip150.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip150.png" />
 
 You can download the app <a href="https://play.google.com/store/apps/details?id=org.camden.cowtipline&feature=search_result#?t=W251bGwsMSwyLDEsIm9yZy5jYW1kZW4uY293dGlwbGluZSJd">right now</a> if you're really, really into actually tipping cows. 
 

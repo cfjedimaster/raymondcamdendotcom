@@ -30,7 +30,7 @@ Nice. So in the end, there was one clear winner. This guy's code was always #1, 
 Congrats to him! In second place it was a fight between Mat Evans, Brian Kotek, and sometimes Coyne. For a representative example of the results, click the chart below to see the full screen version. 
 
 <a href="http://www.coldfusionjedi.com/images/bigchart.jpg">
-<img src="http://www.coldfusionjedi.com/images/smallchart.jpg"></a>
+<img src="http://static.raymondcamden.com/images/cfjedi/smallchart.jpg"></a>
 
 The numerical results for this run were:
 

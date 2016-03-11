@@ -9,7 +9,7 @@
 	"guid": "4050"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/screen53.png" align="left" /> About a week or so I was lucky enough to be given a NOOKcolor (thanks Ted!) and I thought I'd give my opinion on it. I started using the Nook with some initial assumptions.
+<img src="http://static.raymondcamden.com/images/cfjedi/screen53.png" align="left" /> About a week or so I was lucky enough to be given a NOOKcolor (thanks Ted!) and I thought I'd give my opinion on it. I started using the Nook with some initial assumptions.
 
 1) While I <i>really</i> like what's going on with tablets lately, I'm probably not the ideal customer for one. I've got a killer desktop for my 9-5 and at night I sit next to a killer laptop. I do a lot of nighttime work (mostly for fun and mostly because TV is crap) and want a 'real' machine at my disposal at all times.
 2) I love books. But I've been blessed by readers visiting my wishlist to the point now where I've got - approximately - two years worth of books. I never buy books anymore. I will, from time to time, pick up the latest book in a series that I'm really into (most recently that was <a href="http://www.amazon.com/After-America-John-Birmingham/dp/0345502914/ref=sr_1_1?s=books&ie=UTF8&qid=1292011476&sr=1-1">After America</a>), but for the most part, I just don't buy books. 

@@ -136,7 +136,7 @@ How well does it work? Check the demo yourself:
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/may272010/test3.cfm"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/may272010/test3.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

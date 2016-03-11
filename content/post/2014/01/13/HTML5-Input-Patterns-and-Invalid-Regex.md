@@ -27,7 +27,7 @@ I opened up my console, took his regex, and simply put it in a new <a href="http
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_1_13_14__7_07_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_1_13_14__7_07_AM.png" />
 </p>
 
 <p>

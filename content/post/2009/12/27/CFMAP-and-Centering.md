@@ -27,7 +27,7 @@ My first attempt was to figure out a way to center the map on an marker. I began
 This generated: 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/Screen shot 2009-12-27 at 6.36.28 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen shot 2009-12-27 at 6.36.28 PM.png" />
 <p/>
 
 Looking over both the ColdFusion docs and the Google Maps API, I began by adding ajaxOnLoad to the bottom of my script:
@@ -148,7 +148,7 @@ function center(s){
 Yeah - pretty simple, right? Unfortunately, something goes wonky when you run this. The first time I ran my code, I ended up with new, green markers on the locations. This was <b>before</b> I added showcentermarker="false" to my map. I clicked a bunch of cities and each time it simply added green markers. It never actually centered. 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2009-12-27 at 6.58.41 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2009-12-27 at 6.58.41 PM.png" />
 <p/>
 
 When I added showcentermarker="false", it did absolutely nothing. You can see this yourself <a href="http://www.coldfusionjedi.com/demos/map122709/test2.cfm">here</a>. I'm guessing it is just a bug. 
@@ -256,4 +256,4 @@ In this snippet, point is a valid longitude/latitude pair. The call to GStreetVi
 Pretty cool, right?
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2009-12-27 at 7.08.19 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2009-12-27 at 7.08.19 PM.png" />

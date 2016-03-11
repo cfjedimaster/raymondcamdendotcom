@@ -19,7 +19,7 @@ The first example I want to share is <a href="http://www.stackoverflow.com">Stac
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot113.png" />
+<img src="http://static.raymondcamden.com/images/shot113.png" />
 </p>
 
 <p>
@@ -27,7 +27,7 @@ Clicking on it opens a list of your most recent messages. Again, I didn't take a
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot212.png" />
+<img src="http://static.raymondcamden.com/images/shot212.png" />
 </p>
 
 <p>
@@ -43,7 +43,7 @@ The next thing that bugs me is Google Plus and their notifications. When you cli
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot38.png" />
+<img src="http://static.raymondcamden.com/images/shot38.png" />
 </p>
 
 <p>

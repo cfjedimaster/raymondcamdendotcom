@@ -21,7 +21,7 @@ The HTML of my application was essentially just a div to support the injected re
 
 The result is pretty much as you would expect:
 
-<img src="http://www.raymondcamden.com/images/iOS Simulator Screen shot Nov 15, 2012 3.48.18 PM.png" />
+<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Nov 15, 2012 3.48.18 PM.png" />
 
 So - obviously the solution would be to make use of the API to format those columns. Unfortunately, here is where I ran into a snag. The API calls are all asynchronous. Ouch. Normally this isn't a big deal, I can handle callbacks, but we've got N*3 cells of data all of which must be fired off asynchronously. In order to create our display we have to wait for these to finish.
 
@@ -42,15 +42,15 @@ Taking this step by step, what I've done is this:
 
 So did it work? Hell yes. Here is the result on my iOS simulator:
 
-<img src="http://www.raymondcamden.com/images/iOS Simulator Screen shot Nov 15, 2012 4.51.16 PM.png" />
+<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Nov 15, 2012 4.51.16 PM.png" />
 
 How did I test other locales? I went into my iOS Simulator settings, went to General, then International. At first I changed the Language value. That was wrong. I then noticed Region Format. That's the one you want to tweak:
 
-<img src="http://www.raymondcamden.com/images/iOS Simulator Screen shot Nov 15, 2012 4.50.46 PM.png" />
+<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Nov 15, 2012 4.50.46 PM.png" />
 
 I set it to French/France, closed my application and reran it, and got...
 
-<img src="http://www.raymondcamden.com/images/iOS Simulator Screen shot Nov 15, 2012 4.50.02 PM.png" />
+<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Nov 15, 2012 4.50.02 PM.png" />
 
 Pretty sweet, right? Now my PhoneGap application will display data in a format that makes sense to my end users. For numbers and currencies this may not be a big deal, but for dates it can be huge.
 

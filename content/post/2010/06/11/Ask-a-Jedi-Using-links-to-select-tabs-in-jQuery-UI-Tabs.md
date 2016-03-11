@@ -106,4 +106,4 @@ As a side note - I try to avoid onclicks now and use jQuery event handlers inste
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/june112010/test5.cfm"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/june112010/test5.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

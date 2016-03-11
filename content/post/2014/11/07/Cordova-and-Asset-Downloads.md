@@ -23,7 +23,7 @@ First off, we don't do anything "special" until we need to, so the home page is 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/iOS Simulator Screen Shot Nov 7, 2014, 3.14.04 PM.png" class="bthumb"/>
+<img src="http://static.raymondcamden.com/images/iOS Simulator Screen Shot Nov 7, 2014, 3.14.04 PM.png" class="bthumb"/>
 </p>
 
 <p>
@@ -31,7 +31,7 @@ Clicking the Assets button is what begins the thing we want to demonstrate. When
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/iOS Simulator Screen Shot Nov 7, 2014, 3.17.17 PM.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/iOS Simulator Screen Shot Nov 7, 2014, 3.17.17 PM.png" class="bthumb" />
 </p>
 
 <p>
@@ -43,7 +43,7 @@ The next time the user views that particular page, they will see a list of asset
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/iOS Simulator Screen Shot Nov 7, 2014, 3.20.27 PM.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/iOS Simulator Screen Shot Nov 7, 2014, 3.20.27 PM.png" class="bthumb" />
 </p>
 
 <p>
@@ -51,7 +51,7 @@ To wrap up my demo, I used jQuery Mobile's popup widget to provide a way to view
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/iOS Simulator Screen Shot Nov 7, 2014, 3.22.32 PM.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/iOS Simulator Screen Shot Nov 7, 2014, 3.22.32 PM.png" class="bthumb" />
 </p>
 
 <p>

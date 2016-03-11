@@ -19,4 +19,4 @@ Bonus points will be awards for good validation (what happens if you pass in a n
 
 Every solution should take the bill as the first argument. It should be a number value representing the dollars and cents total for the bill. So 1.75 for one dollar and seventy-five cents. The second argument is the number of people.
 
-<img src="http://www.raymondcamden.com/images/restaurant-bill.jpg" />
+<img src="http://static.raymondcamden.com/images/restaurant-bill.jpg" />

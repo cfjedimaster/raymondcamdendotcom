@@ -44,11 +44,11 @@ function handleComplete(res) {
 
 Starting at the bottom, we have our basic form with the multi-file control. Notice I've added a oncomplete attribute. This will be run after every file is uploaded. This runs a function called handleComplete. I get passed an object that contains a status code, a message, and the file name. So the next part is simple. If the status is 200, simply add a row of data where we can ask for more information. Notice I use a hidden form field. This let's me connect, numerically, a file name along with the meta data. You will see the connection in the sample below. The screen shot below shows the result of uploading 3 files and me entering information about them.
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2009-11-20 at 5.15.45 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2009-11-20 at 5.15.45 PM.png" />
 
 And after submitting, note the form data:
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2009-11-20 at 5.16.16 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2009-11-20 at 5.16.16 PM.png" />
 
 I hope this is helpful. Let me know if you have any questions, or improvements, on the technique.
 

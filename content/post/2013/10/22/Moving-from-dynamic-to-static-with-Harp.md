@@ -115,7 +115,7 @@ And that's it. Seriously. It parsed my project and spit out pure HTML. Here is t
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/file.jpg" />
+<img src="http://static.raymondcamden.com/images/file.jpg" />
 </p>
 
 <p>
@@ -131,7 +131,7 @@ If you haven't seen it, Amazon makes the process pretty gentle for creating a we
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s3permissions.jpg" />
+<img src="http://static.raymondcamden.com/images/s3permissions.jpg" />
 </p>
 
 <p>
@@ -143,7 +143,7 @@ The final step of the process was a few quick domain/DNS updates at GoDaddy (and
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/f.jpg" />
+<img src="http://static.raymondcamden.com/images/f.jpg" />
 </p>
 
 <p>

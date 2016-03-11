@@ -72,7 +72,7 @@ And here is a quick screen shot of it in action.
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/device-2011-11-04-092515.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device-2011-11-04-092515.png" />
 
 <p>
 

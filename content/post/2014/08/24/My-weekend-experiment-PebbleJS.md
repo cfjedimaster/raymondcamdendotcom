@@ -23,7 +23,7 @@ For the most part, it works pretty easily, especially if you make use of their <
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s119.png" />
+<img src="http://static.raymondcamden.com/images/s119.png" />
 </p>
 
 <p>
@@ -31,7 +31,7 @@ Sending the application to your watch is also pretty easy. Remember to enable th
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s216.png" />
+<img src="http://static.raymondcamden.com/images/s216.png" />
 </p>
 
 <p>
@@ -39,7 +39,7 @@ But I wasn't sure <i>how</i> to get my IP. I was about to hit one of those "what
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_2014-08-24-12-33-01.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_2014-08-24-12-33-01.png" />
 </p>
 
 <p>
@@ -70,7 +70,7 @@ Despite the fact that setInterval was discouraged, I figured, why not go ahead a
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/pebble-screenshot_2014-08-23_15-34-12.png" />
+<img src="http://static.raymondcamden.com/images/pebble-screenshot_2014-08-23_15-34-12.png" />
 </p>
 
 <p>
@@ -78,7 +78,7 @@ You can actually download this right now if you are on Android, and, in up to te
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s38.png" />
+<img src="http://static.raymondcamden.com/images/s38.png" />
 </p>
 
 <p>

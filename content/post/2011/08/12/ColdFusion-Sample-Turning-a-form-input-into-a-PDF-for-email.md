@@ -71,7 +71,7 @@ Nothing too complex here. I've got 3 main form fields and a bit of logic to hand
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip151.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip151.png" />
 
 <p>
 

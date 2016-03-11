@@ -40,4 +40,4 @@ So what about CFBuilder? You may not realize this - but the last point update ac
 
 As I said, I'm going to be blogging about 901 updates over the next few weeks. I'll be using the prefix "CF901" before these entries in case they begin to annoy the heck out of you. I'll also be updating this server to 901 tonight so if you see any momentary downtime, blame Apple. (Yes, that didn't make sense. Deal with it. :)
 
-<img src="http://www.coldfusionjedi.com/images/chuck-norris.jpg" />
+<img src="http://static.raymondcamden.com/images/cfjedi/chuck-norris.jpg" />

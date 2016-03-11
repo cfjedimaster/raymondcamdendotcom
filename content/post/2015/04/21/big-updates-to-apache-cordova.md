@@ -37,7 +37,7 @@ The old IDs still work, and will work for some time, but you will want to get us
 
 <pre><code>npm search ecosystem:cordova</code></pre>
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/sho1.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/sho1.png" alt="sho1" width="850" height="418" class="alignnone size-full wp-image-6047" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/sho1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/sho1.png" alt="sho1" width="850" height="418" class="alignnone size-full wp-image-6047" /></a>
 
 All of the plugins have had minor updates and you can see a list of changes on the <a href="http://cordova.apache.org/announcements/2015/04/21/plugins-release-and-move-to-npm.html">blog post</a>.
 

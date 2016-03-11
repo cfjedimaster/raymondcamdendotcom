@@ -77,7 +77,7 @@ private function doGray():void {
 
 All CFaaS components (except for config) have an execute() method which - as you can probably guess - will execute the desired action. The result of this is plopped with a simple image component. Altogether you get this kick butt AIR application that I plan on selling for $9.99:
 
-<img src="http://www.raymondcamden.com/images/Picture 263.png" />
+<img src="http://static.raymondcamden.com/images/Picture 263.png" />
 
 Pretty trivial, right? The second example is a bit more full featured. Along with providing hooks to various ColdFusion services, CFaaS also provides simple file upload support. This allows you to send files to the ColdFusion server so that they can be processed. Before working on my CFaaS presentation I had never done any file uploads with Flex before, so forgive me if the code below is a bit off. 
 
@@ -200,4 +200,4 @@ Pretty trivial, right? The second example is a bit more full featured. Along wit
 So there is a lot more going on in this one, but it's really just a minor update to the previous version. Going from the top to the bottom, the first big change is support for handling the file uploads. You can see that the URL is built dynamically based off both the config objects as well as a UPLOAD_URL constant returned by our ColdFusion server. When the user selects a file and uploads it, we display it in an image component below and turn on our buttons. Each button makes use of a different image operation. For the most part these are simple, but note the batch operation. This one, as you can guess, allows us to perform multiple operations at once. (And make note - GrayScale is buggy within a batch operation. You must pass an empty value for it's arguments if you want to use the default operation.) Each button/service will simply do it's thing and then update the image below. 
 
 The last part of the application is the download button. As you can guess, this will let us download our modified image after we've played with it. We now have a mini-Photoshop if you will. I plan on selling this application for 19.99. 
-<img src="http://www.coldfusionjedi.com/images/Picture 341.png" /><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fimagedemos%2Ezip'>Download attached file.</a></p>
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 341.png" /><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fimagedemos%2Ezip'>Download attached file.</a></p>

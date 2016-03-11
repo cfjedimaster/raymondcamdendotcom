@@ -19,7 +19,7 @@ I turned to Stack Overflow where user <a href="http://stackoverflow.com/users/63
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/foo.png" />
+<img src="http://static.raymondcamden.com/images/foo.png" />
 </p>
 
 <p>

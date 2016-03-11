@@ -19,7 +19,7 @@ Editing works - I assume - like most other visual designers. You get nice 'snap 
 
 Here is a snapshot of my FlashBuilder running one of the screens. I've shrunk it down a bit so click for a larger version.
 
-<a href="http://www.raymondcamden.com/images/shot1_large.png"><img src="http://www.coldfusionjedi.com/images/shot1_small.png" /></a>
+<a href="http://www.raymondcamden.com/images/shot1_large.png"><img src="http://static.raymondcamden.com/images/cfjedi/shot1_small.png" /></a>
 
 Right away one of the things I like is how this tool is integrated into my project. I can go from actual code to screen and back and forth. 
 

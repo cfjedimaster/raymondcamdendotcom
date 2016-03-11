@@ -38,7 +38,7 @@ In the code sample above, I'm defining that byName is remote and I'm defining ho
 
 When I restart my application (and you do not need to do this via the CLI, if you have StrongLoop Arc running, you can reload from the UI), I can see, and test this, in the Explorer:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot15.png" alt="shot1" width="750" height="518" class="aligncenter size-full wp-image-6949" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot15.png" alt="shot1" width="750" height="518" class="aligncenter size-full wp-image-6949" />
 
 I then modified the code to do a real look up. I haven't really seen yet the CRUD methods you have available via code, but they are incredibly easy to use. Here is how I implemented it. 
 
@@ -59,7 +59,7 @@ Cat.remoteMethod('byName',
 
 Simple, right? Also note I updated the return type to specifically say I'm returning a cat. My code doesn't handle an unknown cat well, but you get the basic idea. Here is the updated result:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot25.png" alt="shot2" width="750" height="397" class="aligncenter size-full wp-image-6953" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot25.png" alt="shot2" width="750" height="397" class="aligncenter size-full wp-image-6953" />
 
 Another interesting aspect is the ability to work with <a href="https://docs.strongloop.com/display/public/LB/Remote+hooks">remote hooks</a>. These are functions that run in conjunction with other API calls. They let you do something before and after a remote call. They also let you hook into an error event. You can use this for logging or to sanitize inputs for methods or modify results for output. What's cool is that you can even use wild cards to match multiple (or all) remote methods for automatic logging of <i>everything</i> your API does. StrongLoop differentiates between static and model methods, so this particular example will only match the static calls (you can match the other ones too of course):
 

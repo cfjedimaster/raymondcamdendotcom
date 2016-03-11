@@ -9,7 +9,7 @@
 	"guid": "4865"
 }
 
-<img src="http://www.raymondcamden.com/images/logo-html.png" style="float:left" /> Please forgive this short little sermon. I've been spending most of my time over the past few years getting myself reacquainted with client-side development. A majority of that time has been spent focused on JavaScript. I've spent some time getting better at CSS as well, but honestly, it really isn't something that interests me much. Plus, I already work with people doing <a href="http://html.adobe.com/webstandards/">amazing things with CSS</a>. 
+<img src="http://static.raymondcamden.com/images/logo-html.png" style="float:left" /> Please forgive this short little sermon. I've been spending most of my time over the past few years getting myself reacquainted with client-side development. A majority of that time has been spent focused on JavaScript. I've spent some time getting better at CSS as well, but honestly, it really isn't something that interests me much. Plus, I already work with people doing <a href="http://html.adobe.com/webstandards/">amazing things with CSS</a>. 
 
 While I've spent most of my time with JavaScript, I've been trying to get more familiar with HTML as well. That may sound a bit silly. I certainly didn't <i>plan</i> to. I've been working with HTML since around 1993, so certainly I know everything there is to know about it already, right?
 <!--more-->

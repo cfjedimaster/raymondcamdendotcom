@@ -17,7 +17,7 @@ So what does Starfish do? The first part of Starfish is the debugging template. 
 
 The second part of Starfish is the admin interface. Here is a screen shot (click on it for a bigger shot):
 
-<a href="http://www.coldfusionjedi.com/images/starfish_big.jpg"><img src="http://www.coldfusionjedi.com/images/starfish_small.jpg"></a>
+<a href="http://www.coldfusionjedi.com/images/starfish_big.jpg"><img src="http://static.raymondcamden.com/images/cfjedi/starfish_small.jpg"></a>
 
 What we have here are three things (although one isn't in the screen shot, it was added later). First you have a list of templates along with the number of times it has been run, with min, max, and average execution times. Since this is a flash grid you can sort. When you click on a template, a graph loads showing how the template has performed. Typically, you will see a high initial value followed by much smaller values. If not - something may be wrong.
 

@@ -25,7 +25,7 @@ The basic idea of the course is to give you ten different applications to build 
 
 Each app contains a video introduction, a video tutorial, and a PDF as well. What's cool is that you can watch the videos and then use the PDF to build the app at your own speed. Obviously you can also download all the assets (code, images, etc) for each app. When you begin, the course also includes a video introduction to help you understand the basic mechanics of the course itself.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/tenapps1.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/tenapps1.png" alt="tenapps1" width="850" height="436" class="alignnone size-full wp-image-5811" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/tenapps1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/tenapps1.png" alt="tenapps1" width="850" height="436" class="alignnone size-full wp-image-5811" /></a>
 
 I do have some problems with the course. He misused jQuery Mobile a bit, which doesn't really impact the apps themselves, and he has a few other technical issues that I've mentioned to him. I don't think any of these technical issues should stop you from buying the course, but an experienced front-end developer looking to learn more about hybrid development will notice them. Again, I think they are problems to correct, but I'd still recommend picking up the course.
 

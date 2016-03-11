@@ -115,7 +115,7 @@ For each file we check the extension, and based on the extension, use the approp
 That's it! If you download the zip attached to this blog entry and then run the code, you will see that the code does a reasonable good job of representing the text. For example, the text from the Excel document is laid out much like how you see it visually in MS Excel. 
 
 <b>Sample output from an Excel sheet</b><br/>
-<img src="http://www.raymondcamden.com/images//Picture 138.png">
+<img src="http://static.raymondcamden.com/images//Picture 138.png">
 
 Once you have the text you can store it in a database, email it, or do anything else you would like with it.
 

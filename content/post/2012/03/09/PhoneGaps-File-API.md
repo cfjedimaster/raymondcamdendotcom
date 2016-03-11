@@ -41,7 +41,7 @@ For my Adobe TV video, I built a simple application that demonstrates some of th
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip35.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip35.png" />
 
 <p>
 
@@ -92,7 +92,7 @@ As a quick aside, getById is simply a wrapper for document.getElementById. (Tryi
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip37.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip37.png" />
 
 <p>
 
@@ -133,7 +133,7 @@ Reading bottom to top, the event handler starts off by creating a reader object 
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip36.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip36.png" />
 
 <p>
 
@@ -187,7 +187,7 @@ As before, we begin by opening the file, and in the success callback, create a F
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip38.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip38.png" />
 
 <p>
 
@@ -209,7 +209,7 @@ function doMetadataFile(e) {
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip39.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip39.png" />
 
 <p>
 

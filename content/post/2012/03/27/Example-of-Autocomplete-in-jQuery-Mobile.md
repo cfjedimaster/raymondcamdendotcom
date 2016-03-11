@@ -126,7 +126,7 @@ And that's it. I tested it on my mobile device and while the keyboard will cover
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/forblog.png" />
+<img src="http://static.raymondcamden.com/images/forblog.png" />
 
 <p>
 
@@ -134,7 +134,7 @@ Obviously this demo needs a bit more work to be complete. Your list options woul
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/2012/mar/27/"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/mar/27/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

@@ -43,7 +43,7 @@ PhoneGap Build now has a "Plugins" tab for each project. This is a great way to 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/plugins.jpg" />
+<img src="http://static.raymondcamden.com/images/plugins.jpg" />
 </p>
 
 <p>
@@ -51,7 +51,7 @@ If you forget the value for a particular plugin, or want to see what PhoneGap Bu
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/mainplugins.jpg" />
+<img src="http://static.raymondcamden.com/images/mainplugins.jpg" />
 </p>
 
 <p>

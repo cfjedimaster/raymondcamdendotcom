@@ -11,7 +11,7 @@
 
 For the life of me I can't figure out how to add a web service call to a page in Dreamweaver CS3. The docs say only one thing. Go to your components panel, and select Web Services from the drop down. But when I click here...
 
-<img src="http://www.raymondcamden.com/images/dwcs.png">
+<img src="http://static.raymondcamden.com/images/dwcs.png">
 
 The only option I have is CF Components.
 

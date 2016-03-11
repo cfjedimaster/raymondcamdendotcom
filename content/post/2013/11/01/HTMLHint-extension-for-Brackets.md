@@ -15,7 +15,7 @@ Earlier today I discovered <a href="http://htmlhint.com/">HTMLHint</a>, a linter
 </p>
 <!--more-->
 <p>
-<img src="http://www.raymondcamden.com/images/brackets.jpg" />
+<img src="http://static.raymondcamden.com/images/brackets.jpg" />
 </p>
 
 <p>

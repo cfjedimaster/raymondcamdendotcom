@@ -230,7 +230,7 @@ Here's a quick screen shot. Obviously it is static so you can't see it working, 
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/device-2012-01-19-091324.png" />
+<img src="http://static.raymondcamden.com/images/device-2012-01-19-091324.png" />
 
 
 <p/>

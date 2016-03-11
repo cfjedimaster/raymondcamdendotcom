@@ -9,7 +9,7 @@
 	"guid": "3582"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/solr.jpg" align="left" title="Solr" style="margin-right:10px"/> For the past week or so I've been working on the updated full-text searching chapter of the ColdFusion Web Application Construction Kit. We are totally removing all mention of Verity (outside of that fact that it used to be the only engine supported) and focusing entirely on Solr. While working through the chapter I ran across a couple of "gotchas" that I thought I'd share for anyone considering migrating to ColdFusion 9 and taking the initiative to also update to Solr. This is by no means a complete list - it's just what I encountered. Comments, corrections, and additions are welcome.
+<img src="http://static.raymondcamden.com/images/cfjedi/solr.jpg" align="left" title="Solr" style="margin-right:10px"/> For the past week or so I've been working on the updated full-text searching chapter of the ColdFusion Web Application Construction Kit. We are totally removing all mention of Verity (outside of that fact that it used to be the only engine supported) and focusing entirely on Solr. While working through the chapter I ran across a couple of "gotchas" that I thought I'd share for anyone considering migrating to ColdFusion 9 and taking the initiative to also update to Solr. This is by no means a complete list - it's just what I encountered. Comments, corrections, and additions are welcome.
 
 <b>Edited:</b> Let me stress - Solr and Verity are very different products. The point of this article is to focus on the differences at the ColdFusion level only.
 <!--more-->

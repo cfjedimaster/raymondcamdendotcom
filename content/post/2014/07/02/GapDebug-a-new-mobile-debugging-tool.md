@@ -24,7 +24,7 @@ After installing GapDebug, you get a new icon in your taskbar to launch a new de
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s116.png" />
+<img src="http://static.raymondcamden.com/images/s116.png" />
 </p>
 
 <p>
@@ -36,7 +36,7 @@ If you select one of the currently detected applications, a new debugging tab wi
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s214.png" />
+<img src="http://static.raymondcamden.com/images/s214.png" />
 </p>
 
 <p>
@@ -44,7 +44,7 @@ Notice that this is the same UI you get with Safari remote debugging - all witho
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s37.png" />
+<img src="http://static.raymondcamden.com/images/s37.png" />
 </p>
 
 <p>

@@ -13,4 +13,4 @@ I've gotten quite a few emails from folks letting me know that <a href="http://w
 
 In case folks are curious - I don't actually know why this is happening now, but I've enabled logging for scheduled tasks to see if I can find what is up. Of course I'll have to wait a good 20 hours until it runs again, but hopefully the log will shed some light into what is going wrong.
 
-<img src="http://www.raymondcamden.com/images/Picture 13.png">
+<img src="http://static.raymondcamden.com/images/Picture 13.png">

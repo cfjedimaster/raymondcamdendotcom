@@ -15,4 +15,4 @@ You can download the presentation and code from Github: <a href="https://github.
 
 It should "just run" in your browser, but some of the demos are a bit bleeding edge. 
 
-<img src="http://www.raymondcamden.com/images/htmldrug2.jpg" />
+<img src="http://static.raymondcamden.com/images/htmldrug2.jpg" />

@@ -15,7 +15,7 @@ Imagine you have some code that is being fired right before, or during, a click 
 </p>
 <!--more-->
 <p>
-<img src="http://www.raymondcamden.com/images/ss13.png" />
+<img src="http://static.raymondcamden.com/images/ss13.png" />
 </p>
 
 <p>
@@ -28,7 +28,7 @@ So I mentioned on Twitter that I wish the Network panel had the same feature as 
 
 
 <p>
-<img src="http://www.raymondcamden.com/images/ss22.png" />
+<img src="http://static.raymondcamden.com/images/ss22.png" />
 </p>
 
 <p>

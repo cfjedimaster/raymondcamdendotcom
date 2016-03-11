@@ -83,7 +83,7 @@ Pretty simple, right? (Ok, it's simple to use - but was way above my current kno
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/device bad cap.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device bad cap.png" />
 
 <p>
 
@@ -91,7 +91,7 @@ And here it is after:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/device good cap.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/device good cap.png" />
 
 <p>
 

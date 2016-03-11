@@ -38,7 +38,7 @@ I began by creating the layout and a simple home page. This was relatively trivi
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s11.jpg" />
+<img src="http://static.raymondcamden.com/images/s11.jpg" />
 </p>
 
 <p>
@@ -152,7 +152,7 @@ One final thing I'll show you is the page that categories use to list content. I
 The final step was to run "harp compile" and convert the application into static HTML files. What's fascinating is the change in size. In the screen shot below, the right side is the new version and includes both the source HarpJS and the production out.
 </p>
 
-<img src="http://www.raymondcamden.com/images/s21.jpg" />
+<img src="http://static.raymondcamden.com/images/s21.jpg" />
 
 <p>
 To be fair, the old dynamic version had other folders of stuff I wasn't using and a large MVC framework. I ended up removing the PDF version for now since - again - as far as I knew this wasn't something people used. Search used to be driven by Solr. I switched to Google. Something tells me Google knows search. One tip though. Note that my site has a search box in the UI. How do you integrate that with Google's Custom Search tool so that when the page loads, the embedded search will use the initial input?

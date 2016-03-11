@@ -19,7 +19,7 @@ First - ensure you have installed the phonegap CLI via npm. Ensure you have the 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ss14.png" />
+<img src="http://static.raymondcamden.com/images/ss14.png" />
 </p>
 
 <p>
@@ -27,7 +27,7 @@ At this point you do <strong>not</strong> have to add a platform. Next - fire up
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ss23.png" />
+<img src="http://static.raymondcamden.com/images/ss23.png" />
 </p>
 
 <p>
@@ -35,7 +35,7 @@ Make note of the IP address. It should be obvious, but this tool requires that y
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ss32.png" />
+<img src="http://static.raymondcamden.com/images/ss32.png" />
 </p>
 
 <p>
@@ -43,7 +43,7 @@ Simply enter your IP address and hit connect. What you're seeing now in the app 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ss41.png" />
+<img src="http://static.raymondcamden.com/images/ss41.png" />
 </p>
 
 <p>

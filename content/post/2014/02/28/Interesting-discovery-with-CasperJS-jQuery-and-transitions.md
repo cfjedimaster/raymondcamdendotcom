@@ -103,7 +103,7 @@ Woot! Ok, so like I said - that's <i>really</i> freaking cool. We pushed the con
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/8_20pirates-thumb-350x230-35049.jpg" />
+<img src="http://static.raymondcamden.com/images/8_20pirates-thumb-350x230-35049.jpg" />
 </p>
 
 <p>

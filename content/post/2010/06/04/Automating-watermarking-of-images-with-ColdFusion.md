@@ -56,7 +56,7 @@ Not much to it, right? I begin with a few simple definitions: my depot folder (w
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/meatwork1.jpg" title="My what a handsome fellow..." />
+<img src="http://static.raymondcamden.com/images/meatwork1.jpg" title="My what a handsome fellow..." />
 
 <p>
 
@@ -64,7 +64,7 @@ Pretty simple, right? Obviously the output statements were just for testing. I w
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/autowatermarker1.png" title="CF Admin settings for EG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/autowatermarker1.png" title="CF Admin settings for EG" />
 
 <p>
 

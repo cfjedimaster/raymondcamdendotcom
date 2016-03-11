@@ -43,7 +43,7 @@ Of course, since this was a brand new object, there aren't any values for these 
 
 Transfer calls these TransferObjects. If you dump it, you will see a whole set of methods. For each property you will see one get and set method. You will also see other methods that Transfer provides as well. Right now the only one I'll specifically point out is getMemento(). This is a method that is useful for debugging. It will return a structure that matches the properties defined in XML. This should <b>not</b> be used for anything real, but is great for debugging. If you dump it, you will see:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 124.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 124.png">
 
 The transfer_* properties are obviously specific to Transfer. You can use another debug function, getPropertyMemento(), to return only the properties that relate to your object.
 
@@ -83,7 +83,7 @@ Here is a complete example. I put this in index.cfm, again, thinking baby steps 
 
 Notice in this screen shot. Before the save, my TO (TransferObject) had an ID of 0. After the save, it had the ID returned from the database.
 
-<img src="http://www.coldfusionjedi.com/images//Picture 210.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 210.png">
 
 Woot! We are halfway through our CRUD. Let's look at read. There are actually multiple ways of getting data via Transfer. You can get lists of objects (as a query) or a single object. This can be done via searches or by getting a particular object by id. For today's blog entry we will focus on simply loading an object based on an ID. As you can probably guess, there is another method in Transfer we will use: <a href="http://docs.transfer-orm.com/wiki/Persisting_and_Retrieving_Objects.cfm#Transfer.get(class%2C_key)">get</a>
 

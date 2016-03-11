@@ -22,17 +22,17 @@ Now the first thing that happens after running <code>slc debug</code> is that yo
 
 Here is where things got a bit weird for me. I noticed that nothing seemed to be working. But then I saw that the debugger was actually <strong>paused</strong>:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot112.png" alt="shot1" width="800" height="406" class="aligncenter size-full wp-image-7015" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot112.png" alt="shot1" width="800" height="406" class="aligncenter size-full wp-image-7015" />
 
 From what I know, the Node debugger wraps your code with - well - a wrapper - and for some reason it is automatically breaking at some point there. Clicking the blue arrow on the top right (Resume script execution) let's things carry on. And here is where another odd thing happened. 
 
 Apparently it takes a little bit of time for the debugger to get up and running. Certainly not a long time. I'd say about 30 seconds. But I was convinced the debugger wasn't working because I immediately tried to run some code with a break point and nothing seemed to work. What you want to do is watch your terminal for your app's start up message. So here is what I had initially:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot210.png" alt="shot2" width="800" height="74" class="aligncenter size-full wp-image-7016" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot210.png" alt="shot2" width="800" height="74" class="aligncenter size-full wp-image-7016" />
 
 I then clicked Resume in the debugger, and back in my terminal prompt I waited for it to update:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot35.png" alt="shot3" width="800" height="271" class="aligncenter size-full wp-image-7017" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot35.png" alt="shot3" width="800" height="271" class="aligncenter size-full wp-image-7017" />
 
 Ok, so in theory, that's it. To test, I added this route to my code:
 
@@ -46,11 +46,11 @@ Ok, so in theory, that's it. To test, I added this route to my code:
 
 In the debugger, I then added a break point:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot45.png" alt="shot4" width="800" height="320" class="aligncenter size-full wp-image-7018" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot45.png" alt="shot4" width="800" height="320" class="aligncenter size-full wp-image-7018" />
 
 I then opened up the URL in my browser (and while the debugger wants you to use Chrome, any request to the URL at all will work) and confirmed that the request was hung while the debugger was paused. 
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot52.png" alt="shot5" width="800" height="438" class="aligncenter size-full wp-image-7019" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot52.png" alt="shot5" width="800" height="438" class="aligncenter size-full wp-image-7019" />
 
 Note that you can also edit values, which is pretty freaking cool. Just double click and enter a new value and resume. All in all - cool - and easy to use.
 
@@ -58,14 +58,14 @@ Speaking of easy to use, don't forget that <a href="https://code.visualstudio.co
 
 Once you've done that, you can go to your files view and add a break point:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot62.png" alt="shot6" width="800" height="459" class="aligncenter size-full wp-image-7020" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot62.png" alt="shot6" width="800" height="459" class="aligncenter size-full wp-image-7020" />
 
 Then request something that fires the break point. Code will automatically take focus (which, I must say, I'm not sure how I feel about - in general, I never want my apps to take focus) and you can then look at variables and begin stepping through the code.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot71.png" alt="shot7" width="800" height="459" class="aligncenter size-full wp-image-7021" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot71.png" alt="shot7" width="800" height="459" class="aligncenter size-full wp-image-7021" />
 
 You can modify values too, but the Code docs don't make this explicitly clear in my opinion. You'll want to open the debug console and then modify the code using simple variable assignments.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot81.png" alt="shot8" width="800" height="564" class="aligncenter size-full wp-image-7022" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot81.png" alt="shot8" width="800" height="564" class="aligncenter size-full wp-image-7022" />
 
 So, there ya go, two interesting options for debugging Node.js applications, and yes, I know there are even more. To be honest, I'm kinda leaning more towards using Code for debugging as I like it in my editor versus my browser (which seems weird, I love dev tools), but I'll probably go back and forth.

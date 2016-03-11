@@ -25,27 +25,27 @@ Before I begin, I'm assuming you've already downloaded and installed the CLI as 
 
 To create a new hybrid project, you begin by running <code>mfp cordova create</code>. You'll be prompted for the name and given a default package ID and version:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot18.png" alt="shot1" width="500" height="118" class="aligncenter size-full wp-image-6655" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot18.png" alt="shot1" width="500" height="118" class="aligncenter size-full wp-image-6655" />
 
 Next you'll be prompted to select platforms. Like any other Cordova project, you can change this later.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot22.png" alt="shot2" width="500" height="124" class="aligncenter size-full wp-image-6656" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot22.png" alt="shot2" width="500" height="124" class="aligncenter size-full wp-image-6656" />
 
 Next, the CLI lets you know that some plugins are installed by default. These plugins are required for Cordova apps running with MobileFirst:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot31.png" alt="shot3" width="750" height="242" class="aligncenter size-full wp-image-6657" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot31.png" alt="shot3" width="750" height="242" class="aligncenter size-full wp-image-6657" />
 
 Now the CLI prompts you about other plugins you may want to install. Note that you can easily add, remove, and list plugins later on so don't stress too much over this.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot41.png" alt="shot4" width="750" height="280" class="aligncenter size-full wp-image-6658" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot41.png" alt="shot4" width="750" height="280" class="aligncenter size-full wp-image-6658" />
 
 Finally, the CLI prompts you to select a template to use for your app. You can pass in other templates via the -t argument and you'll see this in action tomorrow when I blog about Ionic:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot51.png" alt="shot5" width="750" height="31" class="aligncenter size-full wp-image-6659" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot51.png" alt="shot5" width="750" height="31" class="aligncenter size-full wp-image-6659" />
 
 At this point, the CLI will start generating your project as well as push a copy to your MobileFirst server. If everything went well, the last thing you'll see is: "MFP Cordova project created successfully." Let's look at the folder created by the CLI.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot61.png" alt="shot6" width="750" height="291" class="aligncenter size-full wp-image-6660" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot61.png" alt="shot6" width="750" height="291" class="aligncenter size-full wp-image-6660" />
 
 For the most part, this should look very similar to a regular Cordova project. Notable differences include:
 
@@ -60,11 +60,11 @@ And that's it - the rest of this is vanilla Cordova stuff.
 
 So now that you've got a project, how do you use it? The MobileFirst CLI wraps calls to the Cordova CLI, much like Ionic does. So for example, to add a platform, you would do: <code>mfp cordova platform add android</code>. In general, the commands are very similar, but sometimes there are small differences. So for example, to emulate, you need to pass a -p flag: <code>mfp cordova emulate -p ios</code>. In this case, -p stands for platform. You can easily see the syntax by typing <code>mfp help cordova</code>:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot71.png" alt="shot7" width="750" height="665" class="aligncenter size-full wp-image-6661" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot71.png" alt="shot7" width="750" height="665" class="aligncenter size-full wp-image-6661" />
 
 So the process to code/test is pretty similar. You can open up the www folder, edit, and then see your changes by doing: <code>mfp cordova emulate -p ios</code>:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot81.png" alt="shot8" width="750" height="501" class="aligncenter size-full wp-image-6662" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot81.png" alt="shot8" width="750" height="501" class="aligncenter size-full wp-image-6662" />
 
 At the time I write this blog post, we have a small bug with the CLI that impacts this process. When working with a MobileFirst server, you need to deploy the bits to the server so it is aware of it. (There's more reasons than that, but let's keep it simple for now.) That command is: <code>mfp push</code>. The emulate command is <i>supposed</i> to do a push automatically, but right now it does not. Again, this is a bug, and a known one that is already being worked on. (I'll try to remember to edit this post once the fix is released.) For now, I recommend doing both commands at once. In OSX, this would be: <code>mfp push && mfp cordova emulate -p ios</code>. You could automate all of this with Grunt/Gulp of course. 
 

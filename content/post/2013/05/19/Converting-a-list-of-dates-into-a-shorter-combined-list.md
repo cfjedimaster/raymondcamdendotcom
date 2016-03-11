@@ -34,7 +34,7 @@ Finally, let's make this easier to use by doing some formatting on the array ele
 
 And the result is this:
 
-<img src="http://www.raymondcamden.com/images/Screenshot_5_19_13_9_27_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_5_19_13_9_27_AM.png" />
 
 Woot. Ok, now let's look at the JavaScript version. I'll just share the complete template first and talk about the differences.
 
@@ -48,7 +48,7 @@ Finally, I did my formatting. Again, I could have grabbed a library for this, bu
 
 The result:
 
-<img src="http://www.raymondcamden.com/images/Screenshot_5_19_13_9_36_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_5_19_13_9_36_AM.png" />
 
 Note - I switched to Firefox for the screenshot as I think it prints objects nicer in the console.
 

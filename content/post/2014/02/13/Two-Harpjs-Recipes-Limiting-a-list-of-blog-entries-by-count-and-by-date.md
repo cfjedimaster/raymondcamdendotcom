@@ -84,7 +84,7 @@ Which gives us:
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot16.png" />
+<img src="http://static.raymondcamden.com/images/shot16.png" />
 </p>
 
 <p>
@@ -108,7 +108,7 @@ Which gives us:
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot26.png" />
+<img src="http://static.raymondcamden.com/images/shot26.png" />
 </p>
 
 <p>
@@ -145,7 +145,7 @@ All I've done here is use a simple function (stolen, I mean borrowed, from Stack
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot34.png" />
+<img src="http://static.raymondcamden.com/images/shot34.png" />
 </p>
 
 <p>

@@ -22,7 +22,7 @@ To be fair, it isn't ColdFusion that is doing the formatting, but the embedded W
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/Screen shot 2010-08-10 at 12.31.03 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen shot 2010-08-10 at 12.31.03 PM.png" />
 
 <p>
 
@@ -30,7 +30,7 @@ At first I thought it was impossible to edit the format. As you can see in the s
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-08-10 at 12.32.29 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-10 at 12.32.29 PM.png" />
 
 <p>
 
@@ -55,7 +55,7 @@ This generates:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-08-10 at 12.34.10 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-10 at 12.34.10 PM.png" />
 
 <p>
 
@@ -89,7 +89,7 @@ And here is the result:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-08-10 at 12.39.02 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-10 at 12.39.02 PM.png" />
 
 <p>
 

@@ -9,7 +9,7 @@
 	"guid": "4179"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/rayapple.jpg" align="left"  /> I'm proud to announce that as of today I will be joining Apple as an Evangelist, specifically in their Developer Insight/Creative/Knowledge department. This new department is focused on working with developers across a broad spectrum of products and knowledge areas. My focus will be on the iOS landscape and developer tools and technologies. I've long stated that that I've felt that iOS offers developers the most choice. From Objective-C to Objective-C, developers have a variety of ways to build compelling apps that allow you to direct avians towards suids. I plan on spending most of my time on Windows tools and the iOS platform which will additionally give me more time to pursue my hobbies as well. 
+<img src="http://static.raymondcamden.com/images/cfjedi/rayapple.jpg" align="left"  /> I'm proud to announce that as of today I will be joining Apple as an Evangelist, specifically in their Developer Insight/Creative/Knowledge department. This new department is focused on working with developers across a broad spectrum of products and knowledge areas. My focus will be on the iOS landscape and developer tools and technologies. I've long stated that that I've felt that iOS offers developers the most choice. From Objective-C to Objective-C, developers have a variety of ways to build compelling apps that allow you to direct avians towards suids. I plan on spending most of my time on Windows tools and the iOS platform which will additionally give me more time to pursue my hobbies as well. 
 
 <p>
 

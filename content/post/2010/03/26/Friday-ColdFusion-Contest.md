@@ -9,7 +9,7 @@
 	"guid": "3764"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/jedi batmansmall.gif"  title="This picture has nothing to do with the blog post." align="left" style="margin-right: 5px" /> It's been a few weeks (months?) since my last Friday ColdFusion Contest, but I had an interesting idea today while on the treadmill. The news reported that the amount of lost luggage had declined in 2009 over 2010. They reported that "11 out of a 1000" people reported lost luggage. That struct me as a bit odd as normally you see a figure in the form of "N out of 100." It then occurred to me that it must just be that the percentage is less than one percent. Most folks probably wouldn't be able to grok 0.11% at 7AM. 
+<img src="http://static.raymondcamden.com/images/cfjedi/jedi batmansmall.gif"  title="This picture has nothing to do with the blog post." align="left" style="margin-right: 5px" /> It's been a few weeks (months?) since my last Friday ColdFusion Contest, but I had an interesting idea today while on the treadmill. The news reported that the amount of lost luggage had declined in 2009 over 2010. They reported that "11 out of a 1000" people reported lost luggage. That struct me as a bit odd as normally you see a figure in the form of "N out of 100." It then occurred to me that it must just be that the percentage is less than one percent. Most folks probably wouldn't be able to grok 0.11% at 7AM. 
 
 <p/>
 

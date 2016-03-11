@@ -27,7 +27,7 @@ This was one of those weird questions that seemed so simple but took a while for
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/IMAG0375.jpg" />
+<img src="http://static.raymondcamden.com/images/IMAG0375.jpg" />
 
 <p/>
 
@@ -56,7 +56,7 @@ My outer loop goes from one to colSize whereas the inner loop will loop over the
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip157.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip157.png" />
 
 <p/>
 
@@ -84,7 +84,7 @@ This version pretty much follows the last version, but now generates a table ins
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip158.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip158.png" />
 
 <p/>
 
@@ -119,7 +119,7 @@ The main difference now is a pad and thisPad variable. Pad is used to remember t
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip159.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip159.png" />
 
 <p/>
 

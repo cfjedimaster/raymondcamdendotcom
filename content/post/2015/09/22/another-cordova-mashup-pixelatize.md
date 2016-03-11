@@ -179,11 +179,11 @@ var pixelatizeModule = (function() {
 It is surprisingly small and simple for what it does - but there's no way in hell I would have figured this out. So how about some samples?
 
 First, a scary one:
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/09/device-2015-09-22-131734.png" alt="device-2015-09-22-131734" width="422" height="750" class="aligncenter size-full wp-image-6798 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/device-2015-09-22-131734.png" alt="device-2015-09-22-131734" width="422" height="750" class="aligncenter size-full wp-image-6798 imgborder" />
 
 
 Then a cooler one:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/09/device-2015-09-22-131823.png" alt="device-2015-09-22-131823" width="422" height="750" class="aligncenter size-full wp-image-6799 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/device-2015-09-22-131823.png" alt="device-2015-09-22-131823" width="422" height="750" class="aligncenter size-full wp-image-6799 imgborder" />
 
 You can find the complete code for this here: <a href="https://github.com/cfjedimaster/Cordova-Examples/tree/master/pixelatize">https://github.com/cfjedimaster/Cordova-Examples/tree/master/pixelatize</a>. Enjoy!

@@ -72,7 +72,7 @@ Everything works as you would expect except that you can only use base64 strings
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot111.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/shot111.png" class="bthumb" />
 </p>
 
 <p>
@@ -80,7 +80,7 @@ After you grant permission, the plugin adds a little video output screen to the 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot211.png" class="bthumb"/>
+<img src="http://static.raymondcamden.com/images/shot211.png" class="bthumb"/>
 </p>
 
 <p>
@@ -88,7 +88,7 @@ Finally, when you click capture, the base64 data is transmitted back to your suc
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot37.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/shot37.png" class="bthumb" />
 </p>
 
 <p>
@@ -96,7 +96,7 @@ If you select to use an image from the photo gallery, the plugin just makes use 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot41.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/shot41.png" class="bthumb" />
 </p>
 
 <p>
@@ -110,7 +110,7 @@ For Device, it simply sniffs the browser and uses some sensible defaults. I kind
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot51.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/shot51.png" class="bthumb" />
 </p>
 
 <h2>Device Motion (Accelerometer)</h2>
@@ -120,7 +120,7 @@ Using this API will simply return random data. It will <i>not</i> integrate with
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot61.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/shot61.png" class="bthumb" />
 </p>
 
 <h2>Device Orientation (Compass)</h2>
@@ -130,7 +130,7 @@ Yep, just repeat what I said above. Random data. The only real difference is tha
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot71.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/shot71.png" class="bthumb" />
 </p>
 
 <h2>Conclusion</h2>

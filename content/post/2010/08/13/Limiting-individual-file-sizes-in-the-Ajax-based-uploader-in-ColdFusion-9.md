@@ -12,7 +12,7 @@
 
 ColdFusion 9 added a snazzy little Ajax-based (well, Flash based to be truthful) multi-file uploader. Just in case you haven't actually seen it, here is a quick snap shot of what it looks like:
 <p>
-<img src="http://www.raymondcamden.com/images/Capture7.PNG" />
+<img src="http://static.raymondcamden.com/images/Capture7.PNG" />
 <p>
 I've done a few blog posts on this topic already. Today a reader sent in an interesting question. While the control provides a way to limit the <i>total</i> file size of uploads (using the maxuploadsize attribute), there is no direct way to limit the size of <i>individual</i> file uploads. This blog entry will show one way that can be accomplished. I'll be using jQuery for my solution but please note that this is not a requirement.
 <p>
@@ -73,4 +73,4 @@ That's it. You can see here in this screen shot how the button was removed.
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Capture22.PNG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Capture22.PNG" />

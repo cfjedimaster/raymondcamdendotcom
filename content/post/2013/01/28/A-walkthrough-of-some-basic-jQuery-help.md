@@ -18,7 +18,7 @@ David wanted a form that - when changed - would automatically sum up the values.
 
 Right away I saw that his initial selector, #addhours, didn't actually match anything. Notice his form was actually identified as my-form. He made the same mistake with another selector as well. Don't forget that you can use Google Chrome Dev Tools to look into your DOM and ensure you're looking for the right IDs. If your DOM is big and messy (like my beard), you can also hop into the console and try selecting what your code is. In the screen shot below, look at the difference between a bad and good match.
 
-<img src="http://www.raymondcamden.com/images/screenshot60.png" />
+<img src="http://static.raymondcamden.com/images/screenshot60.png" />
 
 Continuing on - I then pointed out that his code wasn't within the $(document).ready block. Most people who write jQuery tend to <i>always</i> include this by reflex, but if you don't, you can run into problems with your selectors. His code was trying to find DOM items before the DOM was actually done loading. You can mentally translate the $(document).ready block as "I'm ready to get down to business." In most cases, you almost always want to have your code in there. (Not always of course!) 
 

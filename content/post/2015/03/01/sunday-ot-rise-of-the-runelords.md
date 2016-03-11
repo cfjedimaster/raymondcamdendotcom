@@ -24,7 +24,7 @@ Given how busy life is, I'm a bit afraid about how long it will take to actually
 
 The artwork in the game is beautiful. The company didn't have any promotional artwork on the site itself, so I'm copying a bit from the PDF ruleset.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot.png" alt="shot" width="780" height="610" class="alignnone size-full wp-image-5744" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot.png" alt="shot" width="780" height="610" class="alignnone size-full wp-image-5744" /></a>
 
 You can see more, and the complete rule set, by downloading the rules <a href="http://paizo.com/download/pathfinder/PZO6000-Rulebook.zip">here</a>.
 

@@ -11,4 +11,4 @@
 
 Were you waiting to check out <a href="http://brackets.io">Brackets</a> until ColdFusion support was available? Good news - Reto Aeberli has released an extension that provides basic support for ColdFusion. It doesn't support functions or cfscript yet, but it is an excellent start. You can download the extension from the web site he created: <a href="http://cfbrackets.org/">http://cfbrackets.org/</a>
 
-<img src="http://www.raymondcamden.com/images/screenshot87.png" />
+<img src="http://static.raymondcamden.com/images/screenshot87.png" />

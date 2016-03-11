@@ -481,7 +481,7 @@ And here is a sample. Yes, the red is horrible. I know.
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip236.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip236.png" />
 
 <p>
 

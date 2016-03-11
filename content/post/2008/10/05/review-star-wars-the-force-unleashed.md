@@ -16,17 +16,17 @@ Ok, so I'm a bit of a Star Wars <a href="http://www.raymondcamden.com/images/tat
 <!--more-->
 So let's start by talking about what's really good about this game as there is quite a bit to cover. What impressed me right away was the graphics. While not the best I've seen (Bioshock still holds that award in my opinion), the details were amazing and very creative. While some levels come from classic, already seen worlds, others are brand new and really add to the SW universe. My favorite level was the Death Star. The designers did a great job with invoking the size and mood from the first movie. 
 
-<img src="http://www.raymondcamden.com/images/cfjedi/tfu1.jpg">
+<img src="http://static.raymondcamden.com/images/cfjedi/tfu1.jpg">
 
 How about game play? The developers of TFU liked to talk about how the big focus of the game were the force powers. I was a bit concerned about this. I mean sure, it looked good, but how would it work? I remember playing Jedi Knight a few years ago. That was a fun game, but it had a fatal flaw. As soon as I learned the Grip force power, I was unbeatable. How? I'd run into an enemy - pick him up - and either fling him against a wall or drop him off a cliff. So battles typically started and ended with me simply picking up each and every bad guy and just dropping them at the nearest crevice, cliff, or wall. While funny at first, it quickly got boring. Sure I could have stopped using the power, but the temptation was too much to avoid. 
 
 TFU handles this in a perfect way I think. Yes - you do have incredible powers. You start off as a pretty powerful guy and grow in strength throughout the entire game. The game achieves balance, though, by overwhelming you with both the amount of enemies and their tactics. So what about my 'pluck and drop' strategy? I was able to use it, but only when a few enemies were on screen. The bad guys would often overwhelm me and knock me back. I could use my force lightning to attack an AT-ST, but doing so left me open to attacks from ground troops. This is probably the game's strongest aspect and will make me play it again and again. While I could act like the super bad ass I knew I was, I had to be careful if I wanted to survive. 
 
-<img src="http://www.raymondcamden.com/images/cfjedi/tfu2.jpg">
+<img src="http://static.raymondcamden.com/images/cfjedi/tfu2.jpg">
 
 Now - the story. This is a bit delicate as I don't want to spoil anything. I'll try not to, but if you know nothing of the story you may want to skip this paragraph completely. I had avoided most of the details of the game so I was pleasantly surprised, and I don't want to ruin that for you. But I'll try to avoid any particular spoilers. The story was very well done. You get a glimpse into early Rebel Alliance history, which as far as I know hasn't been explored much. (At least not in what I've read.) What you learn is actually a bit startling. I jokingly called it the DaVinci Code of the Star Wars story. While it isn't quite <i>that</i> shocking, I was truly surprised and impressed with the game's story. I won't say anymore, and I'd ask that any commenters respect that, but to me, the entire history of the Star Wars universe is deeper and I respect the game for that. 
 
-<img src="http://www.coldfusionjedi.com/images/tfu3.jpg">
+<img src="http://static.raymondcamden.com/images/cfjedi/tfu3.jpg">
 
 So is the game perfect? Heh, well, nothing is perfect, and TFU certainly has a few warts. I know Brian Rinaldi has talked about the camera issues. I didn't find the camera horrible, but it did screw up more than once. It would also oddly zoom out. My first battle with a Jedi was me looking at one small guy from a mile away fighting another small guy a mile away. This only cropped up a few times though so I can live with it.
 

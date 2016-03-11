@@ -45,7 +45,7 @@ But in terms of "mind opening", I can think of only one thing that really fits h
 
 <b>Do not watch the remake.</b>
 
-<img src="http://www.raymondcamden.com/images/Prisoner_sm.jpg" />
+<img src="http://static.raymondcamden.com/images/Prisoner_sm.jpg" />
 
 <h2>Film</h2>
 
@@ -67,7 +67,7 @@ In terms of really mind-blowing though, I have to go to the past. Many years ago
 
 The best example of this was <a href="http://en.wikipedia.org/wiki/A_Mind_Forever_Voyaging">A Mind Forever Voyaging</a>. The Wikipedia link does a better job of describing it, but the basic premise was that you played the role of an AI who needs to test how proposed social reforms in America would help turn things around. Unlike most puzzle-oriented games, this one had you exploring a simulation of America and taking notes of how things have changed. It was utterly fascinating. 
 
-<img src="http://www.raymondcamden.com/images/A_Mind_Forever_Voyaging_Coverart.png" />
+<img src="http://static.raymondcamden.com/images/A_Mind_Forever_Voyaging_Coverart.png" />
 
 I'll give honorable mentions here to Ultima 4 (the game that asked you to become a better person as opposed to slaying some evil wizard) and Sim City (so wait, you never "win"??). 
 

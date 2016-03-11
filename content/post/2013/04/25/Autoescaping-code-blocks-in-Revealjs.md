@@ -14,7 +14,7 @@ Warning - this falls into the "Cool, but may not be a good idea category." I'm a
 <!--more-->
 Reveal.js has great support for code coloring (color coding?). Here's a quick screen shot of an example:
  
-<img src="http://www.raymondcamden.com/images/Screenshot_4_25_13_10_20_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_4_25_13_10_20_AM.png" />
 
 In general this works simple enough. Here is how a typical code slide would look.
 
@@ -30,4 +30,4 @@ As you can see, I simply make use of querySelectorAll to find all of my code blo
 
 Voila!
 
-<img src="http://www.raymondcamden.com/images/Screenshot_4_25_13_10_28_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_4_25_13_10_28_AM.png" />

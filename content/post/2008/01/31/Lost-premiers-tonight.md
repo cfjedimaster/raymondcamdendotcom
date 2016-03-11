@@ -11,6 +11,6 @@
 
 Just a quick reminder that the season premier of Lost is tonight. Frankly I've never heard of this show so I'll probably skip it. Sounds like a mix of Gilligan's Island and the Twilight Zone. 
 
-<img src="http://www.raymondcamden.com/images//gil_island.jpg">
+<img src="http://static.raymondcamden.com/images//gil_island.jpg">
 
 Ok, so yes, I <i>will</i> watch it and I'm already counting the hours. But I'll be posting my review up over at <a href="http://www.geekthetube.com">Geek the Tube</a>, so please check there for my thoughts on the opener.

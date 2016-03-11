@@ -21,11 +21,11 @@ This was an interesting problem. First, let's be sure we are clear on what Natha
 
 If you pass the query to the grid then the pagination controls are not displayed. For example:
 
-<img src="http://www.raymondcamden.com/images//Picture 128.png">
+<img src="http://static.raymondcamden.com/images//Picture 128.png">
 
 Even if you set a pagesize attribute, it will be ignored and the entire query will be displayed in the grid. Now compare this a grid that loads it's data via the bind attribute:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 213.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 213.png">
 
 So how do you get rid of the bar? I knew that ColdFusion provided a function, ColdFusion.Grid.getGridObject, that would give me direct access to the grid. I figured then it would be a simple matter of checking the Ext API docs to see if there was a method to hide the panel.
 

@@ -9,7 +9,7 @@
 	"guid": "3704"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" a style="float:left;margin-right:5px;margin-bottom:5px"/> So only 4-5 weeks after I said I would wrap things up, it is finally time to announce the winners of the "Best of ColdFusion 9" contest. Before I do so, I have a few things I want to say. 
+<img src="http://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" a style="float:left;margin-right:5px;margin-bottom:5px"/> So only 4-5 weeks after I said I would wrap things up, it is finally time to announce the winners of the "Best of ColdFusion 9" contest. Before I do so, I have a few things I want to say. 
 
 First - I know that showing other people your code can be a nerve-wracking experience. It takes a bit of bravery to put your code out there for the world to see (and pick apart), and I, and my readers (if I may be so bold to speak for them), appreciate it. I <b>love</b> talking about code, and I think sharing code for review is one of the more fun ways to learn. So no matter what, I'm appreciative and I thank you all for your submissions. This year I had submissions from:
 

@@ -9,7 +9,7 @@
 	"guid": "3681"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" a style="float:left;margin-right:5px;margin-bottom:5px"/>Welcome to another (and almost the last!) entry in the Best of ColdFusion 9 contest. Today's entry is Collyba created by Marko Simic. It was reviewed by Francisco Paulino - Tofinha and includes his comments and mine. So what is Collyba? I'll quote directly from Marko's INSTALL.txt file:
+<img src="http://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" a style="float:left;margin-right:5px;margin-bottom:5px"/>Welcome to another (and almost the last!) entry in the Best of ColdFusion 9 contest. Today's entry is Collyba created by Marko Simic. It was reviewed by Francisco Paulino - Tofinha and includes his comments and mine. So what is Collyba? I'll quote directly from Marko's INSTALL.txt file:
 
 <p>
 
@@ -25,7 +25,7 @@ Before getting into the bits, take a look at the screen shot of the chat UI:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/Screen shot 2010-01-12 at 12.37.43 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-01-12 at 12.37.43 PM.png" />
 
 <p>
 
@@ -33,7 +33,7 @@ And here is an example of the integrated map tool from the sender's side:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/Screen shot 2010-01-12 at 12.38.33 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-01-12 at 12.38.33 PM.png" />
 
 <p>
 
@@ -41,7 +41,7 @@ and here is what the other people in the room see:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/Screen shot 2010-01-12 at 12.39.12 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-01-12 at 12.39.12 PM.png" />
 
 <p>
 
@@ -49,7 +49,7 @@ And finally, a shot of the log interface (still a work in progress).
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/Screen shot 2010-01-12 at 12.39.31 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-01-12 at 12.39.31 PM.png" />
 
 <p>
 

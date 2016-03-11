@@ -19,7 +19,7 @@ The API supports getting data on characters, comics, creators, events, stories, 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screen Shot 2014-02-02 at 10.43.39.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2014-02-02 at 10.43.39.png" />
 </p>
 
 <p>
@@ -178,7 +178,7 @@ I kinda knew prices would go up over time so that wasn't surprising. In 2013 my 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s17.png" />
+<img src="http://static.raymondcamden.com/images/s17.png" />
 </p>
 
 <p>
@@ -186,7 +186,7 @@ Now go back to 1985.
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s29.png" />
+<img src="http://static.raymondcamden.com/images/s29.png" />
 </p>
 
 <p>
@@ -194,7 +194,7 @@ And finally - 1960.
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s34.png" />
+<img src="http://static.raymondcamden.com/images/s34.png" />
 </p>
 
 <p>
@@ -329,7 +329,7 @@ Here is a screenshot:
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s4.jpg" />
+<img src="http://static.raymondcamden.com/images/s4.jpg" />
 </p>
 
 <p>

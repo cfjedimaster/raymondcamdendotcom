@@ -15,11 +15,11 @@ Here is a feature that was missed from the docs that I think folks will be happy
 
 Given input of Ray and Camden, you will get a form variable called NAME with a value of Ray,Camden:
 
-<img src="http://www.raymondcamden.com/images/screenshot4.png" />
+<img src="http://static.raymondcamden.com/images/screenshot4.png" />
 
 That's all well and good and ColdFusion makes it easy to parse that into separate values with list functions, but what happens when you enter "Camden,Ray" and "Foo"?
 
-<img src="http://www.raymondcamden.com/images/screenshot5.png" />
+<img src="http://static.raymondcamden.com/images/screenshot5.png" />
 
 At this point, it is impossible to tell what the user really entered. Maybe they had "Camden" as the first value. Maybe it was "Camden,Ray". There is no way to properly tell what was put in each field.
 
@@ -31,7 +31,7 @@ Turns out - ColdFusion 10 has a feature just for this. Simply by adding one sett
 
 The new setting, sameformfieldsasarray, will enable this feature and generate the array on submission:
 
-<img src="http://www.raymondcamden.com/images/screenshot6.png" />
+<img src="http://static.raymondcamden.com/images/screenshot6.png" />
 
 It looks like Scott Stroz actually <a href="http://www.boyzoid.com/blog/index.cfm/2012/2/26/ColdFusion-10--Form-Fields-With-the-Same-Name">blogged</a> this way back in February and I (and probably many others) completely forgot it!
 

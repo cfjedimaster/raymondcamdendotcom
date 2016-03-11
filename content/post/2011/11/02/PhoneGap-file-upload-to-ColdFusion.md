@@ -110,7 +110,7 @@ Finally, our file upload handler fileUploaded() assumes we are getting a URL bac
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/device-2011-11-02-161436.png" />
+<img src="http://static.raymondcamden.com/images/device-2011-11-02-161436.png" />
 
 <p>
 
@@ -118,7 +118,7 @@ Next - the image picker....
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/shot22.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/shot22.png" />
 
 <p>
 
@@ -126,7 +126,7 @@ and finally, the result:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/shot31.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/shot31.png" />
 
 <p>
 

@@ -20,7 +20,7 @@ Here is a screen shot showing a thread from a public listserv I'm on.
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s113.png" />
+<img src="http://static.raymondcamden.com/images/s113.png" />
 </p>
 
 <p>
@@ -113,7 +113,7 @@ So the end result of this is a rendered list of messages:
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screen Shot 2014-05-07 at 13.03.46.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2014-05-07 at 13.03.46.png" />
 </p>
 
 <p>
@@ -121,7 +121,7 @@ Don't hate me for my epic CSS design skills. The next part of the demo is handli
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screen Shot 2014-05-07 at 13.06.07.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2014-05-07 at 13.06.07.png" />
 </p>
 
 <p>
@@ -129,5 +129,5 @@ And that's it. Not exactly rocket science, but, practical I suppose, and somethi
 </p>
 
 <p>
-<a href="http://www.raymondcamden.com/demos/2014/may/7/test.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>   
+<a href="http://www.raymondcamden.com/demos/2014/may/7/test.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>   
 </p>

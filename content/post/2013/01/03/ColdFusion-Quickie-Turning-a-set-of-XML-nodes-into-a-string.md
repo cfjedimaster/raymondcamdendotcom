@@ -19,7 +19,7 @@ The XML above describes a simple article. You've got a title, an author object, 
 
 But doing so returns you one XML node. 
 
-<img src="http://www.raymondcamden.com/images/ScreenClip163.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip163.png" />
 
 One of the oddities of ColdFusion's XML handling is that it treats some things as a singular value and some things like an array. So if I take the same "address" and run arrayLen() on it, like so...
 

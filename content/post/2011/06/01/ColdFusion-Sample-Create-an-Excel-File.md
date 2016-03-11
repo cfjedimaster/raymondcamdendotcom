@@ -49,7 +49,7 @@ This form could be more dynamic of course. You could present 3 rows and use jQue
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/ScreenClip103.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip103.png" />
 
 <p>
 
@@ -107,7 +107,7 @@ Next I add the data using spreadsheetAddRows and write out the data. Here's a qu
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/ScreenClip104.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip104.png" />
 
 <p>
 

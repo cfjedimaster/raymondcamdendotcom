@@ -59,10 +59,10 @@ The bottom portion of the code block is a simple cfgrid bound to a CFM that retu
 
 That function uses the ColdFusion Ajax API to get the native grid object and at that point, it's nothing more than figuring out the total size of the real data (i.e., ds.totalLenth) and passing that in as new parameters to the dataSource. Finally you do a quick resize and your golden. Here is a screen shot of the grid before the button is clicked:
 
-<img src="http://www.raymondcamden.com/images/Screen shot 2009-10-29 at 12.05.22 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen shot 2009-10-29 at 12.05.22 PM.png" />
 
 And here is a (slightly shrunk) version of it after clicking:
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2009-10-29 at 12.05.56 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2009-10-29 at 12.05.56 PM.png" />
 
 Obviously you don't want to do this on a very large set of data.

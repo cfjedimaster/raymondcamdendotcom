@@ -21,11 +21,11 @@ document.addEventListener("deviceready", init, false);</code></pre>
 
 If you send this to your device, or even the simulator, and then pop open your remote debugger, you'll not see the console message as it has already been passed. There's a quick way around this. In the iOS Web Inspector, click on "Resources", and then the reload button:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/blog1.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/blog1.png" alt="blog1" width="800" height="517" class="aligncenter size-full wp-image-6196" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/blog1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/blog1.png" alt="blog1" width="800" height="517" class="aligncenter size-full wp-image-6196" /></a>
 
 Then, obviously, switch back to the console:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/blog2.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/blog2.png" alt="blog2" width="800" height="517" class="aligncenter size-full wp-image-6197" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/blog2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/blog2.png" alt="blog2" width="800" height="517" class="aligncenter size-full wp-image-6197" /></a>
 
 Yeah, lame, but as I tend to spend most of my time in the console and network tabs, I kinda forget about the DOM areas and this is something useful. You could get the same effect perhaps by using something like window.location.reload() (and I'm typing that from memory so I'm probably wrong), but clicking twice is a bit faster for me.
 

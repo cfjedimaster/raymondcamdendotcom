@@ -70,7 +70,7 @@ The UDF is there simply to save me some typing. I then created the chart:
 
 The result is a bit hard to read in static JPG format, but has nice roll overs in Flash. When I used a legend, it got a bit screwy. I'll come back to that. But as you can see, the grid starts with lower numbers first:
 
-<img src="http://www.coldfusionjedi.com/images/Picture%2017.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture%2017.png">
 
 Once again I turned to the handy dandy chart editor. After a bit of clicking I finally found what I wanted under YAxis (duh). Clicking on this setting gives you a lot of options for the YAxis, including a "Is Reversed" tick. The resulting XML gives you:
 
@@ -91,7 +91,7 @@ Note - I did tweak a bit more, like turning off the column legend which was turn
 
 As you can see, we still have a range of 1-5. I tried like heck to fix this. There is even a range option in the chart editor, but the data seems to override this. You can supply a gridlines of 5. That does give you the right number of lines, but check out the result:
 
-<img src="http://www.coldfusionjedi.com/images/Picture%2032.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture%2032.png">
 
 Not what I'd call optimal, but I'll take a look at this a bit more later to see if I can figure this last step out. Here is the complete code of the latest version:
 

@@ -18,5 +18,5 @@ Obviously it is cool when folks share their code for free, but if you want to ch
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screen Shot 2014-03-14 at 10.59.58.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2014-03-14 at 10.59.58.png" />
 </p>

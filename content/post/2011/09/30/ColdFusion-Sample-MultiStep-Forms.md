@@ -744,7 +744,7 @@ You can try this code by hitting the big demo button below. For a credit card nu
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/sep302011/step1.cfm"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/sep302011/step1.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

@@ -37,7 +37,7 @@ Here is a quick demonstration of retrieving TipObjects.
 
 And the result:
 
-<img src="http://www.raymondcamden.com/images/screenshot68.png" />
+<img src="http://static.raymondcamden.com/images/screenshot68.png" />
 
 Retrieving one object is as simple as appending an object ID value to the URL:
 
@@ -64,7 +64,7 @@ I mentioned earlier that I'd consider reporting as the best use case for this fe
 
 I built a simple chart to render this in manager-friendly bright colors.
 
-<img src="http://www.raymondcamden.com/images/screenshot69.png" />
+<img src="http://static.raymondcamden.com/images/screenshot69.png" />
 
 Finally, how about an email report? You can imagine a scheduled task that, once a month, emails management a basic report covering the number of new users and data entries over the past month. Date filters are slightly more complex. Here is an example with a bit of white space in it to make it easier to read:
 

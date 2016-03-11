@@ -14,7 +14,7 @@ Earlier this week I discovered a new project on GitHub, <a href="https://github.
 </p>
 <!--more-->
 <p>
-<img src="http://www.raymondcamden.com/images/CFLint-logo.jpg" />
+<img src="http://static.raymondcamden.com/images/CFLint-logo.jpg" />
 </p>
 
 <p>
@@ -26,7 +26,7 @@ Want to test it out with ColdFusion Builder? I worked on an extension for it las
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/cflint.png" />
+<img src="http://static.raymondcamden.com/images/cflint.png" />
 </p>
 
 <p>

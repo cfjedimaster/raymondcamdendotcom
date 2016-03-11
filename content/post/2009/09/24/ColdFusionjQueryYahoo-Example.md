@@ -110,6 +110,6 @@ Lastly, I take the data and simply pass it over to a pie chart.
 
 Have you ever wondered how "megamouth shark", "cylon", and "mustache trimmer" would compare? Now you know:
 
-<img src="http://www.raymondcamden.com/images/Picture 259.png" />
+<img src="http://static.raymondcamden.com/images/Picture 259.png" />
 
 You can test this yourself here: <a href="http://www.coldfusionjedi.com/demos/cfyahoo2/test.cfm">http://www.coldfusionjedi.com/demos/cfyahoo2/test.cfm</a>

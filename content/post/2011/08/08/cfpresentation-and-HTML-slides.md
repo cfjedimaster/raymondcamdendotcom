@@ -54,7 +54,7 @@ In this code template, I'm saving the presentation to a directory. You don't hav
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip150.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip150.png" />
 
 <p>
 

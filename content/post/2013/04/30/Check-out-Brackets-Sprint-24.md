@@ -23,11 +23,11 @@ I don't normally do a blog post for new <a href="http://brackets.io">Brackets</a
 
 Here's an example of the Quick Docs support for CSS:
 
-<img src="http://www.raymondcamden.com/images/Screenshot_4_30_13_9_32_AM 2.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_4_30_13_9_32_AM 2.png" />
 
 And a shot of the hover in-editor preview:
 
-<img src="http://www.raymondcamden.com/images/Screen Shot 2013-04-30 at 9.43.12 AM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-30 at 9.43.12 AM.png" />
 
 But let me pretend I'm Kanye for a moment and talk about the feature I'm <i>really</i> psyched about - the new JavaScript code intelligence. Currently it is only supported in JS files (i.e., not script blocks on a page), but it is amazing how well it works. I was working on a Backbone project last week and the difference in this new engine has truly made a difference in my editing. The previous sprint was the first sprint where I moved to Brackets for a majority of my coding. This sprint just cements it. 
 

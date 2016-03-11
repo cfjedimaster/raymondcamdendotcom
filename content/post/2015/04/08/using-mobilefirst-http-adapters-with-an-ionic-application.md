@@ -23,7 +23,7 @@ As you can probably guess, a HTTP adapter is simply a proxy between your mobile 
 
 <strong>Tracking and Logging:</strong> By using a HTTP adapter, you get a complete look at resources your mobile application is using. Imagine, for example, that you are using a service that charges per 1000 calls. By using a HTTP adapter, you can ensure that what the provider says your apps are using is accurate.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-08-at-13.04.34.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-08-at-13.04.34.png" alt="Screen Shot 2015-04-08 at 13.04.34" width="850" height="1043" class="alignnone size-full wp-image-5982" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-08-at-13.04.34.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/Screen-Shot-2015-04-08-at-13.04.34.png" alt="Screen Shot 2015-04-08 at 13.04.34" width="850" height="1043" class="alignnone size-full wp-image-5982" /></a>
 
 The MobileFirst back end will report on average response time, data size, and even let you filter by environment and version. (For example, maybe your iOS users are using more network resources than Android.)
 
@@ -33,7 +33,7 @@ The MobileFirst back end will report on average response time, data size, and ev
 
 For my test, I decided to build a modified version of the default HTTP adapter code. I'd use their RSS XSLT code to parse my RSS feed into something sensible. As you saw in the last post, adding an adapter is rather simple. Use the mfp command line to add the adapter. Just give it a sensible name and select the proper type:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/mfp1.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/mfp1.png" alt="mfp1" width="662" height="197" class="alignnone size-full wp-image-5983" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/mfp1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/mfp1.png" alt="mfp1" width="662" height="197" class="alignnone size-full wp-image-5983" /></a>
 
 Select the defaults for the remaining prompts and you're good to go. The adapter creates three files: filtered.xsl, myHTTPTest-impl.js, and myHTTPTest.xml. As I stated in the last blog post, the names of the impl and xml files are based on the adapter name. The XML file lets you configure various defaults, but oddly, not the complete url. As far as I can see I could only specify the domain for my RSS feed. I also modified the procedure names to something simpler.
 
@@ -88,11 +88,11 @@ And that's it for the server-side. As I mentioned in my <a href="http://www.raym
 
 Now let's turn our attention to the front-end. I'm going to use Ionic for the display and I'll use a simple two-page app like I had before. The home page will show all the items from an RSS feed. 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-8-2015-1.19.43-PM.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-8-2015-1.19.43-PM.png" alt="iOS Simulator Screen Shot Apr 8, 2015, 1.19.43 PM" width="422" height="750" class="alignnone size-full wp-image-5984 imgborder" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-8-2015-1.19.43-PM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-8-2015-1.19.43-PM.png" alt="iOS Simulator Screen Shot Apr 8, 2015, 1.19.43 PM" width="422" height="750" class="alignnone size-full wp-image-5984 imgborder" /></a>
 
 Clicking an entry then sends you to the detail:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-8-2015-1.22.47-PM.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-8-2015-1.22.47-PM.png" alt="iOS Simulator Screen Shot Apr 8, 2015, 1.22.47 PM" width="422" height="750" class="alignnone size-full wp-image-5986 imgborder" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-8-2015-1.22.47-PM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-8-2015-1.22.47-PM.png" alt="iOS Simulator Screen Shot Apr 8, 2015, 1.22.47 PM" width="422" height="750" class="alignnone size-full wp-image-5986 imgborder" /></a>
 
 Because this was so similar to my last post, I literally just copied it and modified the services file. 
 
@@ -138,7 +138,7 @@ The first thing I want to point out is that this version uses a simpler API to i
 
 For fun, let's add a footer bar to the detail view with a button to load the full site:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/mf2.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/mf2.png" alt="mf2" width="422" height="750" class="alignnone size-full wp-image-5987 imgborder" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/mf2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/mf2.png" alt="mf2" width="422" height="750" class="alignnone size-full wp-image-5987 imgborder" /></a>
 
 Here's the updated view code for that:
 
@@ -178,5 +178,5 @@ Here's the updated view code for that:
 
 The addition is at the bottom. readEntry simply makes use of the InAppBrowser plugin. This is included automatically within MobileFirst projects. 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-8-2015-1.39.05-PM.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-8-2015-1.39.05-PM.png" alt="iOS Simulator Screen Shot Apr 8, 2015, 1.39.05 PM" width="422" height="750" class="alignnone size-full wp-image-5988 imgborder" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-8-2015-1.39.05-PM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-8-2015-1.39.05-PM.png" alt="iOS Simulator Screen Shot Apr 8, 2015, 1.39.05 PM" width="422" height="750" class="alignnone size-full wp-image-5988 imgborder" /></a>
 

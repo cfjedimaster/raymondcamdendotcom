@@ -29,7 +29,7 @@ That's an interesting question. My first suggestion was probably overkill. Remem
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/original.PNG" />
+<img src="http://static.raymondcamden.com/images/original.PNG" />
 
 <p>
 
@@ -65,7 +65,7 @@ Ok, so I begin by creating a new source image pointing to the source banner. I t
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/v11.PNG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/v11.PNG" />
 
 <p>
 
@@ -114,7 +114,7 @@ So you can see where I create two font structures and then determine the sizes f
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/v21.PNG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/v21.PNG" />
 
 <p>
 
@@ -122,7 +122,7 @@ And of course, once you have it working, you can then make the text dynamic:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/v3.PNG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/v3.PNG" />
 
 <p>
 

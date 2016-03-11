@@ -11,11 +11,11 @@
 
 As the manager of <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers.org</a>, I view a heck of a lot of RSS feeds. I've noticed that the description field is always (nearly) impossible to read:
 
-<img src="http://www.raymondcamden.com/images//Picture 224.png">
+<img src="http://static.raymondcamden.com/images//Picture 224.png">
 
 Yet with Firefox under Windows, the same feed's description field is much more easy to read:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 318.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 318.png">
 
 I don't really <i>read</i> RSS feeds with Firefox, I just view them in order to get information for adding feeds to my aggregator, but I've wondered if anyone else has ever noticed this?
 

@@ -26,7 +26,7 @@ Now let's turn our attention to the <a href="http://docs.ionic.io/docs/push-serv
 
 For my application, I decided that it will respond to Ionic's calls by storing the registration data in <a href="https://ibm.biz/Bluemix-Cloudant">Cloudant</a>. There's a great Node.js <a href="https://www.npmjs.com/package/cloudant">package</a> for it so I knew using it in the application would be simple. You can easily add the Cloudant service to your Bluemix app from the catalog:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot11.png" alt="shot1" width="407" height="225" class="aligncenter size-full wp-image-6883" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot11.png" alt="shot1" width="407" height="225" class="aligncenter size-full wp-image-6883" />
 
 Once I added the service, I then went into the administrator and created a database called "registrations". Now I opened up my code and started writing. Believe it or not, I wrote everything below in one sitting and I didn't make any mistakes. Seriously. (Ok, I may be off by a factor of ten or so.) Here is the code I used to handle calls from the webhook:
 
@@ -171,11 +171,11 @@ app.listen(appEnv.port, function() {
 
 Before we dive into this, let me just clarify that I wrote the <i>bare minimum</i> here to get my tests working. This code could be organized quite a bit better. I'm sorry.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/sorry.jpg" alt="sorry" width="400" height="393" class="aligncenter size-full wp-image-6884" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/sorry.jpg" alt="sorry" width="400" height="393" class="aligncenter size-full wp-image-6884" />
 
 Let's work our way from the top down. For the most part, the first few lines are just simple require statements. Notice that I get my Cloudant credentials either via an environment variable or via a hard coded value. Don't forget you can get your credentials in the Bluemix console by clicking on the "Show Credentials" link of the service itself:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot22.png" alt="shot2" width="369" height="450" class="aligncenter size-full wp-image-6885" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot22.png" alt="shot2" width="369" height="450" class="aligncenter size-full wp-image-6885" />
 
 Moving on down - the next critical aspect is <code>getRegistrationMode</code>. If you read the docs for how Ionic will hit your URL, you will notice that it is bit difficult to tell one "mode" form the other. I spoke with the developer behind this service and he agrees it can be simpler, but for now, I wrote a simple function to look at the data and figure out the mode. In the <code>/register</code> route, we then use that function to figure out what in the heck we are doing. 
 
@@ -185,7 +185,7 @@ Finally, I built a <code>/list</code> route so I could quickly see if it was wor
 
 I ran this on my local machine first, and to test, I copied the sample JSON packets from Ionic's docs and used the <a href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en">Postman Chrome app</a> to test. Postman has been around for years, but I never got around to playing with it till yesterday. It is awesome. Here it is in action:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/postman.png" alt="postman" width="650" height="371" class="aligncenter size-full wp-image-6886" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/postman.png" alt="postman" width="650" height="371" class="aligncenter size-full wp-image-6886" />
 
 I really can't praise this app enough. It certainly isn't a "use every day" type thing but it is incredibly useful. Once I had my app working fine, I pushed it up to Bluemix: <code>cf push IonicPushRegistration</code>. I waited for it to get setup, and then ran this at the command line to tell Ionic about the webhook: <code>ionic push webhook_url http://ionicpushregistration.mybluemix.net/register</code>
 

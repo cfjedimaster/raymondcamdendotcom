@@ -18,16 +18,16 @@ When they took the pictures and I saw them - I thought it was incredibly cool. I
 
 <h2>Right Eye</h2>
 
-<a href="http://www.raymondcamden.com/images/eyeballs/right_big.jpg"><img src="http://www.coldfusionjedi.com/images/eyeballs/right.jpg" title="I'd give my right eye..."></a>
+<a href="http://www.raymondcamden.com/images/eyeballs/right_big.jpg"><img src="http://static.raymondcamden.com/images/cfjedi/eyeballs/right.jpg" title="I'd give my right eye..."></a>
 
 <h2>Left Eye</h2>
 
 You can kind of see the additional nerve stuff (white stuff) in this pic.
 
-<a href="http://www.coldfusionjedi.com/images/eyeballs/left_big.jpg"><img src="http://www.coldfusionjedi.com/images/eyeballs/left.jpg" title="The Evil Eye"></a>
+<a href="http://www.coldfusionjedi.com/images/eyeballs/left_big.jpg"><img src="http://static.raymondcamden.com/images/cfjedi/eyeballs/left.jpg" title="The Evil Eye"></a>
 
 Of course, as long as my eyes do not look like this, I've got nothing to worry about...
 
-<img src="http://www.coldfusionjedi.com/images/eye-andeye.jpg" />
+<img src="http://static.raymondcamden.com/images/cfjedi/eye-andeye.jpg" />
 
 <i>+5 Geek Points to the first person to ID the picture - I'll give you a hint - look to the Matrix...</i>

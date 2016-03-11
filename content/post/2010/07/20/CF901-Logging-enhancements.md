@@ -127,7 +127,7 @@ Initially I thought they only meant the service level logs described above. Thos
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-07-20 at 7.13.29 AM.png" title="Log Files" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-07-20 at 7.13.29 AM.png" title="Log Files" />
 
 <p>
 

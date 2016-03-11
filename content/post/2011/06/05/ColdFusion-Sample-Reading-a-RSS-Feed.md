@@ -36,7 +36,7 @@ The info structure contains metadata about the RSS feed. What you see there will
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/ScreenClip105.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip105.png" />
 
 <p>
 
@@ -44,7 +44,7 @@ Lots of info, right? Again though - if your intent was just to put CNN's news on
 
 <p>
 
-<a href="http://www.raymondcamden.com/images/cfjedi/_1307284594969.png"><img src="http://www.raymondcamden.com/images/cfjedi/_1307284594969_thumb.png" /></a>
+<a href="http://www.raymondcamden.com/images/cfjedi/_1307284594969.png"><img src="http://static.raymondcamden.com/images/cfjedi/_1307284594969_thumb.png" /></a>
 
 <p>
 
@@ -68,7 +68,7 @@ This returns:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/ScreenClip106.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip106.png" />
 
 <p>
 
@@ -91,7 +91,7 @@ And the result:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/ScreenClip107.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip107.png" />
 
 <p>
 

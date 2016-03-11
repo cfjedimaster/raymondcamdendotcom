@@ -15,10 +15,10 @@ results = CSSLint.verify(text);
 
 Here's a quick screen shot of the results. If you are curious - it was run on a file from jQuery UI.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip96.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip96.png" />
 
 Here's a shot showing a complete view of Brackets and my extension running:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip97.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip97.png" />
 
 If you are playing around with Brackets, you can <a href="https://github.com/cfjedimaster/brackets-csslint">download</a> the extension and give it a shot. Let me know what you think.

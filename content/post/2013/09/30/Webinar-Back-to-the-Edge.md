@@ -13,7 +13,7 @@
 }
 
 <p>
-<img src="http://www.raymondcamden.com/images/backtotheedge1.jpg" />
+<img src="http://static.raymondcamden.com/images/backtotheedge1.jpg" />
 </p>
 
 <p>

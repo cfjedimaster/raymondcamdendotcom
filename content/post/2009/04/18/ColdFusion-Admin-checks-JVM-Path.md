@@ -13,6 +13,6 @@ This week during CFUNITED Atlanta Express, the topic of upgrading the JVM your C
 
 I just updated the JVM on a new server and made a slight typo in the folder name. For the first time, I noticed that ColdFusion actually noticed the folder wasn't correct, and that it wasn't a valid JVM path either. This seems to work perfectly, covering both totally wrong folders (non-existent folders) and folders that don't contain a JVM:
 
-<img src="http://www.raymondcamden.com/images//Picture 232.png">
+<img src="http://static.raymondcamden.com/images//Picture 232.png">
 
 Not sure when this changed, but it looks like the Admin now does a real good job of helping ensure you don't shoot yourself in the foot now. Wonder when this was added?

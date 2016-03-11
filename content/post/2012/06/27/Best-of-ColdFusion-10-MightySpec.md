@@ -21,11 +21,11 @@ While this works well enough, now imagine writing tests like this:
 
 Look at how descriptive the tests are. You could almost read this like a story. This friendlier output also shows up in the output, both in the browser...
 
-<img src="http://www.raymondcamden.com/images/mightyspec_in_browser.PNG" />
+<img src="http://static.raymondcamden.com/images/mightyspec_in_browser.PNG" />
 
 And Eclipse:
 
-<img src="http://www.raymondcamden.com/images/mightyspec_in_eclipse.PNG" />
+<img src="http://static.raymondcamden.com/images/mightyspec_in_eclipse.PNG" />
 
 I've <a href="http://www.raymondcamden.com/index.cfm/2012/5/25/Taking-ColdFusion-Closures-all-the-way-to-11">blogged</a> before about how impressed I am with ColdFusion 10's closure support and this just reinforces my belief that closure support may be the most important feature added to the latest version of ColdFusion.
 

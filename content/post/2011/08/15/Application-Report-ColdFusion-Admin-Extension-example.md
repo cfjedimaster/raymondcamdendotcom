@@ -80,7 +80,7 @@ Here's an example of the result:
 
 <p>
 
-<a href="http://www.raymondcamden.com/images/ScreenClip154.png"><img src="http://www.coldfusionjedi.com/images/ScreenClip_small.png" /></a>
+<a href="http://www.raymondcamden.com/images/ScreenClip154.png"><img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip_small.png" /></a>
 
 <p>
 
@@ -88,7 +88,7 @@ I was going to spend more time to properly format the dumps... but meh. It's a p
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip155.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip155.png" />
 
 <p>
 

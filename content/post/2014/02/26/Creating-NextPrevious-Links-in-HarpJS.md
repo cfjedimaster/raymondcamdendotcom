@@ -54,7 +54,7 @@ A screen shot - I didn't include the source of the CSS but the entire applicatio
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_2_26_14__8_57_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_2_26_14__8_57_AM.png" />
 </p>
 
 <p>
@@ -102,7 +102,7 @@ Not exactly rocket science, right? I simply get the keys from the data and see i
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_2_26_14__9_04_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_2_26_14__9_04_AM.png" />
 </p>
 
 <p>

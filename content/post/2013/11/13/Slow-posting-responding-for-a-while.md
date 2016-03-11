@@ -14,5 +14,5 @@ Just a quick note to let you guys know that I'll be working on a project over th
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Kitten.jpg" />
+<img src="http://static.raymondcamden.com/images/Kitten.jpg" />
 </p>

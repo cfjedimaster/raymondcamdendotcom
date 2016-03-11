@@ -9,7 +9,7 @@
 	"guid": "3588"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/logo1.png" align="left" style="margin-right:10px" />I'm going to give a rough draft presentation today covering ColdFusion and ColdSpring. This is something I've been asked to do for my main contract gig and I'd like to get some feedback on how I can improve the presentation before I give it to them. So with that being said, if you already know ColdSpring, I'd <b>greatly</b> appreciate some constructive feedback on what I can cover better. 
+<img src="http://static.raymondcamden.com/images/cfjedi/logo1.png" align="left" style="margin-right:10px" />I'm going to give a rough draft presentation today covering ColdFusion and ColdSpring. This is something I've been asked to do for my main contract gig and I'd like to get some feedback on how I can improve the presentation before I give it to them. So with that being said, if you already know ColdSpring, I'd <b>greatly</b> appreciate some constructive feedback on what I can cover better. 
 
 The presentation will be over Connect at 11:00 AM CST. The URL is: <a href="https://admin.na3.acrobat.com/_a204547676/r97288139/">https://admin.na3.acrobat.com/_a204547676/r97288139/</a>.
 

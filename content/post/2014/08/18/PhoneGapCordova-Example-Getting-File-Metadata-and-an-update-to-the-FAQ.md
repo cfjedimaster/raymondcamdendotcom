@@ -55,7 +55,7 @@ Here is a sample of it running in iOS. (Be aware - there is a bug with Android t
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/iossim.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/iossim.png" class="bthumb" />
 </p>
 
 <p>

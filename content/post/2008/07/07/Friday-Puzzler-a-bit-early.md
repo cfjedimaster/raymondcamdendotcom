@@ -11,7 +11,7 @@
 
 After a bit of a <a href="http://www.vintagecoding.com/blog/2008/06/27/ray-are-you-too-busy/">public call out</a>, I realized it was time to start thinking of the Friday Puzzler again. I came up with what I thought was a fun one, but it ended up being something I thought would be a bit more than 5 minutes. So this Puzzler will be for the entire week, and to sweeten the pot a bit, Ben Forta will be sharing a copy of CFWACK (3rd book) with the winner. This isn't a real 'contest' per se, but just a slightly more intense Friday Puzzler. Ready?
 <!--more-->
-<img src="http://www.raymondcamden.com/images/cfjedi//lss1.jpg" align="left" style="margin-right:10px;">
+<img src="http://static.raymondcamden.com/images/cfjedi//lss1.jpg" align="left" style="margin-right:10px;">
 The Friday Puzzler will be a Lemonade Stand simulation. The basic idea is simple. Each stand is given a budget of 10 dollars. Each day you will be given a weather prediction (high temp and weather type). Your goal then is to simply determine how many cups of lemonade to make and how much to sell them for. Your code will simply be a UDF. My simulator will run 20 days (the number may change) of iterations. For each day it will call your UDF, get your response, and then determine how well your stand then. Like all weathermen, what is predicted may not actually happen, so you have to take your chances. (Just like real life.) Now for the nitty gritty details.
 
 <ul>

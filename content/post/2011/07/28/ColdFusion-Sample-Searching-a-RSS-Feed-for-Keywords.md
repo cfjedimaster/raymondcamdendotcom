@@ -144,7 +144,7 @@ And here is a sample email:
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip146.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip146.png" />
 
 <p/>
 
@@ -231,7 +231,7 @@ I'll point out the differences here. First - note I make use of the OpenAmplify 
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip147.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip147.png" />
 
 <p/>
 

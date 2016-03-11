@@ -15,6 +15,6 @@ You can play with a live <a href="http://demo.fusion-reactor.com/">demo</a> to s
 
 Even better - there is now a mobile app for FusionReactor!
 
-<img src="http://www.raymondcamden.com/images/fr3.jpg" />
+<img src="http://static.raymondcamden.com/images/fr3.jpg" />
 
 And if you still haven't checked out the companion product, <a href="http://www.fusion-analytics.com/fa/">FusionAnalytics</a>, make the time to do so now.

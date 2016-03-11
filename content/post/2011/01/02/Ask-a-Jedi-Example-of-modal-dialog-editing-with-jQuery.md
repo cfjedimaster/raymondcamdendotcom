@@ -62,7 +62,7 @@ I run a quick query against the cfartgallery database and display each piece of 
 <p>
 
 
-<img src="http://www.raymondcamden.com/images/ScreenClip6.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip6.png" />
 
 <p>
 
@@ -173,7 +173,7 @@ So once we have the values, we can then launch the dialog. If you scroll to the 
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip7.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip7.png" />
 
 <p>
 

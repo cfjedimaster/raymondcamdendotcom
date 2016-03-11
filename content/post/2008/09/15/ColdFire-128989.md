@@ -11,6 +11,6 @@
 
 Nathan just released a new update to <a href="http://coldfire.riaforge.org">ColdFire</a>, the Firebug plugin that provides ColdFusion debugging information for Firefox. His <a href="http://coldfire.riaforge.org/blog/index.cfm/2008/9/15/ColdFire-128989">blog post</a> goes into detail about what was updated, but I thought I'd share a nice screen shot of one of the features.
 
-<img src="http://www.raymondcamden.com/images/cfsep14.png">
+<img src="http://static.raymondcamden.com/images/cfsep14.png">
 
 Yep, that's CFDUMP-style output withing Firebug.

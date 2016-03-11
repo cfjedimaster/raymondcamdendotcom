@@ -15,10 +15,10 @@ Finally, <a href="http://terrywhite.com/">Terry White</a> (fellow Adobe evangeli
 
 So first you go here...
 
-<img src="http://www.raymondcamden.com/images/11.png" />
+<img src="http://static.raymondcamden.com/images/11.png" />
 
 And then click Details:
 
-<img src="http://www.raymondcamden.com/images/21.png" />
+<img src="http://static.raymondcamden.com/images/21.png" />
 
 That was it. Seriously. I can't believe I didn't figure that out earlier, but every single time I tried to fix it by Googling around I never came across this solution. (Probably because it was too obvious. ;)

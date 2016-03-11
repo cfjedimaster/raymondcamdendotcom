@@ -18,7 +18,7 @@ When I was done with the design aspect, I switched over to writing the JavaScrip
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/b1.png" />
+<img src="http://static.raymondcamden.com/images/b1.png" />
 </p>
 
 <p>
@@ -34,5 +34,5 @@ It would be cool if Brackets had a UI just to fire up the HTTP server and not wo
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/b2.jpg" />
+<img src="http://static.raymondcamden.com/images/b2.jpg" />
 </p>

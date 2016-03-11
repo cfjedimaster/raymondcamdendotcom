@@ -56,7 +56,7 @@ There are probably multiple ways to skin this cat, but lets take a simple approa
 
 This code simply loops over the color list and the size list. For every instance of the color list we loop over the complete size list. I store the result in a list and just dump the value at the end. You can see how it looks below.
 
-<img src="http://www.raymondcamden.com/images/Picture 117.png" align="left">
+<img src="http://static.raymondcamden.com/images/Picture 117.png" align="left">
 
 If your color and sizes are from database tables, then I could have stored the IDs values as well. You could imagine storing X,Y as the value, and on display, simply converting each primary key to their proper value. 
 

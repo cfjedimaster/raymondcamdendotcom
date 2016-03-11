@@ -96,7 +96,7 @@ As you can see - I simply apply some arbitrary points based on how bad I think c
 
 To display everything, I just used Bootstrap. Why? Because. 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/shot.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/02/shot.png" alt="shot" width="850" height="694" class="alignnone size-full wp-image-5725" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/shot.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/shot.png" alt="shot" width="850" height="694" class="alignnone size-full wp-image-5725" /></a>
 
 Want to see the full source code - and help make it better? It's up (of course) on GitHub: <a href="https://github.com/cfjedimaster/githubhealth">https://github.com/cfjedimaster/githubhealth</a>. 
 

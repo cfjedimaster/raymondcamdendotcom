@@ -20,7 +20,7 @@ For my first application, I decided to build a simple Note manager. This is some
 <p>
 
 
-<img src="http://www.raymondcamden.com/images/cfjedi/ScreenClip239.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip239.png" />
 
 <p>
 
@@ -28,7 +28,7 @@ You can click a note to see the details...
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/ScreenClip240.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip240.png" />
 
 <p>
 
@@ -36,7 +36,7 @@ And of course basic editing is supported...
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/ScreenClip241.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip241.png" />
 
 <p>
 
@@ -285,4 +285,4 @@ Pretty simple, right? For the heck of it, I ported this over into a PhoneGap app
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/2011/nov/29/index.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='/enclosures/angular%2Dnotes.zip'>Download attached file.</a></p>
+<a href="http://www.raymondcamden.com/demos/2011/nov/29/index.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='/enclosures/angular%2Dnotes.zip'>Download attached file.</a></p>

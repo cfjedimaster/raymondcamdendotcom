@@ -27,7 +27,7 @@ Working with JSON in JavaScript is relatively trivial. If you use jQuery to make
 
 Knowing the function that creates JSON, a nice way to play with it is to open your browser console and just try a few things out. 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/My_Yahoo.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/01/My_Yahoo.png" alt="My_Yahoo" width="1234" height="318" class="alignnone size-full wp-image-5604" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/My_Yahoo.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/01/My_Yahoo.png" alt="My_Yahoo" width="1234" height="318" class="alignnone size-full wp-image-5604" /></a>
 
 Any other suggestions? On a whim, I asked on Twitter how folks learned or were introduced to JSON. I got some fun responses (and hopefully this works, the preview doesn't show replies, but they should be showing up):
 

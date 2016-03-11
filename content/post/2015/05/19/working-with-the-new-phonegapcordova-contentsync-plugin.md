@@ -68,7 +68,7 @@ function startSync() {
 
 So for the most part, I assume this is self-explanatory. My zip file had seven images named kitten1.jpg to kitten7.jpg. Since I knew exactly what they were, all I needed to do was iterate and create img tags for each. This worked perfectly. I really don't need to share a screen shot of this. You already know it's seven pictures of cats. But you know me. I've <i>got</i> to share cat pictures.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-11.26.20-AM.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-11.26.20-AM.png" alt="iOS Simulator Screen Shot May 19, 2015, 11.26.20 AM" width="422" height="750" class="aligncenter size-full wp-image-6161 imgborder" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-11.26.20-AM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-11.26.20-AM.png" alt="iOS Simulator Screen Shot May 19, 2015, 11.26.20 AM" width="422" height="750" class="aligncenter size-full wp-image-6161 imgborder" /></a>
 
 Pretty darn easy, right? In case your curious about handling a zip of <i>unknown</i> images, you could use FileSystem APIs to iterate over the entries:
 

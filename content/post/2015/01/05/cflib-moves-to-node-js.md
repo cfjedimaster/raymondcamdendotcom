@@ -83,7 +83,7 @@ All in all though, I'm happy with this new version, and I've got three UDFs wait
 
 It's come a long way from this...
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/cflib2.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/01/cflib2.png" alt="cflib2" width="600" height="408" class="alignnone size-full wp-image-5518" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/cflib2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/01/cflib2.png" alt="cflib2" width="600" height="408" class="alignnone size-full wp-image-5518" /></a>
 
 By the way - that wasn't the first version. Unfortunately I couldn't find it via the Wayback Machine.
 

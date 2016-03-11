@@ -9,7 +9,7 @@
 	"guid": "4930"
 }
 
-<img src="http://www.raymondcamden.com/images/2013-05-06 08.00.172.jpg" style="float:left;margin-right:10px;margin-bottom:10px" />
+<img src="http://static.raymondcamden.com/images/2013-05-06 08.00.172.jpg" style="float:left;margin-right:10px;margin-bottom:10px" />
 
  This year was my second MAX as an employee and was both exciting - and pretty tiring. If you weren't able to make it though there is an easy way to catch what you missed.
 <!--more-->

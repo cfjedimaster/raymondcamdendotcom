@@ -24,4 +24,4 @@ Epic, right? The next part was rather simple. (Again, the assumption here is tha
 
 This is basically the same code as shown in the previous entry, but now it makes use of the EA APIs to stop and play the animation.
 
-<a href="http://www.raymondcamden.com/demos/2013/may/29/Untitled-1.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2013/may/29/Untitled-1.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

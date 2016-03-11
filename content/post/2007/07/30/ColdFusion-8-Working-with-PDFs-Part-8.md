@@ -53,7 +53,7 @@ Along with these options, you have a few other settings as well I'll discuss lat
 Most of the code isn't terribly relevant to thumbnails. I start off creating a thumbs folder if it doesn't exist. Then a PDF document variable is created. (Go ahead. Read. Laugh. I'm going to make a tee shirt I think.) The critical line is the last one. I specify the thumbnail action for my CFPDF tag. The source is the PDF I created in memory earlier. CFPDF needs to know where to store it - so I pass in the "dir" folder I created earlier. I used a high resolution and a scale of 50 and lastly set overwrite to true. That generated this graphic (note I cropped the image a bit):
 
 
-<img src="http://www.coldfusionjedi.com/images/thumbnail_page_11.jpg">
+<img src="http://static.raymondcamden.com/images/cfjedi/thumbnail_page_11.jpg">
 
 Let me point out something. The name of this file is thumbnail_page_1.jpg. Where did this name come from? ColdFusion automatically uses a name of the format:
 

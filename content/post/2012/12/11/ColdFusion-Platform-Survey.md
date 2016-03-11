@@ -15,4 +15,4 @@ Just a quick note to ask you (well, those of you who use ColdFusion!) to please 
 
 Please?
 
-<img src="http://www.raymondcamden.com/images/cute-kittenweee1.jpg" />
+<img src="http://static.raymondcamden.com/images/cute-kittenweee1.jpg" />

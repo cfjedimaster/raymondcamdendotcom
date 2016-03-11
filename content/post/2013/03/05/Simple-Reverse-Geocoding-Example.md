@@ -35,4 +35,4 @@ Given that I knew which tags to look for, I decided to work with the first resul
 
 Again, if there isn't a match I don't throw an error. Since this is simply window dressing for the site it doesn't really matter if we don't get a match. Want to see this in action? Check out the demo below. 
 
-<a href="http://raymondcamden.com/demos/2013/mar/4/test.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://raymondcamden.com/demos/2013/mar/4/test.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

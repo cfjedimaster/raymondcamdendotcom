@@ -65,7 +65,7 @@ Which didn't work. Luckily, Chrome was <b>very</b> clear on why:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip168.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip168.png" />
 
 <p>
 
@@ -73,7 +73,7 @@ Maybe I'm jaded (ok, I <i>am</i>), but I don't expect the browsers to be this he
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip169.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip169.png" />
 
 <p>
 

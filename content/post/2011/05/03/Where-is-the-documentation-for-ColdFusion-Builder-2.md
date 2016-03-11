@@ -11,7 +11,7 @@
 
 Looking for the docs for the new ColdFusion Builder 2? Yeah - me too. I've always found that a bit difficult to find on Adobe.com. From the <a href="http://www.adobe.com/products/coldfusion-builder.html">main product page</a> click <a href="http://www.adobe.com/support/coldfusion/">Customer Support</a> to land on the main ColdFusion and ColdFusion Builder support page. In the right hand nav, click to expand Developer Documentation:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip76.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip76.png" />
 
 And there ya go. The install and using guide in both HTML and PDF. If you don't feel like clicking, here are links to the HTML Guide:
 

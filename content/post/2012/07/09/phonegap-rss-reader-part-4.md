@@ -37,6 +37,6 @@ As a final enhancement, I decided to make use of <a href="http://build.phonegap.
 
 You can see my application at the bottom here in the screen shot. And yes - I have a Selena Gomez app. Don't hate me for downloading apps my daughter loves.
 
-<img src="http://www.raymondcamden.com/images/2012-07-09 07.56.02.png" />
+<img src="http://static.raymondcamden.com/images/2012-07-09 07.56.02.png" />
 
 Want to download the app yourself? Try the <a href="https://build.phonegap.com/apps/155702/share">public Build page</a> for every platform but iOS. You can also download all of the bits below.<p><a href='/enclosures/Archive26.zip'>Download attached file.</a></p>

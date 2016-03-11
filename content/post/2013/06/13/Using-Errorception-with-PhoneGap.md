@@ -16,15 +16,15 @@ I logged in to the Errorception portal after a week and discovered that there we
 
 First - the general list of issues:
 
-<img src="http://www.raymondcamden.com/images/ec1.png" />
+<img src="http://static.raymondcamden.com/images/ec1.png" />
 
 Then a drill down:
 
-<img src="http://www.raymondcamden.com/images/ec2.png" />
+<img src="http://static.raymondcamden.com/images/ec2.png" />
 
 And yet another drill down:
 
-<img src="http://www.raymondcamden.com/images/ec3.png" />
+<img src="http://static.raymondcamden.com/images/ec3.png" />
 
 Errorception is not a free service, but the pricing model seems rather fair to me and as I said - I can bet you've got more issues than you think you do.
 
@@ -53,6 +53,6 @@ Here is his modified snippet:
 
 That worked! I fired up both my iOS simulator and my Android simulator and as soon as I forced my error they showed up immediately in the console.
 
-<img src="http://www.raymondcamden.com/images/ec4.png" />
+<img src="http://static.raymondcamden.com/images/ec4.png" />
 
 Notice that the error is reported differently in iOS versus Android.

@@ -180,7 +180,7 @@ As you can see, this extension draws boxes (we aren't talking rocket science her
 <p>
 
 <a href="http://www.raymondcamden.com/images/cfbjul6.swf">
-<img src="http://www.coldfusionjedi.com/images/cfbjul6.png" border="0" title="Click for ginormous video" /></a>
+<img src="http://static.raymondcamden.com/images/cfjedi/cfbjul6.png" border="0" title="Click for ginormous video" /></a>
 
 <p>
 

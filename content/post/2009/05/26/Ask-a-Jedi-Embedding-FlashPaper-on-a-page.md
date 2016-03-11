@@ -26,7 +26,7 @@ First, use the cfdocument tag with FlashPaper as a format.
 
 This outputs Flash on the page with an embedded toolbar on top:
 
-<img src="http://www.raymondcamden.com/images//Picture 159.png">
+<img src="http://static.raymondcamden.com/images//Picture 159.png">
 
 One of the cool things about FlashPaper is that it can more easily be embedded in a page. As far as I know, PDF can't be. It either takes over the entire web page, or, at least on my machine, it just gets downloaded. However, if you try to use cfdocument/format="flashpaper" with other HTML you will see that the FlashPaper takes over the entire page. 
 
@@ -63,6 +63,6 @@ Footer
 
 Obviously you would probably use SWFObject, or another JavaScript library, to generate the HTML. You would also probably need to use a dynamic filename for the SWF. Here is the result:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 235.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 235.png">
 
 After I sent Rob this version, I did a quick Google check and found the Terry Ryan had actually built a nice little CFC to make this even easier: <a href="http://www.numtopia.com/terry/programming/code_flashpaper_embedder.cfm">Flashpaper Embedder</a>

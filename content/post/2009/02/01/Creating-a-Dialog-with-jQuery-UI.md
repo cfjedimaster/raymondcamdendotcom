@@ -17,7 +17,7 @@ The first thing you have to know about the jQuery UI stuff is that it is <b>not<
 
 Once you download the zip, the next thing you will notice is that you don't simply have one simple JS file. Instead you have a complete package of JavaScript, CSS, and HTML files. There are two important folders here. The UI folder is your javascript collection. The themes folder is your skins folder. For my example code I took both folders and copied them to my demo:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 136.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 136.png">
 
 Alright, so next we will create a very simple html page. I based my code on the <a href="http://docs.jquery.com/UI/Dialog">dialog documentation page</a> with one big change. Their demo code runs the dialog immediately when the page loads. I think in almost all cases folks will want to show a dialog based on some event. Here is what I came up with:
 
@@ -57,7 +57,7 @@ Scrolling down, you can see my simply link to run the function, and lastly the a
 
 But it has a few problems. First off, the dialog is visible on page load. Secondly, the UI leaves a bit to be desired:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 220.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 220.png">
 
 So how do we fix this? First off, to make the dialog hidden on load, we can simply add a bit of CSS to it:
 
@@ -73,7 +73,7 @@ To load the default skin, we use a CSS from the themes folder we copied over ear
 
 And that's it! Check out the sexy dialog! It is the most sexiest dialog I've seen in my life. (Ok, I may just be a bit happy that I finally got it working.)
 
-<img src="http://www.coldfusionjedi.com/images//Picture 316.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 316.png">
 
 You can see it in action here: <a href="http://www.coldfusionjedi.com/demos/jqueryuitest2/test2.html">http://www.coldfusionjedi.com/demos/jqueryuitest2/test2.html</a> Don't forget you can view source to see the entire page.
 
@@ -87,7 +87,7 @@ Ok, so with things working well now, I decided to go crazy and try to apply a cu
 
 and it just plain worked!
 
-<img src="http://www.coldfusionjedi.com/images//Picture 46.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 46.png">
 
 You can see this in action here: <a href="http://www.coldfusionjedi.com/demos/jqueryuitest2/test3.html">http://www.coldfusionjedi.com/demos/jqueryuitest2/test3.html</a>
 

@@ -23,7 +23,7 @@ Along with that you want to bookmark the <a href="http://www.adobe.com/devnet/ht
 
 You guys know I'm something of a noob when it comes to CSS. I can barely design a non-table layout. That being said, I've got a great appreciation for CSS and especially our efforts to improve what you can do with it. At the event today we talked about CSS Filters (which work in iOS6 btw!) and announced the launch of a web based tool that lets you work with them: <a href="http://html.adobe.com/webstandards/csscustomfilters/cssfilterlab/">CSS Filter Lab</a> If you've never seen what these filters can do, please take some time to play with the tool and check out the effects. Even better, you get immediate access to the source code. <i>Even</i> better, if you have some skills with this tool you can contribute your own modifications back!
 
-<img src="http://www.raymondcamden.com/images/ScreenClip126.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip126.png" />
 
 In case you're curious about CSS Filter support, check the <a href="http://t.co/6BaBgFWG">CanIUse.com report</a>.
 
@@ -37,7 +37,7 @@ Just a small note on this one - Dreamweaver CS6 gets an update today for improve
 
 Speaking of "Edge", what was formerly Edge is now Adobe Edge Animate, and you can see that we've created an entirely family of "Edge" products.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip127.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip127.png" />
 
 Adobe Edge Animate is now released at version 1.0 - and it is free - details here: <a href="http://html.adobe.com/edge/animate/">http://html.adobe.com/edge/animate/</a> If you've yet to play with this tool, check it out. Not only does it make great animations, the code it produces is <i>damn</i> clean. Last time this was demoed at our local user group it got a great reaction. 
 
@@ -53,13 +53,13 @@ Oh - and you can follow <a href="http://twitter.com/reflow">reflow</a>.
 
 The first font-related announcement was <a href="http://html.adobe.com/edge/webfonts/">Adobe Edge Web Fonts</a>. This is a collection of 500+ web fonts that you can use for free and without registration. If you can cut and paste code, you can use these fonts. The page I linked to actually provides the code and a live preview:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip128.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip128.png" />
 
 How can you <i>not</i> use a font called Hobo Std? It practically begs you to use it. 
 
 Next up was a new open source font, <a href="https://github.com/adobe/Source-Code-Pro">Source Code Pro</a>. This is a pretty slick font for code editors. It goes a long way to ensure that common issues like the lower-case l characters versus 1 or "Oh" versus "Zero" are not an issue. If you have trouble installing, you can get the downloads here: <a href="https://github.com/adobe/Source-Code-Pro/downloads">https://github.com/adobe/Source-Code-Pro/downloads</a> I recommend doing it this way - mainly because when I did it the other way I screwed up. Here is a sample:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip129.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip129.png" />
 
 The other news was that <a href="http://html.adobe.com/edge/typekit/">Typekit</a> is working with Monotype Imaging to add a lot more (1000) fonts to the core Typekit library. I'll be 100% honest and say I have no idea who they are, but apparently they are a Big Deal for font folks. 
 
@@ -71,7 +71,7 @@ Brian Rinaldi has a great article on Edge Code over at the ADC: <a href="http://
 
 Adobe Edge Code ships with that sexy new Source Code Pro and also includes a very cool extension that wraps up our new fonts. Here's a screen shot of it in action:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip130.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip130.png" />
 
 You can download Adobe Edge Code today. Oh, it's free too. 
 
@@ -95,6 +95,6 @@ If you use Brackets and PhoneGap Build, you can now use a brand new extension th
 
 Ok, time for the emotional, highly biased portion of the blog post. (As if I wasn't heavily biased before. ;) Frankly, <b>this</b> is exactly why I wanted to join Adobe. <b>This</b> is what makes me excited about the web. <b>This</b> is the just the beginning. I hope that you guys are as excited about these announcements as I am. I love the web. I love building things. Tools that make it easier for me to create are - frankly - tools that make my life better. This is - if I may be so bold - the beginning of our sharks with laser beams.
 
-<img src="http://www.raymondcamden.com/images/fricken shark.jpg" />
+<img src="http://static.raymondcamden.com/images/fricken shark.jpg" />
 
 p.s. You can now watch the recording of the keynote at <a href="http://html.adobe.com/events/">http://html.adobe.com/events/</a>.

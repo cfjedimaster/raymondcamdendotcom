@@ -54,7 +54,7 @@ Compared to the last example, this one uses a real database query and also makes
 <p/>
 
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-09-16 at 8.17.28 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-09-16 at 8.17.28 PM.png" />
 
 <p/>
 

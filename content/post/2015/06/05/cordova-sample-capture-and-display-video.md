@@ -69,6 +69,6 @@ So I begin by simply listening for a touch event to the button I create. I then 
 
 Here it is running on my iPad.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/shot.png" alt="shot" width="800" height="630" class="aligncenter size-full wp-image-6259" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/shot.png" alt="shot" width="800" height="630" class="aligncenter size-full wp-image-6259" />
 
 If for some reason you want to try this yourself, I uploaded it to my Cordova demo repo: <a href="https://github.com/cfjedimaster/Cordova-Examples/tree/master/videotest1">https://github.com/cfjedimaster/Cordova-Examples/tree/master/videotest1</a>.

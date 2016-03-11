@@ -43,7 +43,7 @@ Woot. Once again, simple. Most of my work was done already. So I took these pack
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/Screen shot 2010-04-07 at 11.04.20 PM.png" title="Preferences page." />
+<img src="http://static.raymondcamden.com/images/Screen shot 2010-04-07 at 11.04.20 PM.png" title="Preferences page." />
 
 <p/>
 
@@ -51,7 +51,7 @@ After you enter a SVN url, the application will ping the server every minute. It
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-04-07 at 11.05.10 PM.png" title="Growl, baby!" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-07 at 11.05.10 PM.png" title="Growl, baby!" />
 
 <p/>
 
@@ -59,7 +59,7 @@ If you miss a Growl, or close it, you can right click in the Dock/Tray and selec
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-04-07 at 11.05.34 PM.png" title="Revision View" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-07 at 11.05.34 PM.png" title="Revision View" />
 
 <p/>
 

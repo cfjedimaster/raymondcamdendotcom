@@ -14,5 +14,5 @@
 Just a quick note that an article I wrote for DZone, <a href="http://css.dzone.com/articles/overview-mobile-debugging">An Overview of Mobile Debugging Techniques – Part One</a>, is now live. I wrote this a few months ago but it finally went live today. I'll be doing a followup later this month.
 </p>
 <p>
-<img src="http://www.raymondcamden.com/images/ffss.png" />
+<img src="http://static.raymondcamden.com/images/ffss.png" />
 </p>

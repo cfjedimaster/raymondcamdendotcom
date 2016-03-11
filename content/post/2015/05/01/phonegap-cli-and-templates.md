@@ -20,10 +20,10 @@ When creating a PhoneGap project, you can request a template to be used instead 
 
 To see what templates exist, you execute: <code>phonegap template list</code> (you can also replace <code>template</code> with <code>recipe</code>):
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot1.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot1.png" alt="shot1" width="850" height="152" class="alignnone size-full wp-image-6099" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/shot1.png" alt="shot1" width="850" height="152" class="alignnone size-full wp-image-6099" /></a>
 
 There are only four templates so far, but more will be coming in the future. I've said before that I'm <i>not</i> a fan of the default template used by both Cordova and PhoneGap, so I'm happy to see <code>blank</code> as an option. The jQuery Mobile template is one I built. To use a template, you simply use <code>--template name</code> when creating your application.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot2.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot2.png" alt="shot2" width="850" height="69" class="alignnone size-full wp-image-6100" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/shot2.png" alt="shot2" width="850" height="69" class="alignnone size-full wp-image-6100" /></a>
 
 My template includes the latest jQuery Mobile assets, and includes JavaScript code that will fire a method when both jQuery Mobile <i>and</i> PhoneGap is ready to run. If you're curious, you can see the repo here: <a href="https://github.com/cfjedimaster/jQuery-Mobile-Starter">https://github.com/cfjedimaster/jQuery-Mobile-Starter</a>.

@@ -41,4 +41,4 @@ In case you are curious, that code above did an image search on the Depeche Mode
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/31773C0MTBL.jpg" />
+<img src="http://static.raymondcamden.com/images/31773C0MTBL.jpg" />

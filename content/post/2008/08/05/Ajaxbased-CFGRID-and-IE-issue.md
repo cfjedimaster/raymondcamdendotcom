@@ -17,14 +17,14 @@ When you click and edit a cell, the cell goes blank. But if you click on another
 
 Here are some screen shots. First, the table before anything is done:
 
-<img src="http://www.raymondcamden.com/images//Picture 116.png">
+<img src="http://static.raymondcamden.com/images//Picture 116.png">
 
 Now here it is, blank, right after I finished modifying it:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 27.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 27.png">
 
 And here is a shot with me selecting another row. You can see now that the data is there:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 35.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 35.png">
 
 My guess is that this has to be a simple CSS/IE conflict. Anyone else run into it? Anyone have a possible solution?

@@ -16,4 +16,4 @@ Read that title again. Adobe <b>ColdFusion</b> Developer Week. Yep, you heard it
 By the way - this is 100% free as well. Enjoy!
 
 
-<img src="http://www.raymondcamden.com/images/cfdude.jpg" />
+<img src="http://static.raymondcamden.com/images/cfdude.jpg" />

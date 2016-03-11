@@ -19,7 +19,7 @@ I'll also point out that I am <i>very</i> much not a fan of gore. I can remember
 
 I can remember discovering this film around 12 years old or so. Being that I was a huge Bigfoot fanatic at the time, I was naturally also interesting in the Abominable Snowman. I got even more interested when I noticed that one of the main characters was Peter Cushing, AKA Grand Moff Tarkin. I had expected a fairly simple, old style monster movie. What I didn't expect was a movie that put much more of an emphasis on the mood and environment than silly scenes of men in monster suits. The whole idea of a monster film that skipped the monster was incredible to me at the time. The tension I remember feeling was much more heightened because of what they didn't show compared to what they did. I don't want to spoil it, but the ending of this film is creepy as hell. I haven't seen this film since I was 12, and I probably wouldn't enjoy it as much now, but at the time it really opened my mind to what could be done by implication and subtlety compared to special effects.
  
-<img src="http://www.raymondcamden.com/images/Abominable_Snowman_movie.jpg" />
+<img src="http://static.raymondcamden.com/images/Abominable_Snowman_movie.jpg" />
 
 <h2><a href="http://www.imdb.com/title/tt0084516/">Poltergeist</a></h2>
 
@@ -37,7 +37,7 @@ Ok, I know this movie has almost no middle ground for viewers, but for me, espec
 
 Speaking of films set out in the woods, I'll also point the scene in the Village where the townspeople stood with their backs to the woods was incredibly scary for me as well. 
 
-<img src="http://www.raymondcamden.com/images/Blair_Witch_Project.jpg" />
+<img src="http://static.raymondcamden.com/images/Blair_Witch_Project.jpg" />
 
 <h2><a href="http://www.imdb.com/title/tt0286106/">Signs</a></h2>
 

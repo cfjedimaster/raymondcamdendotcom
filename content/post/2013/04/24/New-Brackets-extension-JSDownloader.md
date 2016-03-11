@@ -23,7 +23,7 @@ That's what I always do - but it kinda bugs me. I had heard of a tool called <a 
 
 This worked - and it was epic cool - until I realized how much it grabbed...
 
-<img src="http://www.raymondcamden.com/images/Screenshot_4_24_13_11_28_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_4_24_13_11_28_AM.png" />
 
 Ugh. Don't get me wrong - this was still quicker then my old process. And I "get" the idea behind the metadata involved here and why it would be useful in the future. Bower is pretty damn powerful and I definitely recommend folks take a look at it.
 
@@ -31,11 +31,11 @@ But what if you just want a copy of the library, one time, and that's it?
 
 I decided to whip up a quick Brackets extension as a proof of concept. Clicking the "Run JSDownloader" menu option opens up a dialog of options:
 
-<img src="http://www.raymondcamden.com/images/Screenshot_4_24_13_11_33_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_4_24_13_11_33_AM.png" />
 
 Clicking the library fires off a process to download it:
 
-<img src="http://www.raymondcamden.com/images/Screenshot_4_24_13_11_35_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_4_24_13_11_35_AM.png" />
 
 And yeah... that's it. Simple, direct, exactly what I need. There's a few caveats though.
 

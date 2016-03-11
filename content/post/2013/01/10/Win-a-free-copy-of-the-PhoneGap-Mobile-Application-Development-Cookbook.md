@@ -15,4 +15,4 @@ To win, check out the book's <a href="http://www.packtpub.com/phonegap-mobile-ap
 
 I'll use completely unfair and arbitrary methods to select 5 winners by January 20th. 
 
-<img src="http://www.raymondcamden.com/images/8581OS_PhoneGap%20Cookbook_cov.jpg">
+<img src="http://static.raymondcamden.com/images/8581OS_PhoneGap%20Cookbook_cov.jpg">

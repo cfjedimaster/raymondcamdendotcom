@@ -11,6 +11,6 @@
 
 When I flew out this week I noticed something cool. Every seat had a small LCD screen running some type of 'entertainment' system. I wasn't too concerned as I had my iPhone (loaded with Ultimate Avengers 1 and 2, Iron Man, and Bourne 3), but I noticed something funny as we were about to take off. All the screens rebooted, and showed...
 
-<img src="http://www.raymondcamden.com/images/IMG_0048.jpg">
+<img src="http://static.raymondcamden.com/images/IMG_0048.jpg">
 
 That's a bit fuzzy, but in case you can't tell, it's a Linux boot screen. Of course, my joy at seeing Linux was diminished when it began to reboot repeatedly. They didn't get it working right till about 30 minutes into the flight.

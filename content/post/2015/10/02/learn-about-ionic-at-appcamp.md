@@ -13,7 +13,7 @@
 	"guid": "6864"
 }
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/appcamp-logotype.png" alt="appcamp-logotype" width="200" height="247" class="alignleft size-full wp-image-6865" /> Interested in another way to learn the <a href="http://ionicframework.com">Ionic framework</a>? Recently they released an interesting little tool called <a href="http://appcamp.io/">Appcamp</a>. Appcamp is a set of interactive tutorials that walk you through various different aspects of Angular and Ionic. Courses are divided into four sections:
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/appcamp-logotype.png" alt="appcamp-logotype" width="200" height="247" class="alignleft size-full wp-image-6865" /> Interested in another way to learn the <a href="http://ionicframework.com">Ionic framework</a>? Recently they released an interesting little tool called <a href="http://appcamp.io/">Appcamp</a>. Appcamp is a set of interactive tutorials that walk you through various different aspects of Angular and Ionic. Courses are divided into four sections:
 
 <!--more-->
 
@@ -26,7 +26,7 @@
 
 Each course contains multiple sections, and in each section, you are given a set of steps to walk through. You have a fully featured text editor with syntax checking and a preview in the right hand pane.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-02-at-10.57.22.png" alt="Screen Shot 2015-10-02 at 10.57.22" width="750" height="372" class="aligncenter size-full wp-image-6866" /> 
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/Screen-Shot-2015-10-02-at-10.57.22.png" alt="Screen Shot 2015-10-02 at 10.57.22" width="750" height="372" class="aligncenter size-full wp-image-6866" /> 
 
 As you go through the steps you can cut and paste the code but I recommend actually typing it in. I feel like I learn a lot more when I'm actually typing each and every line of code.
 
@@ -34,6 +34,6 @@ The site itself is really well done, and covers some good material. In particula
 
 As a reminder, don't forget about the Ionic Playground at <a href="http://play.ionic.io">http://play.ionic.io</a>. It provides a free form web-based tool to test Ionic. It works really well with Appcamp. 
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-02-at-11.09.07.png" alt="Screen Shot 2015-10-02 at 11.09.07" width="750" height="537" class="aligncenter size-full wp-image-6867" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/Screen-Shot-2015-10-02-at-11.09.07.png" alt="Screen Shot 2015-10-02 at 11.09.07" width="750" height="537" class="aligncenter size-full wp-image-6867" />
 
 I like where this is going, and hopefully it can be fleshed out even more in the future.

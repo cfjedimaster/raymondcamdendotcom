@@ -17,7 +17,7 @@ The next tab I added is a basic Stats tab, which right now uses a Flex Pie Chart
 
 So in general, the charts are super easy to use - however, mx:Legend refuses to work for me. Check out this screen shot:
 
-<img src="http://www.raymondcamden.com/images//ttchart.png">
+<img src="http://static.raymondcamden.com/images//ttchart.png">
 
 See the 3 black squares? The legend tag is smart enough to know I had 3 pie items, but refused to actually show the labels. The docs say I need to use nameField in my series (although what I really want is the labelFunction!), but even though I did that it refused to show anything. I know it's partially working because when I change the filters to result in 2 pie wedges, my legend changes as well, but I still just get little unhappy black squares (which will be the next new band to come out of London, mark my words).
 

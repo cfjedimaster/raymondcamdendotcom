@@ -55,7 +55,7 @@ Notice that both CFCs have different methods. (I'll explain why test is commente
 
 The result is interesting - look at what is in test2 dump:
 
-<img src="http://www.raymondcamden.com/images/Screen shot 2009-11-04 at 9.27.28 AM.png" />
+<img src="http://static.raymondcamden.com/images/Screen shot 2009-11-04 at 9.27.28 AM.png" />
 
 Yep - the methods from test.cfc "leaked" into the second one. If you use an array you see the same results. If you dump each component by itself, however, you do not see a problem. Also - if you uncomment the test method in the second component, the display for that particular method is correct. In other words, it shows the string return type of string, not array.
 

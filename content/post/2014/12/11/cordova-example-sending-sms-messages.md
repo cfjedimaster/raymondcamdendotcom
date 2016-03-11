@@ -11,6 +11,10 @@
 	"guid": "5437"
 }
 
+<div class="note">
+Since the time I wrote this article, the plugin I used does not exist anymore. It is somewhat related to the plugin cordova-plugin-sms, but that plugin is Android only. You probably want to use cordova-sms-plugin. Note the different. This plugin has a slightly different API. You can read more about it here: <a href="https://github.com/cordova-sms/cordova-sms-plugin">https://github.com/cordova-sms/cordova-sms-plugin</a>. I have updated my demo code in the GitHub repo linked at the bottom and it works for me, but the main text of this blog post has not been updated to reflect the new plugin and code. 
+</div>
+
 Yesterday a reader contacted me asking for help sending SMS messages from a PhoneGap/Cordova application. I've made use of a nice plugin for this before so I thought I'd whip up a quick example of it for him, and my readers.
 
 <!--more-->
@@ -56,7 +60,7 @@ First, the HTML. This application does one thing - prompt for a telephone number
 
 Which renders this lovely UI:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/iOS-Simulator-Screen-Shot-Dec-11-2014-10.39.52-AM.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2014/12/iOS-Simulator-Screen-Shot-Dec-11-2014-10.39.52-AM.png" alt="iOS Simulator Screen Shot Dec 11, 2014, 10.39.52 AM" width="600" height="382" class="alignnone size-full wp-image-5438" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/iOS-Simulator-Screen-Shot-Dec-11-2014-10.39.52-AM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/iOS-Simulator-Screen-Shot-Dec-11-2014-10.39.52-AM.png" alt="iOS Simulator Screen Shot Dec 11, 2014, 10.39.52 AM" width="600" height="382" class="alignnone size-full wp-image-5438" /></a>
 
 Now let's consider the JavaScript:
 
@@ -106,7 +110,7 @@ So as I mentioned above, the plugin has one method. It takes an object containin
 
 As I mentioned, on iOS and Windows Phones, the user will see the 'real' SMS application pop up. It will be pre-populated with the data sent from the plugin. Here is an example:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/IMG_4245mod.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2014/12/IMG_4245mod.png" alt="IMG_4245mod" width="423" height="750" class="alignnone size-full wp-image-5439" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/IMG_4245mod.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/IMG_4245mod.png" alt="IMG_4245mod" width="423" height="750" class="alignnone size-full wp-image-5439" /></a>
 
 The user will need to hit Send to finish the process, but they won't have to actually type anything.
 

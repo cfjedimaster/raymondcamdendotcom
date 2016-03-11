@@ -28,7 +28,7 @@ And while this "works", I had a hunch ColdFusion Builder would allow me to do it
 
 <p>
 
-<a href="http://www.raymondcamden.com/images/genrandomdata.swf"><img src="http://www.coldfusionjedi.com/images/genrandomdata.png" title="Gen Random Data" border="0"  /></a>
+<a href="http://www.raymondcamden.com/images/genrandomdata.swf"><img src="http://static.raymondcamden.com/images/cfjedi/genrandomdata.png" title="Gen Random Data" border="0"  /></a>
 
 <p>
 

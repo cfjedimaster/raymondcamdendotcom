@@ -15,13 +15,13 @@ Before I begin, I want to warn folks. I wrote this code very quickly. It is <b>n
 
 To begin, ensure you have access to Facebook's Developer portal (developer.facebook.com) and create a new application.
 
-<img src="http://www.raymondcamden.com/images/Screen Shot 2013-04-01 at 11.34.18 AM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-01 at 11.34.18 AM.png" />
 
 You can call it whatever you want, but the name should reflect your site in some way. Users will see this when your app launches so make it familiar. You can ignore the other two options.
 
 On the next page, make note of your App ID and App Secret:
 
-<img src="http://www.raymondcamden.com/images/Screen Shot 2013-04-01 at 11.37.11 AM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-01 at 11.37.11 AM.png" />
 
 Click on "Website with Facebook Login" and enter a value for your site. <b>You can, and probably should, use a local domain.</b> In other words, you can enter something under localhost. Obviously this will change to a production URL once you're done, but for testing, localhost is fine. For my testing I used: http://localhost/testingzone/cf8fb and clicked Save Changes.
 
@@ -53,7 +53,7 @@ Speaking of the link, note the parts to it. client_id comes from our application
 
 Ok, so what happens when you click? Here is a screen shot.
  
-<img src="http://www.raymondcamden.com/images/Screen Shot 2013-04-01 at 11.57.38 AM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-01 at 11.57.38 AM.png" />
 
 Now let's look at redir.cfm, the main handler for the result from Facebook.
 
@@ -75,11 +75,11 @@ I didn't spend much time on their API, but it seemed pretty darn easy to use.
 
 You may be wondering - during testing - how do I get that permission screen to show up? You want to go to your Facebook Privacy settings, and then Manage Apps. This can be confusing because there is another link for this that brings you to your apps <b>as a developer</b>. You want to ensure you come here via your privacy settings, which will then help you manage your <i>user</i> app settings. Here's mine:
  
-<img src="http://www.raymondcamden.com/images/Screen Shot 2013-04-01 at 12.05.45 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-01 at 12.05.45 PM.png" />
 
 See my test app there on top? If you click the delete icon (x), you get this prompt:
 
-<img src="http://www.raymondcamden.com/images/Screen Shot 2013-04-01 at 12.06.51 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-01 at 12.06.51 PM.png" />
 
 This sounds like it may delete the app completely, but to be clear, this is <i>user specific</i> only. It is safe to confirm and test your application again.
 

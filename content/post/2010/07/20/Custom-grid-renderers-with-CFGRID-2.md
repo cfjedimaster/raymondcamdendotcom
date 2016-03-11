@@ -81,4 +81,4 @@ If you want to see a demo of this, just hit the button below. You may need to re
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/july202010/test2.cfm"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/july202010/test2.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

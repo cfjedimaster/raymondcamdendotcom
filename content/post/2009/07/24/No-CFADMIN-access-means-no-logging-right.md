@@ -46,4 +46,4 @@ Notice I didn't call it log. Log is a built in ColdFusion function for math geek
 
 Lastly - let's say you know you are deploying to a host where you won't have CFLOG access and you make use of this UDF. If you use ColdFusion Builder, doesn't forget the <b>excellent</b> TailView (which is available elsewhere too of course) which can nicely render your log entries. Check out the video...
 
-<a href="http://www.raymondcamden.com/images/videos/cfb.swf"><img src="http://www.coldfusionjedi.com/images/Picture 57.png" /></a>
+<a href="http://www.raymondcamden.com/images/videos/cfb.swf"><img src="http://static.raymondcamden.com/images/cfjedi/Picture 57.png" /></a>

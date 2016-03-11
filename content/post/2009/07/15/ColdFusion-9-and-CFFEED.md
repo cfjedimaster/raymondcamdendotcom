@@ -15,7 +15,7 @@ Previously, if you tried to create a feed and it contained "bad" characters (Mic
 <!--more-->
 First, I'll create a feed with one entry. The entry content is contained in a file called bad.txt:
 
-<img src="http://www.raymondcamden.com/images//Picture 174.png">
+<img src="http://static.raymondcamden.com/images//Picture 174.png">
 
 Here is the code I used to include and create a feed from the text file.
 
@@ -55,11 +55,11 @@ xmlVar = "myXML"&gt;
 
 This is standard CFFEED stuff, so I won't describe each line. I don't normally make feeds this way though - normally I create it from a query. Note that I've included escapechars, and set it to false, which makes it match ColdFusion 8 behavior. The result is a bit funky:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 247.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 247.png">
 
 Switching escapechars to true though results in:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 332.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 332.png">
 
 Nice. There are other ways to handle this but this is certainly a bit simpler. 
 

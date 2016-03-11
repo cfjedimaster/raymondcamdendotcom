@@ -11,7 +11,7 @@
 
 So folks know I'm a big fan of the Guitar Hero series. When I first heard of Rock Band, I was pretty interested. For those who don't know - Rock Band expands upon the Guitar Hero concept by letting up to 4 people play at once. Two guys play guitar, one does drums, and another sings. I got Rock Band (thank you, you know who you are!) a few weeks ago and I've finally had time to play it a bit and share my experiences.
 <!--more-->
-<img src="http://www.raymondcamden.com/images/cfjedi//rockband_01.jpg">
+<img src="http://static.raymondcamden.com/images/cfjedi//rockband_01.jpg">
 
 First and foremost - the Rock Band box opening experience is a bit... extreme. It reminded me a lot of getting new furniture that you have to put together. (I have a few 'rules' on when I'll know I'm rich. One them is never having to put furniture together.) You have numerous boxes, numerous pages of instructions, and frankly, it can be a bit overwhelming. Once you figure out where everything goes though, it isn't too bad. But if you want to play with all four instruments, you have around a 10 minute setup process. (Unless your some college kid who never tears it down.)
 
@@ -27,7 +27,7 @@ That's the hardware - how about the game? Well in general the game play follows 
 
 You do have one thing different - which are the solos. Guitar solos give you a chance to earn bonus points. You also have an 'end of song' thing (not sure what it's called) where you get to rock out. I know it seems minor, but being able to actually play creatively is a <b>big</b> deal and dramatically added to the fun for me.
 
-<img src="http://www.raymondcamden.com/images/cfjedi//rockband01.jpg">
+<img src="http://static.raymondcamden.com/images/cfjedi//rockband01.jpg">
 
 The playlist is <b>far</b> superior to GH3, and that's saying a lot because I really liked the songs in GH3. Rock Band just does it better, with more variety and, maybe it's just me, but more songs I liked. The downloadable (i.e. not free) selection is also quite amazing. I can tell you right now - being able to play Nine Inch Nails on my XBox is more than worth the cost of downloading. (I can be Trent. Really.) Artists I especially liked include the Pixies, REM, 
 and Smashing Pumpkins.

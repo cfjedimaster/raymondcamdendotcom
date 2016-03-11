@@ -22,11 +22,11 @@ So at this point you may be thinking - isn't that what I'd use ColdFusion, or No
 
 Creating an adapter is simple. Inside a MobileFirst project, simply type <code>mfp add adapter</code>. You'll be prompted to enter a name and then select the type:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/bp1.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/bp1.png" alt="bp1" width="509" height="164" class="alignnone size-full wp-image-5940" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/bp1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/bp1.png" alt="bp1" width="509" height="164" class="alignnone size-full wp-image-5940" /></a>
 
 Select the one you want (in our case, SQL), and then just accept the default for the next question.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/bp2.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/bp2.png" alt="bp2" width="700" height="111" class="alignnone size-full wp-image-5941" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/bp2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/bp2.png" alt="bp2" width="700" height="111" class="alignnone size-full wp-image-5941" /></a>
 
 This will create two files under your adapters folder: MyAdapterTest.xml and MyAdapterTest-impl.js. Both the directory these are created under and the names themselves are based on the name of the adapter you chose. Let's first look at the XML file.
 
@@ -107,7 +107,7 @@ function procedure2(param) {
 
 Yeah, the first time I saw this, and realized I could write my adapters in JavaScript, I was all like - 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/60905765.jpg"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/60905765.jpg" alt="60905765" width="262" height="192" class="alignnone size-full wp-image-5942" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/60905765.jpg"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/60905765.jpg" alt="60905765" width="262" height="192" class="alignnone size-full wp-image-5942" /></a>
 
 To be clear, this isn't a Node-engine, I'll be talking more about working with JavaScript and MobileFirst tomorrow, but if you can write JavaScript, you can probably handle this just fine. You can see two examples in the default - calling a simple SQL statement (and with a bound parameter) and calling a stored procedure.
 
@@ -143,19 +143,19 @@ So I assume this probably makes sense as is. I'm using the MobileFirst server-si
 
 At this point, even before I try using it in Ionic, I can test it from the command line using <code>mfp invoke</code>. When run, it first asks you to select an adapter, and then a procedure:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/bo3.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/bo3.png" alt="bo3" width="435" height="80" class="alignnone size-full wp-image-5943" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/bo3.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/bo3.png" alt="bo3" width="435" height="80" class="alignnone size-full wp-image-5943" /></a>
 
 Select the procedure, optionally enter parameters, and you can then see the result right in your command prompt:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/bp4.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/bp4.png" alt="bp4" width="399" height="383" class="alignnone size-full wp-image-5944" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/bp4.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/bp4.png" alt="bp4" width="399" height="383" class="alignnone size-full wp-image-5944" /></a>
 
 You definitely want to make use of this tool as it will be much quicker to debug any possible issues with your adapters here. Alright, now let's turn to the client-side. I'm assuming you've read my earlier posts about using Ionic with MobileFirst. I created a new application with the blank template and set up two simple screens. The first just shows a list of articles:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-2-2015-3.49.06-PM.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-2-2015-3.49.06-PM.png" alt="iOS Simulator Screen Shot Apr 2, 2015, 3.49.06 PM" width="750" height="513" class="alignnone size-full wp-image-5945" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-2-2015-3.49.06-PM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-2-2015-3.49.06-PM.png" alt="iOS Simulator Screen Shot Apr 2, 2015, 3.49.06 PM" width="750" height="513" class="alignnone size-full wp-image-5945" /></a>
 
 Clicking an item takes you to the detail page:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-2-2015-3.55.35-PM.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-2-2015-3.55.35-PM.png" alt="iOS Simulator Screen Shot Apr 2, 2015, 3.55.35 PM" width="750" height="505" class="alignnone size-full wp-image-5946" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-2-2015-3.55.35-PM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-2-2015-3.55.35-PM.png" alt="iOS Simulator Screen Shot Apr 2, 2015, 3.55.35 PM" width="750" height="505" class="alignnone size-full wp-image-5946" /></a>
 
 Ok, so how do we use it? I created a service for my Ionic application and wrapped calls to WL.Client.invokeProcedure. This library exists for you automatically in a hybrid application running in the MobileFirst platform. Here is the complete service:
 

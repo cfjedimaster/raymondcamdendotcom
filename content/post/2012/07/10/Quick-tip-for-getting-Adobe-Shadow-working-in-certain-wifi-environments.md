@@ -14,11 +14,11 @@ I've blogged quite a bit about the coolness that is <a href="http://labs.adobe.c
 
 On a whim I tried something. On my Macbook I enabled Internet Sharing via Bluetooth.
 
-<img src="http://www.raymondcamden.com/images/screenshot12.png" />
+<img src="http://static.raymondcamden.com/images/screenshot12.png" />
 
 Then - on my iPad, I connected my iPad to the MacBook via Bluetooth:
 
-<img src="http://www.raymondcamden.com/images/screenshot13.png" />
+<img src="http://static.raymondcamden.com/images/screenshot13.png" />
 
 For good measure, I then turned off Wifi as well. I confirmed my iPad could browse the net and then tried Shadow. It seems to be working well, if maybe a bit slower than before. But the point is - it works. 
 

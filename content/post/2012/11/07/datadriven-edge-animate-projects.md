@@ -23,17 +23,17 @@ With all that aside, let's look at a real demo. This won't be the most exciting 
 
 I began by creating the animation and using static text. I used two seconds for the 'rectangle fly in' animation and a second for the text to fade in.
 
-<img src="http://www.raymondcamden.com/images/screenshot37.png" />
+<img src="http://static.raymondcamden.com/images/screenshot37.png" />
 
 You can see this in action here: <a href="http://www.raymondcamden.com/demos/2012/nov/7/v1/Untitled-2.html">http://www.raymondcamden.com/demos/2012/nov/7/v1/Untitled-2.html</a>. Note that I didn't bother setting up any preloader or providing accessible support. I'm trying to keep this as simple as possible.
 
 So now we have a basic animation done. We could tweak it to make it prettier. Modify the flow of the movement. Etc. But let's focus on making this data driven. In order to do that I need to first stop the animation from running automatically. My Ajax call may be slow so I don't want anything to run until I've gotten my data back. Turning off the autostart is as simple as clicking on the Stage in Edge Animate and disabling it in properties.
 
-<img src="http://www.raymondcamden.com/images/screenshot38.png" />
+<img src="http://static.raymondcamden.com/images/screenshot38.png" />
 
 That was easy. The next part was a bit more difficult. In a normal application, I'd listen for a DOM ready type event before doing whatever I need to do. But I know that Edge Animate also has its own events. I assumed - but wasn't sure - that there was an event I could listen in for and trigger my own custom logic. With the Stage still selected, I clicked the Actions icon:
 
-<img src="http://www.raymondcamden.com/images/screenshot39.png" />
+<img src="http://static.raymondcamden.com/images/screenshot39.png" />
 
 I noticed the creationComplete event and assumed that was a safe bet. Going with the assumption that all my logic would go in here, I used the helpful menu of actions to guide how I'd write the code. I first selected "Set Element Text" and Animate added the following block:
 

@@ -21,4 +21,4 @@ We amended the rules a bit since we only had 4 entries. The top entry by Faceboo
 The entry with the most Likes was CFShoutout by Ben Dalton. The entry that Rakshith and myself thought was the coolest was the HTML Email Utility by <a href="http://www.bennadel.com/">Ben Nadel</a>. 
 
 Congrats to everyone! 
-<img src="http://www.raymondcamden.com/images/a_winner_is_you_1024.jpg" />
+<img src="http://static.raymondcamden.com/images/a_winner_is_you_1024.jpg" />

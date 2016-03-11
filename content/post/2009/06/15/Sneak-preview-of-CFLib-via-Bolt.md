@@ -14,26 +14,26 @@ I uploaded this to RIAForge this weekend, but for folks who are not yet on the p
 
 First, right click on a file, and click into the CFLib menu:
 <!--more-->
-<img src="http://www.raymondcamden.com/images/cfjedi//Picture 164.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 164.png">
 
 This brings up a list of categories. This list is cached to help improve performance.
 
-<img src="http://www.raymondcamden.com/images/cfjedi//Picture 240.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 240.png">
 
 Now you can browse UDFs in the category, in pages of 10 UDFs each. This is also cached. The first hit will be a bit slow, but after that it will scream.
 
 I should point out - the design here is pure HTML, and was written very quickly. The ugliness is all Ray, not Bolt.
 
 
-<img src="http://www.raymondcamden.com/images/cfjedi//Picture 329.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 329.png">
 
 
 After you select the UDF, you can either copy the code from the textarea, or click Download.
 
-<img src="http://www.raymondcamden.com/images/cfjedi//Picture 413.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 413.png">
 
 If you choose to download, it will automatically be placed within the file you right clicked on.
 
-<img src="http://www.raymondcamden.com/images/cfjedi//Picture 56.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 56.png">
 
 Seem cool?

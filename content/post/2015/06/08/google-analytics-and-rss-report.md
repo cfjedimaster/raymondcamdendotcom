@@ -32,25 +32,25 @@ In order to make this work, I needed the <a href="https://developers.google.com/
 
 First - the application recognizes if you've recently authenticated with Google. If you have not, it will prompt you to:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/shot1.png" alt="shot1" width="800" height="162" class="aligncenter size-full wp-image-6263 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/shot1.png" alt="shot1" width="800" height="162" class="aligncenter size-full wp-image-6263 imgborder" />
 
 Clicking that button pops open a new window where you'll begin the authentication/authorization process with Google. I've set up a project for this demo and specified what scopes my demo needs. This is what controls the list of requests seen here. 
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/shot2.png" alt="shot2" width="800" height="495" class="aligncenter size-full wp-image-6264 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/shot2.png" alt="shot2" width="800" height="495" class="aligncenter size-full wp-image-6264 imgborder" />
 
 After you've authenticated, the code then uses the Analytics API to fetch the web sites you have access to for that account:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/shot3.png" alt="shot3" width="800" height="334" class="aligncenter size-full wp-image-6265 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/shot3.png" alt="shot3" width="800" height="334" class="aligncenter size-full wp-image-6265 imgborder" />
 
 Notice how the RSS field is empty. I added code so that once you enter a value here it will remember it. Next time you load the tool and select your property, you won't need to fill in the values again.
 
 Anyway, once you do enter the value, the Feed API takes over. It parses the RSS and gets your most recent entries.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/shot4.png" alt="shot4" width="800" height="684" class="aligncenter size-full wp-image-6266 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/shot4.png" alt="shot4" width="800" height="684" class="aligncenter size-full wp-image-6266 imgborder" />
 
 And then magically - the stats show up in the table:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/shot5.png" alt="shot5" width="800" height="455" class="aligncenter size-full wp-image-6267 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/shot5.png" alt="shot5" width="800" height="455" class="aligncenter size-full wp-image-6267 imgborder" />
 
 Ok, so how does it work? I won't go over the authentication part as I used the same code from my <a href="http://www.raymondcamden.com/2014/01/24/Proof-of-Concept-Dashboard-for-Google-Analytics">previous demo</a>. The analytics part was a bit different. I moved it into a module pattern and exposed two APIs - getProperties and getStatsForPropertyURL. getProperties returns a promise which makes using it somewhat simple:
 

@@ -63,7 +63,7 @@ As you can see, productkey is now a number, and one that will be converted to 8.
 
 So.... yeah. In all cases, there are workarounds. But let me ask you this. Would you use a database that randomly changed values on you? 
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/09/aw_hell_no.png" alt="aw_hell_no" width="380" height="285" class="aligncenter size-full wp-image-6735" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/aw_hell_no.png" alt="aw_hell_no" width="380" height="285" class="aligncenter size-full wp-image-6735" />
 
 It seems ridiculous that this is still a problem now. It may be <i>incredibly</i> difficult. Heck, I won't pretend to be able to solve it. But here are some suggestions:
 

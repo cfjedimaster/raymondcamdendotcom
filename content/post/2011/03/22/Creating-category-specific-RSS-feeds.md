@@ -145,7 +145,7 @@ The rest of the code is the exact same. Define my column map - create my XML - s
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/march222011/"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/march222011/"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

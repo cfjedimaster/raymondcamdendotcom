@@ -11,4 +11,4 @@
 
 Blogging and responding to email will be somewhat slow over the next ten days as my family and I will be on a well deserved vacation. See you on the flip side!
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/kitten-kittenwavinglookingverysadby.jpg" alt="kitten-kittenwavinglookingverysadby" width="500" height="375" class="aligncenter size-full wp-image-6293" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/kitten-kittenwavinglookingverysadby.jpg" alt="kitten-kittenwavinglookingverysadby" width="500" height="375" class="aligncenter size-full wp-image-6293" />

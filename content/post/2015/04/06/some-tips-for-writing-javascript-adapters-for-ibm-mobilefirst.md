@@ -31,7 +31,7 @@ Second, you cannot debug via console.log. Instead, simply use the <a href="http:
 
 And where do those logs show up? Type <code>mfp logs</code> at the command line to be shown where your logs exist:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot11.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot11.png" alt="shot1" width="800" height="58" class="alignnone size-full wp-image-5963" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot11.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot11.png" alt="shot1" width="800" height="58" class="alignnone size-full wp-image-5963" /></a>
 
 Then you can simply go to that directory and look at messages.log. I'd simply <code>tail -f</code> it while you work to see incoming messages. The log is a bit verbose, but you could use other tools to filter it out. 
 

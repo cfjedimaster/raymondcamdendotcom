@@ -23,7 +23,7 @@ I need to do a bit more research into how I can handle this in the future. There
 
 Finally - I must say I'm rather disappointed by the support at AppFog. Here's my support ticket still waiting for someone to even look at it after three days:
 
-<img src="http://www.raymondcamden.com/images/Screenshot_6_24_13_9_25_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_6_24_13_9_25_AM.png" />
 
 As a paying customer, this does not make me happy. Of course, I know I'm at the cheapest tier, but I'd hope for some type of response within a day at least.
 

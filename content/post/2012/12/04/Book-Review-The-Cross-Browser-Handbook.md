@@ -40,4 +40,4 @@ Only if you absolutely have to write your own JavaScript code you should do so!
 
 But as my readers know, this topic is something I've been sharing recently on this blog and I know I'm in the minority. At the end of the day, I'll use jQuery, but I truly feel like we need to start writing more vanilla JavaScript if we ever hope to improve our skills. 
 
-<img src="http://www.raymondcamden.com/images/medium-book.png" />
+<img src="http://static.raymondcamden.com/images/medium-book.png" />

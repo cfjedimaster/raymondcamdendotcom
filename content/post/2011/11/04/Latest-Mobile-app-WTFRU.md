@@ -43,7 +43,7 @@ Here's an example of the application running on my device. It begins by finding 
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/s13.png" />
+<img src="http://static.raymondcamden.com/images/s13.png" />
 
 <p>
 
@@ -51,7 +51,7 @@ And yes - the name is WTFRU. I figured Tractor Beam was already taken by a game.
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/s24.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/s24.png" />
 
 <p>
 
@@ -59,7 +59,7 @@ This plugin returns information about the contact, including their email and con
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/s32.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/s32.png" />
 
 <p>
 
@@ -108,7 +108,7 @@ Where ColdFusion records this and returns a URL that can be sent to the friend. 
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/s4.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/s4.png" />
 
 <p>
 
@@ -128,7 +128,7 @@ Here is the top of the page you see on the mobile device.
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/s5.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/s5.png" />
 
 <p>
 
@@ -136,7 +136,7 @@ Scrolling down gives you the driving directions:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/s6.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/s6.png" />
 
 <p>
 

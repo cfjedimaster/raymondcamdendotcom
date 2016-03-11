@@ -19,7 +19,7 @@ One of my open source projects, <a href="http://lighthousepro.riaforge.org">Ligh
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip218.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip218.png" />
 
 <p>
 
@@ -27,7 +27,7 @@ All of those form fields on top allow for different types of filtering and all i
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip219.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip219.png" />
 
 <p>
 
@@ -35,7 +35,7 @@ Hmmm, status code 200. That implies no error on the server side. But maybe somet
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip220.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip220.png" />
 
 <p>
 
@@ -47,7 +47,7 @@ I knew that Chrome contained a debugger that allowed for step debugging. For tho
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip222.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip222.png" />
 
 <p>
 
@@ -55,7 +55,7 @@ Notice I've got an error handler for my Ajax but it only cares about one type of
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip223.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip223.png" />
 
 <p>
 
@@ -63,7 +63,7 @@ Notice that the breakpoint is now listed in the right hand side as well. Ok, so 
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip224.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip224.png" />
 
 <p>
 
@@ -71,7 +71,7 @@ Parse error! Ahah. So right away I'm thinking - my JSON string <i>looks</i> nice
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip225.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip225.png" />
 
 <p>
 

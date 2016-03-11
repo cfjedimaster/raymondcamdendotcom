@@ -310,7 +310,7 @@ That's right at 190 lines. Not bad for my first Flex mobile application. Now let
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip206.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip206.png" />
 
 <p>
 

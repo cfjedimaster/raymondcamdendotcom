@@ -16,11 +16,11 @@ A few days back I <a href="http://www.raymondcamden.com/index.cfm/2013/7/10/Quic
 My example is (I'm sorry) another example of a Note taking app. However this time I've added the ability to attach pictures to a note. The home screen is a listing of your current notes, sorted by date.
 
 
-<img src="http://www.raymondcamden.com/images/iOS Simulator Screen shot Jul 23, 2013 9.07.24 AM.png" />
+<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Jul 23, 2013 9.07.24 AM.png" />
 
 Clicking the plus symbol takes you to a form allowing you to write a new note.
 
-<img src="http://www.raymondcamden.com/images/iOS Simulator Screen shot Jul 23, 2013 9.08.19 AM.png" />
+<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Jul 23, 2013 9.08.19 AM.png" />
 
 At this point you can select to take a picture. Now - for testing purposes in my iOS Simulator, I set the source to the local file system. In a real world app you would ask for the camera itself (or allow the user to select), but I wanted something quick and dirty.
 

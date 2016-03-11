@@ -22,7 +22,7 @@ I'm currently the owner of an HTC M8 phone - my foray back into Android after us
 
 Luckily, Apple has a cool <a href="https://reserve.cdn-apple.com/US/en_US/reserve/iPhone/availability?returnURL=http%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone6s&channel=1&iPP=Y">form</a> you can use to see if your desired phone is available. You select your state, your store, your model, and then your carrier:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot16.png" alt="shot1" width="750" height="708" class="aligncenter size-full wp-image-6961 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot16.png" alt="shot1" width="750" height="708" class="aligncenter size-full wp-image-6961 imgborder" />
 
 As you can see, none are available. (Sigh.) You can switch to SIM-free of course (and I checked, my HTC and the 6S+ use the same type of SIM). What bothered me about this form were a couple of issues.
 
@@ -34,7 +34,7 @@ As you can see, none are available. (Sigh.) You can switch to SIM-free of course
 
 So - bored this weekend - I did what any self-respecting web dev does - I opened up dev tools while using the form. First thing I noticed was that the app was hitting JSON files to drive the drop downs:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot26.png" alt="shot2" width="750" height="264" class="aligncenter size-full wp-image-6962 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot26.png" alt="shot2" width="750" height="264" class="aligncenter size-full wp-image-6962 imgborder" />
 
 I then opened each of those files and took a look at the JSON. <code>stores.json</code> was a literal listing of all the stores with availability. Here is a snippet:
 
@@ -110,13 +110,13 @@ The key there is the store and each line item (except for timeSlot) represents a
 
 I also wanted to ignore 16GB, but at the end decided against that. I began working on my own code that would suck in the JSON files (my local copy) and let me parse it myself. I'll show the result first and then talk about the code. And yes - mine is far less pretty than Apple's.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot33.png" alt="shot3" width="750" height="361" class="aligncenter size-full wp-image-6963 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot33.png" alt="shot3" width="750" height="361" class="aligncenter size-full wp-image-6963 imgborder" />
 
 On top you can see a state drop down and store selector. As I said, my initial plan was to provide for adding multiple stores, but I never got around to that. 
 
 Below it you can see the carrier and model selections. Below it is the grid of options. I used CSS (woot) to gray/blur options that weren't available. How did I get the Apple iPhone colors? Did you know Firefox has a color picker builtin to their dev tools?
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot43.png" alt="shot4" width="272" height="73" class="aligncenter size-full wp-image-6964 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot43.png" alt="shot4" width="272" height="73" class="aligncenter size-full wp-image-6964 imgborder" />
 
 The circles on the Apple store actually have nice gradients as you move from the center of the circle to the outside. I just clicked "in the middle-ish" to get a value that looked good to me.
 

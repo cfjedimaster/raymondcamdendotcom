@@ -13,7 +13,7 @@ This isn't anything special, but a reader today asked if I could modify some cod
 <!--more-->
 The final demo in that blog post (available <a href="http://www.raymondcamden.com/demos/april132011/test4.cfm">here</a>) showed how to add dynamic markers to a map and provided a simple UI to select and focus on each marker. 
 
-<img src="http://www.raymondcamden.com/images/screenshot41.png" />
+<img src="http://static.raymondcamden.com/images/screenshot41.png" />
 
 My reader had two main questions. First, he wanted to know how to customize the marker. Second, he wanted to build in a basic filtering system based on a type of content. He was building a map of medical related locations and he wanted to be able to filter by pharmacies or hospitals. I whipped up a demo of both of these concepts and I thought folks might like to see the code.
 
@@ -33,7 +33,7 @@ To make use of these icons, I took some static code he rewrote and created a mor
 
 Here's how it looks now:
 
-<img src="http://www.raymondcamden.com/images/screenshot42.png" />
+<img src="http://static.raymondcamden.com/images/screenshot42.png" />
 
 Filtering was easy too. I used jQuery to bind to changes to the checkboxes on top. I then did a show/hide on both the left hand list of locations and the markers as well. (Google had a simple API to show/hide markers.)
 
@@ -43,4 +43,4 @@ And that's it. A good modification to this would be to use the Google API that '
 
 You can view the full demo below. 
 
-<a href="http://www.raymondcamden.com/demos/2012/dec/1/new4.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/dec/1/new4.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

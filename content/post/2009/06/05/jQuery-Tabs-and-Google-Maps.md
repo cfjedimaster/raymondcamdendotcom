@@ -70,7 +70,7 @@ $(document).ready(function() {
 
 I've blogged about jQuery tabs before (check the <a href="http://jqueryui.com/demos/tabs/">official docs</a> for more information), so the only thing new here for my readers would be the Google Maps code. This was the first time I had ever played with them, so I went with their simplest example possible. (Actually, I did it on a page by itself first so I could see it working without the tabs.) Like all things Google, the API is incredibly powerful and complex to use. When run though, the problem is pretty evident:
 
-<img src="http://www.raymondcamden.com/images//Picture 72.png">
+<img src="http://static.raymondcamden.com/images//Picture 72.png">
 
 Notice how the map doesn't fill the tab? The Tabs docs actually <a href="http://jqueryui.com/demos/tabs/#...my_slider.2C_Google_Map.2C_sIFR_etc._not_work_when_placed_in_a_hidden_.28inactive.29_tab.3F">cover</a> this issue a bit, but the advice they give doesn't work with the latest Google Maps API. Specifically they suggest the resizeMap() method which isn't a valid call. This led me to dig around some more and find there was something similar: checkResize(). 
 
@@ -97,11 +97,11 @@ $('#example').bind('tabsshow', function(event, ui) {
 
 This was close... but not exactly right:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 8.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 8.png">
 
 It <i>kinda</i> looks like the 100% is referring to the complete tab (content and the header), but not quite exactly. I kept playing around and finally ended up with a hard coded exact number, 170. That seemed to work ok:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 9.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 9.png">
 
 Obviously this involved a lot of grunt work and reloading, and obviously if you change the height of the main tab div you would have to change the number. 
 

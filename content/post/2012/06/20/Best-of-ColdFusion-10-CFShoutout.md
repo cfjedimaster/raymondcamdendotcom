@@ -15,11 +15,11 @@ Because this application could be used for evil spammy/troll purposes, I will no
 
 The application allows folks to send messages (shout outs) to other users. Because geolocation is used we know where you are when you make the shout out. When you first hit the application, any previous shout outs are loaded and displayed on the map.
 
-<img src="http://www.raymondcamden.com/images/screenshot7.png" />
+<img src="http://static.raymondcamden.com/images/screenshot7.png" />
 
 Clicking the shout icon lets you create a new message:
 
-<img src="http://www.raymondcamden.com/images/screenshot9.png" />
+<img src="http://static.raymondcamden.com/images/screenshot9.png" />
 
 Any connected users automatically see the new shoutout due to the use of websockets. 
 

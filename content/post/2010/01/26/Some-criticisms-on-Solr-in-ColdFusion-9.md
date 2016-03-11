@@ -17,7 +17,7 @@ For my testing I used Windows XP and a folder of 8 documents. This folder includ
 
 1) The Summary field in results for Solr contained binary "junk". Verity cleaned this up. Example:
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-01-26 at 12.18.33 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-01-26 at 12.18.33 PM.png" />
 
 That result came from a MP3, which you expect to be 'dirty', but Verity correctly clears this from the summary. I also see these chars in PDF files as well. Word docs seemed fine though.
 

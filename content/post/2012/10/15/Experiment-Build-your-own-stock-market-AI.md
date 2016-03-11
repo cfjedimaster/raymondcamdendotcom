@@ -21,7 +21,7 @@ With this in mind, I decided to build something similar in JavaScript. In my sim
 
 You are given a simple function to start off with:
 
-<img src="http://www.raymondcamden.com/images/screenshot32.png" />
+<img src="http://static.raymondcamden.com/images/screenshot32.png" />
 
 When you click the Start Simulation button, I take that code and generate a function from it:
 
@@ -33,7 +33,7 @@ The try/catch there handles some errors, but not all. As the code runs the simul
 
 It could use a bit more hardening, but you can see the basics of what I'm doing here. As the simulation runs you see a running report of your stats.
 
-<img src="http://www.raymondcamden.com/images/screenshot33.png" />
+<img src="http://static.raymondcamden.com/images/screenshot33.png" />
 
 So - want to give it a shot? <a href="http://www.raymondcamden.com/demos/2012/oct/15/test1.html">Stock Market AI Simulator</a>
 

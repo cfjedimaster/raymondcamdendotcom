@@ -125,7 +125,7 @@ Yes, this is a bit messy, it reminds me of Classic ASP, but you get the basic id
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_1_2_14__8_28_AM.png" />
+<img src="http://static.raymondcamden.com/images/Screenshot_1_2_14__8_28_AM.png" />
 </p>
 
 <p>

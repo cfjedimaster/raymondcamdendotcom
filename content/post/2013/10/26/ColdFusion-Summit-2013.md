@@ -26,7 +26,7 @@ The content was top notch, and I should point out that the conference used a CAB
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/speakers.jpg" />
+<img src="http://static.raymondcamden.com/images/speakers.jpg" />
 </p>
 
 <p>
@@ -66,5 +66,5 @@ I'll leave with what is - I think - great news for this community. Thanks to Mic
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/cfs.jpg" title="ColdFusion Summit 2014!" />
+<img src="http://static.raymondcamden.com/images/cfs.jpg" title="ColdFusion Summit 2014!" />
 </p>

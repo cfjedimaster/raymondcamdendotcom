@@ -30,7 +30,7 @@ Fairly simple. I also limited the result set back. I'm not currently displaying 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s124.png" />
+<img src="http://static.raymondcamden.com/images/s124.png" />
 </p>
 
 <p>
@@ -171,7 +171,7 @@ First, an example of a search for Internet. Click for larger image.
 </p>
 
 <p>
-<a href="http://www.raymondcamden.com/images/s219.png"><img src="http://www.raymondcamden.com/images/s2_small.png" /></a>
+<a href="http://static.raymondcamden.com/images/s219.png"><img src="http://static.raymondcamden.com/images/s2_small.png" /></a>
 </p>
 
 <p>
@@ -179,7 +179,7 @@ And here is a search for War. Again, click for full size.
 </p>
 
 <p>
-<a href="http://www.raymondcamden.com/images/s311.png"><img src="http://www.raymondcamden.com/images/s3_small.png" /></a>
+<a href="http://static.raymondcamden.com/images/s311.png"><img src="http://static.raymondcamden.com/images/s3_small.png" /></a>
 </p>
 
 <p>
@@ -189,4 +189,4 @@ Forgive the typo in the header - apparently my spelling skills are only slightly
 <iframe width="650" height="488" src="//www.youtube.com/embed/87hVm6Ik4rY?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <p>
-<a href="http://www.raymondcamden.com/demos/2014/sep/15/test2.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='/enclosures/nytapi1.zip'>Download attached file.</a></p>
+<a href="http://static.raymondcamden.com/demos/2014/sep/15/test2.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='http://static.raymondcamden.com/enclosures/nytapi1.zip'>Download attached file.</a></p>

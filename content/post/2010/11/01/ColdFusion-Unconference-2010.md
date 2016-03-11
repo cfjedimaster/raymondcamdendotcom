@@ -17,4 +17,4 @@ If anyone has any suggestions or feedback for next year (assuming Adobe invites 
 
 Finally, I've got to share this picture from Dave Ferguson:
 
-<img src="http://www.raymondcamden.com/images/davePres.jpg" title="Thankfully no red shirts..." />
+<img src="http://static.raymondcamden.com/images/davePres.jpg" title="Thankfully no red shirts..." />

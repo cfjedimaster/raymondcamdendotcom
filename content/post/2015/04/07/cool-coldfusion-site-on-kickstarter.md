@@ -11,4 +11,4 @@
 
 SPY, a "real world, live action" game, is up on Kickstarter - <a href="https://www.kickstarter.com/projects/1186555722/spy-real-world-live-action-espionage">SPY: Real World, Live-Action Espionage</a>. I'm sharing this because the back end for the game is all built in ColdFusion. It looks like a pretty interesting idea!
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/spy.gif"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/04/spy.gif" alt="spy" width="699" height="437" class="alignnone size-full wp-image-5966" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/spy.gif"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/spy.gif" alt="spy" width="699" height="437" class="alignnone size-full wp-image-5966" /></a>

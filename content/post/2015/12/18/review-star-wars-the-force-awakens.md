@@ -9,7 +9,7 @@
 	"guid": "7269"
 }
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/tfa.jpg" alt="tfa" width="270" height="400" class="alignleft size-full wp-image-7270" style="margin-right:10px" /> Normally I wait till Sunday to do non-tech posts, but with the memory of the film still burning bright in my mind from last night, I thought I'd write it up today. The first of this review will be <strong>spoiler-free</strong> and I'll clearly mark the beginnings of spoilers. Also, the comments are fair game for spoilers too, so stop reading where it makes sense for you. This will be long winded and emotional, so if you want the tl;dr - it rocked. See it now.
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/tfa.jpg" alt="tfa" width="270" height="400" class="alignleft size-full wp-image-7270" style="margin-right:10px" /> Normally I wait till Sunday to do non-tech posts, but with the memory of the film still burning bright in my mind from last night, I thought I'd write it up today. The first of this review will be <strong>spoiler-free</strong> and I'll clearly mark the beginnings of spoilers. Also, the comments are fair game for spoilers too, so stop reading where it makes sense for you. This will be long winded and emotional, so if you want the tl;dr - it rocked. See it now.
 
 <!--more-->
 
@@ -21,7 +21,7 @@ For Return of the Jedi, I saw it in a little town in Louisiana. There were - may
 
 I've been a Star Wars fan for as long as I can remember. I've certainly seen better sci fi in my life, but nothing has left the impression on me as much as these movies. I love them - warts and all. When I ride my bike, I'm flying through the woods of Endor. As I write this - I'm in an office completely covered in Star Wars toys. (And some Star Trek too - along with Robotech and a few other geeky properties.) For the past few years I've walked my kids to school in a full on Sith robe with a fancy (i.e. not cheap) light saber. I'm actually considering picking up some boots/pants to make it a bit more realistic.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/ray.png" alt="ray" width="268" height="475" class="aligncenter size-full wp-image-7271" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/ray.png" alt="ray" width="268" height="475" class="aligncenter size-full wp-image-7271" />
 
 So yeah - I love Star Wars. <i>Really</i> love it. So when I heard about the new trilogy, I was pretty damn excited. Unlike a lot of Star Wars fans, I did not hate the prequels. Did they come close to what I, and many other fans, had hoped for? Not at all. To be fair, there was no chance in hell it could. And in the end, Vader's portrayal was a let down. That being said, the prequels had some great aspects to it. Without a doubt, Ewan McGregor absolutely, 100%, nailed Obi Wan. Ian McDiarmid's Palaptine was wonderfully evil. His scene with Anakin at the Space Opera was chilling. The Jedi being portrayed as all powerful, yet seemingly blind, has been called one of the flaws of the prequels, but to me, this is one of the strengths. They had grown complacent and I think that made for a great part of the story. 
 
@@ -31,7 +31,7 @@ My biggest concern with the new movie was it turning into something cool, but la
 
 And as the lights dimmed last night and I saw those famous words on screen - my fears melted away.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/long.png" alt="long" width="500" height="281" class="aligncenter size-full wp-image-7272" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/long.png" alt="long" width="500" height="281" class="aligncenter size-full wp-image-7272" />
 
 From the first sentence of the crawl to the last shot - this was everything I had hoped the prequels would be and every bit a "proper" Star Wars movie. You've got great action, incredibly funny scenes, awesome bad guys, and a great story as well. The cast, especially the new heroes, were wonderful. Kylo was incredible. So many movies have trouble getting the bad guys well and I thought he was awesome. I really liked Hux too, even when he was (and maybe this is a spoiler) bat-shit fanatical. Rey and Finn had great chemistry, and while at times they were a bit annoying in their youthful excitement, it was a <i>good</i> annoying if that makes sense. As I told a friend, sometimes the jokes were bad - but even when they were bad, I still grinned like a fool. 
 
@@ -39,7 +39,7 @@ From the first sentence of the crawl to the last shot - this was everything I ha
 
 Seriously - don't wait - go to the movies today. Now. See it with your kids. Enjoy the hell out of it and lets hope the next movies are just as good!
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/spoiler-alert.jpg" alt="spoiler-alert" width="300" height="300" class="aligncenter size-full wp-image-7273" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/spoiler-alert.jpg" alt="spoiler-alert" width="300" height="300" class="aligncenter size-full wp-image-7273" />
 
 Here are some random, SPOILER-ish, thoughts in no particular order.
 

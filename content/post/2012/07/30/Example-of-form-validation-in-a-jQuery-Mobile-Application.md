@@ -31,7 +31,7 @@ Pretty simple, right? Without any validation at all, you can take this for a spi
 
 And if you don't want to bother with that - a quick screen shot (which I generated from <a href="http://labs.adobe.com/technologies/shadow/">Adobe Shadow</a> thank you very much):
 
-<img src="http://www.raymondcamden.com/images/2012-07-30_08.32.59_HTC HTC ONE X.png" />
+<img src="http://static.raymondcamden.com/images/2012-07-30_08.32.59_HTC HTC ONE X.png" />
 
 Ok, so let's talk validation. It would certainly be cool if we could just use HTML5 form validation, right? I mean, look at the mobile browser support for Canvas: 
 
@@ -55,7 +55,7 @@ Notice the addition of class="required" to my fields requiring validation. Also 
 
 So far so good, right? But check out the result:
 
-<img src="http://www.raymondcamden.com/images/2012-07-30_08.35.00_HTC HTC ONE X.png" />
+<img src="http://static.raymondcamden.com/images/2012-07-30_08.35.00_HTC HTC ONE X.png" />
 
 First, the errors don't really stand out and second - note the error for the drop down. It's actually <i>inside</i> the custom jQM drop down field. Not good. Let's tackle the design first. By default, the validation plugin will use an error class for displaying errors. That means it is pretty trivial to make it look a bit nicer:
 
@@ -63,7 +63,7 @@ First, the errors don't really stand out and second - note the error for the dro
 
 Which results in:
 
-<img src="http://www.raymondcamden.com/images/2012-07-30_08.35.56_HTC HTC ONE X.png" />
+<img src="http://static.raymondcamden.com/images/2012-07-30_08.35.56_HTC HTC ONE X.png" />
 
 Nice. About halfway there. You can demo this version here: <a href="http://www.raymondcamden.com/demos/2012/jul/30/round2/">Round 2</a> 
 
@@ -73,7 +73,7 @@ So what about the weird drop down behavior? We can use another feature of the pl
 
 To be honest, the use of .parent() there was a bit of a guess, but it worked on first try. In case you're curious, to add the custom validation to the second password field I just had to add the name to the class list: class="required passmatch".
 
-<img src="http://www.raymondcamden.com/images/2012-07-30_08.36.36_HTC HTC ONE X.png" />
+<img src="http://static.raymondcamden.com/images/2012-07-30_08.36.36_HTC HTC ONE X.png" />
 
 You can demo this version here: <a href="http://www.raymondcamden.com/demos/2012/jul/30/round3/">Round 3</a>
 

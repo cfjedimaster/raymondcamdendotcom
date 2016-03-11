@@ -16,5 +16,5 @@ I was originally going to be presenting just to the <a href="http://www.meetup.c
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/cordova_logo_normal_dark.png" />
+<img src="http://static.raymondcamden.com/images/cordova_logo_normal_dark.png" />
 </p>

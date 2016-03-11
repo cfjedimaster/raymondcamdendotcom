@@ -9,7 +9,7 @@
 	"guid": "3657"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/Avatar-Teaser-Poster.jpg" align="left" title="Avatar" style="margin-right:5px;margin-bottom:5px" /> I just got back from seeing Avatar, the latest film from James Cameron. I won't call this a review - just a smattering of thoughts - but I'd love to hear what others thought. Let's keep it spoiler free though. Overall, I thought it was a good film, a strong film, but not quite great. It tried real hard, but in the end, the story was lacking enough for me to keep it from being great.
+<img src="http://static.raymondcamden.com/images/cfjedi/Avatar-Teaser-Poster.jpg" align="left" title="Avatar" style="margin-right:5px;margin-bottom:5px" /> I just got back from seeing Avatar, the latest film from James Cameron. I won't call this a review - just a smattering of thoughts - but I'd love to hear what others thought. Let's keep it spoiler free though. Overall, I thought it was a good film, a strong film, but not quite great. It tried real hard, but in the end, the story was lacking enough for me to keep it from being great.
 
 Technologically, the film is perfect. Seriously - this film has set the bar for special effects, and probably will be the film by which others are judged. The Na'vi looked realistic enough for to be 100% believable. You didn't have any of the "Dead on the Inside" type feeling you get from other movies with computer generated characters (I'm looking at you, Polar Express). 
 

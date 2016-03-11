@@ -15,14 +15,14 @@ For me, the Outline view works best for CFCs. I never bother using it for CFM fi
 
 One thing that bugged me though was that the outline showed a lot of code that I didn't really care about. Comments, sets, etc. Here is an example from blog.cfc:
 
-<img src="http://www.coldfusionjedi.com/images/outline_withall.png" title="Outline mode, default" />
+<img src="http://static.raymondcamden.com/images/cfjedi/outline_withall.png" title="Outline mode, default" />
 
 What I found was that there was a way to remove those additional tags. Simply go to your settings (ColdFusion / Editor Profiles / Editor / Outline) and you will see a preference screen that allows you to switch between all tags and a selected subset. 
 
-<img src="http://www.coldfusionjedi.com/images/outline_prefs.png" title="Outline preferences" />
+<img src="http://static.raymondcamden.com/images/cfjedi/outline_prefs.png" title="Outline preferences" />
 
 What's cool is that the default subset is focused on CFC related tags. You could probably remove cfscript and add cfproperty  (which I think I'll do right now), but whats nice is that as soon as you make this change, the Outline view becomes much more streamlined:
 
-<img src="http://www.coldfusionjedi.com/images/outline_small.png" title="Outline view, streamlined" />
+<img src="http://static.raymondcamden.com/images/cfjedi/outline_small.png" title="Outline view, streamlined" />
 
 Of course, if you use Outline view for CFMs then this tweak is not for you, but it really fits well with how I use it.

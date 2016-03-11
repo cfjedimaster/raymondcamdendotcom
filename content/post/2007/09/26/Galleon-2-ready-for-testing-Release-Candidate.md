@@ -9,7 +9,7 @@
 	"guid": "2373"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/glogo.png" align="left">
+<img src="http://static.raymondcamden.com/images/cfjedi/glogo.png" align="left">
 
 Ok, I think I'm ready to release this baby, but I need a sanity check before I do so. Before downloading this release, please read the notes below. This is <b>not</b> intended for production, nor is it a good idea to apply this over existing Galleon Forums (I'll explain why in the notes). But if you want to give 2.0 a test drive, now is the time to do so. 
 

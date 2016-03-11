@@ -9,7 +9,7 @@
 	"guid": "3638"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Welcome to the next entry in the Best of ColdFusion 9 Contest. Today's entry is GView by <a href="http://www.bennadel.com/index.cfm">Ben Nadel</a>. This entry was reviewed by Daniel Short (and as before, I'll chime in here and there and interpret some of his comments). GView is a simple GMail viewer. It makes use of ColdFusion 9's new IMAP support primarily, but also hits the caching system, VFS, and other new features. <b>Note:</b> Ben was nice and sent us a pre-configured configuration for a demo GMail account. I've removed those credentials from the zip. You can find the settings within the Application.cfc file and they must be updated if you want to test the code.
+<img src="http://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Welcome to the next entry in the Best of ColdFusion 9 Contest. Today's entry is GView by <a href="http://www.bennadel.com/index.cfm">Ben Nadel</a>. This entry was reviewed by Daniel Short (and as before, I'll chime in here and there and interpret some of his comments). GView is a simple GMail viewer. It makes use of ColdFusion 9's new IMAP support primarily, but also hits the caching system, VFS, and other new features. <b>Note:</b> Ben was nice and sent us a pre-configured configuration for a demo GMail account. I've removed those credentials from the zip. You can find the settings within the Application.cfc file and they must be updated if you want to test the code.
 <!--more-->
 So what did Daniel like?
 
@@ -25,11 +25,11 @@ local storage. No database needed for this one.
 
 Ben points out that some functionality is missing in the demo - the big one being able to reply to email messages. But dang - for an incomplete application it works well and has a very clean UI. This is the default view:
 
-<img src="http://www.raymondcamden.com/images/cfjedi/Picture 195.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 195.png" />
 
 And this is the compose message UI:
 
-<img src="http://www.raymondcamden.com/images/cfjedi/Picture 265.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 265.png" />
 
 I can't explain exactly why - but I really, really like the design. Daniel went on to say:
 

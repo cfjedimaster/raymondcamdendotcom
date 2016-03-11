@@ -25,7 +25,7 @@ I then wrote a bit of JavaScript that made use of the PhoneGap Splash Screen API
 
 In theory, that should be it, but I noticed something odd. I launched my app, and then saw this:
 
-<img src="http://www.raymondcamden.com/images/2013-04-23 11.43.15.png" />
+<img src="http://static.raymondcamden.com/images/2013-04-23 11.43.15.png" />
 
 What the heck? At first I thought I had broken something, but then I noticed the image went away after 5 seconds. I then realized what my issue was... size. 
 

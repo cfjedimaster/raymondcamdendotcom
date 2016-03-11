@@ -38,7 +38,7 @@ On load, it uses an Ionic Loading widget while it checks for offline status and 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s122.png" />
+<img src="http://static.raymondcamden.com/images/s122.png" />
 </p>
 
 <p>
@@ -46,7 +46,7 @@ After everything is checked, the entries are then displayed using Ionic's List c
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s218.png" />
+<img src="http://static.raymondcamden.com/images/s218.png" />
 </p>
 
 <p>
@@ -54,7 +54,7 @@ Clicking an entry displays the RSS entry. Depending on the RSS URL, this may be 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s310.png" />
+<img src="http://static.raymondcamden.com/images/s310.png" />
 </p>
 
 <p>
@@ -62,7 +62,7 @@ Finally, we use the now core plugin, InAppBrowser, to support reading the entry 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s44.png" />
+<img src="http://static.raymondcamden.com/images/s44.png" />
 </p>
 
 <p>

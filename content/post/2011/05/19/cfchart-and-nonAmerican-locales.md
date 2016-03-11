@@ -38,7 +38,7 @@ This produces:
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip95.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip95.png" />
 
 <p>
 
@@ -46,7 +46,7 @@ You can see both on the left hand side, and in the tool tip, the values are in A
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip96.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip96.png" />
 
 <p>
 
@@ -89,7 +89,7 @@ And here is the result:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip97.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip97.png" />
 
 <p>
 

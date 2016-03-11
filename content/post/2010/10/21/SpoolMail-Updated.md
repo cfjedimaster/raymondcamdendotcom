@@ -13,12 +13,12 @@ Today I'm happy for a few reasons. One I can't say till later (hopefully). The o
 <!--more-->
 When you work with cfmail on a development machine, your emails typically end up in an folder called "Undlivr". (I guess adding the last 'e' would have been crazy.) This is a good thing as you normally don't want test emails and the like sent out into the real world. However, if you want to actually look at the emails you have to open the files in a text editor. SpoolMail gets around this by simply building a web based interface to the folder. Here is a screen shot and it shows one part of what's new in SpoolMail 2 - a fresh UI by Craig Rosenblum.
 
-<img src="http://www.raymondcamden.com/images/screen19.png" />
+<img src="http://static.raymondcamden.com/images/screen19.png" />
 
 Pretty cool, right? I used the heck out of this until ColdFusion 9. ColdFusion 9 added it's own version of this feature and can be found within the mail settings page. Just click the "View Undelivered Mail" button. However not everyone is on CF9 yet so I assume folks still need this tool. 
 
 The next update though I think is pretty darn cool and will be useful to folks in any version of ColdFusion 9. John Ramon has turned SpoolMail into a ColdFusion Builder extension. That means you can check the mail directly from your editor and skip hitting the Admin at all.
 
-<img src="http://www.coldfusionjedi.com/images/screen20.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen20.png" />
 
 Can I say again just how awesome ColdFusion Builder extensions are? Anyway - enjoy and let me know how it works for you.

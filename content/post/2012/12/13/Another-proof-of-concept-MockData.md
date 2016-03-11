@@ -18,13 +18,13 @@ http://localhost:3000/?num=5&author=name&age=age
 
 Which could return:
 
-<img src="http://www.raymondcamden.com/images/screenshot47.png" />
+<img src="http://static.raymondcamden.com/images/screenshot47.png" />
 
 A more complex example could add a gender and a salary, as well as returning a random number of results.
 
 http://localhost:3000/?num=rnd:10&author=name&age=age&gender=oneof:male:female&salary=num:150000
 
-<img src="http://www.raymondcamden.com/images/screenshot48.png" />
+<img src="http://static.raymondcamden.com/images/screenshot48.png" />
 
 The service uses CORS which means you can be running a virtual host locally and access the URL at localhost with no issues. 
 

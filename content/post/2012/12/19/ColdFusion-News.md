@@ -19,4 +19,4 @@ p.s. As a reminder - you should post your comments there, not here.
 
 p.p.s. I still think the ColdFusion Next code names sound too much like 80s X-Men...
 
-<img src="http://www.raymondcamden.com/images/200px-Debut_of_Dazzler.jpg" />
+<img src="http://static.raymondcamden.com/images/200px-Debut_of_Dazzler.jpg" />

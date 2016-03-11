@@ -17,7 +17,7 @@ Ok, first - here is a snapshot of what the error looked like:
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/screen16.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen16.png" />
 
 <p/>
 
@@ -106,7 +106,7 @@ Notice the form field is just stuff. Ok, so here is the result of a good post.
 <p/>
 
 
-<img src="http://www.coldfusionjedi.com/images/screen17.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen17.png" />
 
 <p/>
 
@@ -130,7 +130,7 @@ As you can see - I just renamed the field to include something to trip up ColdFu
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/screen18.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen18.png" />
 
 <p/>
 

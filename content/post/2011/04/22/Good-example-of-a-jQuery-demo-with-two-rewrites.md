@@ -106,7 +106,7 @@ Test it out below...
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/april212011/test.html"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/april212011/test.html"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

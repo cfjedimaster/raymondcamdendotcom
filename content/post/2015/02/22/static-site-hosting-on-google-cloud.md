@@ -27,10 +27,10 @@ Any way, I guess that's it. If you decide to use Google's Cloud Storage, let the
 
 If you're curious about the UI, here's my bucket list (heh):
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/gc1.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/02/gc1.png" alt="gc1" width="800" height="168" class="alignnone size-full wp-image-5721" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/gc1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/gc1.png" alt="gc1" width="800" height="168" class="alignnone size-full wp-image-5721" /></a>
 
 And a detail view of my static site bucket:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/gc2.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/02/gc2.png" alt="gc2" width="800" height="228" class="alignnone size-full wp-image-5722" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/gc2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/gc2.png" alt="gc2" width="800" height="228" class="alignnone size-full wp-image-5722" /></a>
 
 If you want to hit the site (and again, I'll blog about it more tomorrow), you can do so here: <a href="http://githubhealth.raymondcamden.com">http://githubhealth.raymondcamden.com</a>.

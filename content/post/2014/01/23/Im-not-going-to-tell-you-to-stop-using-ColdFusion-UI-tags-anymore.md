@@ -16,7 +16,7 @@ For a while now, myself (and <i>many</i> others) in the ColdFusion community hav
 </p>
 <!--more-->
 <p>
-<img src="http://www.raymondcamden.com/images/Yoda_Empire_Strikes_Back.png" />
+<img src="http://static.raymondcamden.com/images/Yoda_Empire_Strikes_Back.png" />
 </p>
 
 <blockquote>

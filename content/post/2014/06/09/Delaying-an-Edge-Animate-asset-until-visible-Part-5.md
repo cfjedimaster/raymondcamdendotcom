@@ -15,7 +15,7 @@ So, in my <a href="http://www.raymondcamden.com/index.cfm/2013/12/6/Delaying-an-
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Friday_the_13th_part_4.jpg" />
+<img src="http://static.raymondcamden.com/images/Friday_the_13th_part_4.jpg" />
 </p>
 <!--more-->
 <p>

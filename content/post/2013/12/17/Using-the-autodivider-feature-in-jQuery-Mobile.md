@@ -37,7 +37,7 @@ By adding autodividers="true" to the list, you get dividers based on the first l
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s14.png" />
+<img src="http://static.raymondcamden.com/images/s14.png" />
 </p>
 
 <p>
@@ -136,10 +136,10 @@ $(document).ready(function() {
 At the top I've got a set of hard coded dates. These would typically be loaded via Ajax.  I loop over them and insert them into the list. Once I've got that I can then initialize my listview and define a custom selector. As I mentioned above, I can use JavaScript date methods to return a string based on just the date portion of the date values I had above. (In other words, ignore the time.) I can also do some formatting on the date to make it look nice. Here is the final result.
 </p>
 
-<img src="http://www.raymondcamden.com/images/s26.png" />
+<img src="http://static.raymondcamden.com/images/s26.png" />
 
 <p>
 You can run a full demo of this below.
 </p>
 
-<a href="http://www.raymondcamden.com/demos/2013/dec/17/dividedata.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2013/dec/17/dividedata.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

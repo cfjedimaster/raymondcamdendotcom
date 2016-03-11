@@ -88,4 +88,4 @@ And that's it. Sorry if this bores folks, but even when I do super simple exampl
 <p>
 
 
-<a href="http://www.raymondcamden.com/demos/2011/dec/21/test.cfm"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2011/dec/21/test.cfm"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

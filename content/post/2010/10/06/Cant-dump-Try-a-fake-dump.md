@@ -13,7 +13,7 @@ Earlier today on Twitter @samhamilton and I shared a few messages about finding 
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/screen12.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen12.png" />
 
 <p/>
 

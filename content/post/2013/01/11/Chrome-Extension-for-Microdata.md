@@ -16,11 +16,11 @@ Back in November I <a href="http://www.raymondcamden.com/index.cfm/2012/11/26/Re
 
 Here is a screen shot to give you an idea of what I'm talking about. The site in question is <a href="http://southernafricatravel.com/">Southern African Travel</a>.
 
-<img src="http://www.raymondcamden.com/images/screenshot53.png" />
+<img src="http://static.raymondcamden.com/images/screenshot53.png" />
 
 Here is another example where microdata is used for the reviews at <a href="http://reviews.ctswholesalesunglasses.com/">CTS Wholesale Sunglasses</a>.
 
-<img src="http://www.raymondcamden.com/images/screenshot54.png" />
+<img src="http://static.raymondcamden.com/images/screenshot54.png" />
 
 For now, you have to manually open dev tools and select the tab, but I'm considering adding an icon next to the URL bar that flags when it sees microdata being used. 
 

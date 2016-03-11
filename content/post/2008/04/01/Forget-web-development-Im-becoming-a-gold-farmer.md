@@ -19,7 +19,7 @@ After many years in the web development business, I've decided it's time to move
 <li>And lastly - it's not like World of Warcraft is addictive. I can stop playing any time I want to. Really.
 </ul> 
 
-<img src="http://www.raymondcamden.com/images/wow.jpg" align="left" style="margin-right: 10px">
+<img src="http://static.raymondcamden.com/images/wow.jpg" align="left" style="margin-right: 10px">
 So that's it. No more silly "Ask a Jedi". Now it's "Ask a Warrior." No more presentations on Spry or ColdFusion Ajax support. Now I'll present on how quickly I rose through my first 20 levels. If you want personal support, just meet me on Alexstrasza. I'm Romana, the hot warrior night elf!
 
 <br clear="left">

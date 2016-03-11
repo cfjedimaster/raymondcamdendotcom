@@ -30,7 +30,7 @@ So... for the most part, that was the end of it. I ran my script about 4 times -
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot39.png" />
+<img src="http://static.raymondcamden.com/images/shot39.png" />
 </p>
 
 <p>

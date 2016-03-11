@@ -13,11 +13,11 @@ Ok, a big thanks goes out to <a href="http://www.boyzoid.com">Scott Stroz</a> fo
 <!--more-->
 First, select the root folder in Navigator:
 
-<img src="http://www.raymondcamden.com/images//Picture 145.png">
+<img src="http://static.raymondcamden.com/images//Picture 145.png">
 
 Second, go to Search/File in the navigation menu.
 
-<img src="http://www.coldfusionjedi.com/images//Picture 226.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 226.png">
 
 Enter your text in "Containing text" (I entered UDF). Note the Scope. <b>This is critical.</b> It should have "Selected resources" picked. If it is disabled, it means you didn't click in the Navigator first. This bugs/confuses the heck out of me. If you do 2 multi-file search and replaces, it is easy to forget to click back here. It is like Eclipse 'forgets' you had chosen a folder before. 
 
@@ -25,7 +25,7 @@ Now, instead of hitting Search, click the Replace... button. Obvious, I know, bu
 
 Eclipse will now automatically run the search. You will be given a list of results, and the chance to enter your replacement term.
 
-<img src="http://www.coldfusionjedi.com/images//Picture 320.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 320.png">
 
 Just type in the term and hit Replace or Replace All. 
 

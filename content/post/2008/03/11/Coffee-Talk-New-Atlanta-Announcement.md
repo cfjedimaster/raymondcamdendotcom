@@ -9,7 +9,7 @@
 	"guid": "2701"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/coffeetalk.jpg" style="margin-right:10px;margin-bottom:10px" align="left"> So I'm a good day behind on this, but I'm curious as to what people think of the New Atlanta announcement: 
+<img src="http://static.raymondcamden.com/images/cfjedi/coffeetalk.jpg" style="margin-right:10px;margin-bottom:10px" align="left"> So I'm a good day behind on this, but I'm curious as to what people think of the New Atlanta announcement: 
 
 <a href="http://blog.newatlanta.com/index.cfm?mode=entry&entry=EABF951D-453A-486E-9647E2825D1E6F39">New Atlanta announces free open source BlueDragon edition</a>
 

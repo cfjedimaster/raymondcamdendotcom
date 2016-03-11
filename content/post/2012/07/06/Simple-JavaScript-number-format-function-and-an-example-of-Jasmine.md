@@ -35,7 +35,7 @@ Along with providing a nice descriptive syntax for writing tests, they also prov
 
 Once I had this, I simply opened up the file in my browser. As I worked on my tests, and my function, I just hit reload to ensure my tests kept passing.
 
-<img src="http://www.raymondcamden.com/images/screenshot11.png" />
+<img src="http://static.raymondcamden.com/images/screenshot11.png" />
 
 If you want, you can run this yourself here: <a href="http://www.raymondcamden.com/demos/2012/jul/6/jasminetest/SpecRunner.html">http://www.raymondcamden.com/demos/2012/jul/6/jasminetest/SpecRunner.html</a>
 

@@ -24,7 +24,7 @@ My experience began with the <a href="http://www.phonegap.com/start">Getting Sta
 The guide recommends installing Eclipse Classic. I wanted to use ColdFusion Builder 2 of course. Following the directions I ran into an issue when I was asked to install <a href="http://developer.android.com/sdk/eclipse-adt.html#installing">ADT</a>. I love that Eclipse plugins can so easily tell you what they are missing yet provide so little help in actually getting you to the plugin. <a href="http://www.henke.ws/">Mike Henke</a> helped me out by suggesting I add http://download.eclipse.org/releases/helios/ as an update site. I did that and filtered on GEF once the resources loaded. The resource ADT was complaining about can be fulfilled by adding <b>Graphical Editing Framework GEF SDK</b>
 <p/>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip50.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip50.png" />
 <p/>
 
 Obvious, right? Install that, then come back and get ADT added. Once done I was able to proceed with the Getting Started guide.
@@ -42,13 +42,13 @@ If you've already set up the Android SDK and created a virtual device, then runn
 Luckily there is an alternative. If you have a real Android phone, you can push to it if you have USB debugging turned on. This ran <b>extremely</b> fast. I'd say about 3-5 seconds. What was tricky - for me - was figuring out how to tell Eclipse to go to a real device. When you look at run configurations, you see this:
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip51.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip51.png" />
 <p/>
 
 As you can see, we have two choices - Manual and Automatic. Automatic listed all my VMs. To me, nothing seemed obvious as "real" hardware. On a whim I clicked "Manual" and then run and I saw my device...
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip52.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip52.png" />
 <p/>
 
 And bam - that's it. I don't yet know how to make my Eclipse run button "just do that", but I don't mind that. As I said, from me wanting to run to seeing it on my phone was approximately 5 seconds. That's epic good in my mind. 
@@ -126,7 +126,7 @@ Finally, I tested jQuery Mobile. I simply copied one of the samples from my pres
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip53.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip53.png" />
 
 <p/>
 

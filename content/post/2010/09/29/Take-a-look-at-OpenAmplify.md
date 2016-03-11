@@ -45,7 +45,7 @@ I then dumped out the polarity:
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/screen8.png" />
+<img src="http://static.raymondcamden.com/images/screen8.png" />
 
 <p/>
 
@@ -53,7 +53,7 @@ Polarity values will range from -1 (negative) to 1 (positive). Watch what happen
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/screen9.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen9.png" />
 
 <p/>
 

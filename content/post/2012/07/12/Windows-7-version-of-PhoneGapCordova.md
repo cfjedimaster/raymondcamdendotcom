@@ -18,19 +18,19 @@ Right now it is pretty rough, but you can test it using the free <a href="http:/
 
 Once you download Visual Studio, run it, and open Cordova.sln:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip99.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip99.png" />
 
 And then you can simply hit the green button by the word Debug:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip100.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip100.png" />
 
 If everything works out, you get an actual Windows application built from the files in the html folder of the project.
 
-<img src="http://www.raymondcamden.com/images/ScreenClip101.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip101.png" />
 
 Note that there doesn't seem to be a way to go back from the demos they built. Luckily it's just HTML so I went in and added a link back to index.html:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip102.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip102.png" />
 
 The lovely pink markers are my work - wasn't sure if my machine's UUID was something I should share.
 

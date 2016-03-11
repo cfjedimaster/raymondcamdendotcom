@@ -25,7 +25,7 @@ Rick found that the limits tag can be used to create a range. Here is a sample:
 <p>
 (Note this XML also turns off interpolation and 3d effects which isn't required for what we are doing.) The limits tag is placed with the yAxis tag. I picked my min and max random based on the data I have for my sample and the color is a gray that matches the rest of the chart. This produces a chart like the one below:
 <p>
-<img src="http://www.raymondcamden.com/images/cfjedi/Picture 39.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 39.png">
 <p>
 Neat trick! I've included a complete script below for folks to play with.
 <p>

@@ -11,7 +11,7 @@
 
 About a few months ago a user contacted me with an odd issue with CFMAP. At random times the markers on the map refused to load. Actually they returned the rather odd error that the address didn't exist. Here is an example:
 
-<img src="http://www.raymondcamden.com/images/Picture 510.png" />
+<img src="http://static.raymondcamden.com/images/Picture 510.png" />
 
 When I tested this myself I saw the same - even when I replaced the test addresses with ones I knew existed (like my own!). Unfortunately I wasn't able to help the user so I wished him luck and forgot about it. 
 

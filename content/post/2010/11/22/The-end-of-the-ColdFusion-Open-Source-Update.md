@@ -13,7 +13,7 @@ I woke up today to some sad news - the <a href="http://www.remotesynthesis.com/p
 
 I'd like to remind people of two automated services that can't take the place of Brian's list but may be of use as a temporary replacement. First, registered users at <a href="http://www.riaforge.org">RIAForge</a> can go into your subscriptions and select categories to monitor: 
 
-<img src="http://www.raymondcamden.com/images/screen48.png" />
+<img src="http://static.raymondcamden.com/images/screen48.png" />
 
 This will give you a daily email that lists any and all projects updated in the past 24 hours. Secondly, if you use <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers</a> to monitor ColdFusion blog posts, don't forget that you can sign up as a user and register for:
 
@@ -25,6 +25,6 @@ This will give you a daily email that lists any and all projects updated in the 
 
 Here's my setup - and yes - I've got a monitor for my name (I'm that hungry for attention):
 
-<img src="http://www.coldfusionjedi.com/images/screen49.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/screen49.png" />
 
 While I don't expect either of these services to be a good replacement for Brian's list, I do hope they can be of use to the public. (And for anyone out there running or using other community sites, feel free to post any automated resources you may have.)

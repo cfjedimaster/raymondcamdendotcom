@@ -13,7 +13,7 @@ It's hard to believe that a week ago I was at CFUNITED. CFUNITED09 was easily my
 
 <b>Location:</b> I have to admit - I love DC, so I was sorry to see it leave the city. But Leesburg was beautiful and so was the location. These pictures don't really do it justice. Every darn year I promise myself I'm going to take a crap load of pictures and every year I end up with just a handful. But to give you an idea - this was the typical view every morning...
 
-<img src="http://www.raymondcamden.com/images/view.jpg" />
+<img src="http://static.raymondcamden.com/images/view.jpg" />
 
 Yeah - that's a pretty horrible picture. Sorry. The hotel itself was very nice and easy to get around in. My favorite feature of any conference is the speed of 'hotel room to session' and in this case I could get back in forth in around 5 minutes. I'll take convenience like that over luxury any day. 
 
@@ -25,7 +25,7 @@ Oh - and Intergral? I hate you. Stop showing off that damn new product of yours 
 
 <b>Hair:</b> What other conference features Jim and the coolest hair ever?
 
-<img src="http://www.coldfusionjedi.com/images/hair.jpg" />
+<img src="http://static.raymondcamden.com/images/cfjedi/hair.jpg" />
 
 <b>Food:</b> Ok, so not the most important aspect, but the food was great, and plentiful. I don't think there was ever a time when coffee and snacks were not available. I especially liked the "Really Strong Coffee" (yes, one coffee carafe was marked as 'Really Strong' - if I remember right).
 

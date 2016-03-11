@@ -9,7 +9,7 @@
 	"guid": "3429"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi//surprise.jpg" align="left" style="margin-right:10px;margin-bottom:10px"> Just got a special note from the Online
+<img src="http://static.raymondcamden.com/images/cfjedi//surprise.jpg" align="left" style="margin-right:10px;margin-bottom:10px"> Just got a special note from the Online
 ColdFusion Meetup - there will be a special meeting on Monday, a special <b>2 hour</b> meeting on Monday: <a href="http://www.meetup.com/coldfusionmeetup/calendar/10841349/">"Centaur and Bolt Uncensored", with Terry Ryan of Adobe</a>. (Sorry Adobe, I refuse to call it Centaur, everyone knows its ColdFusion 9! :) As always, this is a free, open to the world type meeting, and the fact that it is two hours tells me it may be something special indeed. Be there with bells on!
 
 <br clear="left">

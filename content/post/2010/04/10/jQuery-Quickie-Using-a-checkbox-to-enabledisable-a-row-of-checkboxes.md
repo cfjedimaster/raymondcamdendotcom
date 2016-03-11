@@ -22,7 +22,7 @@ Now here is where things get interesting. Along with being able to give a Resour
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/Screen shot 2010-04-10 at 2.53.04 PM.png" title="Permissions for the Blog" />
+<img src="http://static.raymondcamden.com/images/Screen shot 2010-04-10 at 2.53.04 PM.png" title="Permissions for the Blog" />
 
 <p>
 
@@ -34,7 +34,7 @@ For my solution I decided on a simple additional checkbox. This checkbox would b
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-04-10 at 3.02.31 PM.png" title="Permissions for Resource" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-10 at 3.02.31 PM.png" title="Permissions for Resource" />
 
 <p>
 
@@ -42,7 +42,7 @@ By default the boxes are all disabled. When I enable one, I can then select perm
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-04-10 at 3.03.40 PM.png" title="Modified Permissions" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-10 at 3.03.40 PM.png" title="Modified Permissions" />
 
 <p>
 

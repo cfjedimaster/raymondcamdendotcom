@@ -66,7 +66,7 @@ Running this in the browser shows some interesting results. I tested in both Chr
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip30.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip30.png" />
 
 <p>
 
@@ -74,7 +74,7 @@ I think you can clearly see that the results are staggered. You can test this yo
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/feb232011/test.cfm"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/feb232011/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

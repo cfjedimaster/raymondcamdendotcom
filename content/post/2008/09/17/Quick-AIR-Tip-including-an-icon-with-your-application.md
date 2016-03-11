@@ -21,7 +21,7 @@ A few nights ago I was working on a personal AIR project and wanted to include a
 
 Generating the AIR file though threw an odd error:
 
-<img src="http://www.raymondcamden.com/images/Picture 120.png">
+<img src="http://static.raymondcamden.com/images/Picture 120.png">
 
 Um, yeah, that's nice and verbose, thanks. After some googling I knew it was icon related (and could confirm by rolling back my change to the XML file), but I couldn't figure out what was wrong. I tried moving the icon around, and tried different paths, but nothing worked. 
 

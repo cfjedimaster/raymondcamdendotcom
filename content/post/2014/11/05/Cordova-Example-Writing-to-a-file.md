@@ -96,7 +96,7 @@ To see this in action, I used <a href="https://www.genuitec.com/products/gapdebu
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/GapDebug.png" />
+<img src="http://static.raymondcamden.com/images/GapDebug.png" />
 </p>
 
 <p>

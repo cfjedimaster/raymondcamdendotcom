@@ -9,7 +9,7 @@
 	"guid": "3951"
 }
 
-<img src="http://www.raymondcamden.com/images/cfjedi/glogo1.png" title="Galleon FTW" style="align:left;margin-right: 5px" /> I just <a href="http://galleon.riaforge.org">released</a> Galleon 2.4.0 on RIAForge. A minor update, but if fixes some small annoying issues, including cleaning up the email and helping preserve your message entry if your session times out while writing a post. 
+<img src="http://static.raymondcamden.com/images/cfjedi/glogo1.png" title="Galleon FTW" style="align:left;margin-right: 5px" /> I just <a href="http://galleon.riaforge.org">released</a> Galleon 2.4.0 on RIAForge. A minor update, but if fixes some small annoying issues, including cleaning up the email and helping preserve your message entry if your session times out while writing a post. 
 
 <p/>
 

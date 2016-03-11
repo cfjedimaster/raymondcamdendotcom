@@ -51,13 +51,13 @@ Generally I recommend that instead. Anyway - you can see that we have 4 points w
 
 The result is less than optimal:
 
-<img src="http://www.raymondcamden.com/images/cfjedi/Picture 182.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 182.png" />
 
 As you can see, ColdFusion rendered the points in the same order as the query, but that doesn't really make sense for a scatter graph. The x-axis should have been rendered in ascending numeric order.
 
 In fact, if you reorder the query with a query of query, it does list the items correctly, but places each point of the x-axis equally apart:
 
-<img src="http://www.raymondcamden.com/images/cfjedi/Picture 254.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 254.png" />
 
 Like I always do, I took a look at the Chart Designer and created a new scatter graph. I didn't do squat to the XML, just used it as is. However, I did modify both the scaleMax value to be appropriate for my data:
 
@@ -97,6 +97,6 @@ Size: $(nextvalue)
 
 The result is significantly better (in my opinion): 
 
-<img src="http://www.raymondcamden.com/images/cfjedi/Picture 335.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture 335.png" />
 
 Nice - but unfortunately, there is no way to label the points, which was another request from the reader. ColdFusion only allows you to pass pure chart data for the points. You can't supply additional data to be used by the labels. Of course, there are alternatives. The XML/SWF Charts library has a nice <a href="http://www.maani.us/xml_charts/index.php?menu=Gallery&submenu=Scatter">scatter</a> example. Ditto for <a href="http://code.google.com/apis/chart/types.html#scatter_plot">Google Charts</a> (although I didn't confirm if you could label each data point).

@@ -60,7 +60,7 @@ Nothing too complex here. I've got a form with one input. When you hit the butto
 
 If you run the code (wrap the cffunction with a CFC of course) it should work just fine. Now go to your ColdFusion Admin, Settings page, and enable the Prefix:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 49.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 49.png">
 
 Rerun your code and you will see... nothing. (To be clear, my code did nothing visual with the response except to log it to Firebug, so even before you 'saw' nothing unless you had Firebug open.) I modified my JavaScript a bit to add a global error handler (first time trying this, pretty impressed by how easy it was):
 

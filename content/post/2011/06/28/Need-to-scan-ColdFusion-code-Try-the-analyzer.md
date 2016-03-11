@@ -36,7 +36,7 @@ So - the discussion on cf-talk mainly centered around how to use regular express
 
 <p/>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip130.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip130.png" />
 
 <p/>
 
@@ -44,7 +44,7 @@ This is a tool not many people make use of - and frankly - it's a bit rusty. But
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip131.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip131.png" />
 
 <p/>
 
@@ -52,7 +52,7 @@ Notice the Filter by Severity drop down. This allows you to focus on errors. You
 
 <p/>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip132.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip132.png" />
 
 <p/>
 

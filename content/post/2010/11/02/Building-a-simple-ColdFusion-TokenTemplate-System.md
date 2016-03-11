@@ -181,4 +181,4 @@ As you can see, I've got my template on top, and then three sets of examples. On
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/screen30.png" />
+<img src="http://static.raymondcamden.com/images/screen30.png" />

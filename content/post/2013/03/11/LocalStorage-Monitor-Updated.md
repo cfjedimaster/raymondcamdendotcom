@@ -16,6 +16,6 @@ To be clear, you can always view LocalStorage usage in Chrome Dev Tools, but I d
 
 Today <a href="http://fusiongrokker.com/">Adam Tuttle</a> pushed up a mod to the code (<a href="https://github.com/cfjedimaster/Local-Storage-Monitor">https://github.com/cfjedimaster/Local-Storage-Monitor</a>) to add memory usage reports to the display. As an example, here is how Amazon's Cloud Player is using local storage.
 
-<img src="http://www.raymondcamden.com/images/screenshot77.png" />
+<img src="http://static.raymondcamden.com/images/screenshot77.png" />
 
 Anyway, it is a cool little modification and thanks go to Adam for adding it. You can add this to your Chrome install <a href="https://chrome.google.com/webstore/detail/localstorage-monitor/bpidlidmmmnapeldonddkjmmjkpeiabi">here</a>.

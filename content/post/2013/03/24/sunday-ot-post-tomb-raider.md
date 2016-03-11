@@ -15,15 +15,15 @@ After I heard <a href="http://remotesynthesis.com/">Brian Rinaldi</a> praise the
 
 Right from the beginning you can see that the game is beautiful. Every scene, every area, everything is just damn beautiful. I'd definitely place it up there with Skyrim in terms of graphical quality, maybe even a bit higher as I think there was more variety in Tomb Raider.
 
-<img src="http://www.raymondcamden.com/images/1e76c7fb96f65f15_999_large.jpg" />
+<img src="http://static.raymondcamden.com/images/1e76c7fb96f65f15_999_large.jpg" />
 
 Game play is - as Brian told me - not difficult at all. Of course, I played on the lowest difficulty, but I found almost every jump/grab/etc to be somewhat easy to do. At the same time, your stomach tends to clench up as you see yourself jumping across a chasm. I typically only screwed up these parts of the game when I didn't pay attention. It was rare for me to miss a jump, but as I said, it still felt pretty damn intense.
 
-<img src="http://www.raymondcamden.com/images/tr_jump.jpg" />
+<img src="http://static.raymondcamden.com/images/tr_jump.jpg" />
 
 Not having played Tomb Raider in the past, I don't know how much combat was a part of the game, but I really enjoyed the fighting. It was visceral, intense, and bloody. The enemy AI was a disappointment at times. I mean, on one hand they correctly handle the fact that if you kill a guy in front of another, he will react. Cool. On the other hand, if you killed someone ten feet away and his buddy didn't notice, he could literally turn around, see the corpse, and just carry on as normal. 
 
-<img src="http://www.raymondcamden.com/images/tr_stalk.jpg" />
+<img src="http://static.raymondcamden.com/images/tr_stalk.jpg" />
 
 What surprised me was the lack of puzzle solving. As you play, you run across tombs that are clearly marked <b>optional</b>. If you choose to skip these, you miss nothing, outside of the resultant experience points. I was surprised they didn't require some puzzle solving as I had always heard that was a big part of the Tomb Raider genre. I always did them when the opportunity arose and found them to be just about the right level of difficulty. None required precision reflexes and mentally they were slightly challenging but not stressful.
 

@@ -18,7 +18,7 @@ Unfortunately, this feature has been plagued by a <a href="https://bugbase.adobe
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s110.png" />
+<img src="http://static.raymondcamden.com/images/s110.png" />
 </p>
 
 <p>
@@ -26,7 +26,7 @@ It then fires up a view with a simple dump of the top 200 rows.
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s211.png" />
+<img src="http://static.raymondcamden.com/images/s211.png" />
 </p>
 
 <p>

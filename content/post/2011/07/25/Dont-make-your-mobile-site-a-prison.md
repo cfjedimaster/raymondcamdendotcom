@@ -17,7 +17,7 @@ I've recently been doing a bit of complaining about Gawker and their network of 
 
 Ok - so time to fix it. Today I pushed out an update that adds a simple "escape" function that mimic's BlogCFC's support. (I also added in the logic where some of the larger tablets, like the Xoom, aren't considered mobile.)
 
-<img src="http://www.raymondcamden.com/images/ScreenClip145.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip145.png" />
 
 
 That spiffy new icon is thanks to <a href="http://www.andymatthews.net/">Andy Matthews</a>. Don't forget that the code base for the aggregator system is open source. I've updated the <a href="https://github.com/cfjedimaster/ColdFusion-Blog-Aggregator">Github repo</a> today as well.

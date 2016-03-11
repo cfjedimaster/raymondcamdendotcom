@@ -13,7 +13,7 @@ What follows comes from a lot of sources, and is not something I'm 100% solid on
 <!--more-->
 <p>
 
-<img src="http://www.raymondcamden.com/images/cfjedi/ScreenClip11.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip11.png" />
 
 <p>
 

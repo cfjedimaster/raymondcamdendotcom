@@ -46,7 +46,7 @@ I've got a fake query (and fake data, Scott really isn't <i>that</i> old) that I
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_10_9_13_5_44_AM.jpg" />
+<img src="http://static.raymondcamden.com/images/Screenshot_10_9_13_5_44_AM.jpg" />
 </p>
 
 <p>
@@ -71,7 +71,7 @@ Notice how some of the labels are blank. This creates the effect of a chart with
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_10_9_13_5_50_AM.jpg" />
+<img src="http://static.raymondcamden.com/images/Screenshot_10_9_13_5_50_AM.jpg" />
 </p>
 
 <p>
@@ -88,7 +88,7 @@ If you want to keep the numbers as well as the strings, simply include them in t
 </code></pre> 
 
 <p>
-<img src="http://www.raymondcamden.com/images/Screenshot_10_9_13_5_51_AM.jpg" />
+<img src="http://static.raymondcamden.com/images/Screenshot_10_9_13_5_51_AM.jpg" />
 </p>
 
 <p>

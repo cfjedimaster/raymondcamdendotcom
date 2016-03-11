@@ -21,27 +21,27 @@ Earlier today IBM <a href="http://www-03.ibm.com/press/us/en/pressrelease/47185.
 
 Before diving into the code, let's look at a few screen shots of the application in action. On loading the application, you will see a button prompting you to login with Box.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/iOS-Simulator-Screen-Shot-Jun-24-2015-7.55.58-AM.png" alt="iOS Simulator Screen Shot Jun 24, 2015, 7.55.58 AM" width="422" height="750" class="aligncenter size-full wp-image-6304 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/iOS-Simulator-Screen-Shot-Jun-24-2015-7.55.58-AM.png" alt="iOS Simulator Screen Shot Jun 24, 2015, 7.55.58 AM" width="422" height="750" class="aligncenter size-full wp-image-6304 imgborder" />
 
 Clicking this button will begin the authentication process. You need to have an account with Box.com of course.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/iOS-Simulator-Screen-Shot-Jun-24-2015-7.57.47-AM.png" alt="iOS Simulator Screen Shot Jun 24, 2015, 7.57.47 AM" width="422" height="750" class="aligncenter size-full wp-image-6305 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/iOS-Simulator-Screen-Shot-Jun-24-2015-7.57.47-AM.png" alt="iOS Simulator Screen Shot Jun 24, 2015, 7.57.47 AM" width="422" height="750" class="aligncenter size-full wp-image-6305 imgborder" />
 
 After logging in, you have to allow the application access to your data:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/iOS-Simulator-Screen-Shot-Jun-24-2015-7.59.09-AM.png" alt="iOS Simulator Screen Shot Jun 24, 2015, 7.59.09 AM" width="422" height="750" class="aligncenter size-full wp-image-6306 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/iOS-Simulator-Screen-Shot-Jun-24-2015-7.59.09-AM.png" alt="iOS Simulator Screen Shot Jun 24, 2015, 7.59.09 AM" width="422" height="750" class="aligncenter size-full wp-image-6306 imgborder" />
 
 After you've allowed the app to access your Box account, you can then begin working with your data. For my demo, I simply let the app upload images from the device to the Box account. (You could modify the code to allow new pictures to be taken with the camera too. Since I was testing with the simulator, I limited it to existing pictures.)
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/iOS-Simulator-Screen-Shot-Jun-24-2015-8.01.00-AM.png" alt="iOS Simulator Screen Shot Jun 24, 2015, 8.01.00 AM" width="422" height="750" class="aligncenter size-full wp-image-6307 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/iOS-Simulator-Screen-Shot-Jun-24-2015-8.01.00-AM.png" alt="iOS Simulator Screen Shot Jun 24, 2015, 8.01.00 AM" width="422" height="750" class="aligncenter size-full wp-image-6307 imgborder" />
 
 After selecting the image, I display a thumbnail and then upload it.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/iOS-Simulator-Screen-Shot-Jun-24-2015-8.02.20-AM.png" alt="iOS Simulator Screen Shot Jun 24, 2015, 8.02.20 AM" width="422" height="750" class="aligncenter size-full wp-image-6308 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/iOS-Simulator-Screen-Shot-Jun-24-2015-8.02.20-AM.png" alt="iOS Simulator Screen Shot Jun 24, 2015, 8.02.20 AM" width="422" height="750" class="aligncenter size-full wp-image-6308 imgborder" />
 
 If you have your Box account open in a browser (they have a desktop client as well), you can see the image appear.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/shot14.png" alt="shot1" width="750" height="288" class="aligncenter size-full wp-image-6309" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/shot14.png" alt="shot1" width="750" height="288" class="aligncenter size-full wp-image-6309" />
 
 And that's it. The Box API allows for <strong>full</strong> access to Box content, more then just uploading. You can even use a special View API to display renditions of Box content. It is a pretty great API and I encourage you to read more about it on their <a href="https://developers.box.com/">developer site</a>. So - let's talk about the code.
 
@@ -148,7 +148,7 @@ And that's it. I then mixed in MobileFirst - specifically the logging service. I
 
 Then when I inject <code>Logger</code> into my controllers, I can just do <code>Logger.log("some message")</code>. There were a few examples of that above. Then when my application is out in the wild, I can look at my analytics in my MobileFirst server:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/06/shot23.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/06/shot23.png" alt="shot2" width="800" height="414" class="aligncenter size-full wp-image-6310" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/06/shot23.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/shot23.png" alt="shot2" width="800" height="414" class="aligncenter size-full wp-image-6310" /></a>
 
 Want to see all of the code? You can see all the code here: <a href="https://github.com/cfjedimaster/Cordova-Examples/tree/master/boxdemo_mfp">https://github.com/cfjedimaster/Cordova-Examples/tree/master/boxdemo_mfp</a>. Note that I ran into two small issues with Nic's OAuth plugin. The first is that after authenticating with Box, you will see a 404 error temporarily. Nic already has a fix for this in the dev branch of his library. It is harmless and can be ignored. The second issue was specifically involving his code running in MobileFirst. Plugins act a bit differently there and his code to check for the InAppBrowser didn't work. (To be clear, that one is absolutely <strong>not</strong> his fault.) The workaround was a quick mod to his code and is in the GitHub repo. You can see a video of the app in action below.
 

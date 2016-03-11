@@ -11,7 +11,7 @@
 
 One of the most interesting surprises at this years MAX was the new Kuler mobile app. <a href="http://kuler.adobe.com">Kuler</a> has been around for a few years now and but I tend to forget how darn cool it is. 
 
-<img src="http://www.raymondcamden.com/images/kuler1.png" />
+<img src="http://static.raymondcamden.com/images/kuler1.png" />
 
 The mobile application demoed at MAX was pretty sweet. You essentially just point your phone at - well anything - and it will detect prominent colors in real time. (It also works with stills from your camera.) Here is a video of it - although a rather short one:
 
@@ -23,7 +23,7 @@ I created my own video from my hotel room, which, to be honest, I didn't notice 
 
 Once you find a set of colors you like you can capture and save them as well as share them with others. If you sync your color themes with the Kuler web site you can them use them in other apps like Illustrator. Here is my theme (I think I should call it Marriott Brown) up on the Kuler site:
 
-<img src="http://www.raymondcamden.com/images/kuler2.png" />
+<img src="http://static.raymondcamden.com/images/kuler2.png" />
 
 Actually, I decided to go ahead and rename this and make it public. So now the rest of the world can enjoy Marriott Brown: <a href="https://kuler.adobe.com/Marriott-Brown-color-theme-2476536/">https://kuler.adobe.com/Marriott-Brown-color-theme-2476536/</a>
 

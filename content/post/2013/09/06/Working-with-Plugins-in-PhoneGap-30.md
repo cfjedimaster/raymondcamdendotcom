@@ -35,7 +35,7 @@ It should "just work", note though that the CLI doesn't recognize what platforms
 
 At this point, I looked into my plugins folder:
 
-<img src="http://www.raymondcamden.com/images/bp1a.jpg" />
+<img src="http://static.raymondcamden.com/images/bp1a.jpg" />
 
 My assumption at this point was to copy all the JS files into my www folder and add script tags to my index.html.
 

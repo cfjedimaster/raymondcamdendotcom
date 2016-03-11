@@ -15,7 +15,7 @@ A few days ago I noticed Brackets was no longer linting JSON files. I had recent
 
 Brackets has a pretty complex preferences system. While there isn't a UI for it, you can open your global preferences file by going to the Debug menu and selecting Open Preferences File. Brackets ships with a linter for JavaScript files called JSLint. I have another extension that wraps JSHint that I prefer. By default, if Brackets sees multiple linters for a file, it will display issues from both:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot4.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot4.png" alt="shot" width="850" height="484" class="alignnone size-full wp-image-5764" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot4.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot4.png" alt="shot" width="850" height="484" class="alignnone size-full wp-image-5764" /></a>
 
 That's not really ideal so I checked out the <a href="https://github.com/adobe/brackets/wiki/How-to-Use-Brackets#preferences">Preferences docs</a> on how I could correct this. 
 

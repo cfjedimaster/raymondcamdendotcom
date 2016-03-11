@@ -11,7 +11,7 @@
 
 Just a quick note to say that as of about 5 minutes ago, RIAForge passed one million downloads of open source Adobe-based applications. Or as our new director of PR would say...
 
-<img src="http://www.raymondcamden.com/images/dr-evil.jpg" />
+<img src="http://static.raymondcamden.com/images/dr-evil.jpg" />
 
 <h1>ONE MILLION DOWNLOADS!</h1>
 

@@ -13,7 +13,7 @@ For a few days now the <a href="http://groups.adobe.com">Adobe Groups</a> site h
 
 I was using the excellent Server Monitor that ships with ColdFusion to watch both machines in my cluster. I noticed a set of requests that were <i>extremely</i> long lived. Groups being a Model-Glue site, most of the requests simply showed up as index.cfm. However, do not forget you can double click on a request to get more information. Here is an example - and as a quick aside - this is one of the "bad" requests before I pushed my fix. (And note I blurred the path and the URL variable.)
 
-<img src="http://www.raymondcamden.com/images/reqshot.png" title="Request" />
+<img src="http://static.raymondcamden.com/images/reqshot.png" title="Request" />
 
 Notice that in the detail, I've got my URL parameters. When I ran the same URL on the site I noticed it was completely unresponsive. I did a quick database export/import to my local machine (and once again, I love how easy MySQL makes that), and noticed that on my local environment, I got a visible error. So the question was - why did production hang for the url and development not?
 

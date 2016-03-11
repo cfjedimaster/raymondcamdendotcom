@@ -18,5 +18,5 @@ Very happy to announce the first publication of an article of mine on the <a hre
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ss5.png" />
+<img src="http://static.raymondcamden.com/images/ss5.png" />
 </p>

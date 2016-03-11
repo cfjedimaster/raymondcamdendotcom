@@ -27,7 +27,7 @@ Therefore - all we need to do is create a CSV string. I built a simple, but ugly
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot6.png" />
+<img src="http://static.raymondcamden.com/images/shot6.png" />
 </p>
 
 <p>
@@ -62,7 +62,7 @@ Once we have the CSV, we then use the same method I used on the IndexedDB post a
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/Menubar_and_data__8__csv.png" />
+<img src="http://static.raymondcamden.com/images/Menubar_and_data__8__csv.png" />
 </p>
 
 <p>
@@ -70,7 +70,7 @@ It also worked in OpenOffice once I told it to use commas. Want to try it yourse
 </p>
 
 <p>
-<a href="http://www.raymondcamden.com/demos/2014/apr/3/testdownload.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>  
+<a href="http://www.raymondcamden.com/demos/2014/apr/3/testdownload.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>  
 </p>
 
 <p>

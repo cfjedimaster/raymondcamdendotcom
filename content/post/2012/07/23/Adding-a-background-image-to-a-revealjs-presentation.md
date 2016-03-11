@@ -29,4 +29,4 @@ In order to make text readable, you could do something like this as well:
 
 Here's a screen capture. Note that the image isn't the highest quality, but, it's kind of a joke anyway so I'm not too concerned about it.
 
-<img src="http://www.raymondcamden.com/images/screenshot15.png" />
+<img src="http://static.raymondcamden.com/images/screenshot15.png" />

@@ -19,7 +19,7 @@ This is a pod.
 
 Which results in:<br />
 
-<img src="http://www.raymondcamden.com/images/Picture%202.png">
+<img src="http://static.raymondcamden.com/images/Picture%202.png">
 
 Live demo <a href="http://www.coldfusionjedi.com/demos/layout/pod1.cfm">here</a>.
 
@@ -32,7 +32,7 @@ This is where I'd put the ad. Or other interesting fine.
 </code>
 
 Which results in:<br />
-<img src="http://www.coldfusionjedi.com/images/Picture%203.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture%203.png">
 
 Live demo <a href="http://www.coldfusionjedi.com/demos/layout/pod2.cfm">here</a>.
 
@@ -48,7 +48,7 @@ This is where I'd put the ad. Or other interesting fine.
 
 Which results in:<br />
 
-<img src="http://www.coldfusionjedi.com/images/Picture%204.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture%204.png">
 
 Live demo <a href="http://www.coldfusionjedi.com/demos/layout/pod3.cfm">here</a>. And yes, this is why I'm not alllowed to do web design.
 
@@ -76,7 +76,7 @@ And in case you are wondering what happens when you do this...
 </code>
 
 
-<img src="http://www.coldfusionjedi.com/images/Picture%205.png">
+<img src="http://static.raymondcamden.com/images/cfjedi/Picture%205.png">
 
 I think I literally felt my laptop get 20 degrees warmer when I did this. (And no, there isn't a live demo of this.)
 

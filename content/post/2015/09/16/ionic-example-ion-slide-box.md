@@ -17,7 +17,7 @@ One of my favorite parts of the Ionic framework is the <a href="http://ionicfram
 
 <!--more-->
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/09/slideBox.gif" alt="slideBox" width="367" height="508" class="aligncenter size-full wp-image-6768" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/slideBox.gif" alt="slideBox" width="367" height="508" class="aligncenter size-full wp-image-6768" />
 
 What makes this feature so cool is how darn easy it is to use. For example, here is the sample code to create a slide box:
 
@@ -35,11 +35,11 @@ What makes this feature so cool is how darn easy it is to use. For example, here
 
 This is <i>incredibly</i> simple. I thought I'd build a simple demo of this feature that tied the slides to a dynamic result. I thought I'd use the Bing Image Search API since it worked well for me in the past (<a href="http://www.raymondcamden.com/2011/12/02/Adding-voicebased-search-to-a-PhoneGap-app">Adding voice-based search to a PhoneGap app</a>). I set up a simple view that included a form field and button top.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/09/iOS-Simulator-Screen-Shot-Sep-16-2015-10.42.15-AM.png" alt="iOS Simulator Screen Shot Sep 16, 2015, 10.42.15 AM" width="500" height="303" class="aligncenter size-full wp-image-6769 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/iOS-Simulator-Screen-Shot-Sep-16-2015-10.42.15-AM.png" alt="iOS Simulator Screen Shot Sep 16, 2015, 10.42.15 AM" width="500" height="303" class="aligncenter size-full wp-image-6769 imgborder" />
 
 When you enter a term, it will then display the results in a slidebox:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/09/iOS-Simulator-Screen-Shot-Sep-16-2015-10.44.18-AM.png" alt="iOS Simulator Screen Shot Sep 16, 2015, 10.44.18 AM" width="500" height="772" class="aligncenter size-full wp-image-6770 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/iOS-Simulator-Screen-Shot-Sep-16-2015-10.44.18-AM.png" alt="iOS Simulator Screen Shot Sep 16, 2015, 10.44.18 AM" width="500" height="772" class="aligncenter size-full wp-image-6770 imgborder" />
 
 Notice the little gray balls at the bottom - they provide a way for you to know where you are in the slide list (and you can turn that feature off if you want). Now let's take a look at the code. First, I'll show the HTML.
 
@@ -150,7 +150,7 @@ The Bing API changed a bit since my last demo, but for the most part is still re
 
 Outside of the service it is a simple matter of updating the scope - but I ran into an interesting issue. I noticed that if I was on slide X and searched for something else...
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/09/iOS-Simulator-Screen-Shot-Sep-16-2015-10.52.39-AM.png" alt="iOS Simulator Screen Shot Sep 16, 2015, 10.52.39 AM" width="500" height="709" class="aligncenter size-full wp-image-6771" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/iOS-Simulator-Screen-Shot-Sep-16-2015-10.52.39-AM.png" alt="iOS Simulator Screen Shot Sep 16, 2015, 10.52.39 AM" width="500" height="709" class="aligncenter size-full wp-image-6771" />
 
 then the "current slide" remained at where you were before. That's where $ionicSlideBoxDelegate.slide(0) comes into play. But doing so introduced a weird bug involving AngularJS and digests. I hate those things. <a href="https://twitter.com/mhartington">Mike Hartington</a> from the Ionic team helped me out on Slack and recommended the timeout/$scope.$apply() solution you see above. That made it work perfectly.
 

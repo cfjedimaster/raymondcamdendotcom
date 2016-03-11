@@ -24,7 +24,7 @@ If you turn on ColdFusion Debugging, you would expect to see "data" as a query. 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot114.png" />
+<img src="http://static.raymondcamden.com/images/shot114.png" />
 </p>
 
 <p>

@@ -13,7 +13,7 @@ This is definitely not <i>new</i> news, but I wanted to share it with folks who 
 
 <!--more-->
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/lucee-logo.png"><img src="http://www.raymondcamden.com/wp-content/uploads/2015/02/lucee-logo.png" alt="lucee-logo" width="146" height="81" class="alignnone size-full wp-image-5630" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/lucee-logo.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/lucee-logo.png" alt="lucee-logo" width="146" height="81" class="alignnone size-full wp-image-5630" /></a>
 
 You can find out more, and download the bits, at the main site: <a href="http://lucee.org/">http://lucee.org/</a>.
 

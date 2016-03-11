@@ -35,27 +35,27 @@ For your enjoyment, here are some screen shots of the blog (via the Wayback Mach
 
 Pre-blog but a great example of what happens when I design. (No larger version for this one.)
 
-<img src="/images/blog10/earliest.png">
+<img src="http://static.raymondcamden.com/images/blog10/earliest.png">
 
 This - as far as I know - was my original design. I didn't create this design, but I certainly don't remember where I got it. I think from a Wordpress demo. Anyway, make note of the Royale entry. This was Flex before it was Flex.
 
-<a href="/images/blog10/s1.png"><img src="/images/blog10/s1_small.png"></a>
+<a href="/images/blog10/s1.png"><img src="http://static.raymondcamden.com/images/blog10/s1_small.png"></a>
 
 Three years later...
 
-<a href="/images/blog10/s2.png"><img src="/images/blog10/s2_small.png"></a>
+<a href="/images/blog10/s2.png"><img src="http://static.raymondcamden.com/images/blog10/s2_small.png"></a>
 
 The "big ass green header" begins. Also note the link to my <a href="http://www.amazon.com/o/registry/2TCL1D08EZEYE">Amazon wishlist</a>. Did I mention I have a <a href="http://www.amazon.com/o/registry/2TCL1D08EZEYE">wishlist</a>? I do! You can find it <a href="http://www.amazon.com/o/registry/2TCL1D08EZEYE">here</a>. 
 
-<a href="/images/blog10/s3.png"><img src="/images/blog10/s3_small.png"></a>
+<a href="/images/blog10/s3.png"><img src="http://static.raymondcamden.com/images/blog10/s3_small.png"></a>
 
 Bring on 2008. Note the entry on CFGRID. The amount of questions I got on CF UI stuff (from Flash Forms to CFCHART to Ajaxy stuff) is incredible. I had to eventually ask people to stop sending questions on Flash Forms. I'm near doing that for the Ajax UI stuff as well.
 
-<a href="/images/blog10/s4.png"><img src="/images/blog10/s4_small.png"></a>
+<a href="/images/blog10/s4.png"><img src="http://static.raymondcamden.com/images/blog10/s4_small.png"></a>
 
 And here is my last design - more big green top. (Did I mention my favorite color is green?) I'm still talking about Eclipse here (blech) and mentioning my acceptance to MAX 2011. I've spoken at every singe DevCon and MAX except one. I've got two sessions for MAX 2013.
 
-<a href="/images/blog10/s5.png"><img src="/images/blog10/s5_small.png"></a>
+<a href="/images/blog10/s5.png"><img src="http://static.raymondcamden.com/images/blog10/s5_small.png"></a>
 
 For folks curious about my next theme, you can see it <a href="http://organicthemes.com/demo/response/blog/">here</a>. I normally save my redesigns as a surprise, but as it may take me longer to get to it than expected, I figured why not share it. It is fully responsive, which means I'll be removing the jQuery Mobile "sub site". It has worked fine for me in general but I think a responsive design will work better for my blog.
 

@@ -18,4 +18,4 @@ Filed in the "In case you need to know" department, jQuery Mobile provides a <a 
 
 Most of the template is boilerplate jQuery Mobile code. Note though the two buttons in the content section. Both are set to have no theme. Now - look at the JavaScript code at the bottom. I've got a basic click handler (should be touch I suppose) that will iterate over all possible theme values, including no theme specified. The <a href="http://jquerymobile.com/demos/1.1.0/docs/buttons/buttons-options.html">API</a> allows you to tweak pretty much everything, but I'm not sure what else you would change on the fly. Icon perhaps. Anyway, on the off chance someone needs this, here is a demo of the code above.
 
-<a href="http://www.raymondcamden.com/demos/2012/jun/26/test2.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/jun/26/test2.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

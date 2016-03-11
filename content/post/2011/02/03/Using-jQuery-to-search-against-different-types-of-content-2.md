@@ -185,7 +185,7 @@ For blog comments we get a bit fancier. Since I've got the gravatar URL I used t
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/feb32011/test.cfm"><img src="http://www.coldfusionjedi.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/feb32011/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

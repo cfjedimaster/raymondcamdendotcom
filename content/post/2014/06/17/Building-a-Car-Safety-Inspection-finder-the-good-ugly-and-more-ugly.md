@@ -26,7 +26,7 @@ I had <i>hoped</i> the site was using fancy Ajax Ninja stuff with cool JSON-base
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s115.png" />
+<img src="http://static.raymondcamden.com/images/s115.png" />
 </p>
 
 <p>
@@ -34,7 +34,7 @@ Clicking a triangle (but oddly, not the parish name) opens a list of places wher
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s213.png" />
+<img src="http://static.raymondcamden.com/images/s213.png" />
 </p>
 
 <p>
@@ -42,7 +42,7 @@ This gives you the location name and address. But to get hours of operation you 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s36.png" />
+<img src="http://static.raymondcamden.com/images/s36.png" />
 </p>
 
 <p>
@@ -335,11 +335,11 @@ Next - we need to determine the distance between you and each location. There we
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s5.png" />
+<img src="http://static.raymondcamden.com/images/s5.png" />
 </p>
 
 <p>
 If you want to try this yourself, just hit the demo link below. Enjoy!
 </p>
 
-<a href="http://raymondcamden.com/demos/2014/jun/17/report.html"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://raymondcamden.com/demos/2014/jun/17/report.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

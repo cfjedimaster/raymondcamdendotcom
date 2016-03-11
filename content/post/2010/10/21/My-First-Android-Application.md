@@ -17,7 +17,7 @@ As I said - I have to be a bit vague. As soon as I can show you the tools I used
 When I can, I'll post the full code to the application, and talk about the experience of building it, but for now, anyone with an Android compatible phone should be able to download the APK below (unzip it) and give it a whirl. The application is a port of an old web site I built. I won't tell you the details, but it should be perfect for the Halloween season. For those of you with "subpar" phones, you can check out the screen shots below.
 
 <b>Shot 1:</b><br/>
-<img src="http://www.raymondcamden.com/images/image0.png" />
+<img src="http://static.raymondcamden.com/images/image0.png" />
 
 <b>Shot 2:</b><br/>
-<img src="http://www.coldfusionjedi.com/images/image1.png" /><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FDeathClock%2Ezip'>Download attached file.</a></p>
+<img src="http://static.raymondcamden.com/images/cfjedi/image1.png" /><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FDeathClock%2Ezip'>Download attached file.</a></p>

@@ -18,7 +18,7 @@ The first thing I did was to open up his service directly in my browser. I knew 
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot14.png" />
+<img src="http://static.raymondcamden.com/images/shot14.png" />
 </p>
 
 <p>
@@ -26,7 +26,7 @@ See the funky crap around the Access-Control-Allow-Origin line? That was my clue
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/shot24.png" />
+<img src="http://static.raymondcamden.com/images/shot24.png" />
 </p>
 
 <p>

@@ -25,5 +25,5 @@ I think that's it. As I said, not a long list, but hopefully one I can actually 
 </p>
 
 
-<img src="http://www.raymondcamden.com/images/11669476453_828c787e6a.jpg" />
+<img src="http://static.raymondcamden.com/images/11669476453_828c787e6a.jpg" />
 <p align="right"><i>Photo Credit: <a href="http://www.flickr.com/photos/72562013@N06/">Chris Phutully</a></i></p>

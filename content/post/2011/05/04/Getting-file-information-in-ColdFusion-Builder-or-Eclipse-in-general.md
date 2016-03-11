@@ -29,16 +29,16 @@ This is my question: how can I see the file attributes in CFBuilder2? Studio (an
 <!--more-->
 The view you mentioned is probably the #1 thing that I missed when I transitioned from HomeSite++ to CFEclipse (and then CFBuilder) a few years ago. Like most things in Eclipse the answer is a bit complicated and fuzzy. First off - the closest thing you would have to that old view is the RDS File View. I don't use this view very often myself. (I make a heck of a lot of use of the RDS Dataview though.) Once you've defined an RDS server you can browse the file system on top and the files below:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip80.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip80.png" />
 
 Unfortunately you can't actually sort the columns. They are clickable for sure, but not sortable. If someone files a bug report for that I'd gladly vote for it! 
 
 If you just want to quickly get file information (size, last modified) and you <i>don't</i> make use of the RDS view, don't forget you can right click on a file in a Navigator project and select Properties:
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip81.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip81.png" />
 
 You can also do this with the "File" view:
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip82.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip82.png" />
 
 Hope this helps!

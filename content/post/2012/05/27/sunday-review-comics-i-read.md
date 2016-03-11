@@ -21,19 +21,19 @@ A few years back though I found myself drawn back. I'll be honest and admit it w
 
 So - here is what I'm reading. They are in no particular order and are presented for you to comment, ridicule, and suggest.
 
-<img src="http://www.raymondcamden.com/images/GI_Joe_Cobra.jpg" />
+<img src="http://static.raymondcamden.com/images/GI_Joe_Cobra.jpg" />
 
 One of my first discoveries was the new line of GI Joe comics. These include: GI Joe, GI Joe: Cobra, and GI Joe: Snake Eyes. Each of these comics share the same world (there is also a GI Joe: Real American Hero) and a much grittier, realistic version of warfare. (If you have a somewhat loose version of realism.) You won't see soldiers firing blue and red lasers. People, lots of people, actually die. The story is pretty damn incredible. In this version, Cobra was, until recently, an unknown entity. The story of how Cobra moves on to the world stage is pretty damn cool. I read GI Joe as a kid, and yeah, I still pick up the somewhat childish RAH one as well, but I definitely recommend this line. If you only select one though, get Cobra. As we know, the bad guys always have the best story.
 
-<img src="http://www.raymondcamden.com/images/PlanetOfTheApes.jpg" />
+<img src="http://static.raymondcamden.com/images/PlanetOfTheApes.jpg" />
 
 Forget the horrible remake. Heck, forget the really good recent movie. This comic is a fascinating look at the Planet of the Ape's world and mythology. It has many threads tying it to the original movies but has a very unique take on the idea as a whole. Great artwork as well. 
 
-<img src="http://www.raymondcamden.com/images/fantasticfour601_cover.jpg" />
+<img src="http://static.raymondcamden.com/images/fantasticfour601_cover.jpg" />
 
 I just started reading Fantastic Four. I wanted to read one "mainstream" comic, and while I probably would have preferred an X-Men title or even Avengers, I thought I'd give FF a try. I never read them growing up, but something called me to it. I'm still not quite sure it's worth the money, but any comic that features Galactus every now and then has to be good. The issue I read yesterday was pretty damn incredible, so I'm going to keep it for a while.
 
-<img src="http://www.raymondcamden.com/images/250px-Joehilllockekey.jpg" />
+<img src="http://static.raymondcamden.com/images/250px-Joehilllockekey.jpg" />
 
 If I had to recommend only one comic it would be "Locke and Key" by Joe Hill (who is also a damn good prose author as well). A very dark fantasy/horror series, it just wrapped up its fifth set and is wrapping up with a final story line. (I know some folks don't want to take a chance on a comic that never ends.) I'd also recommend "The Cape". 
 

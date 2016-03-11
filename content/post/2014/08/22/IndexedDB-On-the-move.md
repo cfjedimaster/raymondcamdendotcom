@@ -18,7 +18,7 @@ The first, and probably biggest, piece of news is that iOS 8 will support Indexe
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/idb.png" />
+<img src="http://static.raymondcamden.com/images/idb.png" />
 </p>
 
 <p>
@@ -55,4 +55,4 @@ As I said, now may be a good time to check it out. I've got a few articles that 
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/idb.jpg" />
+<img src="http://static.raymondcamden.com/images/idb.jpg" />

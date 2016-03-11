@@ -23,7 +23,7 @@ console.log('next url is '+nextUrl);</code></pre>
 
 I then opened up my dev tools and saw this:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/08/shot110.png" alt="shot1" width="750" height="25" class="aligncenter size-full wp-image-6685" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot110.png" alt="shot1" width="750" height="25" class="aligncenter size-full wp-image-6685" />
 
 It may be a bit small in the screen shot, but what my eyes saw were two URLs of the exact same size. Looking in the middle, you can definitely see a difference, but since I was removing stuff and saw two strings of the same length, I assumed my regex was wrong. (Which, let's be honest, we all expect our regexes to be wrong at first.) 
 

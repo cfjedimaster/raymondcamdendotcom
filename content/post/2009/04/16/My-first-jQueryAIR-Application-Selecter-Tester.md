@@ -13,21 +13,21 @@ A few days ago I was speaking with Ben Nadel and Rey Bango about a problem I had
 
 With that in mind, I built a simple testing application with jQuery and AIR. When it launches, you are presented with a simple UI:
 
-<img src="http://www.raymondcamden.com/images//Picture 151.png">
+<img src="http://static.raymondcamden.com/images//Picture 151.png">
 
 You can then enter some code:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 231.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 231.png">
 
 and switch to the render tab:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 323.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 323.png">
 
 Now comes the fun part. You can type a selector value in the form above. As you do, jQuery will attempt to find, and match, the items in your page. 
 
 For example, I knew I could match li:first, but wasn't sure about li:last. Yep, it works:
 
-<img src="http://www.coldfusionjedi.com/images//Picture 48.png">
+<img src="http://static.raymondcamden.com/images/cfjedi//Picture 48.png">
 
 You can install it here - and hopefully this badge thing will work.
 

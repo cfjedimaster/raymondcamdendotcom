@@ -25,7 +25,7 @@ For my example, I make use of jQuery, although that is certainly not required. I
 
 One interesting tidbit. I noticed in Chrome that if I didn't disable autocomplete, the browser would use both the explicit list I specified in JavaScript <i>and</i> my personal autocomplete history. It even used a little separator to divide the options:
 
-<img src="http://www.raymondcamden.com/images/ScreenClip98.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip98.png" />
 
 I'm not sure if I like that so for my examples I've simply disabled it. Firefox only shows the explicit list, which feels right to me. 
 

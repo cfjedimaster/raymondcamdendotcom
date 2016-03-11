@@ -29,10 +29,10 @@ I do have one complaint about the game. I have frequent XBox freezes when playin
 
 Oh - and one mission is a complete rip from Call of Duty 4. Did that bug me? Heck no. It was a rip from easily the coolest part of Call of Duty 4 so I didn't mind at all. I recommend this game <b>100%</b>. I think it is probably my favorite game of the year so far. It may not be as deep as Fable or Fallout, but for pure devilish fun, it is incredible. It's my Crackdown for 2009. 
 
-<a href="http://www.raymondcamden.com/images/redfaction/rf1_big.jpg" class="thickbox" rel="gallery-redfaction"><img src="http://www.raymondcamden.com/images/redfaction/rf1.jpg"  /></a> 
-<a href="http://www.raymondcamden.com/images/redfaction/rf2_big.jpg" class="thickbox" rel="gallery-redfaction"><img src="http://www.raymondcamden.com/images/redfaction/rf2.jpg"  /></a> 
-<a href="http://www.raymondcamden.com/images/redfaction/rf3_big.jpg" class="thickbox" rel="gallery-redfaction"><img src="http://www.raymondcamden.com/images/redfaction/rf3.jpg"  /></a> 
-<a href="http://www.raymondcamden.com/images/redfaction/rf4_big.jpg" class="thickbox" rel="gallery-redfaction"><img src="http://www.raymondcamden.com/images/redfaction/rf4.jpg"  /></a> 
-<a href="http://www.raymondcamden.com/images/redfaction/rf5_big.jpg" class="thickbox" rel="gallery-redfaction"><img src="http://www.raymondcamden.com/images/redfaction/rf5.jpg"  /></a> 
+<a href="http://www.raymondcamden.com/images/redfaction/rf1_big.jpg" class="thickbox" rel="gallery-redfaction"><img src="http://static.raymondcamden.com/images/redfaction/rf1.jpg"  /></a> 
+<a href="http://www.raymondcamden.com/images/redfaction/rf2_big.jpg" class="thickbox" rel="gallery-redfaction"><img src="http://static.raymondcamden.com/images/redfaction/rf2.jpg"  /></a> 
+<a href="http://www.raymondcamden.com/images/redfaction/rf3_big.jpg" class="thickbox" rel="gallery-redfaction"><img src="http://static.raymondcamden.com/images/redfaction/rf3.jpg"  /></a> 
+<a href="http://www.raymondcamden.com/images/redfaction/rf4_big.jpg" class="thickbox" rel="gallery-redfaction"><img src="http://static.raymondcamden.com/images/redfaction/rf4.jpg"  /></a> 
+<a href="http://www.raymondcamden.com/images/redfaction/rf5_big.jpg" class="thickbox" rel="gallery-redfaction"><img src="http://static.raymondcamden.com/images/redfaction/rf5.jpg"  /></a> 
 
 These aren't the best screen shots. My source (Gamespress) didn't really have any 'in play' shots. Sorry about that!

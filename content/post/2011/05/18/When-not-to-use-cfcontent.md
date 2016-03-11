@@ -48,7 +48,7 @@ Reading top to bottom, you can see my form handling portion on top. If the user 
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip94.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip94.png" />
 
 <p>
 

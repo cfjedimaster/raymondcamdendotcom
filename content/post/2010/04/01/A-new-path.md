@@ -17,6 +17,6 @@ One night - in a cosmic collusion of blissful synchronicity, Simon Le Bon himsel
 
 While my time as a ColdFusion developer, blogger, and speaker, has come to an end, I hope people can come to accept my decision and come to appreciate the choice I've made.
 
-<img src="http://www.raymondcamden.com/images/aprilone.jpg" title="Yes, that's me. Really. Well, maybe.">
+<img src="http://static.raymondcamden.com/images/aprilone.jpg" title="Yes, that's me. Really. Well, maybe.">
 
 p.s. Thanks to Nick Hill for the Photoshop working. My Photoshop skills are only slightly worse than my real singing ability.

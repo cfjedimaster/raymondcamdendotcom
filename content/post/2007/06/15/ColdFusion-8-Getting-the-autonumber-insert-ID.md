@@ -24,6 +24,6 @@ values('George Bush')
 
 Now when I dump the result, I get: 
 
-<img src="http://www.raymondcamden.com/images//sqldump.png">
+<img src="http://static.raymondcamden.com/images//sqldump.png">
 
 Pretty handy!

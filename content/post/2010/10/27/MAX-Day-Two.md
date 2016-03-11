@@ -21,4 +21,4 @@ Before I fall asleep, here are my random, disjointed thoughts from the second da
 And of course, a personal favorite moment of mine was being able to meet Kevin Lynch in person. Unfortunately, I think I forgot to actually tell him who I was...
 <p/>
  
-<img src="http://www.coldfusionjedi.com/images/IMG_0040.JPG" />
+<img src="http://static.raymondcamden.com/images/cfjedi/IMG_0040.JPG" />

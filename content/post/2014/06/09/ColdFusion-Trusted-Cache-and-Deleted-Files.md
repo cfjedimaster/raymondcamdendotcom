@@ -18,7 +18,7 @@ Instead of clearing the entire Trusted Cache, I always use the newer folder opti
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/ColdFusion_Administrator.png" />
+<img src="http://static.raymondcamden.com/images/ColdFusion_Administrator.png" />
 </p>
 
 <p>

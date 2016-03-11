@@ -40,7 +40,7 @@ So given that code, if you type something in the field and hit the tab key, or j
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/Screen shot 2010-07-10 at 6.00.06 PM.png" />
+<img src="http://static.raymondcamden.com/images/Screen shot 2010-07-10 at 6.00.06 PM.png" />
 
 <p>
 
@@ -48,7 +48,7 @@ But if I change the value and hit enter, I get:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/Screen shot 2010-07-10 at 6.01.19 PM.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-07-10 at 6.01.19 PM.png" />
 
 <p>
 

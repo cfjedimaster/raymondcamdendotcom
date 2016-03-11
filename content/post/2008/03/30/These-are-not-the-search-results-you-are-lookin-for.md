@@ -11,6 +11,6 @@
 
 Wow, be careful when you search for dates. 
 
-<img src="http://www.raymondcamden.com/images//Picture 110.png">
+<img src="http://static.raymondcamden.com/images//Picture 110.png">
 
 Believe it or not (you can see the color of the link) I actually fell for this.

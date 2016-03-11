@@ -18,7 +18,7 @@ The first thing I'd expect in any application is an easy way to get to the relea
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s121.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/s121.png" class="bthumb" />
 </p>
 
 <p>
@@ -86,7 +86,7 @@ For comparison's sake - let's test Firefox.
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s217.png" />
+<img src="http://static.raymondcamden.com/images/s217.png" />
 </p>
 
 <p>
@@ -94,7 +94,7 @@ Ok, useless. Let's try "Help, Firefox Help":
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s39.png" />
+<img src="http://static.raymondcamden.com/images/s39.png" />
 </p>
 
 <p>
@@ -106,7 +106,7 @@ This brings you to a <i>wonderfully</i> designed page with labels by each change
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s43.png" />
+<img src="http://static.raymondcamden.com/images/s43.png" />
 </p>
 
 <p>
@@ -118,7 +118,7 @@ p.s. Have you noticed recently that textarea elements in Chrome will use a green
 </p>
 
 <p>
-<img src="http://www.raymondcamden.com/images/s51.png" class="bthumb" />
+<img src="http://static.raymondcamden.com/images/s51.png" class="bthumb" />
 </p>
 
 <p>

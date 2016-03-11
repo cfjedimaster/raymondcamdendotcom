@@ -55,7 +55,7 @@ Which produces the lovely...
 
 <p>
 
-<img src="http://www.raymondcamden.com/images/ScreenClip160.png" />
+<img src="http://static.raymondcamden.com/images/ScreenClip160.png" />
 
 <p>
 
@@ -84,7 +84,7 @@ Note the addition of "blue" to the View as well as the white color for the label
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip161.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip161.png" />
 
 <p>
 
@@ -175,7 +175,7 @@ And the result:
 
 <p>
 
-<img src="http://www.coldfusionjedi.com/images/ScreenClip162.png" />
+<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip162.png" />
 
 <p>
 

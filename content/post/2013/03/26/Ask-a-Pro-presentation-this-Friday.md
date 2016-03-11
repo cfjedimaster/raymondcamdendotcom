@@ -13,4 +13,4 @@ This Friday, March 29th, I'll be giving an "Ask a Pro" online webinar on PhoneGa
 
 <a href="http://www.adobe.com/cfusion/event/index.cfm?event=detail&id=2008488&loc=en_us">Building Mobile Apps with Adobe PhoneGap Build</a>
 
-<img src="http://www.raymondcamden.com/images/askapro.jpg" />
+<img src="http://static.raymondcamden.com/images/askapro.jpg" />

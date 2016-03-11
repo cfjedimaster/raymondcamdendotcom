@@ -43,7 +43,7 @@ You can run this yourself by hitting the demo below. All in all - a very interes
 <p>
 
 
-<a href="http://fivetag-cf10beta.securecb1cf10.ezhostingserver.com/jsoup/tester.cfm"><img src="http://www.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://fivetag-cf10beta.securecb1cf10.ezhostingserver.com/jsoup/tester.cfm"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 
