@@ -10,7 +10,7 @@
 	"guid": "7398"
 }
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/angular.png" alt="angular" width="200" height="200" class="alignleft size-full wp-image-7400" /> I've been avoiding even <i>thinking</i> about the latest rev of Angular as every time I <strong>did</strong> look at it, I came away with a headache. It was weird and the docs were even weirder. I saw plenty of blog posts on the topic, but in general they dealt with one small slice of Angular 2 and were too confusing for me to grok. 
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/angular.png" alt="angular" width="200" height="200" class="alignleft size-full wp-image-7400" /> I've been avoiding even <i>thinking</i> about the latest rev of Angular as every time I <strong>did</strong> look at it, I came away with a headache. It was weird and the docs were even weirder. I saw plenty of blog posts on the topic, but in general they dealt with one small slice of Angular 2 and were too confusing for me to grok. 
 
 Over the holidays, I checked out the web site again (Angular 2 can be found at <a href="https://angular.io/">https://angular.io/</a> whereas Angular 1 is still at the old site: <a href="https://angularjs.org/">https://angularjs.org/</a>). I tried the <a href="https://angular.io/docs/ts/latest/quickstart.html">five minute quick start</a> and while it took me a bit more than five minutes, it made a bit of sense. It certainly wasn't crystal clear to me, but it wasn't crazy either. 
 

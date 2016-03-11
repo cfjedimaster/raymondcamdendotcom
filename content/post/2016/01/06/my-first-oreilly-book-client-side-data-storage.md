@@ -24,4 +24,4 @@ I consider myself an expert in this space, and Nolan is the person <i>I</i> go t
 
 Anyway, as always, I'd love to know what you think. If you pick up the book, let me know in the comments below, and enjoy!
 
-<a href="http://shop.oreilly.com/product/0636920043676.do#"><img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/lrg.jpg" alt="lrg" width="500" height="656" class="aligncenter size-full wp-image-7362" /></a>
+<a href="http://shop.oreilly.com/product/0636920043676.do#"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/lrg.jpg" alt="lrg" width="500" height="656" class="aligncenter size-full wp-image-7362" /></a>

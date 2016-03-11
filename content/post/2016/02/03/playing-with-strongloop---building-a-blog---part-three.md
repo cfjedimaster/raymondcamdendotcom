@@ -16,15 +16,15 @@ Welcome to the third in my series of building a (somewhat) real-world applicatio
 
 Let's take a quick tour through the app and then I'll demonstrate it in action with a quick video. On startup, the application prompts you to login. Please do not blame Ionic for my poor color choices.
 
-<img src="/images/2016/02/blogeditor1.png" class="imgborder">
+<img src="http://static.raymondcamden.com/images/2016/02/blogeditor1.png" class="imgborder">
 
 After login, you're presented with a list of existing blog entries as well as a button to add a new one. For this quick demonstration, I did not add editing or deleting capabilities, but it wouldn't be too difficult.
 
-<img src="/images/2016/02/blogeditor2.png" class="imgborder">
+<img src="http://static.raymondcamden.com/images/2016/02/blogeditor2.png" class="imgborder">
 
 Clicking Add Entry brings you to a simple form:
 
-<img src="/images/2016/02/blogeditor3.png" class="imgborder">
+<img src="http://static.raymondcamden.com/images/2016/02/blogeditor3.png" class="imgborder">
 
 And that's it. As I said, proper edit/delete isn't built in yet, but that's all it would take to turn this into a real CRUD desktop app for the server. 
 

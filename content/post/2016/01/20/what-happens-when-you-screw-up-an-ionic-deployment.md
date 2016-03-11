@@ -52,7 +52,7 @@ In general, it just plain works, and works really well! Using the code above, if
 
 So what happens when you screw up? Like - skip testing? No one ever skips testing, right? I built an incredible simple app with the grand total of two buttons:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/Simulator-Screen-Shot-Jan-20-2016-9.27.09-AM.png" alt="Simulator Screen Shot Jan 20, 2016, 9.27.09 AM" width="375" height="307" class="aligncenter size-full wp-image-7407 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/Simulator-Screen-Shot-Jan-20-2016-9.27.09-AM.png" alt="Simulator Screen Shot Jan 20, 2016, 9.27.09 AM" width="375" height="307" class="aligncenter size-full wp-image-7407 imgborder" />
 
 The red button handles both checking, and installing, an update. The green button calls a service. 
 
@@ -143,11 +143,11 @@ angular.module('appService', [])
 
 In the code above, I've added a runtime error to the service that will only be a problem when the user clicks the button. I deployed via the CLI: <code>ionic upload --note="screw up" --deploy="production"</code>. I then clicked the red button, noted the update in my console, and tried the green button. As expected, clicking the green button will no longer work, and in the console, the error is clearly visible.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot1-3.png" alt="shot1" width="750" height="286" class="aligncenter size-full wp-image-7408" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot1-3.png" alt="shot1" width="750" height="286" class="aligncenter size-full wp-image-7408" />
 
 Ok, so in theory, not the end of the world. You can deploy a fix, or roll back, and life goes on. But what if you <i>really</i> screw up? In my main JavaScript file, I added a syntax error on top. I then deployed that - ran the update - and...
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot2-2.png" alt="shot2" width="750" height="619" class="aligncenter size-full wp-image-7409" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot2-2.png" alt="shot2" width="750" height="619" class="aligncenter size-full wp-image-7409" />
 
 So yeah, at this point, you're screwed. You can't do an update anymore as the core functionality of the entire app is broken. You would need to do a "real" app store update to correct it.
 

@@ -27,41 +27,41 @@ We'll start off by creating a new application in Ionic Creator. Remember that th
 
 Begin by creating a new project, the name doesn't matter, and use the Blank template:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot1-3.png" alt="shot1" width="750" height="602" class="aligncenter size-full wp-image-7287" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot1-3.png" alt="shot1" width="750" height="602" class="aligncenter size-full wp-image-7287" />
 
 This will drop you into the editing interface with a blank page. On this page we'll do two things. First, we'll edit the title to give it something that makes sense for the app.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot2-4.png" alt="shot2" width="750" height="604" class="aligncenter size-full wp-image-7288 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot2-4.png" alt="shot2" width="750" height="604" class="aligncenter size-full wp-image-7288 imgborder" />
 
 Then we'll drag a List component onto the page:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot3-2.png" alt="shot3" width="750" height="604" class="aligncenter size-full wp-image-7289 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot3-2.png" alt="shot3" width="750" height="604" class="aligncenter size-full wp-image-7289 imgborder" />
 
 Notice how it adds 3 list items automatically. If you want, you can remove some, or add some, but for now, three is just fine. If you click each one, you can give them a unique text value. While not necessary, I'd go ahead and do that just so you mentally keep in mind what we're actually building.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot4-2.png" alt="shot4" width="750" height="603" class="aligncenter size-full wp-image-7290 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot4-2.png" alt="shot4" width="750" height="603" class="aligncenter size-full wp-image-7290 imgborder" />
 
 Notice that the list items have a "Link" attribute. We can use that to add basic interaction to our demo, but for now, we don't have a page to actually target for that link. Let's fix that by adding a new page. Be sure to use the Blank template again. I gave it a simple title too:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot5-1.png" alt="shot5" width="750" height="604" class="aligncenter size-full wp-image-7291 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot5-1.png" alt="shot5" width="750" height="604" class="aligncenter size-full wp-image-7291 imgborder" />
 
 This page represents the detail view of the film. Right now we don't necessarily know what we're going to show, so let's keep it simple and imagine we'll just show the opening crawl. On the off chance that my readers have never seen a Star Wars film (for shame), this is an example of what I mean:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/crawl.png" alt="crawl" width="750" height="319" class="aligncenter size-full wp-image-7292" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/crawl.png" alt="crawl" width="750" height="319" class="aligncenter size-full wp-image-7292" />
 
 For now, let's just use a bit of static text. Drag the Paragraph component onto the page and then edit the content to be something that describes the purpose of the text block.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot6.png" alt="shot6" width="750" height="604" class="aligncenter size-full wp-image-7294 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot6.png" alt="shot6" width="750" height="604" class="aligncenter size-full wp-image-7294 imgborder" />
 
 Now let's hook up the list from the first page to the detail. Now, in the real application, each list item would link to a page showing different text based on the selection. However, the dynamic aspect will be handled by code we add later on. If you were to demonstrate this dummy app to a client, you may need to make 3 distinct pages so they don't get confused. If you do, don't forget that you can select the page in the left hand nav and click the "Duplicate" icon.
 
 For now, click back to the first page, and select the first list item. Note that you can now select a link that points to the new page.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot7.png" alt="shot7" width="750" height="605" class="aligncenter size-full wp-image-7295 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot7.png" alt="shot7" width="750" height="605" class="aligncenter size-full wp-image-7295 imgborder" />
 
 Go ahead and do that for all three list items (and again, you don't <i>really</i> need to) and then click the Preview icon on top to test out your beautiful, if fake, application.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot8.png" alt="shot8" width="750" height="604" class="aligncenter size-full wp-image-7296" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot8.png" alt="shot8" width="750" height="604" class="aligncenter size-full wp-image-7296" />
 
 Woot! We're done with the prototype!
 
@@ -69,7 +69,7 @@ Woot! We're done with the prototype!
 
 Ok, so at this point, we've got a working prototype. The first thing we need to do is get a copy of the code. You can use the Export menu option to open a window showing you four different ways of working with the code. I recommend using the Zip File. While we can create a new application from the code of the prototype directly with the CLI, I think it would be nice to have a copy of the prototype locally to compare and contrast while working on the new version.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot9.png" alt="shot9" width="750" height="603" class="aligncenter size-full wp-image-7297" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot9.png" alt="shot9" width="750" height="603" class="aligncenter size-full wp-image-7297" />
 
 I recommend creating a new folder for this project, and then extracting the zip into a folder. (All of my code for this blog entry is in GitHub, and that's the way I laid out stuff there as well.) Assuming you've done this in a folder called <code>creator_version</code>, we can use the Ionic CLI to create a new application based on the contents. That command is:
 
@@ -246,7 +246,7 @@ So let's quickly review what we did here. We updated the completely static appli
 
 At this point, I recommend taking the app for test drive just to ensure it is working correctly. Here is it running with <code>ionic serve -l</code>:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot10.png" alt="shot10" width="750" height="606" class="aligncenter size-full wp-image-7298 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot10.png" alt="shot10" width="750" height="606" class="aligncenter size-full wp-image-7298 imgborder" />
 
 If you want, edit the services file to add a new film. When you reload, you'll see the new item show up.
 
@@ -276,7 +276,7 @@ Yeah, that's it. Literally just a call to a URL. As a quick note, we modified th
 
 So in theory, as soon as you test this, it works. You should see a complete list of films:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot11-1.png" alt="shot11" width="696" height="493" class="aligncenter size-full wp-image-7300 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot11-1.png" alt="shot11" width="696" height="493" class="aligncenter size-full wp-image-7300 imgborder" />
 
 However, clicking to the detail won't work. Why? The SWAPI doesn't actually return an "id" value. Notice the console.dir on the results in the code snippet above? It's currently commented out, but if you remove the comments, you can see the data yourself. This is also fully documented as well.
 
@@ -311,7 +311,7 @@ getFilm:function(url) {
 
 And the result:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2015/12/shot12-1.png" alt="shot12" width="696" height="624" class="aligncenter size-full wp-image-7301 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot12-1.png" alt="shot12" width="696" height="624" class="aligncenter size-full wp-image-7301 imgborder" />
 
 <h2>Wrap Up</h2>
 

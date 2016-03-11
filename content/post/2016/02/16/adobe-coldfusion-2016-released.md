@@ -9,7 +9,7 @@
 	"url": "/2016/02/16/adobe-coldfusion-2016-released"
 }
 
-<img src="/images/2016/02/cflogo.jpg" style="float:left;margin-right:10px;margin-bottom:10px">
+<img src="http://static.raymondcamden.com/images/2016/02/cflogo.jpg" style="float:left;margin-right:10px;margin-bottom:10px">
 
 This morning Adobe released the latest version of ColdFusion, <a href="https://www.adobe.com/products/coldfusion-family.html">Adobe ColdFusion 2016</a>. Yep, they switched from a simple version number to a year, which frankly I prefer so I think this is a good change. This also applies to ColdFusion Builder as well. So what's new and should you upgrade? 
 

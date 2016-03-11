@@ -18,7 +18,7 @@ One of the most important things to note is that you can install Ionic V2 *witho
 
 You'll want to spend some time in the [docs](http://ionicframework.com/docs/v2/) of course, and specifically the [Getting Started](http://ionicframework.com/docs/v2/getting-started/) guide. Note that there are mistakes in the guide (hey, it *is* a beta) that may trip you up. Specifically it seems like some of the code samples are a bit out of date. For the most part I think you can figure it out, but these issues have been reported and may be corrected by the time you get to it.
 
-<img src="/images/2016/02/ionic2-1.gif" class="imgborder" title="Ionic V2 Docs">
+<img src="http://static.raymondcamden.com/images/2016/02/ionic2-1.gif" class="imgborder" title="Ionic V2 Docs">
 
 Working through the Getting Started guide gets you through a simple application and will give you a *super*
 basic idea of what's going on, but I'd strongly urge you to go through the [Angular 2 quickstart](https://angular.io/docs/ts/latest/quickstart.html) first just so things aren't completely alien to you. 
@@ -189,11 +189,11 @@ export class DetailPage {
 
 Here is the home page:
 
-<img src="/images/2016/02/ionic2-4.png" class="imgborder" title="Home Page">
+<img src="http://static.raymondcamden.com/images/2016/02/ionic2-4.png" class="imgborder" title="Home Page">
 
 And one detail page:
 
-<img src="/images/2016/02/ionic2-5.png" class="imgborder" title="Detail Page">
+<img src="http://static.raymondcamden.com/images/2016/02/ionic2-5.png" class="imgborder" title="Detail Page">
 
 Not exactly rocket science, but you get the idea. So far, I'm digging it. I've got a lot of research to do, and I'm really looking forward to when things hit a firm release and stop changing, but I'd definitely take some time to look into it. As a reminder, you can, and should, join the [Ionic Slack](http://ionicworldwide.herokuapp.com/) channel. It is the best place to get support and help others. 
 

@@ -23,7 +23,7 @@ So first off - out of the box your models are completely CRUDable (create/read/u
 
 As I discussed in my <a href="http://www.raymondcamden.com/2015/10/21/working-with-strongloop-part-four-locking-down-the-api">earlier post</a>, locking down your API is as simple as using <code>slc loopback:acl</code>. Here is an example:
 
-<p><img src="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot17.png" alt="shot1" width="750" height="164" class="aligncenter size-full wp-image-6973" /></p>
+<p><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot17.png" alt="shot1" width="750" height="164" class="aligncenter size-full wp-image-6973" /></p>
 
 In the end, the CLI simply updates the model's JSON definition file. In general, the lock down process is:
 
@@ -63,29 +63,29 @@ I did this for both entry and category. Remember, these are the primary model ty
 
 I then created a new model called appuser. Again, I discussed this in the previous entry, but while Loopback has a core User object, it is strongly suggested you extend this type into your own for your application. One thing I didn't demonstrate in the previous post was how this was done in the Composer app. It is a simple matter of making a new type and changing <code>Base model</code> to User.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot1-2.png" alt="shot1" width="750" height="332" class="aligncenter size-full wp-image-7377" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot1-2.png" alt="shot1" width="750" height="332" class="aligncenter size-full wp-image-7377" />
 
 Next I needed to test this. Again, I mentioned in the other post about how you can use the web-based Explorer to login, but it occurs to me that I didn't actually show how that is done. Login is just another REST method! If you select your user type, you can scroll down to a login method. You then need to enter a JSON object containing your credentials.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/sl-login.png" alt="sl login" width="750" height="421" class="aligncenter size-full wp-image-7378" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/sl-login.png" alt="sl login" width="750" height="421" class="aligncenter size-full wp-image-7378" />
 
 After you login, make note of the response. The ID contains a token:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/Explorer-token.png" alt="Explorer-token" width="750" height="279" class="aligncenter size-full wp-image-7379" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/Explorer-token.png" alt="Explorer-token" width="750" height="279" class="aligncenter size-full wp-image-7379" />
 
 (<i>Image taken from StrongLoop docs: <a href="https://docs.strongloop.com/display/public/LB/Introduction+to+User+model+authentication">Introduction to User model authentication</a></i>)
 
 You take that and then paste it into the token field on top of the explorer.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot2-1.png" alt="shot2" width="503" height="129" class="aligncenter size-full wp-image-7380" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot2-1.png" alt="shot2" width="503" height="129" class="aligncenter size-full wp-image-7380" />
 
 This ensures your later calls via the explorer are authenticated. To be sure, I tested posting a new entry before being logged in:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot3-1.png" alt="shot3" width="750" height="1107" class="aligncenter size-full wp-image-7381" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot3-1.png" alt="shot3" width="750" height="1107" class="aligncenter size-full wp-image-7381" />
 
 Then I confirmed I could create after logging in:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot4-1.png" alt="shot4" width="750" height="632" class="aligncenter size-full wp-image-7382" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot4-1.png" alt="shot4" width="750" height="632" class="aligncenter size-full wp-image-7382" />
 
 I bet your curious about the server-side API. Is it impacted by ACLs? Nope. I guess that's expected, but I was curious. Basically your Node.js code executes like a root user.
 

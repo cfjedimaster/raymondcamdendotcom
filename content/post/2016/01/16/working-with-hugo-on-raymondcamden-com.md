@@ -88,11 +88,11 @@ Hugo is really fast. But even with it being fast, at 5K+ blog entries, every mod
 
 Hugo has a bunch of themes you can browse at <a href="http://themes.gohugo.io/">http://themes.gohugo.io/</a>. I went with Icarus. Here is a screen shot of blog so far.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-16-at-10.40.14.png" alt="Screen Shot 2016-01-16 at 10.40.14" width="750" height="577" class="aligncenter size-full wp-image-7391 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/Screen-Shot-2016-01-16-at-10.40.14.png" alt="Screen Shot 2016-01-16 at 10.40.14" width="750" height="577" class="aligncenter size-full wp-image-7391 imgborder" />
 
 And here is a random blog entry. 
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-16-at-10.42.52-1.png" alt="Screen Shot 2016-01-16 at 10.42.52" width="516" height="750" class="aligncenter size-full wp-image-7393 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/Screen-Shot-2016-01-16-at-10.42.52-1.png" alt="Screen Shot 2016-01-16 at 10.42.52" width="516" height="750" class="aligncenter size-full wp-image-7393 imgborder" />
 
 I dig it. I'm not 100% sold on the look, but I like it. 
 
@@ -133,7 +133,7 @@ I thought this would be rather simple, but from what I can see, it is impossible
 
 I've got to write that all up myself (Hugo supports creating a new content file via the CLI, but I don't think it will work for me - need to investigate that) and then work on my article. My editor of choice, Visual Studio Code, has a built in Markdown preview:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot.png" alt="shot" width="750" height="441" class="aligncenter size-full wp-image-7394" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot.png" alt="shot" width="750" height="441" class="aligncenter size-full wp-image-7394" />
 
 As you can see the data on top is rendered too but that's easily ignorable. The real issue I've got now is images. I'll need to copy those myself to the right folder and then insert the Markdown code to include the image. I'm almost tempted to build my own editor in Electron as a desktop app - but that would be silly... right?
 

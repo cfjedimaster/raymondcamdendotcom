@@ -25,31 +25,31 @@ For the first version, I figured I'd support a home page that lists blog entries
 
 I created a new StrongLoop app (as simple as <code>slc loopback</code>) and then fired up StrongLoop Arc to work with the composer. I decided on two different models: entry and category. Entry, obviously, represents a blog entry. Here is how I designed it in the web app:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot1.png" alt="shot1" width="750" height="414" class="aligncenter size-full wp-image-7351" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot1.png" alt="shot1" width="750" height="414" class="aligncenter size-full wp-image-7351" />
 
 I assume most of this makes sense as is, but you may be confused by the <code>slug</code> property. The slug is what comes at the end of the URL and is typically the title minus any special characters. In a real world app the editor would default this for you and you would only modify it on rare occasions. We could also set it automatically via Loopback too. (And we're going to do something kinda like that in a few minutes.)
 
 I then defined a category type:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot2.png" alt="shot2" width="750" height="356" class="aligncenter size-full wp-image-7352" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot2.png" alt="shot2" width="750" height="356" class="aligncenter size-full wp-image-7352" />
 
 I then went back to Entry to set up the relationship. This is where I hit my first issue. While you can define a property of another type, it is a singular property. So I could add a category field to Entry but I'd only be able to assign one category to an entry. Of course, Loopback supports all kinds of "multi" relations, but unfortunately, the web based admin doesn't support setting it. Nor will it report it either. In the first screen shot, I've already got things working fine, but there's no indication of it.
 
 Luckily, it takes about 5 seconds to define the relationship via the CLI. You simply type <code>slc loopback:relation</code> and you are prompted for the model to modify:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot3.png" alt="shot3" width="539" height="193" class="aligncenter size-full wp-image-7353" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot3.png" alt="shot3" width="539" height="193" class="aligncenter size-full wp-image-7353" />
 
 Then the type of relation:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot4.png" alt="shot4" width="590" height="138" class="aligncenter size-full wp-image-7354" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot4.png" alt="shot4" width="590" height="138" class="aligncenter size-full wp-image-7354" />
 
 Then what to connect to:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot6.png" alt="shot6" width="585" height="226" class="aligncenter size-full wp-image-7355" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot6.png" alt="shot6" width="585" height="226" class="aligncenter size-full wp-image-7355" />
 
 And then finally - what to call the relationship:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot7.png" alt="shot7" width="603" height="102" class="aligncenter size-full wp-image-7356" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot7.png" alt="shot7" width="603" height="102" class="aligncenter size-full wp-image-7356" />
 
 I have no idea how it figured out that the plural should be categories. You can define a plural name for your models but I never did for category. If it figured it out automagically - then cool.
 
@@ -69,7 +69,7 @@ Frankly, looking at that JSON, it is just as easy to type it as it is to use the
 
 Once I had that - I went ahead and opened up the StrongLoop API explorer and made a few blog entries:
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot8.png" alt="shot8" width="750" height="758" class="aligncenter size-full wp-image-7357" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot8.png" alt="shot8" width="750" height="758" class="aligncenter size-full wp-image-7357" />
 
 I don't have a proper "admin" yet, but it takes mere seconds to use the explorer. That's damn convenient. 
 
@@ -150,7 +150,7 @@ You can see where I define an upper and lower range for the published property. 
 
 For design, I tried <a href="http://www.getmdl.io/">Material Design Lite</a>, which ended up being much more complex than Bootstrap. Maybe it's just that I'm so used to Bootstrap, but I found working with MDL to be a bit overwhelming. Not so much on a component scale (which I didn't actually get around to using), but as a layout template it was confusing as heck. I got it working, but honestly, it felt like a lot of work.
 
-<img src="http://www.raymondcamden.com/wp-content/uploads/2016/01/shot9.png" alt="shot9" width="750" height="445" class="aligncenter size-full wp-image-7358 imgborder" />
+<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot9.png" alt="shot9" width="750" height="445" class="aligncenter size-full wp-image-7358 imgborder" />
 
 <h2>Persistence</h2>
 
