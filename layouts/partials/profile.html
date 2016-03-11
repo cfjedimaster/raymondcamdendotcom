@@ -11,24 +11,7 @@
           </a>
       {{ end }}
     </div>
-    <div class="article-info profile-block">
-	  {{ if not .Site.BuildDrafts }}
-      <div class="article-info-block">
-        {{ len (where .Site.Pages "Type" "post") }}
-        <span>{{with .Site.Data.l10n.profile.posts}}{{.}}{{end}}</span>
-      </div>
-      <div class="article-info-block">
-        {{ if isset .Site.Taxonomies "tags" }}
-          {{ len .Site.Taxonomies.tags }}
-        {{ else }}
-          0
-        {{ end }}  
-        <span>
-            {{with .Site.Data.l10n.profile.tags}}{{.}}{{end}}
-        </span>
-      </div>
-	  {{ end }}
-    </div>
+
     <div class="contact-info profile-block">
       <table class="contact-list">
         <tr>
