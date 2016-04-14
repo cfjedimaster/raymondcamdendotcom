@@ -16,7 +16,7 @@ This session will introduce the basics of using the browser's developer tools to
 Here are the details:
 
 URL: [https://plus.google.com/events/cp7o1hqo4afsq334ps60lhvhdt0](https://plus.google.com/events/cp7o1hqo4afsq334ps60lhvhdt0)<br/>
-Date: Wednesday, March 16<br/>
+Date: Thursday, March 17<br/>
 Time: 6PM CST
 
 Hope to see you there!

@@ -55,7 +55,7 @@ For my demo, I'll be making use of ColdFusion Components. As you will see, this 
 
 <p/>
 
-<a href="http://www.raymondcamden.com/demos/2012/jan/18/v1/">Demo</a>
+<strike>Demo</strike><i>(Demo no longer avaialble.)</i>
 
 <p/>
 
@@ -63,7 +63,7 @@ Sexy demo, right? So obviously there isn't a lot here, but let's go over the bas
 
 <p/>
 
-<code>
+<pre><code class="language-javascript">
 component {
 
 	this.name="cfremoteapidemo";
@@ -75,7 +75,7 @@ component {
     	}    
     
 }
-</code>
+</code></pre>
 
 <p/>
 
@@ -83,7 +83,7 @@ Not much going on here. We set up a few settings and in the application start up
 
 <p/>
 
-<code>
+<pre><code class="language-javascript">
 component {
 
 	public query function getart() {
@@ -93,7 +93,7 @@ component {
 	}
 
 }
-</code>
+</code></pre>
 
 <p/>
 
@@ -101,7 +101,7 @@ Again, not much here but a simple query. Now to our front end:
 
 <p/>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfset art = application.artCFC.getart()&gt;
 
 &lt;!DOCTYPE html&gt;
@@ -143,7 +143,7 @@ Again, not much here but a simple query. Now to our front end:
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -159,7 +159,7 @@ Here is api.cfc, stored in the root of my application:
 
 <p/>
 
-<code>
+<pre><code class="language-javascript">
 component {
 
 	remote array function listart() {
@@ -179,7 +179,7 @@ component {
 
 
 }
-</code>
+</code></pre>
 
 <p>
 
@@ -187,9 +187,9 @@ The API has one function, listart, marked as remote. I could have simply done th
 
 <p/>
 
-<code>
+<pre><code class="language-javascript">
 return application.artCFC.getArt();
-</code>
+</code></pre>
 
 <p/>
 
@@ -197,7 +197,7 @@ But the serialized version of ColdFusion queries is... well not bad... but a bit
 
 <p/>
 
-What's cool (at least to me), is that at this point right now, we have a web service. Any technology that can talk SOAP can hit the WSDL and see this: <a href="http://www.raymondcamden.com/demos/2012/jan/18/v1/api.cfc?wsdl">http://www.raymondcamden.com/demos/2012/jan/18/v1/api.cfc?wsdl</a>. But even better, at the <i>same</i> time, we have a HTTP service that can spit out JSON as well: <a href="http://www.raymondcamden.com/demos/2012/jan/18/v1/api.cfc?method=listart&returnformat=json">http://www.raymondcamden.com/demos/2012/jan/18/v1/api.cfc?method=listart&returnformat=json</a>
+What's cool (at least to me), is that at this point right now, we have a web service. Any technology that can talk SOAP can hit the WSDL and see this: http://www.raymondcamden.com/demos/2012/jan/18/v1/api.cfc?wsdl. But even better, at the <i>same</i> time, we have a HTTP service that can spit out JSON as well: http://www.raymondcamden.com/demos/2012/jan/18/v1/api.cfc?method=listart&returnformat=json
 
 <p/>
 
@@ -205,7 +205,7 @@ Now let's take it up a notch and show something with a bit of interactivity. I'v
 
 <p/>
 
-<code>
+<pre><code class="language-javascript">
 component {
 
 	public query function getart(string search="",string sort="artname",string sortdir="asc") {
@@ -232,7 +232,7 @@ component {
 
 
 }
-</code>
+</code></pre>
 
 <p/>
 
@@ -240,7 +240,7 @@ Now my CFC supports searching and sorting. I can then expose that via the API:
 
 <p/>
 
-<code>
+<pre><code class="language-javascript">
 component {
 
 	remote array function listart(string sort,string sortdir) {
@@ -259,12 +259,13 @@ component {
 	}
 
 }
-</code>
+</code></pre>
 
 <p/>
 
-You can see this running here: <a href="http://www.raymondcamden.com/demos/2012/jan/18/v2/api.cfc?method=listart&returnformat=json&sort=price&sortdir=desc">http://www.raymondcamden.com/demos/2012/jan/18/v2/api.cfc?method=listart&returnformat=json&sort=price&sortdir=desc</a> This URL lists art by price with the most expensive items first.
+<strike>
+You can see this running here: http://www.raymondcamden.com/demos/2012/jan/18/v2/api.cfc?method=listart&returnformat=json&sort=price&sortdir=desc This URL lists art by price with the most expensive items first.</strike>
 
 <p/>
 
-I've attached a zip of both v1 and v2 applications to this blog entry. In order for them to work you will need to have the cfartgallery datasource present on your system.<p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fcfapi1%2Ezip'>Download attached file.</a></p>
+I've attached a zip of both v1 and v2 applications to this blog entry. In order for them to work you will need to have the cfartgallery datasource present on your system.<p><a href='http://static.raymondcamden.com/enclosures/cfapi1.zip'>Download attached file.</a></p>

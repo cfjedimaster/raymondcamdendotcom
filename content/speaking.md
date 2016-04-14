@@ -6,12 +6,14 @@ As much as I love to write code, I enjoy teaching even more. That's part of the 
 
 <h3>My Next Events</h3>
 
+<a href="https://plus.google.com/events/cp7o1hqo4afsq334ps60lhvhdt0">Using Browser Developer Tools</a><br/>
+Online, March 17, 2016
 
+<a href="https://www.eventbrite.com/e/loopbackjs-webinar-with-raymond-camden-tickets-22784668557?aff=wraymond">LoopBackJS Webinar with Raymond Camden</a><br/>
+Online, March 31, 2016
 
 <p>
 
-<a href="http://conferences.oreilly.com/fluent/javascript-html-us">Rapidly building out your APIs</a><br/>
-FluentConf, San Francisco, CA, March 8, 2016</a>
 
 <h3>My Past Events</h3>
 
@@ -50,3 +52,6 @@ Ionic NYC, NYC, NY, January 13, 2016
 
 <a href="http://pgday.phonegap.com/">When the heck is 4/8/2016?</a><br/>
 PhoneGap Day, Lehi, Utah, January 29, 2016
+
+<a href="http://conferences.oreilly.com/fluent/javascript-html-us">Rapidly building out your APIs</a><br/>
+FluentConf, San Francisco, CA, March 8, 2016</a>

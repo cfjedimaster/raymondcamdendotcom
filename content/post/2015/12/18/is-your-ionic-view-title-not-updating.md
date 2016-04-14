@@ -29,7 +29,7 @@ Alright - so given an Ionic app where templates are a dynamic title, this is not
 
 Oddly - it will work sometimes - like if you happen to reload on that page itself - but not consistently. I'm sure there are Good(tm) reasons for this that make perfect sense, and I bet it revolves around Scope. I love Angular. Scope makes me want to push needles into my eyes though.
 
-So how do you fix it? Switch to using <code>&lt;ion-nav-title&gt</code>.
+So how do you fix it? Switch to using <code>&lt;ion-nav-title&gt;</code>.
 
 <pre><code class="language-markup">
 &lt;ion-view&gt;

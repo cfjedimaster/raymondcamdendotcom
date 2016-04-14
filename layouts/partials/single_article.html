@@ -5,14 +5,14 @@
 		{{ if eq .Type "post" }}
 
 		<p><a href="https://hostek.com/hosting/coldfusion/vps/coldfusion-vps-hosting.html">
-			<img src="http://static.raymondcamden.com/images/ray-ad.jpg" class="centered" style="margin-bottom:10px">
+			<img src="https://static.raymondcamden.com/images/ray-ad.jpg" class="centered" style="margin-bottom:10px">
 		</a></p>
 
 		{{ end }}
 
         <div class="article-inner">
             {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
-            <img src="http://static.raymondcamden.com{{ .Params.banner }}" class="article-banner">
+            <img src="https://static.raymondcamden.com{{ .Params.banner }}" class="article-banner">
             {{ end }}
 
             {{ partial "article_header" . }}
@@ -22,7 +22,19 @@
         </div>
 
     </article>
-
+	
+	{{ if (eq .Type "post") }}
+	<section id="authorPlead">
+		<h2>Like This?</h2>
+		<p>
+			If you like this article, please consider visiting my <a href="http://www.amazon.com/gp/registry/wishlist/2TCL1D08EZEYE/ref=cm_wl_rlist_go_v?">Amazon Wishlist</a> 
+			or <a href="https://paypal.me/RaymondCamden">donating via PayPal</a> to show your support. You can also 			
+			<a href="https://feedburner.google.com/fb/a/mailverify?uri=RaymondCamdensBlog">subscribe to the email feed</a> 
+			to get notified of new posts.
+		</p>
+	</section>
+	{{ end }}
+	
 	{{ if and (eq .Type "post") (not (isset .Params "nodisqus"))}}	
     <section id="comments">
         <div id="disqus_thread">

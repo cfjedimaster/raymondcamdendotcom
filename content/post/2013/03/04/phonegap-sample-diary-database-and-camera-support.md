@@ -75,4 +75,4 @@ Next - before I store the Diary entry, if I am on iOS, I simply copy the image o
 
 <script src="https://gist.github.com/cfjedimaster/5085467.js"></script>
 
-Overall, not as messy as I thought. You can find the complete source code attached below. Enjoy.<p><a href='/enclosures/Archive29.zip'>Download attached file.</a></p>
+Overall, not as messy as I thought. You can find the complete source code attached below. Enjoy.<p><a href='http://static.raymondcamden.com/enclosures/Archive29.zip'>Download attached file.</a></p>

@@ -17,6 +17,7 @@ If you find this information useful, please consider visiting my <a href="http:/
 I have not done a great job of tracking my various articles on other web sites, but I hope to correct that now. Consider the list below a beginning (as of July 2013) and certainly <i>not</i> a complete list.
 
 <ul>
+<li><a href="http://developer.telerik.com/featured/tools-learn-javascript/">Tools to Learn JavaScript by Doing</a> for the Telerik Developer Network</li>
 <li><a href="http://developer.telerik.com/featured/leveling-up-your-javascript/">Leveling Up Your JavaScript</a> for the Telerik Developer Network</li>
 <li><a href="http://developer.telerik.com/featured/review-javascript-error-monitoring-services/">A Review of JavaScript Error Monitoring Services</a> for the Telerik Developer Network</li>
 <li><a href="http://developer.telerik.com/featured/advanced-image-editing-in-the-browser/">Advanced Image Editing in the Browser</a> for the Telerik Developer Network</li>
@@ -60,7 +61,7 @@ I have not done a great job of tracking my various articles on other web sites, 
 
 <iframe style="width:120px;height:240px;float:left;margin-right:10px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=raymondcamden-20&marketplace=amazon&region=US&placement=1633430065&asins=1633430065&linkId=FOJFKR7OPMALMZUB&show_border=true&link_opens_in_new_window=false"></iframe>
 
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=1782167897&nou=1&ref=qf_sp_asin_til&fc1=000000&IS2=1&lt1=_top&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;float:left;margin-right:10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<a href="https://www.packtpub.com/application-development/jquery-mobile-web-development-essentials-third-edition"><img src="http://static.raymondcamden.com/images/2016/03/jqm3small.jpg" style="float:left"></a>
 
 <br clear="left">
 

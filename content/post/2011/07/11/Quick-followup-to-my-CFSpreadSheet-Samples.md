@@ -17,9 +17,9 @@ If you guessed mass chaos and destruction, you win. You can get around it by usi
 
 <p/>
 
-<code>
+<pre><code class="language-javascript">
 &lt;cfset filename = createUUID() & ".xls"&gt;
-</code>
+</code></pre>
 
 <p/>
 
@@ -27,9 +27,9 @@ But then you've got the job of cleaning up the files later on. (Not too difficul
 
 <p/>
 
-<code>
+<pre><code class="language-javascript">
 &lt;cfcontent type="application/msexcel" variable="#s#" reset="true"&gt;
-</code>
+</code></pre>
 
 <p/>
 
@@ -49,9 +49,9 @@ Ugh. This <i>should</i> just work. Luckily you can just wrap the variable with S
 
 <p/>
 
-<code>
+<pre><code class="language-javascript">
 &lt;cfcontent type="application/msexcel" variable="#spreadsheetReadBinary(s)#" reset="true"&gt;
-</code>
+</code></pre>
 
 <p/>
 
@@ -59,7 +59,7 @@ Here's the entire modified version of app. It now  sends the Excel sheet directl
 
 <p/>
 
-<code>
+<pre><code class="language-javascript">
 &lt;cfif not structKeyExists(form, "doit")&gt;
 	
 	&lt;form action="test.cfm" method="post"&gt;
@@ -126,4 +126,4 @@ Here's the entire modified version of app. It now  sends the Excel sheet directl
 	&lt;cfheader name="content-disposition" value="attachment; filename=myexcel.xls"&gt;
 	&lt;cfcontent type="application/msexcel" variable="#spreadsheetReadBinary(s)#" reset="true"&gt;
 &lt;/cfif&gt;
-</code>
+</code></pre>

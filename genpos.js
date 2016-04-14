@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var fs = require('fs');
 if(process.argv.length != 3) {
 	console.log('Usage: node genpos TITLE');

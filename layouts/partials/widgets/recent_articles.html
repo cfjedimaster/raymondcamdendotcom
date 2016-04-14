@@ -10,8 +10,10 @@
                 <div class="item-thumbnail">
                     <a href="{{ $.Permalink }}" class="thumbnail">
                     {{ if isset .Params "banner" }}
-                        <span style="background-image:url(http://static.raymondcamden.com{{ .Params.banner }})" alt="{{ $.Title }}" class="thumbnail-image"></span>
-                    {{else}}
+                        <span style="background-image:url(https://static.raymondcamden.com{{ .Params.banner }})" alt="{{ $.Title }}" class="thumbnail-image"></span>
+					{{ else if isset .Params "thumb" }}
+                        <span style="background-image:url(https://static.raymondcamden.com{{ .Params.thumb }})" alt="{{ $.Title }}" class="thumbnail-image"></span>
+                    {{ else }}
                         <span class="thumbnail-image thumbnail-none"></span>
                     {{ end }}
                     </a>
