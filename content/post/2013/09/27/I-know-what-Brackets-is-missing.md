@@ -18,7 +18,7 @@ After adding it though my life has meaning. It is complete. Simply click the lit
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/indexBrackets.jpg" />
+<img src="https://static.raymondcamden.com/images/indexBrackets.jpg" />
 </p>
 
 <p>
@@ -26,7 +26,7 @@ Here is a zoomed in version that may make it a bit more clear...
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/ib2.jpg" />
+<img src="https://static.raymondcamden.com/images/ib2.jpg" />
 </p>
 
 <p>

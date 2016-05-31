@@ -27,7 +27,7 @@ Ok, so with that out of the way, let's talk shop.
 
 The first thing I did was to see what would happen if I took a generic Ionic app and just plain ran it under Electron. To do that, I created a new Ionic app and used the -no-cordova flag. If you aren't aware, you can tell the Ionic CLI to create a new project and skip including all the Cordova bits. You <i>still</i> get a bunch of extra stuff like the bower file and gulp script, so I simply copied out the www folder.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot18.png" alt="shot1" width="261" height="149" class="aligncenter size-full wp-image-6515 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot18.png" alt="shot1" width="261" height="149" class="aligncenter size-full wp-image-6515 imgborder" />
 
 Then, following the <a href="http://electron.atom.io/docs/v0.29.0/tutorial/quick-start/">Electron quick start</a>, I added a package.json file and main.js. For my main.js, I copied their code exactly, but removed the bits to open dev tools. (More on that in a bit.)
 
@@ -70,7 +70,7 @@ app.on('ready', function() {
 
 Here's how my directory structure looked. And again, this is the result of taking the www contents from Ionic's default template (tabs) and adding in the files Electron requires.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot24.png" alt="shot2" width="255" height="197" class="aligncenter size-full wp-image-6516 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot24.png" alt="shot2" width="255" height="197" class="aligncenter size-full wp-image-6516 imgborder" />
 
 At this point I went and just tried running it with the Electron CLI. Surprisingly, it just plain worked. In fact, even the $ionicPlatform.ready fired. As far as I can tell, it noticed that cordova.js didn't load and assumed I was running the app on a desktop browser. 
 
@@ -109,11 +109,11 @@ Next, inside app.js I completely emptied out the run block. We don't need to tes
 
 I then noticed something odd. Here's the app running:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot32.png" alt="shot3" width="500" height="375" class="aligncenter size-full wp-image-6517" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot32.png" alt="shot3" width="500" height="375" class="aligncenter size-full wp-image-6517" />
 
 And here it is with another tab selected:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot43.png" alt="shot4" width="500" height="375" class="aligncenter size-full wp-image-6518" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot43.png" alt="shot4" width="500" height="375" class="aligncenter size-full wp-image-6518" />
 
 Did you notice the title? The title of the app changes as I change my view. Now, that could be nice, but to me, it doesn't make sense. The app should have a core title, like "My App", the one I used in html earlier, and the header could continue to be more context-driven. Unfortunately, the code that updates the title is built into Ionic itself and can't be disabled. I raised the issue in an Ionic chat room, and Leandro Zubrezki spent some time helping me out. The following solution is 100% his idea.
 
@@ -147,23 +147,23 @@ And that was it! It worked fine at that point.
 
 One more tip. Don't forget you can enable dev tools for your app from the menu.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot51.png" alt="shot5" width="800" height="619" class="aligncenter size-full wp-image-6519" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot51.png" alt="shot5" width="800" height="619" class="aligncenter size-full wp-image-6519" />
 
 By default this will appear in the app. Don't forget you can 'pop it' out using the icon highlighted below.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot71.png" alt="shot7" width="500" height="375" class="aligncenter size-full wp-image-6520" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot71.png" alt="shot7" width="500" height="375" class="aligncenter size-full wp-image-6520" />
 
 That icon actually has three states - right, bottom, and popped out. So if it looks like this:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot81.png" alt="shot8" width="343" height="119" class="aligncenter size-full wp-image-6521" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot81.png" alt="shot8" width="343" height="119" class="aligncenter size-full wp-image-6521" />
 
 Clicking will just send it to the bottom. Click and hold to open a menu and select the icon I showed earlier. Using this, I was able to have my dev tools nicely separate from the app which made debugging easier. I also made use of the Reload option too so I didn't have to restart the app from the command line. 
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot91.png" alt="shot9" width="452" height="700" class="aligncenter size-full wp-image-6522 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot91.png" alt="shot9" width="452" height="700" class="aligncenter size-full wp-image-6522 imgborder" />
 
 Speaking of the command line, it is worth noting that console.log messages will show up there too.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot101.png" alt="shot10" width="800" height="301" class="aligncenter size-full wp-image-6523" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot101.png" alt="shot10" width="800" height="301" class="aligncenter size-full wp-image-6523" />
 
 Whew - that was a lot. So if you want to see the code behind the modified Tabs demo, you can find it here: <a href="https://github.com/cfjedimaster/Cordova-Examples/tree/master/ionic_electron_tabs">https://github.com/cfjedimaster/Cordova-Examples/tree/master/ionic_electron_tabs</a>
 
@@ -171,9 +171,9 @@ Whew - that was a lot. So if you want to see the code behind the modified Tabs d
 
 With a basic understanding of how to make this work in place, I decided to try a desktop version of my <a href="https://github.com/cfjedimaster/Cordova-Examples/tree/master/rssreader_ionic">RSS Reader</a>. Here it is up and running:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot112.png" alt="shot11" width="600" height="450" class="aligncenter size-full wp-image-6524 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot112.png" alt="shot11" width="600" height="450" class="aligncenter size-full wp-image-6524 imgborder" />
  
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot122.png" alt="shot12" width="600" height="450" class="aligncenter size-full wp-image-6525 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot122.png" alt="shot12" width="600" height="450" class="aligncenter size-full wp-image-6525 imgborder" />
 
 Not the most thrilling app, but let me discuss how I changed it for Electron. 
 

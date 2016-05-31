@@ -21,7 +21,7 @@ No limits.
 
 Not as far as I can tell. I made this lovely PNG gauge below. (And yes, SWF is supported too.)
 
-<img src="http://static.raymondcamden.com/images/cfjedi/dial.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/dial.png">
 
 The code is a bit complex, and involves some string manipulation, but could be made easier if someone felt like creating a nice CFC for it. Here is the code, and remember credit goes to Simon and Christopher:
 

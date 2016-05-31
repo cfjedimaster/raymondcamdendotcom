@@ -19,11 +19,11 @@ From the beginning, I loved it. The title sequence (and sorry, this was the best
 
 The story takes place in a America that is split between Japan and Germany with a neutral zone between them. The world-building is done <strong>very</strong> well.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/highcastle.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/01/highcastle.png" alt="highcastle" width="750" height="442" class="alignnone size-full wp-image-5567" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/highcastle.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/01/highcastle.png" alt="highcastle" width="750" height="442" class="alignnone size-full wp-image-5567" /></a>
 
 I found myself pausing multiple times just so I could see all the peculiarities of Nazi/Japanese America. 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/highcastle2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/01/highcastle2.png" alt="highcastle2" width="750" height="414" class="alignnone size-full wp-image-5568" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/highcastle2.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/01/highcastle2.png" alt="highcastle2" width="750" height="414" class="alignnone size-full wp-image-5568" /></a>
 
 Some of the best parts though were more subtle. As one of the main characters crosses the country, you get snippets of this America that are chilling. 
 

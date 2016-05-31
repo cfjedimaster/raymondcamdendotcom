@@ -22,6 +22,12 @@ if(minute.length == 1) minute = '0'+minute;
 var date = year + '-'+month+'-'+day+'T'+hour+':'+minute+':00-07:00';
 
 var slug = title.replace(/ /g,'-').toLowerCase();
+//remove multiple -
+slug = slug.replace(/-{2,}/,'-');
+//remove non alnum
+//slug = slug.replace(/[^A-Za-z\-]+/g,'');
+slug = slug.replace(/[^\w\-]+/g,'');
+
 //default template
 var template = `
 {

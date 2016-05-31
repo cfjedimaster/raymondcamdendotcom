@@ -21,13 +21,13 @@ A while ago I gave a presentation on Ionic Services, and as I mentioned earlier 
 
 First and foremost, you want to update your local Ionic CLI. Type <code>ionic -v</code> at the command line and you'll probably see this:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot15.png" alt="shot1" width="671" height="213" class="aligncenter size-full wp-image-6835" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot15.png" alt="shot1" width="671" height="213" class="aligncenter size-full wp-image-6835" />
 
 Go ahead and run the update and ensure you are at version 1.6.5. At the time I wrote this blog entry the <a href="https://github.com/driftyco/ionic-cli/blob/master/CHANGELOG.md">change log</a> had not yet been updated, but hopefully that will be corrected soon.
 
 Next, you'll want to ensure you have an account at <a href="https://apps.ionic.io">Ionic.io</a>. I'm not entirely sure if the CLI allows you to register, but since you're going to be using the site anyway, you should go ahead and register there.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot23.png" alt="shot2" width="451" height="642" class="aligncenter size-full wp-image-6836 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot23.png" alt="shot2" width="451" height="642" class="aligncenter size-full wp-image-6836 imgborder" />
 
 At this point, I'm going to borrow directly from Ionic's excellent docs for their services. You can find them here: <a href="http://docs.ionic.io/">http://docs.ionic.io/</a>. But I'm copying from them because I'm so darn excited about how simple things have gotten. Assuming you've made a new project, you begin by adding the core services library like so:
 
@@ -41,7 +41,7 @@ Next, you need to upload your application to ionic.io:
 
 The first time you do this, the CLI will prompt you to login. After that it will remember your authentication information.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot31.png" alt="shot3" width="552" height="170" class="aligncenter size-full wp-image-6837" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot31.png" alt="shot3" width="552" height="170" class="aligncenter size-full wp-image-6837" />
 
 And that's it. Seriously. Previously this involved you doing all the edits by hand. To be clear, it wasn't a lot of work - we're talking 5 minutes here - but I know I screwed it up more than once and I freaking love that the CLI is handling this for me now. 
 
@@ -63,23 +63,23 @@ Ionic Users have a couple of different features:
 
 Ok, so how about the web site of this. First off, don't forget the big white bar on top of the Ionic.io site is a search bar. I know I forget sometimes, and if you are like me and have about two hundred apps, it can be difficult to find the one you just added.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot4.png" alt="shot4" width="750" height="424" class="aligncenter size-full wp-image-6839" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot4.png" alt="shot4" width="750" height="424" class="aligncenter size-full wp-image-6839" />
 
 Yes, it clearly says search - I still miss it. Once you find your app, simply click the Users link.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/Screen-Shot-2015-09-30-at-15.18.03.png" alt="Screen Shot 2015-09-30 at 15.18.03" width="750" height="552" class="aligncenter size-full wp-image-6840" /> 
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/Screen-Shot-2015-09-30-at-15.18.03.png" alt="Screen Shot 2015-09-30 at 15.18.03" width="750" height="552" class="aligncenter size-full wp-image-6840" /> 
 
 You can see I've got a grand total of one user. In the future, Ionic plans on adding basic search/filter so you can find one user among millions. And of course, one day we'll have a proper REST API for everything on Ionic.io. Clicking edit lets you add arbitrary values to the user:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot5.png" alt="shot5" width="750" height="578" class="aligncenter size-full wp-image-6841" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot5.png" alt="shot5" width="750" height="578" class="aligncenter size-full wp-image-6841" />
 
 And yes - I did try to inject something bad into the user project. Even with stuff I love I try to see if I can break the web app. ;) If you do add properties via the web form, it is vital that you do the following. First, click Done:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot6.png" alt="shot6" width="750" height="361" class="aligncenter size-full wp-image-6842" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot6.png" alt="shot6" width="750" height="361" class="aligncenter size-full wp-image-6842" />
 
 And then - you <strong>must</strong> hit done again!
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot7.png" alt="shot7" width="750" height="163" class="aligncenter size-full wp-image-6843" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot7.png" alt="shot7" width="750" height="163" class="aligncenter size-full wp-image-6843" />
 
 You may or may not see this bug/issue. Eric and I are talking about it right now, and he believes it is an Ajax timing issue. So if you click around crazy like I tend to do, you may see it more often. Just... look out for it and hopefully it won't be an issue in the future.
 

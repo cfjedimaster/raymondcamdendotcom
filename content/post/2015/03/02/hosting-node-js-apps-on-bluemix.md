@@ -19,29 +19,29 @@ Ok, so first off, you'll need to sign up for Bluemix. You won't need a credit ca
 
 The very first time you sign in, you're asked to create a "Space". You can think of this as a bucket for your various apps and services. You can name this whatever you want, and you'll just need to do this one time.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/dbbm1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/dbbm1.png" alt="dbbm" width="850" height="518" class="alignnone size-full wp-image-5754" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/dbbm1.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/dbbm1.png" alt="dbbm" width="850" height="518" class="alignnone size-full wp-image-5754" /></a>
 
 After you've done that, you can then create an app. 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot1.png" alt="shot1" width="850" height="410" class="alignnone size-full wp-image-5747" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot1.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot1.png" alt="shot1" width="850" height="410" class="alignnone size-full wp-image-5747" /></a>
 
 Next, select Web.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot2.png" alt="shot2" width="850" height="410" class="alignnone size-full wp-image-5748" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot2.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot2.png" alt="shot2" width="850" height="410" class="alignnone size-full wp-image-5748" /></a>
 
 And then select SDK for Node.js
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot3.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot3.png" alt="shot3" width="850" height="410" class="alignnone size-full wp-image-5749" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot3.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot3.png" alt="shot3" width="850" height="410" class="alignnone size-full wp-image-5749" /></a>
 
 For app name, select whatever makes sense.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-02-at-13.00.54.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/Screen-Shot-2015-03-02-at-13.00.54.png" alt="Screen Shot 2015-03-02 at 13.00.54" width="850" height="410" class="alignnone size-full wp-image-5750" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-02-at-13.00.54.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/Screen-Shot-2015-03-02-at-13.00.54.png" alt="Screen Shot 2015-03-02 at 13.00.54" width="850" height="410" class="alignnone size-full wp-image-5750" /></a>
 
 Note that the app has to be unique across <i>all</i> of Bluemix. So you may need to prefix the name of your app with something unique. So for example, if you were launching raymondcamden.com there, I'd pick a name that included that. (And yes, the name I used in the screen shot above was taken. I switched to RKCMyApp.
 
 On the next screen, you're given some good information to help you get started.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot5.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot5.png" alt="shot5" width="850" height="410" class="alignnone size-full wp-image-5751" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot5.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot5.png" alt="shot5" width="850" height="410" class="alignnone size-full wp-image-5751" /></a>
 
 Pay particular attention to the "CF Command Line Interface" download. This is the command line tool that you will use to help push updates from your machine to Bluemix. This is a one time install. Unfortunately you can't use npm to do the install, but hopefully in the future those tools will be published there.
 
@@ -49,7 +49,7 @@ You can, if you want, also download the starter app code. That's the code curren
 
 Go ahead and dismiss that welcome text to view your application console. If you ever want to get back to it, it is available by clicking "Start Coding" in the left hand nav.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-02-at-13.09.41.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/Screen-Shot-2015-03-02-at-13.09.41.png" alt="Screen Shot 2015-03-02 at 13.09.41" width="850" height="410" class="alignnone size-full wp-image-5752" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-02-at-13.09.41.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/Screen-Shot-2015-03-02-at-13.09.41.png" alt="Screen Shot 2015-03-02 at 13.09.41" width="850" height="410" class="alignnone size-full wp-image-5752" /></a>
 
 You can see options for adding new instances, increasing memory, and adding new services. You can stop and restart the app as well as seeing a log of recent changes. Finally note the "Routes" section on top. Clicking on the URL there will take you to your application. 
 
@@ -73,7 +73,7 @@ Pushing updates to your app then is trivial:
 
 The update will take about a minute. I'm guessing if you add a bunch of new libraries to your package.json file it may take longer. But once done, you can hit your site and see it changed. You can see my app here, but note that I created this in a trial account that is ending in three days: <a href="http://rkcmyapp.mybluemix.net/">http://rkcmyapp.mybluemix.net/</a>. In case my trial account has expired, here is what I created in about 20 seconds:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-02-at-13.50.57.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/Screen-Shot-2015-03-02-at-13.50.57.png" alt="Screen Shot 2015-03-02 at 13.50.57" width="589" height="290" class="alignnone size-full wp-image-5755" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-02-at-13.50.57.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/Screen-Shot-2015-03-02-at-13.50.57.png" alt="Screen Shot 2015-03-02 at 13.50.57" width="589" height="290" class="alignnone size-full wp-image-5755" /></a>
 
 The command line has a heck of a lot of power (basically everything the site has). You can run <code>cf</code> by itself to see docs at the command line. One option I found recently was <code>cf logs MYAPP</code>. This will begin tailing your logs, from your server, right in your terminal. 
 

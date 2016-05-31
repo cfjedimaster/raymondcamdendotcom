@@ -24,7 +24,7 @@ Deciding on the UI framework for an application is an incredibly important decis
 
 I began then with a simple home page based on my mockups from the <a href="http://www.raymondcamden.com/index.cfm/2012/9/21/Building-a-Parsecom-Enabled-PhoneGap-App--Part-1">first blog entry</a>. I plopped in the header graphic, some bullcrap marketing text, and my buttons. Here's how it looked:
 
-<img src="http://static.raymondcamden.com/images/first.png" />
+<img src="https://static.raymondcamden.com/images/first.png" />
 
 Notice that menu on top? It's part of the Bootstrap responsive navigation system. Clicking on it brings out a flyout menu. If viewed on a tablet in landscape mode, the items show up on the bar. 
 
@@ -40,7 +40,7 @@ Next up was the Add Tip page. Again, this was fairly easy since our tips consist
 
 Which gave me this...
 
-<img src="http://static.raymondcamden.com/images/third.png" />
+<img src="https://static.raymondcamden.com/images/third.png" />
 
 Ok, so now let's talk about the code that's going to integrate with this form. I'll share the relevant code (which may be found in main.js), and then explain what's going on.
 
@@ -60,7 +60,7 @@ This is both good and bad. During development, it's great. I can try things out 
 
 After launch though this falls into the realm of Very Bad Idea.
 
-<img src="http://static.raymondcamden.com/images/Very-bad-idea.jpg" />
+<img src="https://static.raymondcamden.com/images/Very-bad-idea.jpg" />
 
 If you change your data structure after folks have been using the application, your code then has to handle this somehow. So imagine you had a data type called person with a "Name" property. You figure out later on it makes much more sense to have a firstName and lastName property instead. You now have to update all of that old data or write code that handles both 'styles' of objects. It is certainly <i>possible</i> to do that (don't forget that you can access Parse.com data via a REST API - which means you could use some server-side code to do a one-time data update) but for the most part, you want to try to get your structure as concrete as possible before launch.
 
@@ -70,7 +70,7 @@ On saving the object, I let the user know and then send them back. The "doAlert"
 
 So - the final part to today's blog entry is the list function. I plan on using some mapping there and intelligent reporting (i.e., tell me the reports within 10 miles), but for now, I'm doing a simple list:
 
-<img src="http://static.raymondcamden.com/images/fourth.png" />
+<img src="https://static.raymondcamden.com/images/fourth.png" />
 
 I'll skip the HTML for this one since it is just a div, but here's a look at how I retrieved that data:
 

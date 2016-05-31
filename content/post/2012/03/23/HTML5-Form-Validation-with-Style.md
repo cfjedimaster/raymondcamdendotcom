@@ -76,7 +76,7 @@ And here's how it renders normally.
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip48.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip48.png" />
 
 <p>
 
@@ -105,7 +105,7 @@ I've defined 3 different things here - all using pseudo-classes. The first defin
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip49.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip49.png" />
 
 <p>
 
@@ -113,14 +113,14 @@ Big difference, right? Now look at it after I've done a bit of editing.
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip50.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip50.png" />
 
 <p>
 
 What isn't evident in these screenshots is that Chrome and Firefox both animate these styles. It's a minor animation, pretty subtle, but it works rather well. You can demo this form here:
 
 <p>
-<a href="http://www.raymondcamden.com/demos/2012/mar/23/20_validationnicer.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/mar/23/20_validationnicer.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 
@@ -212,7 +212,7 @@ In Chrome, this is what you get:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip51.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip51.png" />
 
 <p>
 
@@ -220,7 +220,7 @@ My numeric fields are empty, but marked in-range, which is a bit weird. But look
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip52.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip52.png" />
 
 <p>
 
@@ -228,7 +228,7 @@ As you can see, it did recognize my number was too low and colored it wrong. All
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip53.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip53.png" />
 
 <p>
 
@@ -236,7 +236,7 @@ It looks like Firefox isn't supporting the number type at all so it makes sense 
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip54.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip54.png" />
 
 <p>
 
@@ -244,4 +244,4 @@ You can demo this version below.
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/2012/mar/23/21_validationnicer.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/mar/23/21_validationnicer.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

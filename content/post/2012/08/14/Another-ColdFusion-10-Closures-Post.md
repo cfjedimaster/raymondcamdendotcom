@@ -19,7 +19,7 @@ I began with a simple example of how arraySort was updated to include closure su
 
 I've got a simple static array of data I want to sort. I pass it to arraySort and dump the results. 
 
-<img src="http://static.raymondcamden.com/images/screenshot20.png" />
+<img src="https://static.raymondcamden.com/images/screenshot20.png" />
 
 Notice something? The bands that begin with "The" are sorted correctly, but not optimally. Instead, most folks would probably prefer them sorted by the letter after the word The. Using a closure, this becomes simple to fix.
 
@@ -27,7 +27,7 @@ Notice something? The bands that begin with "The" are sorted correctly, but not 
 
 I supplied a new function to arraySort that handles the comparison manually. If it finds that the string begins with "The", it just removes it. This could be a bit more intelligent, but you get the idea. Here's the result:
 
-<img src="http://static.raymondcamden.com/images/screenshot21.png" />
+<img src="https://static.raymondcamden.com/images/screenshot21.png" />
 
 At the keynote, I talked about Mark's Sesame library, but also <a href="http://underscorecfc.riaforge.org/">UnderScore.cfc</a> by Ross Spivey. As you can probably guess, this is a port of the ultra-cool <a href="http://underscorejs.org/">UnderScore.js</a> library. 
 

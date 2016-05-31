@@ -180,7 +180,7 @@ So how do you test this? If you run this from Aptana, you can't (as far as I kno
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/Capture14.PNG" />
+<img src="https://static.raymondcamden.com/images/Capture14.PNG" />
 
 <p>
 
@@ -188,7 +188,7 @@ When double clicking on ray.foo, I then get:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Capture15.PNG" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Capture15.PNG" />
 
 <p>
 
@@ -210,7 +210,7 @@ Ok, not very exciting, but you can see where I'm setting up my CFM to force the 
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Capture16.PNG" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Capture16.PNG" />
 
 <p>
 
@@ -218,7 +218,7 @@ And clicking this then gives me:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Capture17.PNG" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Capture17.PNG" />
 
 <p>
 

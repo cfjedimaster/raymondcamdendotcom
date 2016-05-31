@@ -23,7 +23,7 @@ About two months ago I <a href="http://www.raymondcamden.com/index.cfm/2009/7/2/
 
 The query contains two columns, mydate and rannum. (I just now noticed the space in his list of columns. ColdFusion appears to auto-trim it. I'd remove that from the code however.) Dumping the query shows:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 183.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 183.png" />
 
 Now consider this simple QofQ:
 
@@ -35,7 +35,7 @@ select mydate, rannum from mydata
 
 After running this, a new dump of mydata shows:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 255.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 255.png" />
 
 The dates in the original query have now been converted into full date/time stamps. This comes from the fact that ColdFusion noticed they were dates and treated them as such. I think that makes sense, but it still bugs me that it changes the original query.
 

@@ -20,7 +20,7 @@ One of the directives that ships with Ionic is the ability to build nicely forma
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen Shot 2014-07-10 at 6.15.58 AM1.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2014-07-10 at 6.15.58 AM1.png" />
 </p>
 
 <p>

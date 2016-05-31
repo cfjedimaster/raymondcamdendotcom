@@ -19,7 +19,7 @@ Working with files is easy. You get access to a variable, _contents, that includ
 
 In order to create a simple testing environment, I set up the following folder structure in a Harp project:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot1.png" alt="shot1" width="470" height="620" class="aligncenter size-full wp-image-6752 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot1.png" alt="shot1" width="470" height="620" class="aligncenter size-full wp-image-6752 imgborder" />
 
 I want to point out a few things. Note that there is a root level _harp.json file for data. Then notice the articles subdirectory has one as well. Beneath that are three "category" directories each with some random files in it. Ok, so given that, let's look at the data. Your templates have access to a variable, public, that represents pretty much all of the data in the current Harp application. There is a Harp recipe (<a href="http://harpjs.com/recipes/print-debugging">How to print out all available data for debugging</a>) that details how to quickly print out variables to the page and console:
 
@@ -30,7 +30,7 @@ pre #{ JSON.stringify(public, null, '\t') }</code></pre>
 
 Here is how it looks for my sample structure above:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot2.png" alt="shot2" width="700" height="949" class="aligncenter size-full wp-image-6753 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot2.png" alt="shot2" width="700" height="949" class="aligncenter size-full wp-image-6753 imgborder" />
 
 So let's pick this apart. At the top level is a _contents structure. This contains the files, and only the files, for the root level folder. Then you have _data. This represents - well - data. And then you have one key per subdirectory. You can see the same pattern represented under <code>articles</code> as well.
 

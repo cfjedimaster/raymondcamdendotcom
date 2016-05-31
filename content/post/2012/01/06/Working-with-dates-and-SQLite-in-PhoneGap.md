@@ -140,7 +140,7 @@ The display logic is simple - if a bit ugly. I create new JavaScript date object
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/device-2012-01-06-094833.png" />
+<img src="https://static.raymondcamden.com/images/device-2012-01-06-094833.png" />
 
 <p>
 

@@ -16,11 +16,11 @@ Earlier this morning the Apache Cordova team released a cool update to the CLI (
 
 To use this new feature, you simply add --save when adding a platform or plugin. As an example:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/pg1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/pg1.png" alt="pg1" width="674" height="162" class="alignnone size-full wp-image-5759" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/pg1.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/pg1.png" alt="pg1" width="674" height="162" class="alignnone size-full wp-image-5759" /></a>
 
 Notice how it specifically mentions that it is being saved into config.xml. And here is an example of saving a plugin:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/pg2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/pg2.png" alt="pg2" width="960" height="252" class="alignnone size-full wp-image-5760" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/pg2.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/pg2.png" alt="pg2" width="960" height="252" class="alignnone size-full wp-image-5760" /></a>
 
 If you look at your config.xml, you can see this information is now added.
 
@@ -55,7 +55,7 @@ First, if you want to get a list of emulator images, you would do this:
 
 This will <strong>not</strong> fire up the emulator but just list the available emulator types for your installed plugins. I've only got iOS as a platform in this project, but here's an example of the output.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/pg3.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/pg3.png" alt="pg3" width="850" height="410" class="alignnone size-full wp-image-5761" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/pg3.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/pg3.png" alt="pg3" width="850" height="410" class="alignnone size-full wp-image-5761" /></a>
 
 To use this, you can then pass it as a target value like so: <code>cordova emulate --target iPad-2</code>. In theory, all of this should work if you had multiple devices attached to your machine as well, but as I'm too lazy to go get my physical iOS devices, I'll just trust that it works. ;)
 

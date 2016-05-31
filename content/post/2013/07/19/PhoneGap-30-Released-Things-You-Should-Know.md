@@ -30,7 +30,7 @@ One of the coolest aspects of the new command line though is that it fully suppo
 
 Another useful feature is that if you run phongap as is, you get a quick checklist of what SDKs/platforms you can use locally:
 
-<img src="http://static.raymondcamden.com/images/Screenshot_7_19_13_4_09_PM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_7_19_13_4_09_PM.png" />
 
 <strong>OK - READ THIS CAREFULLY</strong>
 

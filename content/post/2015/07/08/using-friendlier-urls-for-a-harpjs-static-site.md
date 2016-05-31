@@ -16,7 +16,7 @@ Ok, "friendly" is in the eye of the beholder, but honestly, I spent about five m
 
 By default, HarpJS asks you to place a _data.json file in your folder to associate metadata with content. That works fine if you have one folder for your entries, but for my demo, I've got a bunch of folders. One for the year, one for the month, one for the day, and finally, one for the article. Heres an example of just how deep/complex this can get:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot12.png" alt="shot1" width="574" height="650" class="alignnone size-full wp-image-6365" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot12.png" alt="shot1" width="574" height="650" class="alignnone size-full wp-image-6365" />
 
 You could, if you wanted, create a _data.json file in every single folder. That wouldn't be horrible per se, but if you ever change the structure of your metadata, to add categories for example, you would need to update a butt-load of files. So I wanted to figure out another solution that would make handling the metadata easier. I also wanted a solution that emphasized ease of content creation. I didn't necessarily mind if the core solution itself was complex, but the actual act of writing a blog entry should require minimal work/direction/etc in order to publish. Here is what I came up with.
 

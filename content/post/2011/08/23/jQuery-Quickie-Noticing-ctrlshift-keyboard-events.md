@@ -85,4 +85,4 @@ As you can see, I look for both the ctrlKey and shiftKey flags in the event obje
 <p>
 
 
-<a href="http://www.raymondcamden.com/demos/aug232011/test2.html"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/aug232011/test2.html"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

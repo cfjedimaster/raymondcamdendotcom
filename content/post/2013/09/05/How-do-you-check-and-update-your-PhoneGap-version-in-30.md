@@ -19,14 +19,14 @@ I've been using Node and npm for a while, but I'm definitely still a bit unsure 
 
 First, remember that the phonegap CLI has a -v argument that tells you the current version you have installed:
 
-<img src="http://static.raymondcamden.com/images/bp1.jpg" />
+<img src="https://static.raymondcamden.com/images/bp1.jpg" />
 
 Currently the PhoneGap site only mentions 3.0 and not anything more specific, so to compare your version to the latest in npm, you would do "npm info phonegap version". This is demonstrated below:
 
-<img src="http://static.raymondcamden.com/images/bp2.jpg" />
+<img src="https://static.raymondcamden.com/images/bp2.jpg" />
 
 In this case, my version is the same, but if I wanted to update, I'd run: npm update -g phonegap. I always use sudo in front but you may not have to do that (especially on Windows ;).
 
-<img src="http://static.raymondcamden.com/images/bp3.jpg" />
+<img src="https://static.raymondcamden.com/images/bp3.jpg" />
 
 Hope this helps. Tomorrow morning I'll be blogging about how plugins have changed.

@@ -53,7 +53,7 @@ $(document).ready(function() {
 
 Basically - listen to click events in checkboxes within my art table, and on click, toggle a CSS class named highlight. Not exactly rocket science, but it gets the job done! The entire template is below the screen shot. Enjoy!
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2009-11-18 at 1.00.34 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2009-11-18 at 1.00.34 PM.png" />
 
 <code>
 &lt;html&gt;

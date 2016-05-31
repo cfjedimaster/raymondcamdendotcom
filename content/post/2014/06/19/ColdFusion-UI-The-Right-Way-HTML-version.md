@@ -25,7 +25,7 @@ Earlier this week I got off my rear and actually built a process to make this ha
 </ul>
 
 <p>
-I decided to put the output up on a S3 bucket. You can now read the docs here: <a href="http://static.raymondcamden.com/cfuitherightway/">http://static.raymondcamden.com/cfuitherightway/</a>. I'll update the GitHub readme in a few moments to add this link as well. I'm tempted to extend my Grunt script to also push updates to S3. Heck, I could also have it do the git pull action as well. Anyway, for folks who may be curious, here is the script I'm using.
+I decided to put the output up on a S3 bucket. You can now read the docs here: <a href="https://static.raymondcamden.com/cfuitherightway/">https://static.raymondcamden.com/cfuitherightway/</a>. I'll update the GitHub readme in a few moments to add this link as well. I'm tempted to extend my Grunt script to also push updates to S3. Heck, I could also have it do the git pull action as well. Anyway, for folks who may be curious, here is the script I'm using.
 </p>
 
 <pre><code class="language-javascript">module.exports = function(grunt) {

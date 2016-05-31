@@ -248,4 +248,4 @@ Check out the demo of this here. And before you ask - yes - Local Storage does w
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/sep112011/test3.html"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/sep112011/test3.html"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

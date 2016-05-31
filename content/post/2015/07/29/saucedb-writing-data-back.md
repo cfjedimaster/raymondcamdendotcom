@@ -25,15 +25,15 @@ I began by creating a <a href="https://cloudant.com/for-developers/search/">Clou
 
 Here is the index I created. My data consists of Sauces with names, so I simply index the name. I want to get the name back in searches, so I tell the index to include the value.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot113.png" alt="shot1" width="800" height="503" class="aligncenter size-full wp-image-6548" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot113.png" alt="shot1" width="800" height="503" class="aligncenter size-full wp-image-6548" />
 
 This worked well enough, but it took me a good hour of banging my head against the wall to get search working. Why? In the term area, you need to include a field. So for example, this returns nothing:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot26.png" alt="shot2" width="407" height="156" class="aligncenter size-full wp-image-6549" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot26.png" alt="shot2" width="407" height="156" class="aligncenter size-full wp-image-6549" />
 
 But when I added the actual field name, "name", it worked:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/07/shot33.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot33.png" alt="shot3" width="600" height="269" class="aligncenter size-full wp-image-6550" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/07/shot33.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot33.png" alt="shot3" width="600" height="269" class="aligncenter size-full wp-image-6550" /></a>
 
 Ok, so that's cool. I then needed to work with this on the server-side in my Node code:
 
@@ -76,15 +76,15 @@ You can see I do a bit of manipulation on the input and then just use the Search
 
 And that was pretty much it. (I did change the view template a tiny bit.) Here it is running in the emulator with real data powering the autocomplete.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-29-2015-5.10.47-PM.png" alt="iOS Simulator Screen Shot Jul 29, 2015, 5.10.47 PM" width="394" height="700" class="aligncenter size-full wp-image-6551 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-29-2015-5.10.47-PM.png" alt="iOS Simulator Screen Shot Jul 29, 2015, 5.10.47 PM" width="394" height="700" class="aligncenter size-full wp-image-6551 imgborder" />
 
 Ok, so at this point, we load up a form to let you write your review. I had already built this out and included logic to recognize a new sauce via an existing one. So for example, an existing sauce just asks you to write the text and select the rating.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-29-2015-5.13.27-PM.png" alt="iOS Simulator Screen Shot Jul 29, 2015, 5.13.27 PM" width="750" height="657" class="aligncenter size-full wp-image-6552 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-29-2015-5.13.27-PM.png" alt="iOS Simulator Screen Shot Jul 29, 2015, 5.13.27 PM" width="750" height="657" class="aligncenter size-full wp-image-6552 imgborder" />
 
 Whereas a new sauce requires a name and company:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-29-2015-5.14.33-PM.png" alt="iOS Simulator Screen Shot Jul 29, 2015, 5.14.33 PM" width="700" height="818" class="aligncenter size-full wp-image-6553 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-29-2015-5.14.33-PM.png" alt="iOS Simulator Screen Shot Jul 29, 2015, 5.14.33 PM" width="700" height="818" class="aligncenter size-full wp-image-6553 imgborder" />
 
 Alrighty... so... here comes the fun part. We now need to communicate back to the server. That's a simple post. But remember that we need to include information in the post that signifies that the user is logged in. I already described how I'm using <a href="https://github.com/ccoenraets/OpenFB">OpenFB</a> for Facebook integration and I've got a login token I copy to $rootScope. I also blogged (<a href="http://www.raymondcamden.com/2015/07/10/combining-client-side-social-login-and-server-side-authorization-with-cordova-and-node">Combining client-side social login and server-side authorization with Cordova and Node</a>) about how you can combine client-side login with server-side authorization in Node. All I had to do was bring those parts together.
 
@@ -177,7 +177,7 @@ Now let's look at adding a review. This has to handle two cases - adding a new s
 
 And that's it. Here's my last review:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-29-2015-5.21.22-PM.png" alt="iOS Simulator Screen Shot Jul 29, 2015, 5.21.22 PM" width="422" height="750" class="aligncenter size-full wp-image-6554 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-29-2015-5.21.22-PM.png" alt="iOS Simulator Screen Shot Jul 29, 2015, 5.21.22 PM" width="422" height="750" class="aligncenter size-full wp-image-6554 imgborder" />
 
 There's still plenty of rough edges in this code. For example, going back to the feed doesn't get a fresh copy. I'm going to fix that with a cool Ionic widget in my next post. There's also some view caching going on that needs cleaning. You get the idea. But it's getting there!
 

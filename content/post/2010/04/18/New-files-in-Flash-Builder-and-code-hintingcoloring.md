@@ -15,7 +15,7 @@ I was working on my <a href="http://www.cfobjective.com">cfObjective</a> demo co
 
 Turns out the reason was simple. When you make a new file in Flex/Flash Builder, you are given a large set of options: 
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-04-18 at 12.45.09 PM.png" title="OMFG What do I pick?" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-04-18 at 12.45.09 PM.png" title="OMFG What do I pick?" />
 
 You may laugh - but I find that a bit intimating. I generally know what I want, but I'd rather just select "File" and then start coding. Turns out, when you do that, the IDE isn't quite sure how to handle it. I guess that's pretty fair if you think about it. 
 

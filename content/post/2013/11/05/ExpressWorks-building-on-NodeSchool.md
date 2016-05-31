@@ -14,7 +14,7 @@
 Just a quick note  - and followup to my <a href="http://www.raymondcamden.com/index.cfm/2013/11/1/Check-out-nodeschoolio">review</a> of <a href="http://www.nodeschool.io">NodeSchool</a>. Yesterday I discovered <a href="http://webapplog.com/expressworks/">ExpressWorks</a>. ExpressWorks uses the open source framework behind NodeSchool to create a similar experience for ExpressJS. I've blogged (and written) about <a href="http://expressjs.com/">ExpressJS</a> before. Essentially - this is the framework that got me to give Node.js a try and really "sold" me on Node in general.</p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/finished.jpg" />
+<img src="https://static.raymondcamden.com/images/finished.jpg" />
 </p>
 
 <p>

@@ -150,7 +150,7 @@ A heck of a lot cleaner, right? And then I end with a simple call to JSON.string
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_2_14_14__3_23_PM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_2_14_14__3_23_PM.png" />
 </p>
 
 <p>

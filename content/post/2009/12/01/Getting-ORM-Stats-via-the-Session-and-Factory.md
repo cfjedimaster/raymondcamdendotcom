@@ -83,11 +83,11 @@ DSN=#dsn# (#type# #version#)&lt;p&gt;
 
 That's a lot of code - but as you can tell - most of the code is simply copying stuff out of the Java objects into simple CFML data bits. Here is part of the output:
 
-<img src="http://static.raymondcamden.com/images/Picture 193.png" />
+<img src="https://static.raymondcamden.com/images/Picture 193.png" />
 
 As I said, you could do some nice stuff with this data. So for example, what if we take the numbers of CRUD operations per entity and chart them - again with the idea being we may want to know what entity gets the most traffic:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 340.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 340.png" />
 
 Useful, right? Now - I'm assuming that these stats add a bit of overhead to your application. None of the factory stats worked until I explicitly turned them on. But you could use it during load testing, or during special times of the month, and then disable it again later on. Anyway, I hope this is useful for folks!
 

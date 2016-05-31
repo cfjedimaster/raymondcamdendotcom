@@ -21,7 +21,7 @@ This afternoon I was working on some code that began life as a quick example in 
 
 All of a sudden I realized that I had completely forgotten about using touch in my Ionic apps. Obviously things worked, but I had been using the wrong event in my demos and presentations. I was pure evil.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/time-bandits-evil-leftovers.jpg" alt="time-bandits-evil-leftovers" width="336" height="293" class="aligncenter size-full wp-image-7045" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/11/time-bandits-evil-leftovers.jpg" alt="time-bandits-evil-leftovers" width="336" height="293" class="aligncenter size-full wp-image-7045" />
 
 I assumed that Angular would just support touch built-in, perhaps via ng-touch, but surprisingly, this isn't the case. You have to grab angular-touch.js to use <a href="https://docs.angularjs.org/api/ngTouch">ngTouch</a>. Given how important mobile is, I'm kinda surprised that this isn't baked in directly.
 

@@ -27,11 +27,11 @@ Before you begin working with the Browser platform, there are a few things you s
 
 And obviously, if you are only using the Browser platform to test and you find it isn't working out for you, then be sure to go ahead and remove it: `cordova platform rm browser`.
 
-![Browser platform](http://static.raymondcamden.com/images/2016/03/browser1.png)
+![Browser platform](https://static.raymondcamden.com/images/2016/03/browser1.png)
 
 To start testing the platform, simply `cordova run browser`, or `cordova run` if you only have one platform. When you do, a new instance of Chrome will pop up. I use Chrome as my default browser, but a new instance was launched as opposed to a new tab opening in my current browser. That's good imo but just keep that in mind. You'll also get a running log of requests in Terminal. What you see will be based on what plugins and other assets you use. Here is an example:
 
-![Browser logs](http://static.raymondcamden.com/images/2016/03/browser2.png)
+![Browser logs](https://static.raymondcamden.com/images/2016/03/browser2.png)
 
 This is a live listing and will update as your app requests new resources. Can you configure how the browser is loaded? Yes. If you look in `platforms/browser/cordova/`, you'll see a `run` file whichi is used by the Cordova CLI. It's also a quick way to see the help. The `run` script supports two arguments: `browser` and `port`. `browser` defaults to Chrome. `port` defaults to 8000. Here is how I'd switch the port and browser:
 
@@ -46,7 +46,7 @@ Working with Plugins
 
 Ok, so how do you use plugins? Exactly the same way you do for any other platform. Find the plugin you want, install it, and then follow their API. At the [Plugin Repository](http://cordova.apache.org/plugins/) you'll notice a button to filter by browser support:
 
-<img src="http://static.raymondcamden.com/images/2016/03/browser3.png" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2016/03/browser3.png" class="imgborder">
 
 Notice that there is a bug with the registry in that you don't get a pretty little icon indicating that the Browser platform is supported. This is a known bug. (As in a known bug as of a few hours ago.)
 
@@ -111,11 +111,11 @@ document.querySelector('#testCameraNew').addEventListener('click', function() {
 
 In general, this is completely vanilla Camera code. So what does it do? For the source type of CAMERA, it actually fires up your webcam using getUserMedia.
 
-<img src="http://static.raymondcamden.com/images/2016/03/browser4.png" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2016/03/browser4.png" class="imgborder">
 
 The live video is added to the bottom of the DOM along with a capture button. When you click it, then your success handler will fire. Here is the result rendered in the DOM as my code specified.
 
-<img src="http://static.raymondcamden.com/images/2016/03/browser5.png" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2016/03/browser5.png" class="imgborder">
 
 **Very Important Warning!!** The live video stream also broadcasts your audio. That means if you're rocking out to some music, you'll get some really gross feedback. Be sure you mute beforehand.
 
@@ -135,14 +135,14 @@ media-src * blob:"&gt;
 
 If you select PHOTOLIBRARY as your source, then you get a simple file chooser. As before, it gets dropped at the end of the DOM. (I won't add a screenshot of that since we all know what an HTML file chooser looks like.) You select your file then it is used as the result.
 
-<img src="http://static.raymondcamden.com/images/2016/03/browser6.png" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2016/03/browser6.png" class="imgborder">
 
 Device
 ---
 
 So yeah, device just works. I added a button to my demo to dump out the `device` object. Here is what it shows:
 
-<img src="http://static.raymondcamden.com/images/2016/03/browser7.png" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2016/03/browser7.png" class="imgborder">
 
 Device Motion
 ---
@@ -183,7 +183,7 @@ document.querySelector('#testAccStop').addEventListener('click', function() {
 
 When I tested the code to get the current motion, the error handler was thrown first and then the success handler:
 
-<img src="http://static.raymondcamden.com/images/2016/03/browser8.png" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2016/03/browser8.png" class="imgborder">
 
 I filed a [bug report](https://issues.apache.org/jira/browse/CB-7629) for that. 
 
@@ -196,7 +196,7 @@ Device Orientation
 
 Unlike device motion, device orientation worked perfectly. It is random as well, and if you do a watch, you get random values for every request. 
 
-<img src="http://static.raymondcamden.com/images/2016/03/browser9.png" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2016/03/browser9.png" class="imgborder">
 
 File and FileTransfer
 ---
@@ -258,7 +258,7 @@ document.querySelector('#testGlobInput').addEventListener('click', function() {
 And here is a sample in the browser.
 
 
-<img src="http://static.raymondcamden.com/images/2016/03/browser10.png" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2016/03/browser10.png" class="imgborder">
 
 InAppBrowser
 ---
@@ -273,7 +273,7 @@ document.querySelector('#testIAB').addEventListener('click', function() {
 
 And here is how it rendered:
 
-<img src="http://static.raymondcamden.com/images/2016/03/browser11.png" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2016/03/browser11.png" class="imgborder">
 
 As with the camera plugin, it is rendered at the bottom of the dom. Note the gray border and basic controls. 
 
@@ -332,7 +332,7 @@ SplashScreen
 
 Yes! This works in the Browser platform. As crazy as it sounds, you can actually fire up a splash screen in front of your main application. You want to copy the code from the "Browser Quirks" section of the docs and then setup your image. Once you do, it should just work, although I noticed `SplashScreenWidth` and `SplashScreenHeight` did not seem to do anything. Here is an example:
 
-<img src="http://static.raymondcamden.com/images/2016/03/browser12.png" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2016/03/browser12.png" class="imgborder">
 
 
 Wrap Up

@@ -21,4 +21,4 @@ Below you will attached the code from my "Jersey Shore" collection of CFBuilder,
 You can watch a video demo by clicking below...
 
 
-<a href="http://screencast.com/t/J7lN7DXUgvr"><img src="http://static.raymondcamden.com/images/ScreenClip89.png" /></a><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fjs%2Ezip'>Download attached file.</a></p>
+<a href="http://screencast.com/t/J7lN7DXUgvr"><img src="https://static.raymondcamden.com/images/ScreenClip89.png" /></a><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fjs%2Ezip'>Download attached file.</a></p>

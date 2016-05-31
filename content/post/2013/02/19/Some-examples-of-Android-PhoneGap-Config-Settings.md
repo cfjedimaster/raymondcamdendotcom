@@ -39,7 +39,7 @@ As the docs specify, you literally use a "Title, Message" format. Ie: &lt;prefer
 
 And here it is in action...
 
-<img src="http://static.raymondcamden.com/images/screenshot66.png" />
+<img src="https://static.raymondcamden.com/images/screenshot66.png" />
 
 <h2>loadingPageDialog</h2>
 
@@ -65,7 +65,7 @@ Yep, works fine, but only if you don't forget the first value is alpha and accid
 
 And the result:
 
-<img src="http://static.raymondcamden.com/images/screenshot67.png" />
+<img src="https://static.raymondcamden.com/images/screenshot67.png" />
 
 <h2>splashscreen</h2>
 

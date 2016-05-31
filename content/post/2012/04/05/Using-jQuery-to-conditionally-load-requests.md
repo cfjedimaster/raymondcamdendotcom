@@ -39,7 +39,7 @@ Here's a look at the Network tool in Chrome when I first run my code:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip67.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip67.png" />
 
 <p>
 
@@ -47,7 +47,7 @@ And here is the next request:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip68.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip68.png" />
 
 <p>
 

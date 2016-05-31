@@ -14,7 +14,7 @@ Here's a simple little modification that may be useful for people using <a href=
 <!--more-->
 First, ensure you disable autoplay on the Stage element:
 
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-03 at 9.13.16 AM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-04-03 at 9.13.16 AM.png" />
 
 Next, click on the "Open Actions" panel and enter some text for the creationComplete event. I don't write much JavaScript directly in Edge Animate, instead, I simply put in something simple, like console.log('yo mama!'), just to get Edge Animate to create the event and make it easier for me to find in my editor. 
 
@@ -29,4 +29,4 @@ Here is the code I came up with:
 
 <script src="https://gist.github.com/cfjedimaster/5301623.js"></script>
 
-You can try a demo of this here: <a href="http://www.raymondcamden.com/demos/2013/apr/3/Untitled-1.html">http://www.raymondcamden.com/demos/2013/apr/3/Untitled-1.html</a> Please try not to be too amazed at my incredible animation and design skills.
+You can try a demo of this here: <a href="https://static.raymondcamden.com/demos/2013/apr/3/Untitled-1.html">https://static.raymondcamden.com/demos/2013/apr/3/Untitled-1.html</a> Please try not to be too amazed at my incredible animation and design skills.

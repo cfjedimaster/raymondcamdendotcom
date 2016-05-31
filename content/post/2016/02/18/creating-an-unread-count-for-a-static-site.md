@@ -13,7 +13,7 @@ Lately I've noticed some sites will include a little "unread" icon for their blo
 
 <!--more-->
 
-![Unread blog entries](http://static.raymondcamden.com/images/2016/02/blogoneunread.png)
+![Unread blog entries](https://static.raymondcamden.com/images/2016/02/blogoneunread.png)
 
 I've seen this on a few other sites (like [Ionic](http://www.ionicframework.com)) and I assume it is a simple plugin, but I thought it would be kind of fun to build a prototype of this myself. What follows is a simple example of the feature that can be used for static sites. There's probably many different ways to add this feature (and I'll discuss some options at the end) and I'd love to hear from my readers how they've accomplished this if they have it on their site. As a reminder, everything I share here is free for you to make use of on your own site. All I ask is that you show your appreciation with a quick visit to my [Amazon Wishlist](http://www.amazon.com/gp/registry/wishlist/2TCL1D08EZEYE/ref=cm_wl_rlist_go_v?) if you can.
 
@@ -126,9 +126,9 @@ You can see now that we're handling the display update as well as storing your l
 
 Here is a screen shot of in action:
 
-![Blog updated](http://static.raymondcamden.com/images/2016/02/blogup1.png)
+![Blog updated](https://static.raymondcamden.com/images/2016/02/blogup1.png)
 
-I went ahead and put up the demo here: [http://static.raymondcamden.com/demos/2016/02/18/test.html](http://static.raymondcamden.com/demos/2016/02/18/test.html) But obviously it will be a bit weird since the RSS is on my site, not the demo and, but, you can get the complete HTML templates from there if you want.
+I went ahead and put up the demo here: [https://static.raymondcamden.com/demos/2016/02/18/test.html](https://static.raymondcamden.com/demos/2016/02/18/test.html) But obviously it will be a bit weird since the RSS is on my site, not the demo and, but, you can get the complete HTML templates from there if you want.
 
 ## Alternatives
 

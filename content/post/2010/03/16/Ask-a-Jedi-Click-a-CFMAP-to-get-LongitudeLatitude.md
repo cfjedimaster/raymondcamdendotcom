@@ -99,7 +99,7 @@ For the most part this should be pretty trivial. I keep a counter so I can have 
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-03-16 at 5.16.21 PM.png"  title="First I spot the bird - then I shoot it!" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-03-16 at 5.16.21 PM.png"  title="First I spot the bird - then I shoot it!" />
 
 <p/>
 

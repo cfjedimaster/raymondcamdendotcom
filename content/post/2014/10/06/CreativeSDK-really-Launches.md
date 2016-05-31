@@ -19,7 +19,7 @@ The best place to start though is the <a href="https://creativesdk.adobe.com/doc
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot9.png" />
+<img src="https://static.raymondcamden.com/images/shot9.png" />
 </p>
 
 <p>

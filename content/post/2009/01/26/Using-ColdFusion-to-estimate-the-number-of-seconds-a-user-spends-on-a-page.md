@@ -92,6 +92,6 @@ Total number of pages visited: #arrayLen(session.pages)#
 
 And here is some sample output:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 134.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 134.png">
 
 I've attached the code to the blog entry. Not sure how useful this is, but it's not like I've cared about usefulness in my other posts! ;)<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fsecondtest%2Ezip'>Download attached file.</a></p>

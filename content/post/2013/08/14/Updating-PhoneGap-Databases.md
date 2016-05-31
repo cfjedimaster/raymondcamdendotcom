@@ -46,7 +46,7 @@ This worked - again - once. It was also bad for multiple reasons. Notice I still
 
 But wait - it gets better. I thought changeVersion(x,y) would be a cool way to say, "If I'm version x, change my database version to y". That would rock, right?
 
-<img src="http://static.raymondcamden.com/images/download.jpg" />
+<img src="https://static.raymondcamden.com/images/download.jpg" />
 
 Nope. Not at all. changeVersion throws an error if the current version doesn't match old version. So to change from 1 to 2 you have to first check to see if your database is on version 1. The PhoneGap docs don't make this very clear, but your database variable does have a version number property.
 

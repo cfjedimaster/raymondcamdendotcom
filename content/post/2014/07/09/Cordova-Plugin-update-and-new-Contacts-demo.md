@@ -66,7 +66,7 @@ The actual API is relatively simple, just <code>navigator.contacts.pickContact</
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen Shot 2014-07-09 at 9.31.03 AM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2014-07-09 at 9.31.03 AM.png" />
 </p>
 
 <p>
@@ -78,7 +78,7 @@ Finally, my sample code displays the contact you selected.
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen Shot 2014-07-09 at 9.32.57 AM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2014-07-09 at 9.32.57 AM.png" />
 </p>
 
 <p>

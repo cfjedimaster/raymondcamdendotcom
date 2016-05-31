@@ -73,4 +73,4 @@ Here is how it looks - fancy, eh?
 <p>
 
 
-<img src="http://static.raymondcamden.com/images/ScreenClip73.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip73.png" />

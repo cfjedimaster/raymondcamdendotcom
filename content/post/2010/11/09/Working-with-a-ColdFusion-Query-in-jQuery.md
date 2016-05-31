@@ -99,7 +99,7 @@ Now - I want to point out something interesting about the URL. First - we use re
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/screenrow.png" />
+<img src="https://static.raymondcamden.com/images/screenrow.png" />
 
 <p>
 
@@ -107,7 +107,7 @@ Notice that the result contains a COLUMNS array and a DATA array. The DATA array
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/screencol.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/screencol.png" />
 
 <p>
 
@@ -119,4 +119,4 @@ If you want to see this in action, hit the big Demo button below. As always, I r
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/nov92010/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/nov92010/test.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

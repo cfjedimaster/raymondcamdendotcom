@@ -58,7 +58,7 @@ When I check the response types in Chrome, I see...
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip70.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip70.png" />
 
 <p>
 

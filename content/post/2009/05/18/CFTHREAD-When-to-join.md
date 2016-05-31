@@ -24,7 +24,7 @@ First off, what happens when you create a thread and don't do anything else?
 
 In this demo I create a thread. It sleeps for 10 seconds and then writes to a log file. Outside of the thread I dump the cfthread scope. (Everyone knows that exists, right? It gives you metadata about threads created during the request.) Running this we can see that even though the page ended, the thread is still running:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 157.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 157.png">
 
 If you check your log files a bit later, you will see that the thread eventually did end and write to the log. In essence, this process is a "Fire and Forget" thread. You start the slow process and don't need to worry about waiting for it to end. A real world example could be starting a slow running stored procedure that performs a database backup.
 
@@ -49,6 +49,6 @@ Consider this modified example:
 
 In this example, I've added a loop so that I can create 10 threads. Notice that I store the name in a list. This lets me run the join action at the end. Now if you run the file you will notice it takes 10 seconds to run. This represents the JOIN line waiting for the threads to end. Because they run in parallel, I don't have to wait 100 seconds, but just 10. Obviously most real world applications won't have a nice precise timeframe like that. Now if you look at the dump, you can see that they completed:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 234.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 234.png">
 
 So the short answer is simply - it depends. If you need to work with the result in the same request, then use the join. If not, don't worry about it.

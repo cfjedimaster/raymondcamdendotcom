@@ -30,7 +30,7 @@ To test, I simply requested a file and added x=1 to my URL. When this error occu
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/errorstruct.png" />
+<img src="https://static.raymondcamden.com/images/errorstruct.png" />
 
 <p>
 

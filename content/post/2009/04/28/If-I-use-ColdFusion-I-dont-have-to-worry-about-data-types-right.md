@@ -40,7 +40,7 @@ So with ColdFusion being loose in terms of variable types, it is easy to forget 
 
 I've got 3 numbers, all with decimals, and I copy them into a query where the first column is defined as integer and the second as decimal. When dumped, check out the first column totally changes the values:
 
-<img src="http://static.raymondcamden.com/images//Picture 153.png" title="cfdump of code example above">
+<img src="https://static.raymondcamden.com/images//Picture 153.png" title="cfdump of code example above">
 
 In the same week this happened, another user wrote in with a similar issue. She was inserting phone numbers into a query and had not specified column types. When you do that, ColdFusion makes a guess to the right column type. In her case, ColdFusion guessed wrong and treated phone numbers like numbers. There were some numbers with a 0 in front and they ended up having the 0 removed. Supplying the varchar type definition for the column took care of it. 
 

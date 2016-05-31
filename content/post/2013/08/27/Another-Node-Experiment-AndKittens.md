@@ -11,7 +11,7 @@
 
 So, I know I've said this before, but I like to build completely useless, but fun, toys. Frankly if I let practicality be my guide I'd probably never build anything and I'm not sure how I'd learn. Please keep that in mind as you read the following. I built what follows as an excuse to practice my Node chops more, not to bring anything actually worthwhile into the Internets. Unless you like kittens. If so, this is epic.
 <!--more-->
-<img src="http://static.raymondcamden.com/images/synth.png" style="float:left;margin-right:10px" />
+<img src="https://static.raymondcamden.com/images/synth.png" style="float:left;margin-right:10px" />
 About a week or so ago I saw a tweet from <a href="http://christianheilmann.com/">Christian Heilmann</a> talking about a new site, <a href="http://synthcats.com/">SynthCats</a>. As you can probably guess, this is a site filled with pictures of cats with keyboards and synthesizers. As an unapologetic child of the 80s and new wave, I could really get behind a site like this. It got me thinking though - you could probably take <i>any</i> combination of cats and come up with a fun site. 
 
 From that sprouted the idea behind <a href="http://www.andkittens.us">AndKittens</a>. I imagined a site where you could simply enter a URL, like <a href="http://pugs.andkittens.us">pugs.andkittens.us</a> and see a collection of pictures of pugs with kittens. 

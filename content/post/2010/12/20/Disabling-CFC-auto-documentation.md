@@ -13,7 +13,7 @@ I shared a few emails back and forth with a reader last week who had an interest
 <!--more-->
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip2.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip2.png" />
 
 <p>
 

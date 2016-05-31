@@ -33,7 +33,7 @@ We begin with the HTML we want to insert in variable s. Next we define a real si
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-09-13 at 6.19.01 AM.png">
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-09-13 at 6.19.01 AM.png">
 
 <p/>
 
@@ -51,7 +51,7 @@ How well does that work? Badly:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-09-13 at 6.19.50 AM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-09-13 at 6.19.50 AM.png" />
 
 <p/>
 
@@ -69,7 +69,7 @@ Which returns:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-09-13 at 6.20.41 AM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-09-13 at 6.20.41 AM.png" />
 
 <p/>
 

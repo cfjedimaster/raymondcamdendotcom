@@ -166,7 +166,7 @@ Primarily the logic is rather simple. Add the disabled attribute and change the 
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/2011/dec/14/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2011/dec/14/"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

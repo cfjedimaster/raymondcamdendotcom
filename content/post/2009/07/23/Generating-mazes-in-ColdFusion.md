@@ -110,6 +110,6 @@ writeOutput("</code>");
 
 And an example of the output:
 
-<img src="http://static.raymondcamden.com/images/Picture 176.png" />
+<img src="https://static.raymondcamden.com/images/Picture 176.png" />
 
 You can run a demo of this yourself <a href="http://www.coldfusionjedi.com/demos/maze.cfm">here</a>. Note that every reload generates a new and random maze. To be honest, I do have kind of a cool idea of something to do with this, but I'm waiting to see if I can get it done for Demomania at CFUNITED.

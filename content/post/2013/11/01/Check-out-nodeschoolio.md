@@ -14,7 +14,7 @@ Lately I've been spending time trying to become proficient at Node. I probably h
  </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/nodeschool.io.jpg" />
+<img src="https://static.raymondcamden.com/images/nodeschool.io.jpg" />
 </p>
 
 <p>
@@ -22,14 +22,14 @@ NodeSchool works via the command line. Each module has its own command line, but
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/latest.jpg" />
+<img src="https://static.raymondcamden.com/images/latest.jpg" />
 </p>
 
 <p>
 Selecting a lesson gives you a description of a problem you have to solve. These problems move from simple (sometimes so simple you aren't sure you're reading it right) to complex, but still solvable within approximately 30 minutes or so. Here is one example.
 
 <p>
-<img src="http://static.raymondcamden.com/images/instr.jpg" />
+<img src="https://static.raymondcamden.com/images/instr.jpg" />
 </p>
 
 <p>

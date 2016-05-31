@@ -155,7 +155,7 @@ The window blur function just sets the global variable, but the focus one is a b
 
 <p/>
 
-<a href="http://www.coldfusionjedi.com/demos/oct192010/test1.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/oct192010/test1.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p/>
 

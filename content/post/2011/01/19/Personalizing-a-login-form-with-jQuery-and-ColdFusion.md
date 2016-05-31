@@ -15,7 +15,7 @@ So - I'm still not 100% sure what <a href="http://www.quora.com/">Quora</a> is a
 <!--more-->
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip13.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip13.png" />
 
 <p>
 
@@ -99,4 +99,4 @@ I've got a blur listener on the on the email field. When it's fired, we run a PO
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/jan192011/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/jan192011/test.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

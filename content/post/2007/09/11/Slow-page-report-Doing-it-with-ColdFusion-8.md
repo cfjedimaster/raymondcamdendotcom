@@ -11,7 +11,7 @@
 
 Many moons ago, I <a href="http://www.raymondcamden.com/index.cfm?mode=entry&entry=E1C4D4BE-AF44-3997-E6F1C507CE21DF5B">reported</a> on how you could write a template to parse your server.log file for slow page reports. In case you didn't know - the ColdFusion Administrator lets you log files that take too long to process. This setting is found in the Logging Settings page as seen in the following screen shot:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/slowstuffsucks.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/slowstuffsucks.png">
 
 Once enabled, ColdFusion will log any page that takes longer than the specified time. Note that it won't abort the process, it will just log it. If you want to abort a process, you need to use the Timeout Requests setting in the main settings page.
 

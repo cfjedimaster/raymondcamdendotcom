@@ -18,7 +18,7 @@ But a few months ago I noticed something. Your linting tools are actually pretty
 </p>
 
 <p> 
-<img src="http://static.raymondcamden.com/images/quiz_quizBrackets.jpg" />
+<img src="https://static.raymondcamden.com/images/quiz_quizBrackets.jpg" />
 </p>
 
 <p>

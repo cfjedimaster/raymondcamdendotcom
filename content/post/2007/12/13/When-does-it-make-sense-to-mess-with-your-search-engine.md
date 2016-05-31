@@ -13,7 +13,7 @@ For most folks, their search engine is a black box. They write the code using ei
 
 The first is at <a href="http://www.adobe.com">Adobe.com</a>. While a lot of people have talked about the new UI (frankly I don't think I'm qualified to talk about UI, or CSS, or design, you get the picture), I want to talk about their search engine. If you search for ColdFusion, you end up <a href="http://www.adobe.com/cfusion/search/index.cfm?loc=en_us&term=coldfusion">here</a>. In case the results change, here is a screen shot:
 
-<img src="http://static.raymondcamden.com/images/Picture 7.png">
+<img src="https://static.raymondcamden.com/images/Picture 7.png">
 
 Notice that ColdFusion 6 comes before ColdFusion 8. Also notice a Buy Now link for 6, but not 8. I'm not pointing this out as a bad thing for ColdFusion, or as a huge mistake on Adobe's part, but is a great example of how search pages may not return what you want. I searched for Flash and Photoshop. Both of them had the main product page as the first result. Flex's first result was the support center. That's better than showing an old version, but I'd probably want to ensure all my products show the main product page (with a buy link) for the first result.
 

@@ -30,7 +30,7 @@ As you can see, each of my three fields uses a different mixture of upper and lo
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/screen43.png" />
+<img src="https://static.raymondcamden.com/images/screen43.png" />
 
 <p>
 
@@ -38,7 +38,7 @@ As you can see, everything is now uppercase. I had a hunch though that <a href="
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/screen44.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/screen44.png" />
 
 <p>
 
@@ -62,7 +62,7 @@ Basically I just treat the data as 2 sets of lists. Each pair is delimited by an
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/screen46.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/screen46.png" />
 <p>
 
 Hope this is helpful to someone.

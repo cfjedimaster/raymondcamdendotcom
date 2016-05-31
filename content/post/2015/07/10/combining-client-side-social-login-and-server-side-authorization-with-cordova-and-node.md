@@ -25,11 +25,11 @@ I did a bit of searching and came across this Stackoverflow post/answer: <a href
 
 I decided to give this a shot and build a simple proof of concept. This is very rough, but gives you a basic idea of how you could do this. For my POC, I decided to use Christophe Coenraet's <a href="https://github.com/ccoenraets/OpenFB">OpenFB</a> library. It is a plugin-less JavaScript library that handles OAuth. Most recently I used <a href="https://github.com/nraboy/ng-cordova-oauth">ng-cordova-oauth</a> as well, but I wanted to try something different. I created a quick Ionic application with two simple buttons:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-10-2015-1.44.58-PM.png" alt="iOS Simulator Screen Shot Jul 10, 2015, 1.44.58 PM" width="422" height="750" class="aligncenter size-full wp-image-6371 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-10-2015-1.44.58-PM.png" alt="iOS Simulator Screen Shot Jul 10, 2015, 1.44.58 PM" width="422" height="750" class="aligncenter size-full wp-image-6371 imgborder" />
 
 The first button fires off the OAuth process. I followed Christophe's directions and created my Facebook app first of course:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-10-2015-1.46.13-PM.png" alt="iOS Simulator Screen Shot Jul 10, 2015, 1.46.13 PM" width="422" height="750" class="aligncenter size-full wp-image-6372 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-10-2015-1.46.13-PM.png" alt="iOS Simulator Screen Shot Jul 10, 2015, 1.46.13 PM" width="422" height="750" class="aligncenter size-full wp-image-6372 imgborder" />
 
 The code behind this is pretty simple:
 

@@ -13,4 +13,4 @@ As I prepare to leave Adobe, I want to acknowledge the enormous amount of help I
 
 Thanks Jack, you're awesome.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/58644785.jpg"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/01/58644785.jpg" alt="58644785" width="400" height="400" class="alignnone size-full wp-image-5627" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/58644785.jpg"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/01/58644785.jpg" alt="58644785" width="400" height="400" class="alignnone size-full wp-image-5627" /></a>

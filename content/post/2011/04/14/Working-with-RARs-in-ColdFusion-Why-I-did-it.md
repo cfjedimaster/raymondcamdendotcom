@@ -176,7 +176,7 @@ So the result? Click to make it bigger...
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/images/finalcover.jpg"><img src="http://static.raymondcamden.com/images/cfjedi/finalcoversmall.jpg" title="Cover Cover Cover" /></a>
+<a href="http://www.coldfusionjedi.com/images/finalcover.jpg"><img src="https://static.raymondcamden.com/images/cfjedi/finalcoversmall.jpg" title="Cover Cover Cover" /></a>
 
 <p>
 

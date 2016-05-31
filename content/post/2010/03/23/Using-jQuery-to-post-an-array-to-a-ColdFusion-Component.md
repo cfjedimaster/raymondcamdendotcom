@@ -48,7 +48,7 @@ So, what would you expect to happen here? Well first off, it is important to rem
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-03-23 at 2.39.13 PM.png" title="POST Data" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-03-23 at 2.39.13 PM.png" title="POST Data" />
 
 <p/>
 

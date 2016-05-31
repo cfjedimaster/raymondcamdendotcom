@@ -38,6 +38,6 @@ order by q.id asc
 <p>
 Note that I gave the new query the name z. Everything should be kosher, right? Well watch what happens when I dump q before and after the query of query.
 <p>
-<img src="http://static.raymondcamden.com/images//Picture 169.png">
+<img src="https://static.raymondcamden.com/images//Picture 169.png">
 <p>
 What the heck, right? The error goes away if you make a duplicate of q and use that in the query of query.

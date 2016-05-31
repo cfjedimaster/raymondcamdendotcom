@@ -45,7 +45,7 @@ The result is pretty much what you expect. As an FYI, my chat demo wasn't really
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/Screenshot_8_8_13_2_35_PM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_8_8_13_2_35_PM.png" />
 
 <p/>
 

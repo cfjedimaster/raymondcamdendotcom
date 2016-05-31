@@ -138,7 +138,7 @@ Once I've got my data, it was a simple matter to convert it to an array of struc
 
 <p/>
 
-<a href="http://www.raymondcamden.com/demos/july162011B/test2.html"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/july162011B/test2.html"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p/>
 

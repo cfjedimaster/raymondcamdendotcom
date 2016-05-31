@@ -56,11 +56,11 @@ You can find the code for this simple application attached to this blog entry. B
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip63.png" class="imgborder" />
+<img src="https://static.raymondcamden.com/images/ScreenClip63.png" class="imgborder" />
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip64.png" class="imgborder" />
+<img src="https://static.raymondcamden.com/images/ScreenClip64.png" class="imgborder" />
 
 <p>
 
@@ -298,4 +298,4 @@ function displayDocs() {
 
 The end result is an application that updates its data when online and continues to work fine offline. You can download the entire code base below. Any questions?
 <p>
-<a href='http://static.raymondcamden.com/enclosures/dbsyncexample.zip'>Download attached file.</a></p>
+<a href='https://static.raymondcamden.com/enclosures/dbsyncexample.zip'>Download attached file.</a></p>

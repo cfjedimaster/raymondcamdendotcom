@@ -35,7 +35,7 @@ The best example I've seen of this so far is from a coworker, Paul Burnett. He c
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/PhoneGap-Icon-Generator.jpg" />
+<img src="https://static.raymondcamden.com/images/PhoneGap-Icon-Generator.jpg" />
 </p>
 
 <p>
@@ -63,7 +63,7 @@ A quick note as this may be confusing. In the video above you will notice a "Edg
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-09-09 at 11.12.43 AM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-09-09 at 11.12.43 AM.png" />
 </p>
 
 <p>

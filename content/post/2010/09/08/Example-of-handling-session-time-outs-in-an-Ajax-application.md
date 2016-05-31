@@ -81,7 +81,7 @@ Woot. That's no GMail for sure. The so-called application has one link. When you
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/screen.png" />
+<img src="https://static.raymondcamden.com/images/screen.png" />
 
 <p>
 
@@ -142,7 +142,7 @@ I love this code for a few reasons. First, notice that my original code is <b>no
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/screen1.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/screen1.png" />
 
 <p>
 

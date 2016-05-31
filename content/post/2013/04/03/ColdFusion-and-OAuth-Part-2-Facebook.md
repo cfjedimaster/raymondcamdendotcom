@@ -15,15 +15,15 @@ Luckily, or I should say, obviously, since this is also an OAuth2 protocol, the 
 
 Finding the place to add application is a bit weird. Once at the developer portal and logged in, notice you can click a down arrow next to your name in the upper right corner:
 
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-03 at 4.45.55 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-04-03 at 4.45.55 PM.png" />
 
 Click it, and then select API Keys.
 
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-03 at 4.46.21 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-04-03 at 4.46.21 PM.png" />
 
 On the next page click "Add New Application". The form here is somewhat intimidating. LinkedIn really could do a better job here, especially with using some defaults since I shouldn't have to re-enter the same data every time. I'd just bother with the required fields. Once set up, you'll want to make note of your OAuth keys. All you care about is the API Key and Secret Key:
 
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-03 at 4.48.46 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-04-03 at 4.48.46 PM.png" />
 
 Now we can switch to the code. As before, the process is as follows: Present a link. User goes to LinkedIn. User is sent back with secret tokens of goodness. We get another token. Then we have the power to make API calls. (As a reminder, both this and the previous demo were written for ColdFusion 8. Hence the tag-based components.)
 
@@ -39,7 +39,7 @@ As before, our links contains part of our access data, a list of permissions, as
 
 Once the link is clicked, the user will see something like this:
 
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-03 at 4.55.51 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-04-03 at 4.55.51 PM.png" />
 
 Now let's look at redir.cfm. Again, this is virtually identical to the Facebook code, excepting that their result for the access token is nicely formatted in JSON as opposed to being a string you have to parse manually.
 

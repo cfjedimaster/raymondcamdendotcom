@@ -11,7 +11,7 @@
 
 I've come across multiple people lately who have been bitten by this so I thought a quick blog post would be useful for my readers. If you've recently upgraded your ColdFusion server or patched it, you may find some forms return an error when submitted. Here is an example:
 <!--more-->
-<img src="http://static.raymondcamden.com/images/Screenshot_5_14_13_9_08_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_5_14_13_9_08_AM.png" />
 
 To cause this error, I simply created a form with 101 fields like so:
 
@@ -23,7 +23,7 @@ The cause is a recent security fix. You can read the details here (<a href="http
 
 In the ColdFusion 10 Administrator, under Settings, way at the bottom, you will find this new setting:
 
-<img src="http://static.raymondcamden.com/images/rayScreenshot_5_14_13_9_12_AM.png" />
+<img src="https://static.raymondcamden.com/images/rayScreenshot_5_14_13_9_12_AM.png" />
 
 You can tweak this to a value that makes sense for your form. For folks using ColdFusion 8 and 9, you have to edit a bit of XML to handle this. Details may be found here: <a href="http://helpx.adobe.com/coldfusion/kb/coldfusion-security-hotfix.html">ColdFusion Security Hotfix APSB12-06</a>.
 

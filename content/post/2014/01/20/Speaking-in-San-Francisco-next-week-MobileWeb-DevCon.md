@@ -15,5 +15,5 @@ Just a quick note that I'll be speaking next week at <a href="http://mobilewebde
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_1_20_14__9_13_AM.jpg" />
+<img src="https://static.raymondcamden.com/images/Screenshot_1_20_14__9_13_AM.jpg" />
 </p>

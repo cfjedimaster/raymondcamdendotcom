@@ -24,7 +24,7 @@ Just to be clear, when you add Optimus to anything you win. Period.
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/optimus.jpg" />
+<img src="https://static.raymondcamden.com/images/optimus.jpg" />
 </p>
 
 <p>

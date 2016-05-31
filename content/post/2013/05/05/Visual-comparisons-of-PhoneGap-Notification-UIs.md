@@ -17,7 +17,7 @@ To begin, I created a simple HTML interface with buttons that would let me test 
 
 I used my epic CSS skills to make this a bit more touch friendly:
 
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot May 5, 2013 7.57.40 AM.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot May 5, 2013 7.57.40 AM.png" />
 
 Now let's look at the JavaScript.
 
@@ -27,28 +27,28 @@ The first three event handlers are for the vanilla JavaScript notifications. Not
 
 Here is the alert being fired:
 
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot May 5, 2013 7.57.45 AM.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot May 5, 2013 7.57.45 AM.png" />
 
 Here is the confirm:
 
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot May 5, 2013 7.57.51 AM.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot May 5, 2013 7.57.51 AM.png" />
 
 And finally the prompt:
 
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot May 5, 2013 7.57.56 AM.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot May 5, 2013 7.57.56 AM.png" />
 
 Now let's consider the native options. First note that they allow for customization. In each one you can tweak the button (or buttons) as well as the title. Be aware that confirm takes a list of button labels while prompt takes an array. (I consider that a bug and I hope they fix that soon.) Also note that all three have callbacks for handling button presses. I've used null as a way of signifying I don't want to do anything, but you would normally have some kind of logic there.
 
 Here is the native alert:
 
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot May 5, 2013 7.58.07 AM.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot May 5, 2013 7.58.07 AM.png" />
 
 Here is the native confirm:
 
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot May 5, 2013 7.58.13 AM.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot May 5, 2013 7.58.13 AM.png" />
 
 And lastly, the native prompt:
 
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot May 5, 2013 7.58.19 AM.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot May 5, 2013 7.58.19 AM.png" />
 
 Just to be clear, do remember that you can build your own alerts, confirms, and prompts as well if you feel like it.

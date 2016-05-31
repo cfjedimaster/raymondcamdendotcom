@@ -19,7 +19,7 @@ First, I'll begin by showing a few screen shots of the application I built. This
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip36.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip36.png" />
 
 <p>
 
@@ -27,7 +27,7 @@ My hotel mobile home page has three links: Contact Us, Find Us, and About. Conta
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip37.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip37.png" />
 
 <p>
 
@@ -35,7 +35,7 @@ On a mobile device, clicking that phone number will automatically call the hotel
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip38.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip38.png" />
 
 <p>
 
@@ -134,7 +134,7 @@ Ok, now let's look at Find Us. This page does two things. First, it shows a simp
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip39.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip39.png" />
 
 <p>
 
@@ -268,17 +268,17 @@ Ok - so now we have - hopefully - a simple array of steps that include the text 
 <p>
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip40.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip40.png" />
 
 <p>
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip41.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip41.png" />
 
 <p>
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip42.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip42.png" />
 
 
 <p>
@@ -366,7 +366,7 @@ And that's it! As I said, this code is brittle. You will notice that if geolocat
 <p>
 
 
-<a href="http://www.coldfusionjedi.com/demos/march92011/"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/march92011/"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

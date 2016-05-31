@@ -13,4 +13,4 @@ Principle writing done... doing final updates and support for 1.1... and launchi
 
 <a href="http://www.packtpub.com/jquery-mobile-web-development-essentials/book">jQuery Mobile Web Development Essentials</a>
 
-<img src="http://static.raymondcamden.com/images/7263os_mockupcover_ex_0.jpg" />
+<img src="https://static.raymondcamden.com/images/7263os_mockupcover_ex_0.jpg" />

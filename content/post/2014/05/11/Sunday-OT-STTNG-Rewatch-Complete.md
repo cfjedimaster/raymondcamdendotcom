@@ -14,7 +14,7 @@ For the past few years (yes, years), I've been rewatching Star Trek: The Next Ge
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/TNG_warp_head.jpg" />
+<img src="https://static.raymondcamden.com/images/TNG_warp_head.jpg" />
 </p>
 
 <p>
@@ -32,7 +32,7 @@ My favorite character overall was Worf. His role as a Klingon in Starfleet was i
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/worf.jpg" />
+<img src="https://static.raymondcamden.com/images/worf.jpg" />
 </p>
 
 <p>
@@ -40,7 +40,7 @@ One thing I don't quite understand though is all the hatred for Wesley Crusher. 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Wesley_Crusher_stabbed.jpg" />
+<img src="https://static.raymondcamden.com/images/Wesley_Crusher_stabbed.jpg" />
 </p>
 
 <p>
@@ -48,7 +48,7 @@ If there was one character I despised though it was Troi. I certainly get the id
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/troifrog.jpg" />
+<img src="https://static.raymondcamden.com/images/troifrog.jpg" />
 </p>
 
 <p>

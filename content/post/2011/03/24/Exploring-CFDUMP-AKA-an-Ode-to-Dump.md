@@ -28,7 +28,7 @@ Which returns:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip54.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip54.png" />
 
 <p>
 
@@ -93,7 +93,7 @@ Which returns:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip55.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip55.png" />
 
 <p>
 
@@ -129,7 +129,7 @@ Which returns:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip56.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip56.png" />
 
 <p>
 
@@ -155,7 +155,7 @@ Which returns:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip57.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip57.png" />
 
 <p>
 
@@ -174,7 +174,7 @@ Which oddly does <i>not</i> report the filter:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip58.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip58.png" />
 
 <p>
 
@@ -204,7 +204,7 @@ Notice the result doesn't show the contents of genres keys:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip59.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip59.png" />
 
 <p>
 
@@ -222,7 +222,7 @@ The top attribute is probably most crucial with ORM entities. When you dump a CF
 Now check out the result:
 
 <p>
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip60.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip60.png" />
 
 <p>
 
@@ -269,7 +269,7 @@ Which returns:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip61.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip61.png" />
 
 <p>
 
@@ -299,7 +299,7 @@ Which returns:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip62.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip62.png" />
 
 <p>
 
@@ -336,7 +336,7 @@ The result of this is:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip63.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip63.png" />
 
 <p>
 
@@ -358,7 +358,7 @@ And consider the result:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip64.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip64.png" />
 
 <p>
 
@@ -366,7 +366,7 @@ Notice that the result is <i>much</i> simpler, and it's automatically formatted 
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip65.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip65.png" />
 
 <p>
 
@@ -416,7 +416,7 @@ Which returns...
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip66.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip66.png" />
 
 <p>
 
@@ -424,7 +424,7 @@ Now the freaky version of this. Remember how I talked about persistent CFCs and 
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip67.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip67.png" />
 
 <p>
 
@@ -452,7 +452,7 @@ cfdump shows ormtype and dbdefault with their values, yet knew "name" was specia
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip68.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip68.png" />
 
 <p>
 
@@ -475,7 +475,7 @@ Result:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip69.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip69.png" />
 
 <p>
 

@@ -17,7 +17,7 @@ It looks like most of the wait was dedicated to improving the platform itself. F
 
 One of the concerns I had earlier with the product was that it provided so much information it may overwhelm users. I'm happy to see that reports were added that go a long way to providing a high level view of the server in a way that's very accessible. The <a href="http://www.fusion-analytics.com/fa/tapreport.cfm">TAP Report</a> (Traffic, Availability, and Performance) is a great example of this. 
 
-<img src="http://static.raymondcamden.com/images/tapscreen1_large.png" />
+<img src="https://static.raymondcamden.com/images/tapscreen1_large.png" />
 
 I love the simple grade, the simple arrows, and the quick tips on the side for direction. Reports like this are the critical piece I think have been missing from earlier builds of FA. Even better - since the FA platform is so easy to extend I've been told more reports will be forthcoming.
 

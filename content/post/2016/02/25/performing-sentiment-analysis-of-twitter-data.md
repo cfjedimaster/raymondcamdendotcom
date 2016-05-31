@@ -107,7 +107,7 @@ app.get('/analyze', function(req, res) {
 
 So how about the front end? I decided to use Bootstrap to create a simple UI for the term searching. For my charts, I decided on [Highcharts](http://www.highcharts.com/). It is free for commercial use and I liked the animation of the charts. Here's a sample report.
 
-![Screen shot](http://static.raymondcamden.com/images/2016/02/twitterinsights.png)
+![Screen shot](https://static.raymondcamden.com/images/2016/02/twitterinsights.png)
 
 You can see all the code for this project on the GitHub repo I just set up: [https://github.com/cfjedimaster/twitterinsights](https://github.com/cfjedimaster/twitterinsights). 
 

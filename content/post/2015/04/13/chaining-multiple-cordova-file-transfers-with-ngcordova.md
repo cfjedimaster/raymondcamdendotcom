@@ -119,6 +119,6 @@ Finally, I use Angular's all method for their $q library to simply say, "Do this
 
 And that's it. The result is a set of cat pictures, which, to be honest, is what all apps should end up with:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-13-2015-11.24.03-AM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-13-2015-11.24.03-AM.png" alt="iOS Simulator Screen Shot Apr 13, 2015, 11.24.03 AM" width="422" height="750" class="alignnone size-full wp-image-5997" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-13-2015-11.24.03-AM.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/iOS-Simulator-Screen-Shot-Apr-13-2015-11.24.03-AM.png" alt="iOS Simulator Screen Shot Apr 13, 2015, 11.24.03 AM" width="422" height="750" class="alignnone size-full wp-image-5997" /></a>
 
 Similar code would work for uploads as well. Again, you do not need to use Ionic/ngCordova for this. You could create your own promises and do this by hand with a bit more work. (I've got a vide on <a href="https://www.youtube.com/watch?v=a4ud8oH3h-8">deferreds and jQuery</a> that may make this easier for you.)

@@ -14,11 +14,11 @@ About a week ago I exchanged a few emails with Susan. She was learning Flex, and
 <!--more-->
 My blog entry will make use of Flex Builder 3. The UI will be a bit different if you are using Flash Builder 4. To begin, I created a simple project named TestB. I specified "Web" for Application Type, and most importantly, selected "ColdFusion" at the bottom in the Application Server Type. Notice I've got "Use remote object access service" is checked and I've selected "ColdFusion Flash Remoting." (Most of this was selected for me, but I don't know if that is simple FB remembering for me.)
 
-<img src="http://static.raymondcamden.com/images//Picture 411.png">
+<img src="https://static.raymondcamden.com/images//Picture 411.png">
 
 Click next. Now on the next page, a lot will depend on your ColdFusion setup. Mine is a standalone server tied to Apache. 
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 237.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 237.png">
 
 Click Finish (or Next and Finish) and you should be presented with a (mostly) blank MXML file. 
 
@@ -130,7 +130,7 @@ Altogether now, my MXML looks like so:
 
 Running it, and clicking the button of course, gives us:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 54.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 54.png">
 
 Woot. That's a fancy looking clock there, eh? Ok, so let's take it a step further and try an example with input and output. Back in my CFC, I added a new method:
 
@@ -190,7 +190,7 @@ Notice that the button grabs the value from the name field. The ActionScript is 
 
 Running it, and entering a test value, gives me the following:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 61.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 61.png">
 
 Enjoy. If folks want to post comments to other Flex+ColdFusion blog entries like this, I'd definitely appreciate it, and I'm sure Susan would as well. 
 

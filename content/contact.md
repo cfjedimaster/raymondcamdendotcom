@@ -7,6 +7,8 @@ Have a question you want answered? Is there something you would like me to write
 If you are asking about a particular blog entry, *please* share the URL of the entry you are asking about.
 Also note that I do *not* accept guest blog entries or paid blog entries.
 
+Also note that I speak English, and just English. I know a few words of Spanish and French, but I don't *really* speak it. Please do not email me in a foreign (to me) language as I will not be able to help you.
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
 

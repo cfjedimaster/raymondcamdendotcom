@@ -25,7 +25,7 @@ To begin, I'm assuming you've got a MobileFirst server up and running already wi
 
 I always take baby steps, so once you have your server running, confirm everything is kosher by opening up the console and running your app in the Mobile Browser Simulator.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/mf4.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/mf4.png" alt="mf4" width="800" height="412" class="alignnone size-full wp-image-5677"></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/mf4.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/mf4.png" alt="mf4" width="800" height="412" class="alignnone size-full wp-image-5677"></a>
 
 <h2>Set up the Bits</h2>
 Ok, at the command line, or in Explorer/Finder, move the common folder elsewhere. Remember that the common folder is where your web assets live. You're going to want to copy some bits from this folder so for now don't delete it. 
@@ -38,11 +38,11 @@ ionic start --no-cordova ioniccode blank
 
 Notice I used the blank template and a folder called ioniccode. Open that folder up and you will see the following assets:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot13.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot13.png" alt="shot1" width="238" height="170" class="alignnone size-full wp-image-5859" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot13.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot13.png" alt="shot1" width="238" height="170" class="alignnone size-full wp-image-5859" /></a>
 
 Copy that www folder into the root of your app folder and rename it common. Your app folder should then look something like this:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot22.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot22.png" alt="shot2" width="269" height="220" class="alignnone size-full wp-image-5860" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot22.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot22.png" alt="shot2" width="269" height="220" class="alignnone size-full wp-image-5860" /></a>
 
 Again, both my original common folder (common-orig in the screen shot above) and the Ionic folder (ioniccode) can be removed later. As I said, I'm keeping them in so I can copy some bits over.
 
@@ -194,7 +194,7 @@ function wlCommonInit(){
 
 And that's it. Once you build/deploy (and don't forget you can do that with <code>mfp bd</code>), you should then see your MobileFirst application using the awesome power of Ionic!
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot32.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot32.png" alt="shot3" width="835" height="580" class="alignnone size-full wp-image-5864" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/shot32.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/shot32.png" alt="shot3" width="835" height="580" class="alignnone size-full wp-image-5864" /></a>
 
 I've attached my copy of the common folder to this blog entry. Also, Carlos created a GitHub repo with modified versions of all the Ionic templates here: <a href="https://github.com/csantanapr/mfp-ionic-templates">https://github.com/csantanapr/mfp-ionic-templates</a>.
 

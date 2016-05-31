@@ -10,7 +10,7 @@
 	"guid": "6250"
 }
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/06/logo_JavaScript.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/logo_JavaScript.png" alt="logo_JavaScript" width="200" height="200" class="alignleft size-full wp-image-6251" /></a> For the past five or so years, my biggest focus (development-wise) has been on JavaScript and web development. Luckily nothing has changed much during those years. (Ahem.) I've discovered that I'm probably not smart enough to reach the upper levels of JavaScript development. I've got a lot of respect for those who do, but frankly, I'm happy enough if I can simply be <strong>competent</strong> as a JavaScript programmer. 
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/06/logo_JavaScript.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/06/logo_JavaScript.png" alt="logo_JavaScript" width="200" height="200" class="alignleft size-full wp-image-6251" /></a> For the past five or so years, my biggest focus (development-wise) has been on JavaScript and web development. Luckily nothing has changed much during those years. (Ahem.) I've discovered that I'm probably not smart enough to reach the upper levels of JavaScript development. I've got a lot of respect for those who do, but frankly, I'm happy enough if I can simply be <strong>competent</strong> as a JavaScript programmer. 
 
 <!--more-->
 

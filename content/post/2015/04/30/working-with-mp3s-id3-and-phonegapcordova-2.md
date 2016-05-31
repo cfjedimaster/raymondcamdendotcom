@@ -19,15 +19,15 @@ Yesterday I <a href="http://www.raymondcamden.com/2015/04/29/working-with-mp3s-i
 
 The first update was the addition of a spinner dialog. I used the spinner from <a href="http://ngcordova.com/docs/plugins/spinnerDialog/">ngCordova</a>.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-30-at-4.06.16-PM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/Screen-Shot-2015-04-30-at-4.06.16-PM.png" alt="Screen Shot 2015-04-30 at 4.06.16 PM" width="527" height="850" class="alignnone size-full wp-image-6094" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-30-at-4.06.16-PM.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/Screen-Shot-2015-04-30-at-4.06.16-PM.png" alt="Screen Shot 2015-04-30 at 4.06.16 PM" width="527" height="850" class="alignnone size-full wp-image-6094" /></a>
 
 This will display while the code is parsing the MP3s for their ID3 information. When done, a list is displayed:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-30-at-4.09.50-PM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/Screen-Shot-2015-04-30-at-4.09.50-PM.png" alt="Screen Shot 2015-04-30 at 4.09.50 PM" width="527" height="850" class="alignnone size-full wp-image-6095" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-30-at-4.09.50-PM.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/Screen-Shot-2015-04-30-at-4.09.50-PM.png" alt="Screen Shot 2015-04-30 at 4.09.50 PM" width="527" height="850" class="alignnone size-full wp-image-6095" /></a>
 
 Yeah, not very colorful, I really need to add something to the header to make it prettier. But you get the idea. Then when an item is selected, you get a nice Ionic card display:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-30-at-4.10.37-PM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/Screen-Shot-2015-04-30-at-4.10.37-PM.png" alt="Screen Shot 2015-04-30 at 4.10.37 PM" width="527" height="850" class="alignnone size-full wp-image-6096" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-30-at-4.10.37-PM.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/Screen-Shot-2015-04-30-at-4.10.37-PM.png" alt="Screen Shot 2015-04-30 at 4.10.37 PM" width="527" height="850" class="alignnone size-full wp-image-6096" /></a>
 
 Now let's break down the code - and remember - you can download everything from the repo I'll link to at the bottom. First - the core app.js for the app:
 

@@ -13,13 +13,13 @@ On a private listserv (the first rule of fight club is...) <a href="http://www.c
 <!--more-->
 1) You can now see a total query time:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 212.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 212.png">
 
 2) If the execution time of a query is over 1k, I added lsNumberFormat to the display. This will change 3448ms to 3,448ms. Charlie thought this might be a bit easier to read. The comma right after ms makes it a bit confusing to me though. I tested this by adding a large number to my query since I was unable to write a slow query. (I've got mad SQL skills.)
 
 3) If the execution time of a query is too slow, flag it like the template list does. If you look in the screen shot above you will see a few red lines. I had set my 'highlight templates' setting in the CF Admin to 2 ms, which is very low of course, but it helps show the issue. If your query takes too long, it is now highlighted.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 312.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 312.png">
 
 It uses the same threshold as the templates do. 
 

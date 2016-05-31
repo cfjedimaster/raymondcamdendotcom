@@ -29,4 +29,4 @@ The point is - you have multiple different ways to geocode those addresses. Once
 
 To be honest, I think this is better overall as there really is no need to keep geocoding the same darn address for every user who comes to your site. You can find a full demo below.
 
-<a href="http://www.raymondcamden.com/demos/2013/aug/9/test2a.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2013/aug/9/test2a.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

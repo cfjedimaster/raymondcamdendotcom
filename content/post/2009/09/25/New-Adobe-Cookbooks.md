@@ -15,7 +15,7 @@ Many weeks ago I spoke about how I was going to work with Adobe to migrate conte
 
 As you can see, it's got a sexy new UI as well:
 
-<img src="http://static.raymondcamden.com/images/Picture 188.png" />
+<img src="https://static.raymondcamden.com/images/Picture 188.png" />
 
 Best of all, the site was built in ColdFusion! You can find RSS feeds for content as well as a feed for requests. While it's empty now, here is the RSS for ColdFusion recipe requests: <a href="http://cookbooks.adobe.com/rss/recent/requests?technology=coldfusion">http://cookbooks.adobe.com/rss/recent/requests?technology=coldfusion</a>. 
 

@@ -14,7 +14,7 @@ Warning - what follows is a complete waste of time. Do not spend time reading th
 
 <!--more-->
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/device1mod.png" alt="device1mod" width="422" height="750" class="aligncenter size-full wp-image-6418" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/device1mod.png" alt="device1mod" width="422" height="750" class="aligncenter size-full wp-image-6418" />
 
 I've obscured the hints in case you want to try to figure it out yourself before reading on. The obscured area though does provide you with a clue. You get the length of each word. In this case, the first word is five letters long and the second one is four letter.
 
@@ -133,7 +133,7 @@ Taking it from the top, and ignoring globals variables and the such, I start off
 
 So at this point, I've got a database of words. Now I need to ask the user for the length of the word they want to find and have them input the grid. I could have made something fancy, but I just used form fields:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot15.png" alt="shot1" width="167" height="71" class="aligncenter size-full wp-image-6419 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot15.png" alt="shot1" width="167" height="71" class="aligncenter size-full wp-image-6419 imgborder" />
 
 How in the heck do we solve this? Considering we have a grid, we can iterate over every letter, and find every possible N-lengthed path from there. The game allows a path of any direction and you can't go over a previously used square. My initial thought was this:
 
@@ -310,10 +310,10 @@ function doSearch() {
 
 Got all that? Nice and simple, right? FYI, I could have used a oncomplete for my transaction to tell the user when I'm done, but since I'm simply spitting out to the console, it doesn't matter. Also, since my code fires asynch, my "don't repeat words" code could fail too. Again, using an oncomplete would let me handle that better. Who cares! Let's see the results:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot22.png" alt="shot2" width="385" height="369" class="aligncenter size-full wp-image-6420 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot22.png" alt="shot2" width="385" height="369" class="aligncenter size-full wp-image-6420 imgborder" />
 
 Woot! Cool, right? I went through the words and then discovered something weird - none of them worked. So... I gave up and used the hints system the game doles out at certain times. I discovered that the 4 letter word was RAF. Obviously that's RAFT, right? But looking at the screen shot, you can see they don't hook up. Then I remembered - when you find a word, the letters disappear and the others 'fall' down. At this point, I kid you not - I immediately saw the 5 letter word. No kidding, I figured it out in seconds. But for the heck of it, I tried my tool: 
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot41.png" alt="shot4" width="258" height="132" class="aligncenter size-full wp-image-6421 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot41.png" alt="shot4" width="258" height="132" class="aligncenter size-full wp-image-6421 imgborder" />
 
-The answer was PIANO. Selecting that left RAFT. And that's that. Want to run it yourself? Keep in mind you'll need an IDB-compatible browser and this code is <i>very</i> brittle. Here it is: <a href="http://static.raymondcamden.com/wordbrainsolver/">http://static.raymondcamden.com/wordbrainsolver/</a>
+The answer was PIANO. Selecting that left RAFT. And that's that. Want to run it yourself? Keep in mind you'll need an IDB-compatible browser and this code is <i>very</i> brittle. Here it is: <a href="https://static.raymondcamden.com/wordbrainsolver/">https://static.raymondcamden.com/wordbrainsolver/</a>

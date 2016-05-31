@@ -62,7 +62,7 @@ This is where the second approach comes in - the <a href="https://developers.goo
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/server_side_code_flow.png" />
+<img src="https://static.raymondcamden.com/images/server_side_code_flow.png" />
 </p>
 
 <p>

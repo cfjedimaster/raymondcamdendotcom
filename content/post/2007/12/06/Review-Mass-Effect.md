@@ -15,7 +15,7 @@ First off - if you haven't played a BioWare RPG before (like Knights of the Old 
 
 Mass Effect continues this tradition and to great effect. The story (so far anyway) is incredibly interesting. I want to call it "Mature" - but I don't want to imply it is anything like GTA. It is M rated - but more than that - the story just feels like it was written by smart, older geeks as opposed to something written for 12 year olds. I can respect that. It is the difference between Star Wars and the new Battlestar Galactica. Different audience - different tone. You get the idea. 
 
-<img src="http://static.raymondcamden.com/images/Mass_Effect4.jpg" align="left" hspace="5">
+<img src="https://static.raymondcamden.com/images/Mass_Effect4.jpg" align="left" hspace="5">
 
 So all of this is great - but there are some problems as well. First off - the games control scheme is pretty complex. I tend to judge everything by the GRAW Scale. GRAW (Ghost Recon Advanced Warrior) was a pretty cool game - but within 5 minutes I had already forgotten half the controls and within 10 minutes I just gave up. Mass Effect makes use of every button and joystick interaction you can think of. I can handle it - but it really pushes it. The complexity extends other places as well. Consider this:
 
@@ -27,4 +27,4 @@ The last problem is the graphics. Again - this is both good and bad. The graphic
 
 So I know I complained about a lot - but trust me. This is a darn good game. I'm really happy to see BioWare in a non-Star Wars universe (I haven't played Jade Empire yet). I was a bit worried about how they would handle their own IP, but they did a great job. I would definitely recommend picking it up.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Mass_Effect6.jpg">
+<img src="https://static.raymondcamden.com/images/cfjedi/Mass_Effect6.jpg">

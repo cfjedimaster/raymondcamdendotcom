@@ -131,4 +131,4 @@ I begin by creating a simple form that allows for both free text entry and selec
 <p>
 
 
-<a href="http://www.raymondcamden.com/demos/feb232011a/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/feb232011a/test.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

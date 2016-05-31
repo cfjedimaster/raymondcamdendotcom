@@ -94,7 +94,7 @@ And the end result:
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/ss7.png" class="bthumb" />
+<img src="https://static.raymondcamden.com/images/ss7.png" class="bthumb" />
 </p>
 
 <p>

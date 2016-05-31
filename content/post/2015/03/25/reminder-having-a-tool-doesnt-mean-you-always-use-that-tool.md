@@ -15,7 +15,7 @@ Earlier this week Rebecca Murphy wrote an article about what she considers a "ba
 
 It is an <i>incredible</i> time to be a web developer. That isn't to say we don't have a lot of problems, just that our field has grown in leaps and bounds over the past five years or so. JavaScript, and web standards in general, have created a rich playground for us to build not only web sites, but mobile and desktop apps as well. When I started, here were my tools:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/Untitled-drawing.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/Untitled-drawing.png" alt="Old school web dev" width="642" height="295" class="alignnone size-full wp-image-5882" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/Untitled-drawing.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/Untitled-drawing.png" alt="Old school web dev" width="642" height="295" class="alignnone size-full wp-image-5882" /></a>
 
 At a high level, web developers have access to:
 

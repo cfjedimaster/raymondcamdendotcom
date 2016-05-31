@@ -26,5 +26,5 @@ If you want to take it for a test drive, I built an online Nunjucks tester here:
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot10.png" class="bthumb" />
+<img src="https://static.raymondcamden.com/images/shot10.png" class="bthumb" />
 </p>

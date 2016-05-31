@@ -9,7 +9,7 @@
 	"guid": "2692"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Bush030307.jpg" align="left" style="margin-right: 10px;margin-bottom:10px;"> A reader wrote me today about an interesting issue he was having with Spry. His dataset included dates, and whenever he would sort the dates, they would sort incorrectly.
+<img src="https://static.raymondcamden.com/images/cfjedi/Bush030307.jpg" align="left" style="margin-right: 10px;margin-bottom:10px;"> A reader wrote me today about an interesting issue he was having with Spry. His dataset included dates, and whenever he would sort the dates, they would sort incorrectly.
 
 My first reaction was to suggest he use <a href="http://labs.adobe.com/technologies/spry/articles/data_api/apis/dataset.html#setcolumntype">setColumnType()</a>. This is a helper function that tells Spry what column types are in use with your dataset. You need to use this for dates, numeric, and HTML data. Nine times out of ten when someone has a sorting issue, this is the problem.
 

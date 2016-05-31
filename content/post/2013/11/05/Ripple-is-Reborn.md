@@ -32,7 +32,7 @@ First and foremost - you must remove the Ripple Chrome extension if you have it 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_11_5_13__9_28_PM.jpg" />
+<img src="https://static.raymondcamden.com/images/Screenshot_11_5_13__9_28_PM.jpg" />
 </p>
 
 <p>
@@ -62,7 +62,7 @@ cordova prepare</code></pre>
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/21.jpg" />
+<img src="https://static.raymondcamden.com/images/21.jpg" />
 </p>
 
 <p>
@@ -82,7 +82,7 @@ And just to mix things up a bit - a screenshot from OS X to go with the Windows 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/31.jpg" />
+<img src="https://static.raymondcamden.com/images/31.jpg" />
 </p>
 
 <p>
@@ -90,7 +90,7 @@ At this point, Ripple actually fires up Chrome for you and opens it to your appl
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/41.jpg" />
+<img src="https://static.raymondcamden.com/images/41.jpg" />
 </p>
 
 <p>

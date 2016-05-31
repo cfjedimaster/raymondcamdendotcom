@@ -14,7 +14,7 @@ I've been a fan of the Wolfenstein series for quite some time, and when I say "q
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/CastleWolfensteinC64.png" />
+<img src="https://static.raymondcamden.com/images/CastleWolfensteinC64.png" />
 </p>
 
 <p>
@@ -30,7 +30,7 @@ The story is what really sold me though. I am a <strong>huge</strong> Alt-Histor
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/wolfenstein-the-new-order.jpg" />
+<img src="https://static.raymondcamden.com/images/wolfenstein-the-new-order.jpg" />
 </p>
 
 <p>

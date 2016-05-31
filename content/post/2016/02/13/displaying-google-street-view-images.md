@@ -29,7 +29,7 @@ $.ajax({
 
 As you can see, the image tag passes parameters for height, width, and address, with the address portion being dynamic. This worked well, except that in some cases, a Street View image wasn't available:
 
-![Bad street view](http://static.raymondcamden.com/images/2016/02/streetviewbad.jpeg)
+![Bad street view](https://static.raymondcamden.com/images/2016/02/streetviewbad.jpeg)
 
 He wanted to know - was it possible to handle that and do something special when an image wasn't available? I did some quick research and ran across a Stack Overflow answer by @user1852570 (probably not a real name - just assuming):
 
@@ -110,7 +110,7 @@ Next we create a Street View Panaroma object to display the image. After setting
 
 And that's it. Now to be fair - the end result is a bit different. Instead of just an image we actually have an "embedded" Street View that can be rotated and changed. 
 
-![Good street view](http://static.raymondcamden.com/images/2016/02/streetviewgood.gif)
+![Good street view](https://static.raymondcamden.com/images/2016/02/streetviewgood.gif)
 
 I believe you could use the API to prevent that if you really wanted to, but I doubt that really matters. You could also skip setting the result at all and just use the initial image url version on a good result. 
 

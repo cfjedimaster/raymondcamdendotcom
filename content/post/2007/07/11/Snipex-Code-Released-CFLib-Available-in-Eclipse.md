@@ -17,4 +17,4 @@ As a SnipEx server. I noticed that the node shows up blank, but when you expand 
 
 I'm going to be doing a bit of work on the XML when I can. I noticed the libraries are not sorted so I'll try to fix that. 
 
-<img src="http://static.raymondcamden.com/images/cfecflib.jpg">
+<img src="https://static.raymondcamden.com/images/cfecflib.jpg">

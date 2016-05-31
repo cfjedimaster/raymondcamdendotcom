@@ -9,7 +9,7 @@
 	"guid": "3656"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry comes to us from Corey Butler. It was reviewed by <a href="http://www.briankotek.com/blog/">Brian Kotek</a>. I'll be including his notes as well as mine intermingled below. Warning - the download for this entry is rather large. So instead of including it as an enclosure to the entry, I've instead FTPed it to my server. You can download it by clicking the URL below. The file size is a bit over 12 megs. (If folks have issue grabbing the code, let me know and I'll put it up on S3.)
+<img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry comes to us from Corey Butler. It was reviewed by <a href="http://www.briankotek.com/blog/">Brian Kotek</a>. I'll be including his notes as well as mine intermingled below. Warning - the download for this entry is rather large. So instead of including it as an enclosure to the entry, I've instead FTPed it to my server. You can download it by clicking the URL below. The file size is a bit over 12 megs. (If folks have issue grabbing the code, let me know and I'll put it up on S3.)
 
 Download URL: <a href="http://www.raymondcamden.com/downloads/postit.zip">http://www.coldfusionjedi.com/downloads/postit.zip</a>
 
@@ -61,15 +61,15 @@ Another thing the installer mentions, but again, it didn't work for me, was the 
 
 After you get past the installer, the first thing you want to do is take a look at the Admin. The first thing you may notice is that you are running a HTML file - not ColdFusion. The admin is an Ext application that wraps calls to ColdFusion. Very slick! I thought it was broken at first when I couldn't get survey data to load. You need to <b>double click</b> on the survey! Once done, you get a pretty darn cool view:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 345.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 345.png" />
 
 I freaking love Ext-based applications. I haven't used Ext much, and I don't think it does things as well as jQuery, but for making application UI, it seems to kick some major butt. I also liked how the survey results included maps for respondents:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 419.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 419.png" />
 
 And check this out - here is how you edit matrix type questions:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 511.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 511.png" />
 
 The grayed out portion below is how the question renders. All in all - the admin is extremely well done and is giving me ideas on how to improve reporting in my own tool. Brian was also impressed by it as well. 
 

@@ -164,4 +164,4 @@ And as always, I've put up a demo for you to play with. Enjoy!
 <p/>
 
 
-<a href="http://www.coldfusionjedi.com/demos/feb62011/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/feb62011/test.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

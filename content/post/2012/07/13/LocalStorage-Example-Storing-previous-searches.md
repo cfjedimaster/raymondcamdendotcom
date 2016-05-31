@@ -20,7 +20,7 @@ The application makes use of Bootstrap, jQuery, and Handlebars, but for now, let
 
 You can see that I begin by compiling my Handlebars template (this is used for the results), and then I define my click handler for the search button. All the handler does is grab the search string, pass it to a ColdFusion service that hits the database, and then passes the results to my Handlebars template. 
 
-<img src="http://static.raymondcamden.com/images/ScreenClip103.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip103.png" />
 
 Beautiful - and the code is rather simple. You can test this yourself here: <a href="http://www.raymondcamden.com/demos/2012/jul/13/test1.html">http://www.raymondcamden.com/demos/2012/jul/13/test1.html</a> I'd recommend searching for oil, moon, paint, and beer.
 
@@ -40,4 +40,4 @@ All that's left then is to simply write out the past searches and listen for cli
 
 And voila - I can now remember your last five searches <i>and</i> provide an easy way for you to quickly rerun them. The code samples above are only the most important bits. I encourage you to View Source on the updated version for the complete example. (The ColdFusion code is just a simple query API. You can view that template <a href="https://gist.github.com/3106450">here</a>.)
 
-<a href="http://www.raymondcamden.com/demos/2012/jul/13/test2.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/jul/13/test2.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

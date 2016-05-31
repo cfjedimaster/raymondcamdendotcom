@@ -19,7 +19,7 @@ I basically want to know if it's possible to have two different y-axis units/val
 
 I have to admit - I wasn't sure what he meant at first. Then he provided a nice sample graph:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/graph.gif">
+<img src="https://static.raymondcamden.com/images/cfjedi/graph.gif">
 <!--more-->
 This made sense to me. Basically he has two sets of data with different ranges of Y values. Danny said he tried the chart editor, which as my readers know is the first place I always suggest folks to look. I tried as well and like Danny, I wasn't able to get it working. I did some quick Googling and came across this <a href="http://www.gpoint.com/website/WebCharts50/examples-server/auto.jsp?src=no">example</a>. I played around with the source code, did some tests back in the chart editor, and finally figured it out.
 
@@ -83,7 +83,7 @@ Notice there my elements and series tags. Now lets render the charts:
 
 The important thing to note is that the first chart series, sales, is what will be on the right side of the chart. Here is the result:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 311.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 311.png">
 
 There ya go. Hope this helps others, and here is the complete template if folks want to quickly test it.
 

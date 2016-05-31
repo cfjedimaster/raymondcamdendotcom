@@ -28,6 +28,6 @@ Once you take a picture, it's a trivial matter then to load it into an image obj
 
 Here's a quick example. Forgive the horrible quality of the Xoom camera.
 
-<img src="http://static.raymondcamden.com/images/device-2012-05-22-095628.png" />
+<img src="https://static.raymondcamden.com/images/device-2012-05-22-095628.png" />
 
 You can do anything you want with the image now, including <a href="http://stackoverflow.com/questions/1590965/uploading-canvas-image-data-to-the-server">getting the bits</a> and <a href="http://www.raymondcamden.com/index.cfm/2011/11/2/PhoneGap-file-upload-to-ColdFusion">uploading it to a server</a>.

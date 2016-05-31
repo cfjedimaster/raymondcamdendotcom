@@ -46,7 +46,7 @@ In the code above he creates a 5 minute time span and then loops from 9 AM to 10
 
 This should show the same results, just a different hour, right? Check out the results:
 
-<img src="http://static.raymondcamden.com/images//Picture 330.png">
+<img src="https://static.raymondcamden.com/images//Picture 330.png">
 
 What the heck? (Actually when I ran this I said something a bit strong.) There are 13 counts in the first loop and 12 in the second. Also note the second stops at 10:55, not 11. 
 
@@ -83,7 +83,7 @@ Hours. ---&gt;
 
 Check out the result:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 414.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 414.png">
 
 Ah, floating point numbers. I think you can see here where the issue is coming up - rounding errors. Notice how even the values for 10AM (at the end of the first loop and the first entry of the second loop) don't match. 
 

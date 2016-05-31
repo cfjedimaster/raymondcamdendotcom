@@ -42,7 +42,7 @@ So basically - get the value from the textarea and then pass it to Yahoo. I then
 
 And um, that's it. I wish there was more, but it just plain works. Really goes to show how nice jQuery is and how simple the YQL API is to work with. Here is a screen shot:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2009-09-29 at 5.03.26 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2009-09-29 at 5.03.26 PM.png" />
 
 And finally, a quick installer badge if you want to play with it.
 

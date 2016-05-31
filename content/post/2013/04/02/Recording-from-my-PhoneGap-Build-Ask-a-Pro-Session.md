@@ -15,4 +15,4 @@ Miss my presentation last week? You can watch the recording below. If you would 
 
 As always, if you have any questions, just let me know. If you have any suggestions, let me know as well.
 
-<img src="http://static.raymondcamden.com/images/Build-Bot.png" />
+<img src="https://static.raymondcamden.com/images/Build-Bot.png" />

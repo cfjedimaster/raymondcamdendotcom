@@ -143,4 +143,4 @@ I've got a demo set up (see big ole button below), but unfortunately, I had to h
 
 <p/>
 
-<a href="http://www.raymondcamden.com/demos/jun162010/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/jun162010/test.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

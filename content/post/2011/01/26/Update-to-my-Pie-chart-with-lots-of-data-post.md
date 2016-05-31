@@ -93,7 +93,7 @@ And here is the final result - compare it to the screen shots in the <a href="ht
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip18.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip18.png" />
 
 <p/>
 

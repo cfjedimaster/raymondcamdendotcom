@@ -14,7 +14,7 @@ Tonight I'm going to demonstrate my version of an interesting technique now I've
 <!--more-->
 <p/>
 
-<img src="http://static.raymondcamden.com/images/shot11.png" />
+<img src="https://static.raymondcamden.com/images/shot11.png" />
 
 <p/>
 
@@ -22,7 +22,7 @@ If you include a bad email address, we can display a nice error:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/shot21.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/shot21.png" />
 
 <p/>
 
@@ -30,7 +30,7 @@ If you enter a good email address, we can fire off the email verification system
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/shot3.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/shot3.png" />
 
 <p/>
 
@@ -38,7 +38,7 @@ Which then sends you an email:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip179.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip179.png" />
 
 <p/>
 
@@ -46,7 +46,7 @@ Now here comes the cool part. Clicking the link opens up a new tab with a simple
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/shot4.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/shot4.png" />
 
 <p>
 

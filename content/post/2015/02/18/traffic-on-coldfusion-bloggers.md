@@ -28,13 +28,13 @@ I can share information about CFBloggers easily enough. To be fair, I don't thin
 
 Ok, so with that in mind, here is a chart showing page views, per month, since the site went live in 2007.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/cfb1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/cfb1.png" alt="cfb1" width="800" height="186" class="alignnone size-full wp-image-5701" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/cfb1.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/cfb1.png" alt="cfb1" width="800" height="186" class="alignnone size-full wp-image-5701" /></a>
 
 As you can see, there is a great jump in 2009, one I wish I could explain. I thought perhaps it was adding Twitter support, but that was <a href="http://www.raymondcamden.com/2008/7/14/Follow-ColdFusion-Bloggers-on-Twitter">done</a> in July of 2008, a good year before the jump. 
 
 As you can see though it has slowly declined over time. I'm not sure that's necessarily indicative of ColdFusion but blogging in general. I don't have research to back this up, but it seems like more and more people are abandoning blogs versus starting new ones. My own traffic has gone up and down over the years, but is mostly up though. If you're curious, here is the history of  my blog in page views.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/rkc.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/rkc.png" alt="rkc" width="800" height="137" class="alignnone size-full wp-image-5702" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/rkc.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/rkc.png" alt="rkc" width="800" height="137" class="alignnone size-full wp-image-5702" /></a>
 
 So yeah, let's hit that last statement, the one that isn't controversial at all.
 

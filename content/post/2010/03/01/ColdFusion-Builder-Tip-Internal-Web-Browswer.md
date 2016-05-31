@@ -17,6 +17,6 @@ Ok, so this is another tip that is more Eclipse than ColdFusion Builder, but I t
 <p/>
 What I'll then do is open it in my browser and reload a few times while I tweak the code. Today, on a whim, I tried the Internal Web Browser view. This is different (as far as I know) from the preview in the editor pane. That view is something I don't use too often. Why? Because I normally really need to see both code <i>and</i> result at the same time. The Internal Web Browser though is a separate panel that acts like a browser. In the screen shot below, I've opened this view and pointed it to the test file on my desktop. As I work, I reload to get the latest dump:
 <p/>
-<img src="http://static.raymondcamden.com/images/cfjedi/cfbweb.png" title="Internal Web Browser FTW" />
+<img src="https://static.raymondcamden.com/images/cfjedi/cfbweb.png" title="Internal Web Browser FTW" />
 <p/>
 Useful? Maybe. In this particular case it was helpful to me. I was working on an issue within a loop inside cfchart. The dumps helped me track the data being supplied to the chart and where it was going wrong.

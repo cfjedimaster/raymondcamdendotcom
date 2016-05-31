@@ -92,20 +92,20 @@ And the results? Here are some samples:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/shot1.png" />
+<img src="https://static.raymondcamden.com/images/shot1.png" />
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/shot3.png" />
+<img src="https://static.raymondcamden.com/images/shot3.png" />
 
 <p>
 
 
-<img src="http://static.raymondcamden.com/images/shot4.png" />
+<img src="https://static.raymondcamden.com/images/shot4.png" />
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/shot5.png" />
+<img src="https://static.raymondcamden.com/images/shot5.png" />
 
 <p>
 

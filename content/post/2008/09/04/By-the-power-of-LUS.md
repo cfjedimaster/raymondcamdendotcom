@@ -19,7 +19,7 @@ The only other loss was our food and perishable medicines, which was quite a bit
 
 The only thing not quite right yet is the pool. It was a green swamp immediately after the storm. Here is an iPhone pic:
 
-<img src="http://static.raymondcamden.com/images/pool.jpg">
+<img src="https://static.raymondcamden.com/images/pool.jpg">
 
 We cleaned it out a bit but it will take more work before we can actually swim in it again. (And in Louisiana, our kids can swim till November sometimes.) 
 

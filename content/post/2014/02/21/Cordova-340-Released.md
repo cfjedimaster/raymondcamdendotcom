@@ -21,7 +21,7 @@ This is the first release to include support for Firefox OS. You can now add it 
 You can now run "cordova platform check" in a project to see if it can be updated. I did this with a project I created last week and got this:
 </p>
 
-<img src="http://static.raymondcamden.com/images/Screenshot_2_21_14__4_41_PM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_2_21_14__4_41_PM.png" />
 
 <p>
 Apparently, and this may have happened earlier, you can now "cordova run ios" to push an app to an iOS device. It takes about 15 seconds to get on the device but then takes a <i>very</i> long time to fire deviceready. The command sits there and you have to cmd+c to stop it, but that keeps the process running in the background and you must kill ios-deploy if you try to run it again. So something tells me this isn't really ready for prime time yet. I posted a note to the Google Group but didn't get a response.
@@ -32,7 +32,7 @@ Finally, the docs now lead you to the plugins repository for docs. So this thing
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_2_21_14__4_44_PM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_2_21_14__4_44_PM.png" />
 </p>
 
 <p>
@@ -40,7 +40,7 @@ Is now this...
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_2_21_14__4_45_PM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_2_21_14__4_45_PM.png" />
 </p>
 
 <p>

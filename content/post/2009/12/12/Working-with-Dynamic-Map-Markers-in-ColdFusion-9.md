@@ -55,7 +55,7 @@ This demo creates a map centered on St. Louis (where I was raised if people are 
 
 I'm using some jQuery to monitor the click even on the button. Whenever it is pressed I grab the address value and create a marker object out of it. The API takes two values: the name of the map and a structure of data to help define the marker. Here is an example of what the maps looks like after a few markers have been added:
 
-<img src="http://static.raymondcamden.com/images/Picture 196.png" />
+<img src="https://static.raymondcamden.com/images/Picture 196.png" />
 
 Woot. Works like a charm. So it was at this point I fired up my blog editor and began to write. However when I noticed he wanted to <i>remove</i> markers as well, I hit a brick wall. There is no simple ColdFusion wrapper for that part of the maps API. There is, however, a way to get the core Map object and then use any supported API there. So it should be easy, right? I discovered that there was a removeOverlay function. Markers are an overlay object and therefore if you have access to the marker object, you can simply do:
 

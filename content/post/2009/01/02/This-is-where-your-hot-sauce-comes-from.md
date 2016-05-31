@@ -21,8 +21,8 @@ I helped him offload his pictures to iPhoto yesterday, and in doing so discovere
 <script type="text/javascript" src="http://www.coldfusionjedi.com/js/thickbox/thickbox.js"></script>
 <link rel="stylesheet" href="http://www.coldfusionjedi.com/js/thickbox/thickbox.css" type="text/css" media="screen" />
 
-<a href="http://www.coldfusionjedi.com/images/bridge_large.jpg" title="Bridge" class="thickbox" rel="gallery-jacob"><img src="http://static.raymondcamden.com/images/cfjedi/bridge_small.jpg" alt="Bridge" /></a> 
-<a href="http://www.coldfusionjedi.com/images/dark_water_large.jpg" title="Dark Water" class="thickbox" rel="gallery-jacob"><img src="http://static.raymondcamden.com/images/cfjedi/dark_water_small.jpg" alt="Dark Water" /></a> 
+<a href="http://www.coldfusionjedi.com/images/bridge_large.jpg" title="Bridge" class="thickbox" rel="gallery-jacob"><img src="https://static.raymondcamden.com/images/cfjedi/bridge_small.jpg" alt="Bridge" /></a> 
+<a href="http://www.coldfusionjedi.com/images/dark_water_large.jpg" title="Dark Water" class="thickbox" rel="gallery-jacob"><img src="https://static.raymondcamden.com/images/cfjedi/dark_water_small.jpg" alt="Dark Water" /></a> 
 
 <p/>
 

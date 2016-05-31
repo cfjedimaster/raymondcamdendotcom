@@ -56,7 +56,7 @@ You can see I include the relevant libraries on top and my content is really jus
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip31.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip31.png" />
 
 <p>
 
@@ -144,7 +144,7 @@ Ok, we've got a bit more going on here then before. The top portion handles my s
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip32.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip32.png" />
 
 <p>
 
@@ -152,7 +152,7 @@ Not bad, right? You can demo this here:
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/feb252011/"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/feb252011/"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 
@@ -160,7 +160,7 @@ For the most part, I think you see that nothing special was done to make this wo
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/feb252011/index2.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/feb252011/index2.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

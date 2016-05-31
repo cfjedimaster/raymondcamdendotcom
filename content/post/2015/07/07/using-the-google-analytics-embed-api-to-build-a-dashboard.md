@@ -17,7 +17,7 @@ About a year and a half ago I created a demo (<a href="http://www.raymondcamden.
 
 Before I show the code behind this demo, let me share a screen shot so you can see it in action. I switched to a new charting library for this demo (<a href="http://www.chartjs.org/">ChartJS</a>) mainly because Google used it themselves in one of their demos. I didn't spend much time making this pretty - I was going for 'quick impact' in terms of visuals. Obviously though it could be better.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot11.png" alt="shot1" width="800" height="566" class="alignnone size-full wp-image-6360 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot11.png" alt="shot1" width="800" height="566" class="alignnone size-full wp-image-6360 imgborder" />
 
 Each chart represents one of my properties. Each line represents page views per days, with the darker blue being the most recent page seven days and the lighter gray being the seven days before that. 
 
@@ -186,4 +186,4 @@ function processProfiles() {
 
 And that's basically it. As I said, I'd like to add a few options to this. Specifically, the ability to compare the current and past 30 days as well as this year versus the past. I'd also like the ability to dismiss/hide some sites I don't care about. I could use LocalStorage to remember those properties and hide them automatically.
 
-Want to see the complete code and test it yourself? Check out the online demo here: <a href="http://static.raymondcamden.com/ga_embed/test10.html">http://static.raymondcamden.com/ga_embed/test10.html</a>
+Want to see the complete code and test it yourself? Check out the online demo here: <a href="https://static.raymondcamden.com/ga_embed/test10.html">https://static.raymondcamden.com/ga_embed/test10.html</a>

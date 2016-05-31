@@ -22,7 +22,7 @@ We landed back in America yesterday morning and while we have a lot of work ahea
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/IMAG0648(1).jpg" />
+<img src="https://static.raymondcamden.com/images/IMAG0648(1).jpg" />
 </p>
 
 <p>

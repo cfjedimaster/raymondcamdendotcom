@@ -27,7 +27,7 @@ I took an existing demo (NoteStrap) that simply supported saving notes. It has b
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_2_24_14__9_27_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_2_24_14__9_27_AM.png" />
 </p>
 
 <p>
@@ -35,7 +35,7 @@ To make things a bit more interesting, I added a second table, called log, where
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_2_24_14__9_29_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_2_24_14__9_29_AM.png" />
 </p>
 
 <p>

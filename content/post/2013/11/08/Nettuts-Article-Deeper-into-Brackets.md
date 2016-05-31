@@ -17,4 +17,4 @@ I assume most of my readers are already pretty familiar with <a href="http://bra
 <a href="http://net.tutsplus.com/tutorials/tools-and-tips/deeper-in-the-brackets-editor/#comment-1114393824">Deeper in the Brackets Editor</a>
 </p>
 
-<img src="http://static.raymondcamden.com/images/deeper-in-brackets-preview.jpg" />
+<img src="https://static.raymondcamden.com/images/deeper-in-brackets-preview.jpg" />

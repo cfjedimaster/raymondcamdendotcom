@@ -19,6 +19,6 @@ The only feature really lacking now is a dedicated way to subscribe to comments 
 
 Finally, one small feature I like (that people will probably never notice) is the "Recent Commenters" box at the bottom. It simply lists and displays the gravatars of the last few readers who left comments:
 
-<img src="http://static.raymondcamden.com/images/screenshot70.png" />
+<img src="https://static.raymondcamden.com/images/screenshot70.png" />
 
 I expect some folks will <i>not</i> care for the redesign, which is always the case, but I hope they continue to participate and add to the conversation.

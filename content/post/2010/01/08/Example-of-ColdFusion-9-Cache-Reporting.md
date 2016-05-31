@@ -228,7 +228,7 @@ I then took this data and applied it to a chart. Now here is where things get in
 
 <p>
 
-<a href="http://www.raymondcamden.com/images/cachereportorig.png"><img src="http://static.raymondcamden.com/images/cfjedi/cachereportsmall.png" title="Go ahead, click, you know you want to..." /></a>
+<a href="http://www.raymondcamden.com/images/cachereportorig.png"><img src="https://static.raymondcamden.com/images/cfjedi/cachereportsmall.png" title="Go ahead, click, you know you want to..." /></a>
 
 <p>
 

@@ -15,11 +15,11 @@ Ok, so what in the heck am I talking about? Imagine a simple form that represent
 <!--more-->
 I decided my first solution to this problem would use ColdFusion 8's built-in Ajax features only. I decided one simple way to handle it would be to display the current owner as plain text, but to then let you click a link to launch a browser of users. This would make use of cfwindow and have built-in pagination. Here is a screen shot of the final product. This is the form as it initially loads:
 
-<img src="http://static.raymondcamden.com/images//Picture 129.png">
+<img src="https://static.raymondcamden.com/images//Picture 129.png">
 
 When you click Select User, the window control is activated:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 313.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 313.png">
 
 And because I love me some gratuitous Flash, here is a screencast of the solution in action:
 

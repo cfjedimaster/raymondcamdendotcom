@@ -15,7 +15,7 @@ I believe I may have blogged this before, but a reader ran into this yesterday s
 
 Here is a sample cfdump of just such a response. You are expecting a string of some sort in fileContent, but instead end up with a Java object:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/unnamed.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/unnamed.png" alt="unnamed" width="450" height="568" class="alignnone size-full wp-image-5443" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/unnamed.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2014/12/unnamed.png" alt="unnamed" width="450" height="568" class="alignnone size-full wp-image-5443" /></a>
 
 To work with this result as a string, you simply need to run toString() on the value. So for example, if you know the response is JSON:
 

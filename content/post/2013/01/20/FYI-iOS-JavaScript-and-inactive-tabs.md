@@ -22,6 +22,6 @@ I tried to get around this by adding a focus/blur event handler to my code...
 
 Which didn't work either since, hello, you can't run a JavaScript event handler when all of JavaScript is paused! So much for me being clever.
 
-<img src="http://static.raymondcamden.com/images/CleverGirl_Fullpic_1.gif" />
+<img src="https://static.raymondcamden.com/images/CleverGirl_Fullpic_1.gif" />
 
 Anyway, there is a much simpler way around this. Check out this solution from StackOverflow: <a href="http://stackoverflow.com/questions/4940657/handling-standby-on-ipad-using-javascript">Handling standby on iPad using Javascript</a>

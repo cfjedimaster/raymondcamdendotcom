@@ -18,4 +18,4 @@ Just a reminder about the meeting tomorrow with myself, Serge, and Paul. It will
 <a href="http://experts.adobeconnect.com/backtotheedge/">http://experts.adobeconnect.com/backtotheedge/</a>
 </p>
 
-<img src="http://static.raymondcamden.com/images/backtotheedge1.jpg" title="Awesome picture I made in Photoshop">
+<img src="https://static.raymondcamden.com/images/backtotheedge1.jpg" title="Awesome picture I made in Photoshop">

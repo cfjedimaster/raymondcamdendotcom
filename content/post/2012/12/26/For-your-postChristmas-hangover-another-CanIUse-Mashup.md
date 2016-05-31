@@ -18,11 +18,11 @@ So for example, if form field validation requires IE10 and canvas requires IE9 (
 Here's a screenshot of this in action. As a reminder, CanIUse.com supports multiple browsers. The ones you see here were simply my list of what I thought was critical enough to include in the UI.
 
 
-<img src="http://static.raymondcamden.com/images/screenshot49.png" />
+<img src="https://static.raymondcamden.com/images/screenshot49.png" />
 
 Ok, check it out, and let me know what you think.
 
-<a href="http://raymondcamden.com/demos/2012/dec/20/test4.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://raymondcamden.com/demos/2012/dec/20/test4.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <b>Edit:</b> Based on a recommendation by <a href="http://jessefreeman.com/">Jesse Freeman</a>, I finally got around to adding 'bookmarkability' to the demo. Check this version: <a href="http://raymondcamden.com/demos/2012/dec/20/test4.html">http://raymondcamden.com/demos/2012/dec/20/test4.html</a>. As you select options, the URL will change. You can then bookmark and load up that version, or share the URL with others.
 

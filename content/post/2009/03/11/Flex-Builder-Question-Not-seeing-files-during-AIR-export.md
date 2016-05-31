@@ -16,7 +16,7 @@ When I did a debug build, I noticed that the non-code files (one SQL xml file an
 But this wasn't a real solution and it's now biting me on the rear. When I go to export a release build, the AIR File Contents screen refuses to list the other files:
 
 
-<img src="http://static.raymondcamden.com/images//Picture 144.png">
+<img src="https://static.raymondcamden.com/images//Picture 144.png">
 
 I thought perhaps I had messed something up by manually dragging files into the project, yet when I made a new file from within FB (readme.txt), it wasn't noticed either.
 

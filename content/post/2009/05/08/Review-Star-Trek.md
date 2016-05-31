@@ -9,7 +9,7 @@
 	"guid": "3349"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi//st.jpg" align="left" style="margin-right:10px;margin-bottom:10px"> Before I get into my thoughts about the Star Trek reboot, let me be clear. Any and all spoilers will be marked as such, and will be at the end of the blog entry. So if you just want to know what I thought, you can read the blog entry up until the warning block and turn away. As for comments, I say anything goes.
+<img src="https://static.raymondcamden.com/images/cfjedi//st.jpg" align="left" style="margin-right:10px;margin-bottom:10px"> Before I get into my thoughts about the Star Trek reboot, let me be clear. Any and all spoilers will be marked as such, and will be at the end of the blog entry. So if you just want to know what I thought, you can read the blog entry up until the warning block and turn away. As for comments, I say anything goes.
 <!--more-->
 So, folks know I'm somewhat of a Star Wars nut (the whole cfjedimaster, the tats, etc), but I am a fan of Stat Trek as well. I've watched pretty much all the episodes that ever aired (except for Voyager, back when it was on air it was a busy time in my life, but I have every intention of watching them one day) and have seen all the movies. The quality is not always there. I think any Star Trek fan can attest to that. Shoot, I know there are Star Trek films I can't even describe because they are so forgettable. 
 

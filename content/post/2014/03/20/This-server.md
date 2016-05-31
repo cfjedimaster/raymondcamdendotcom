@@ -24,7 +24,7 @@ Turns out - they believe they fixed the issue. An engineer there, Ryan Mathus, d
 <h2>Edge Web - you are awesome!</h2>
 
 <p>
-<img src="http://static.raymondcamden.com/images/starwars-awesome.jpg" />
+<img src="https://static.raymondcamden.com/images/starwars-awesome.jpg" />
 </p>
 
 <p>

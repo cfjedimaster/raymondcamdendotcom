@@ -9,7 +9,7 @@
 	"guid": "3806"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> Welcome to the second entry in the ColdFusion Builder Contest. Today's entry is Pastebin by <a href="http://www.danvega.org/blog/">Dan Vega</a>. As you can probably guess, this is an extension that gives you integration with the <a href="http://pastebin.com/">Pastebin.com</a> service. Pastebin is a quick way to share code with others. They have many code highlighters (including one for our <a href="http://www.adobe.com/go/coldfusion">framework</a>) that will "pretty up" your paste as well. Let's take a look at Dan's extension.
+<img src="https://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> Welcome to the second entry in the ColdFusion Builder Contest. Today's entry is Pastebin by <a href="http://www.danvega.org/blog/">Dan Vega</a>. As you can probably guess, this is an extension that gives you integration with the <a href="http://pastebin.com/">Pastebin.com</a> service. Pastebin is a quick way to share code with others. They have many code highlighters (including one for our <a href="http://www.adobe.com/go/coldfusion">framework</a>) that will "pretty up" your paste as well. Let's take a look at Dan's extension.
 <!--more-->
 <br clear="left" />
 
@@ -19,7 +19,7 @@ After installing his extension, you get a right click option for both files and 
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/pb1.png" title="Pastebin Options" />
+<img src="https://static.raymondcamden.com/images/cfjedi/pb1.png" title="Pastebin Options" />
 
 <p>
 
@@ -31,7 +31,7 @@ Once you finish selecting your options and hit submit, you will be presented wit
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/pb2.png" title="Pastebin.com screen shot" />
+<img src="https://static.raymondcamden.com/images/cfjedi/pb2.png" title="Pastebin.com screen shot" />
 
 <p>
 
@@ -43,7 +43,7 @@ It worked well - except when I right clicked on a folder. His extension didn't f
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/pb3.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/pb3.png" />
 
 <p>
 

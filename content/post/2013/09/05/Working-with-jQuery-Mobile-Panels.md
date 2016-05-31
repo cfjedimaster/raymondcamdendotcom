@@ -16,4 +16,4 @@ I'm currently working on an update to my jQuery Mobile book (<a href="http://www
 
 <a href="http://css.dzone.com/articles/working-jquery-mobile-panels">Working with jQuery Mobile Panels</a>
 
-<img src="http://static.raymondcamden.com/images/jqm.jpg" />
+<img src="https://static.raymondcamden.com/images/jqm.jpg" />

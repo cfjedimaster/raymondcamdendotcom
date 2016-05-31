@@ -39,7 +39,7 @@ All I've done here is run the <code>find</code> method of the Contacts plugin. Y
 
 I tested it on my Android phone and it worked really darn fast, despite having 400+ contacts. Here is the result being viewed via <a href="https://www.genuitec.com/products/gapdebug/">GapDebug</a>:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/GapDebug.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/GapDebug.png" alt="GapDebug" width="750" height="382" class="alignnone size-full wp-image-5478" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/GapDebug.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2014/12/GapDebug.png" alt="GapDebug" width="750" height="382" class="alignnone size-full wp-image-5478" /></a>
 
 Not really rocket science, but maybe useful. If you want to copy this code into your own project, you can find it here: <a href="https://github.com/cfjedimaster/Cordova-Examples/tree/master/stealcontacts">https://github.com/cfjedimaster/Cordova-Examples/tree/master/stealcontacts</a>.
 
@@ -56,6 +56,6 @@ Ok, I was about to post this as is, but then I thought, let me add something fun
 	}
 }</code></pre>
 
-A simple little tweak, but with a fun result: <a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/device-2014-12-23-074946.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/device-2014-12-23-074946.png" alt="device-2014-12-23-074946" width="450" height="800" class="alignnone size-full wp-image-5479" /></a>
+A simple little tweak, but with a fun result: <a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/device-2014-12-23-074946.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2014/12/device-2014-12-23-074946.png" alt="device-2014-12-23-074946" width="450" height="800" class="alignnone size-full wp-image-5479" /></a>
 
 Enjoy!

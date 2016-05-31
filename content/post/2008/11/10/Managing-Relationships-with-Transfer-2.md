@@ -24,7 +24,7 @@ For the Employee Directory, I had a hard time thinking of a good way to add an e
 
 I kept the object rather simple. I could have added a 'deducation' field and a 'requirement' property as well, but since the important thing here is the relationship, I thought I'd keep it simple. I went ahead and added admin files for benefits. Like before though I'm not going to go into that as nothing has changed compared to the department files. (As a quick side note - now that I have multiple files in the Admin, I went ahead and quickly made a simple adminlayout custom tag. I defined the custom tag path in Application.cfc and wrote up a butt-ugly design for the admin. Stand back - I'm designing!)
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 126.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 126.png">
 
 When it comes to a ManyToMany relationship, the first choice you have to make is which object will define the relationship. In other words, should I define the relationship in Benefit or Employee? For me, it seems like Employee is the 'primary' or 'most important' object, so I figured that's where I should define the connection. You should note that you will <b>not</b> be able to go in both directions in Transfer. By that I mean, you know I'll be showing you soon how to get related data. Once we do that though we will only be able to get data related to that object, not the other way around. I can see me needing to get benefits for an employee. I can't see me needing to get employees for a benefit.
 
@@ -56,7 +56,7 @@ Ok. So like before, I decided to manually set some data and play with my test fi
 
 The getMemento() method is just our debug function, and it correctly gets all the related benefits. The getBenefitsArray is a method automatically created by Transfer. This returns an array of TransferObjects, one for each related piece of data.
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 310.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 310.png">
 
 Alright - time to get cracking. I jumped back into my Employee edit form and began to add support for assigning benefits. I began by adding a line of code to get all the benefits. I'll use this for my drop down.
 

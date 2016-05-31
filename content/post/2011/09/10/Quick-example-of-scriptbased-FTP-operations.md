@@ -54,7 +54,7 @@ I've got two calls there. The first list files in the remote directory websites.
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip177.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip177.png" />
 
 <p>
 
@@ -62,7 +62,7 @@ Sorry for the small size there - the dump was kinda big. Right after that I do a
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip178.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip178.png" />
 
 <p>
 

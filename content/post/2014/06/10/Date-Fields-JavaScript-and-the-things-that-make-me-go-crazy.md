@@ -15,7 +15,7 @@ Just a quick note to detail some interesting issues I ran into last night. I was
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/oc.jpg" />
+<img src="https://static.raymondcamden.com/images/oc.jpg" />
 </p>
 <!--more-->
 <p>
@@ -23,7 +23,7 @@ I decided to use two text fields using type="date". This gives me nice date cont
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/12.png" />
+<img src="https://static.raymondcamden.com/images/12.png" />
 </p>
 
 <p>
@@ -31,7 +31,7 @@ Clicking the field gives an automatic calendar control.
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/22.png" />
+<img src="https://static.raymondcamden.com/images/22.png" />
 </p>
 
 <p>
@@ -39,7 +39,7 @@ In case you're wondering, in Firefox, and any other browser that decided it was 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/download1.jpg" />
+<img src="https://static.raymondcamden.com/images/download1.jpg" />
 </p>
 
 <p>
@@ -47,7 +47,7 @@ So, the first issue I ran into was validation. Now, I know I said earlier that I
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/date.png" />
+<img src="https://static.raymondcamden.com/images/date.png" />
 </p>
 
 <p>

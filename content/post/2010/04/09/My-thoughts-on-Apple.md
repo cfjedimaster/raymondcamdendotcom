@@ -11,7 +11,7 @@
 
 So, a warning. If you can't tell by the title, this is an off topic post. It is also an emotional one. I expect many people to a) not care or b) not agree, and that's fine, but as I've had some people complain before when I go into politics, I just want to start off with a warning. If you keep reading, well, you've been warned.
 <!--more-->
-<img src="http://static.raymondcamden.com/images/cfjedi/apple-rotten1.jpg" align="left" style="margin-right:10px;margin-bottom:10px"  /> I am not a smart person. I'm reasonable quick with code and have a firm grasp on Star Wars trivia. But when it comes to matters of businesses and corporations, I don't pretend I can come even close to understanding the needs and desires they have to be attuned to. I do have some thoughts on the recent Apple licensing changes. 
+<img src="https://static.raymondcamden.com/images/cfjedi/apple-rotten1.jpg" align="left" style="margin-right:10px;margin-bottom:10px"  /> I am not a smart person. I'm reasonable quick with code and have a firm grasp on Star Wars trivia. But when it comes to matters of businesses and corporations, I don't pretend I can come even close to understanding the needs and desires they have to be attuned to. I do have some thoughts on the recent Apple licensing changes. 
 
 <h2>You are allowed to be dumb</h2>
 

@@ -90,7 +90,7 @@ The contents of test2.cfm were the CFIF. Ditto in simpletag.cfm. The result seem
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-04-02 at 8.23.12 AM.png" title="Snazzy screen shot" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-04-02 at 8.23.12 AM.png" title="Snazzy screen shot" />
 
 <p>
 

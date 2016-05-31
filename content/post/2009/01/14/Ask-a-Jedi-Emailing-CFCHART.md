@@ -59,4 +59,4 @@ The chart (in this case a hard coded chart) is stored into a variable using the 
 
 I did test this just to make sure it actually worked, and it did (which always tends to surprise me!):
 
-<img src="http://static.raymondcamden.com/images/Picture 132.png">
+<img src="https://static.raymondcamden.com/images/Picture 132.png">

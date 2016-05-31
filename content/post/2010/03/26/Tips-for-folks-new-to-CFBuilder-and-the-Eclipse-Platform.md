@@ -25,7 +25,7 @@ Next - you will often here people refer to "Views". Views are panels in the IDE 
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/showview.png" title="Show View" />
+<img src="https://static.raymondcamden.com/images/cfjedi/showview.png" title="Show View" />
 
 <p/>
 
@@ -33,7 +33,7 @@ This shows a subset of comment views. You will probably <i>not</i> see the one y
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/showviewfiltered.png" title="Show View (Filtered)" />
+<img src="https://static.raymondcamden.com/images/cfjedi/showviewfiltered.png" title="Show View (Filtered)" />
 
 <p/>
 
@@ -53,7 +53,7 @@ One of the biggest issues for me when I first started using Eclipse was the fact
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/navigator.png" title="Navigator" />
+<img src="https://static.raymondcamden.com/images/cfjedi/navigator.png" title="Navigator" />
 
 <p/>
 
@@ -81,7 +81,7 @@ Eclipse has a set of "recognized" file types and extensions. Obviously CFC and C
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/badfiletype.png" title="Bad file type. Baaaaad." />
+<img src="https://static.raymondcamden.com/images/cfjedi/badfiletype.png" title="Bad file type. Baaaaad." />
 
 <p/>
 
@@ -93,7 +93,7 @@ The better solution is to tell Eclipse about the file association for inc. Go in
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/newfiletype.png" title="New File Type" />
+<img src="https://static.raymondcamden.com/images/cfjedi/newfiletype.png" title="New File Type" />
 
 <p/>
 
@@ -101,7 +101,7 @@ Hit ok, and then ensure it is selected. You will notice nothing in the Associate
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/choseadobecfeditor.png" title="Choose the Adobe CFML Editor" />
+<img src="https://static.raymondcamden.com/images/cfjedi/choseadobecfeditor.png" title="Choose the Adobe CFML Editor" />
 
 <p/>
 
@@ -125,7 +125,7 @@ Have a large project? Hate constantly moving up and down to find stuff? There is
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/linkeditor.png" title="Forgive my drawing skills" />
+<img src="https://static.raymondcamden.com/images/cfjedi/linkeditor.png" title="Forgive my drawing skills" />
 
 <p/>
 
@@ -149,7 +149,7 @@ Yes! Remember earlier when I said I don't like using multiple Workspaces? I pref
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/selectws.png" title="Select Working Set" />
+<img src="https://static.raymondcamden.com/images/cfjedi/selectws.png" title="Select Working Set" />
 
 <p/>
 

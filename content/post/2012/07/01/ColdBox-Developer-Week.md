@@ -9,6 +9,6 @@
 	"guid": "4663"
 }
 
-<img src="http://static.raymondcamden.com/images/ColdBoxLogoSquare_125.png" style="float:left;margin-right: 10px" /> ColdBox user? Interested in learning more about it? The ColdBox team is hosting an <a href="http://blog.coldbox.org/blog/coming-soon-coldbox-developer-week-2012">entire week</a> of online training for the ColdBox platform. Learn about the latest 3.5 release of ColdBox as well their new CMS ContentBox. Details at the <a href="http://blog.coldbox.org/blog/coming-soon-coldbox-developer-week-2012">blog post</a>. 
+<img src="https://static.raymondcamden.com/images/ColdBoxLogoSquare_125.png" style="float:left;margin-right: 10px" /> ColdBox user? Interested in learning more about it? The ColdBox team is hosting an <a href="http://blog.coldbox.org/blog/coming-soon-coldbox-developer-week-2012">entire week</a> of online training for the ColdBox platform. Learn about the latest 3.5 release of ColdBox as well their new CMS ContentBox. Details at the <a href="http://blog.coldbox.org/blog/coming-soon-coldbox-developer-week-2012">blog post</a>. 
 
 <br clear="left">

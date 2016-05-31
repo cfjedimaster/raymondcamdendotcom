@@ -20,19 +20,19 @@ Twitter provides a way to look at the media for a given user, you just click the
 
 On first hitting the site, you'll be prompted to authenticate with Twitter:
 
-![Login](http://static.raymondcamden.com/images/2016/03/t1.png )
+![Login](https://static.raymondcamden.com/images/2016/03/t1.png )
 
 After you've done that, you can then enter a username:
 
-![Post Login](http://static.raymondcamden.com/images/2016/03/t2.png )
+![Post Login](https://static.raymondcamden.com/images/2016/03/t2.png )
 
 After entering a name, it will then use the Twitter API to find tweets from that account that include pictures. It then renders them in a grid:
 
-![Results](http://static.raymondcamden.com/images/2016/03/t3.jpg )
+![Results](https://static.raymondcamden.com/images/2016/03/t3.jpg )
 
 Clicking on one result opens up the image full size:
 
-![Result](http://static.raymondcamden.com/images/2016/03/t4.jpg )
+![Result](https://static.raymondcamden.com/images/2016/03/t4.jpg )
 
 Ok, so how did I do it? Let's focus on the back end first.  Here's the first portion of my application:
 

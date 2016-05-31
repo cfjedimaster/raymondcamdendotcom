@@ -11,11 +11,11 @@
 
 Watch out for this one - I almost didn't notice it. Today I went to add a new mapping. It just so happened that the mapping I added was one that already existed. The administrator correctly noticed this and gave me an error:
 
-<img src="http://static.raymondcamden.com/images/Capture18.PNG" title="Nothing will go wrong" />
+<img src="https://static.raymondcamden.com/images/Capture18.PNG" title="Nothing will go wrong" />
 
 No big deal, right? I'll just rename mine to /org2 and hit submit.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Capture19.PNG" title="Oh frack!" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Capture19.PNG" title="Oh frack!" />
 
 Ouch. It actually replaced my org mapping. Not the end of the world, but if you had a lot of mappings it could easily be missed. Note - I recommend - almost always - that you use Application specific mappings. In my case though it is a code base I can't modify just yet.
 

@@ -10,12 +10,11 @@
 }
 
 I'm doing research for my upcoming HTML5 presentation at <a href="http://www.cfobjective.com">cfObjective</a>. One of the areas that I find most interesting is updates to forms. I'm probably biased since I've worked on so many web applications as opposed to front end/marketing type sites, but I tend to think forms are pretty critical. (And no big surprise - my other favorite areas of HTML5 involve data and networking.) I've previously looked at updates to form fields, but I had not really spent a lot of time looking at validation. I spent some time on it this week and have come away pretty damn impressed. Here is the first in a series of blog entries planned on the topic.
+
 <!--more-->
-<p/>
 
 In today's blog entry, I want to look at validation at the tag level. Tomorrow's entry (well, the next entry) will look at some of the JavaScript involved, but I was <i>very</i> surprised by how much you could do without writing a line of JavaScript. At a high level, validation in HTML5 comes down to three features:
 
-<p>
 
 <ul>
 <li>Adding a required attribute to a form field will make it required. Duh. 
@@ -23,13 +22,11 @@ In today's blog entry, I want to look at validation at the tag level. Tomorrow's
 <li>And finally - if you match the two (a type and a required attribute) then you will be required to enter <i>something</i> and have it match the type.
 </ul>
 
-<p>
 
 What that means is that adding basic validation is as trivial as adding the word "required" to your HTML. Consider this login form:
 
-<p>
 
-<code>
+<pre><code class="language-markup">
 &lt;form action="" autocomplete="off"&gt;
 	&lt;label for="username"&gt;Username&lt;/label&gt;
 	&lt;input id="username" name="username" required&gt;
@@ -40,31 +37,26 @@ What that means is that adding basic validation is as trivial as adding the word
 	&lt;input type="submit" class="btn" value="Login"&gt;
 
 &lt;/form&gt;
-</code>
+</code></pre>
 
-<p>
 
 That's it. No JavaScript library. No form submit handler. Nada. In compliant browsers, you immediately get visual feedback when submitting the form:
 
-<p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip44.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip44.png" />
 
-<p>
 
 The browser actually prevents you from submitting the form. Entering a value for the username and then submitting again automatically moves the error to my password field:
 
-<p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip45.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip45.png" />
 
-<p>
 
 How much simpler can it get? Now let's talk about type validation. HTML5 adds a variety of new input types. Two of them are particularly useful - email and url. These form fields render the exact same as any normal text field, but in terms of validation, they will be a bit more picky about what you enter. We just demonstrated a login form, now let's look at a slightly more complex registration form.
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;form action="" autocomplete="off"&gt;
 	&lt;label for="username2"&gt;Username&lt;/label&gt;
 	&lt;input id="username2" name="username" required&gt;
@@ -82,17 +74,12 @@ How much simpler can it get? Now let's talk about type validation. HTML5 adds a 
 	&lt;input type="submit" class="btn" value="Register"&gt;
 
 &lt;/form&gt;
-</code>
+</code></pre>
 
-<p>
 
 Notice I've still got a required username and password. I've added an email field that is required (note the use of type="email") and an optional url field. The type is set to url but it is not required. 
 
-<p>
-
 Just by changing the types and adding required, I've now added logic to my form such that:
-
-<p>
 
 <ul>
 <li>Username and password will be required.
@@ -100,17 +87,14 @@ Just by changing the types and adding required, I've now added logic to my form 
 <li>Homepage is <i>not</i> required, but if I type anything in, it must be a valid URL. (And by valid we mean syntax wise. It could be a valid URL and not actually resolve to a host.)
 </ul>
 
-<p>
 
-Want to play with this? Then check out my demo: <a href="http://www.raymondcamden.com/demos/2012/mar/16/forms/10_validation.html">http://www.raymondcamden.com/demos/2012/mar/16/forms/10_validation.html</a>
+Want to play with this? Then check out my demo: <a href="https://static.raymondcamden.com/demos/2012/mar/16/forms/10_validation.html">https://static.raymondcamden.com/demos/2012/mar/16/forms/10_validation.html</a>
 
-<p>
 
 But wait! There's more. What if you want to do a more customized validation? I mentioned earlier that we can use JavaScript, and I plan on talking about that more in the next blog entry. But there is also another option: Regular Expressions. You can add simple regex checks to a field by using the <b>pattern</b> attribute. I found a <a href="http://stackoverflow.com/questions/5458076/regex-in-new-pattern-attr-for-html5-forms">great example</a> of this that adds simple logic to require a minimum size: pattern="[a-zA-Z0-9]{5,}". Here's a modified form of our login and registration form that will require a username and password to be 5 characters long. Usernames are also set to require letters and numbers only.
 
-<p>
 
-<code>
+<pre><code class="language-markup">
 &lt;h2&gt;Login&lt;/h2&gt;
 &lt;form action="" autocomplete="off"&gt;
 	&lt;label for="username"&gt;Username&lt;/label&gt;
@@ -141,17 +125,16 @@ But wait! There's more. What if you want to do a more customized validation? I m
 	&lt;input type="submit" class="btn" value="Register"&gt;
 
 &lt;/form&gt;
-</code>
+</code></pre>
 
-<p>
 
 Note the use of the title attribute to provide a hint to the user. In Chrome and Firefox, this is even rendered in the error:
 
-<img src="http://static.raymondcamden.com/images/ScreenClip46.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip46.png" />
 
 <p>
 
-You can view a demo of this one here: <a href="http://www.raymondcamden.com/demos/2012/mar/16/forms/11_validation_regex.html">http://www.raymondcamden.com/demos/2012/mar/16/forms/11_validation_regex.html</a> 
+You can view a demo of this one here: <a href="https://static.raymondcamden.com/demos/2012/mar/16/forms/11_validation_regex.html">https://static.raymondcamden.com/demos/2012/mar/16/forms/11_validation_regex.html</a> 
 
 <p>
 

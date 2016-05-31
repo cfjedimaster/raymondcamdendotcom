@@ -17,7 +17,7 @@ Everything was hunky dorey but I noticed an odd issue with my mouse. I'd move it
 
 Turns out the issue was with the placement of my monitors in the display preferences. Check out this screen shot:
 
-<img src="http://static.raymondcamden.com/images//Picture 23.png">
+<img src="https://static.raymondcamden.com/images//Picture 23.png">
 
 Notice that the right monitor, being smaller, doesn't stretch all the way to the top. That means if the mouse is on top of the left monitor, it won't be able to move over. To move my mouse into the secondary monitor, I need to keep it lower. (I actually had the placement on top first, but find this bottom aligned setup easier, and it visually matches what I see in front of me.)
 

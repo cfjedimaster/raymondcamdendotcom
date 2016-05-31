@@ -78,7 +78,7 @@ I assume most of my readers are familiar with jQuery Mobile now so I won't discu
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/device-2011-11-10-090005.png" />
+<img src="https://static.raymondcamden.com/images/device-2011-11-10-090005.png" />
 
 <p>
 

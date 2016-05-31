@@ -33,7 +33,7 @@ If I open this up in my browser, I'll see nothing wrong. Obviously if the page t
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip3.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip3.png" />
 
 <p/>
 
@@ -41,7 +41,7 @@ You can even click the line and see the context - which would be real useful in 
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip4.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip4.png" />
 
 <p/>
 
@@ -73,7 +73,7 @@ Notice the bad URL for the jQuery load? In the Network tab, this shows up right 
 <p/>
 
 
-<img src="http://static.raymondcamden.com/images/ScreenClip5.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip5.png" />
 
 <p/>
 
@@ -144,7 +144,7 @@ in Chrome, I added a breakpoint on total+=i, and then added a watch expression (
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip6.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip6.png" />
 
 <p/>
 

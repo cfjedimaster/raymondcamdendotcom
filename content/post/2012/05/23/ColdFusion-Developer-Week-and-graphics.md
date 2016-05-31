@@ -15,4 +15,4 @@ Also - I've attached a zip to this blog entry with official logo graphics for Co
 
 <b>EDIT:</b> Joe Brislin kindly gave me both a Windows and Mac icon file you can use for your CFBuilder or other needs. The zip includes his zip bundled in. Thanks Joe!
 
-<img src="http://static.raymondcamden.com/images/cf_app_512.png" /><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fcfresources1%2Ezip'>Download attached file.</a></p>
+<img src="https://static.raymondcamden.com/images/cf_app_512.png" /><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fcfresources1%2Ezip'>Download attached file.</a></p>

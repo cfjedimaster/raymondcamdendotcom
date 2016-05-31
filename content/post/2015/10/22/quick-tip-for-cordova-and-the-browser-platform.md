@@ -18,10 +18,10 @@ I'm not regularly using Cordova and the Browser platform because most of the tim
 
 The first thing I did was go into the browser folder under platforms. Under <code>platforms/browser/cordova</code> I opened up the <code>run</code> file and saw that the script did include the ability to pass in a port argument. I couldn't figure out how to pass it though so I tried doing <code>run -h</code>:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot18.png" alt="shot1" width="611" height="159" class="aligncenter size-full wp-image-6982" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot18.png" alt="shot1" width="611" height="159" class="aligncenter size-full wp-image-6982" />
 
 Ok, that's simple. I confirmed it worked by doing <code>cordova/run --port=3333</code>. Sweet. But how do it via the "main" Cordova CLI? If you run <code>cordova help run</code>, you'll see this nugget in the docs:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot28.png" alt="shot2" width="611" height="34" class="aligncenter size-full wp-image-6983" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot28.png" alt="shot2" width="611" height="34" class="aligncenter size-full wp-image-6983" />
 
 So basically, this is all you need to do: <code>cordova run browser -- --port=3333</code>. Simple, right? Probably everyone but me knew this, but as I had to dig to figure it out, I thought it made sense to blog it.

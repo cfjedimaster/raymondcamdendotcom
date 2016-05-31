@@ -67,7 +67,7 @@ So before I get into code at all, I opened up my database editor and added a few
 
 This results in:
 
-<img src="http://static.raymondcamden.com/images//Picture 44.png">
+<img src="https://static.raymondcamden.com/images//Picture 44.png">
 
 Sweet - there are my positions. The more formal way to get the positions would be very similar to ManyToMany method: getXArray, where X is the property.
 
@@ -78,7 +78,7 @@ Sweet - there are my positions. The more formal way to get the positions would b
 
 Alright - so how are we going to work with this data in the admin? I decided on a simple interface. When you edit an employee, you will see a list of his positions. For each we will list the name and the date range. I'll put a checkbox next to each to let you delete the position. Below this list I'll have a place to enter a new position. I could certainly allow for editing as well, but again, I wanted to keep it simple. Before I show the code, here is a quick screen shot:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//editemployee.gif">
+<img src="https://static.raymondcamden.com/images/cfjedi//editemployee.gif">
 
 Ok, so I began my modifications by getting all the positions for the employee:
 

@@ -9,7 +9,7 @@
 	"guid": "3547"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/MAX09_D125x125.jpg" align="left" style="margin-right:10px" />
+<img src="https://static.raymondcamden.com/images/cfjedi/MAX09_D125x125.jpg" align="left" style="margin-right:10px" />
 This has been passed around Twitter quite a bit but I wanted to make sure knew the latest news about MAX. 
 
 The biggest news is that if you can't make MAX, you can still participate online at <a href="http://max.adobe.com/online/">http://max.adobe.com/online/</a>. The keynotes will be streamed live as well as the "top 3" sessions from the day. (Top by what measure? Who knows. I say we Thunderdome it.) Also, when MAX ends, you will be able to watch <b>any</b> of the sessions (but not the labs).

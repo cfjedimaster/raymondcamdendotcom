@@ -57,7 +57,7 @@ Even if you've never seen Grunt before you can probably follow the flow. I've ba
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_11_7_13__8_44_PM.jpg" />
+<img src="https://static.raymondcamden.com/images/Screenshot_11_7_13__8_44_PM.jpg" />
 </p>
 
 <p>

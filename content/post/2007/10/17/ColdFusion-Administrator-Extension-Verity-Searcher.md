@@ -11,12 +11,12 @@
 
 I wrote a handy little tool today. Drop the zip into your ColdFusion Administrator folder, edit the custommenu.xml file to point to it, and you've now got a simple tool to let you run test searches against Verity collections. Here is a screen shot:
 
-<img src="http://static.raymondcamden.com/images/v1.png">
+<img src="https://static.raymondcamden.com/images/v1.png">
 
 When matches are found, I use pagination, but the actual data is just dumped out. I could have done this all sexy and Ajaxy, but I figured a one file solution that also worked in ColdFusion 7 would be nice as well. 
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/v2.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/v2.png">
 
 You can download the code below. I have another extension coming out later this week. This will join my <a href="http://spoolmail.riaforge.org">SpoolMail</a> project and Scott's <a href="http://flogr.riaforge.org">Flogr</a> as must-have add ons to your ColdFusion Admin. (Well, I think they are must-haves, but I'm biased. :)
 

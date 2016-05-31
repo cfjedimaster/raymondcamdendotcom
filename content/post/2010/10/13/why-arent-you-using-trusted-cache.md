@@ -13,13 +13,13 @@ Last night I was honored to give a presentation to the Capital Area CFUG. My pre
 
 While certainly not a silver bullet for performance issues, turning on the Trusted Cache (see screen shot below) can sometimes dramatically increase the performance of your site in <b>the one second it takes for you to check a box</b>. That's a huge win for little to no work on your part.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-10-13 at 6.59.07 AM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-10-13 at 6.59.07 AM.png" />
 
 Seriously - go to your production site, hit that box, and tell me if you don't see your site running significantly faster afterwards. There is no XML involved. No Server restart. Just a checkbox. 
 
 Now - there is one small drawback. After you've done this, ColdFusion will no longer look at your CFML pages for changes. In order to tell ColdFusion to check a file again, you either have to a) hit the button below:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-10-13 at 7.00.53 AM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-10-13 at 7.00.53 AM.png" />
 
 or b) make use of <a href="http://cacheclearer.riaforge.org/">CacheClearer</a>, a ColdFusion Admin extension that let's you specifically request a file or folder to be cleared.
 

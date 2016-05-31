@@ -22,7 +22,7 @@ TBS Horoscope is mainly a joke horoscope generator. Unlike serious horoscope pro
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip165.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip165.png" />
 
 <p/>
 
@@ -30,7 +30,7 @@ The icons there are scrollable. You can also see the background image I <a href=
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip167.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip167.png" />
 <p/>
 
 Yeah - that's crazy - again - unlike real, scientific horoscopes out there. (Ahem again.) One thing that's kind of interesting is the persistence. I generate a random horoscope per sign per day. If you click on Aries twice it will be the same until the next day. Here's the snippet that handles that:

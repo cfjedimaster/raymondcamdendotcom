@@ -9,7 +9,7 @@
 	"guid": "6574"
 }
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/Screen-Shot-2015-08-02-at-7.13.47-AM3.png" alt="Screen Shot 2015-08-02 at 7.13.47 AM" width="275" height="308" class="alignleft size-full wp-image-6582" /> Before I begin, a quick disclaimer. I've known Adam for a long time, so my review may be a bit colored by the fact that I'm friends with him. Of course, the flip side to that is that on more than one occasion I've fought with him over something or another on IRC so this could be my chance for revenge. ;) That's my official disclaimer out of the way. <!--more-->
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/08/Screen-Shot-2015-08-02-at-7.13.47-AM3.png" alt="Screen Shot 2015-08-02 at 7.13.47 AM" width="275" height="308" class="alignleft size-full wp-image-6582" /> Before I begin, a quick disclaimer. I've known Adam for a long time, so my review may be a bit colored by the fact that I'm friends with him. Of course, the flip side to that is that on more than one occasion I've fought with him over something or another on IRC so this could be my chance for revenge. ;) That's my official disclaimer out of the way. <!--more-->
 
 Adam's REST book is a good example of a trend I'm seeing lately in smaller, more concise technical books. I've read, or pretended to have read, huge tomes on programming languages before, heck I've even contributed to a few, but frankly, I'm finding that the shorter, more direct books are a heck of a lot more effective. His book is right over a hundred pages and as it is all on the theory of REST, you can read it in one or two sittings. 
 

@@ -15,7 +15,7 @@ So, as a rule, I refuse to answer questions about ColdFusion UI tags. I definite
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/Yoda_Empire_Strikes_Back.png" />
+<img src="https://static.raymondcamden.com/images/Yoda_Empire_Strikes_Back.png" />
 </p>
 
 <blockquote>
@@ -52,7 +52,7 @@ Note how the textarea is prepopulated with a huge string. If you run this in you
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-10-29 at 12.34.53 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-10-29 at 12.34.53 PM.png" />
 </p>
 
 <p>

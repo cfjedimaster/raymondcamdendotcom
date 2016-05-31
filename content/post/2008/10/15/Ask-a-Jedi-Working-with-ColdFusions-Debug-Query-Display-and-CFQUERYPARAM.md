@@ -19,11 +19,11 @@ Ray, I often find it useful when a cfquery tanks to take the SQL code provided i
 <!--more-->
 If you don't know what he means, he is talking about debug displays like so....
 
-<img src="http://static.raymondcamden.com/images/Picture 43.png">
+<img src="https://static.raymondcamden.com/images/Picture 43.png">
 
 There are multiple ways you can work with this. Obviously you can cut and paste, but for anything besides a simple query, this is going to be difficult. <a href="http://coldfire.riaforge.org">ColdFire</a> automatically replaces the ? when it displays the query:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 38.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 38.png">
 
 Other options include additional plugins by Nathan Mische (who is running ColdFire now don't forget):
 

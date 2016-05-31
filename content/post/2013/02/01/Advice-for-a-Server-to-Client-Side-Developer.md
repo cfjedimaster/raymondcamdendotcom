@@ -21,7 +21,7 @@ The first thing I noticed here is that you said you're using code without fully 
 
 While that is unfortunate, it is at least a good thing that you recognize what you're doing. I know I've done this myself many times in the past but I try to at least flag the respective technology/routine/library/etc for follow up as soon as possible. 
 
-<img src="http://static.raymondcamden.com/images/mdn-logo-sm.png" style="float:left;margin-right:10px" />In terms of getting a basic understanding of HTML and JavaScript, there are a boat load of resources out there. For me though none can compare to the <a href="https://developer.mozilla.org/en-US/">Mozilla Developer Network</a>. I ignored this site for <i>years</i> because I assumed it was "Firefox-only", but that couldn't be farther from the truth. Their reference materials and guides are well done and should be easy to understand. 
+<img src="https://static.raymondcamden.com/images/mdn-logo-sm.png" style="float:left;margin-right:10px" />In terms of getting a basic understanding of HTML and JavaScript, there are a boat load of resources out there. For me though none can compare to the <a href="https://developer.mozilla.org/en-US/">Mozilla Developer Network</a>. I ignored this site for <i>years</i> because I assumed it was "Firefox-only", but that couldn't be farther from the truth. Their reference materials and guides are well done and should be easy to understand. 
 
 While they have numerous topic guides, here is a direct link to their HTML5 and JavaScript guides:
 

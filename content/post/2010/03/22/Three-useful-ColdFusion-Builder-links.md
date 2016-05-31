@@ -18,7 +18,7 @@ So as I've said before - I sometimes have trouble finding things on Adobe.com. I
 
 And finally, I want to share a graphic Adam Lehman posted earlier. It's a competitive brief of ColdFusion Builder, Dreaweaver, HomeSite+, and CFEclipse. Click the shrunken image to enlarge.
 
-<a href="http://www.raymondcamden.com/images/ColdFusion Builder Comparison Matrix.png"><img src="http://static.raymondcamden.com/images/cfjedi/ColdFusion Builder Comparison Matrix Small.png" title="Click this picture for the coolest chart you have ever seen. Seriously." /></a>
+<a href="http://www.raymondcamden.com/images/ColdFusion Builder Comparison Matrix.png"><img src="https://static.raymondcamden.com/images/cfjedi/ColdFusion Builder Comparison Matrix Small.png" title="Click this picture for the coolest chart you have ever seen. Seriously." /></a>
 
 3 links? Think I was a bit off on that. :)
 

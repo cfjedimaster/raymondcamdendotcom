@@ -20,11 +20,11 @@ I reviewed this service back in February in context of a Cordova app (<a href="h
 
 My setup would be simple - let the user search against the Marvel API and return matching comic books. Since I'm planning on scanning the covers, I'd just show them:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-26-at-09.05.21.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/Screen-Shot-2015-05-26-at-09.05.21.png" alt="Screen Shot 2015-05-26 at 09.05.21" width="788" height="800" class="aligncenter size-full wp-image-6213 imgborder" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-26-at-09.05.21.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/05/Screen-Shot-2015-05-26-at-09.05.21.png" alt="Screen Shot 2015-05-26 at 09.05.21" width="788" height="800" class="aligncenter size-full wp-image-6213 imgborder" /></a>
 
 Selecting a comic will load it and then begin the call to Watson's Visual Recognition service. The service will use the cover as input and try to find things within it.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-26-at-09.07.00.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/Screen-Shot-2015-05-26-at-09.07.00.png" alt="Screen Shot 2015-05-26 at 09.07.00" width="800" height="384" class="aligncenter size-full wp-image-6214" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-26-at-09.07.00.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/05/Screen-Shot-2015-05-26-at-09.07.00.png" alt="Screen Shot 2015-05-26 at 09.07.00" width="800" height="384" class="aligncenter size-full wp-image-6214" /></a>
 
 Let's take a look at the code. You can download the entire thing at my GitHub repo: <a href="https://github.com/cfjedimaster/marvelcomicrecognition">https://github.com/cfjedimaster/marvelcomicrecognition</a>. First, the main app.js:
 

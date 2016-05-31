@@ -10,7 +10,7 @@
 	"guid": "5045"
 }
 
-<img src="http://static.raymondcamden.com/images/thumb.png" style="float:left;margin-right:10px" /> <p>
+<img src="https://static.raymondcamden.com/images/thumb.png" style="float:left;margin-right:10px" /> <p>
 Very happy to announce that the latest DZone Refcard was written by yours truly. You can now download the official DZone PhoneGap Refcard here: <a href="http://refcardz.dzone.com/refcardz/getting-started-phonegap">http://refcardz.dzone.com/refcardz/getting-started-phonegap</a>
 </p>
 

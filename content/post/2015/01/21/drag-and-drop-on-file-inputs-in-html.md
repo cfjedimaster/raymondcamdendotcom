@@ -17,6 +17,6 @@ As Sara discovered, and I verified, you absolutely can. It works in Chrome, Fire
 
 As I said, I didn't test Safari, but Chrome also provides UI feedback during the drag that makes this feature a bit more obvious:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/chrome2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/01/chrome2.png" alt="chrome2" width="750" height="341" class="alignnone size-full wp-image-5576" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/chrome2.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/01/chrome2.png" alt="chrome2" width="750" height="341" class="alignnone size-full wp-image-5576" /></a>
 
 Notice how the button becomes highlighted. So - quick show of hands - how many of you knew your browser supported this?

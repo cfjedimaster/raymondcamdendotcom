@@ -11,7 +11,7 @@
 
 Summary: My initial impression was <i>very</i> confusing, frustrating, but after some hiccups I'm pretty damn excited. Read on for more details.
 <!--more-->
-<img src="http://static.raymondcamden.com/images/2013-07-31 11.23.36.jpg" />
+<img src="https://static.raymondcamden.com/images/2013-07-31 11.23.36.jpg" />
 
 Earlier today I was happy to get my Leap Motion unit. I ordered my unit on July 22nd and was supposed to get an email when it shipped but I never did. Maybe it ended up in my spam folder by mistake, either way, I'm just happy it showed up. 
 
@@ -19,21 +19,21 @@ I ripped the box open (ok, I <i>carefully</i> opened the box) and plugged it in.
 
 Now - I know I'm probably in the minority here - but I freaking <strong>despise</strong> apps that take focus and especially ones that go full screen. Maybe I was supposed to stop everything while the installer was working, but I'm one of those silly people who actually like to use a computer that can do more than one thing at once.
 
-<img src="http://static.raymondcamden.com/images/s11.png" />
+<img src="https://static.raymondcamden.com/images/s11.png" />
 
 So - I've got the Leap Motion doing <i>something</i> and playing vaguely New Age music while my SiriusXM is blearing classical at the same time. I can't app switch (again, why should one app decide it is more important is beyond me) nor do I have any idea how to actually end this application if I needed to. Anyway, this is the first thing I see after the giant logo:
 
-<img src="http://static.raymondcamden.com/images/s21.png" />
+<img src="https://static.raymondcamden.com/images/s21.png" />
 
 Woot! So I have two choices. I can begin, or I can continue. Um. Ummmm. Begin?
 
-<img src="http://static.raymondcamden.com/images/s31.png" />
+<img src="https://static.raymondcamden.com/images/s31.png" />
 
 So yeah... at this point I just start spastically waving my hands. There's no directions here - all you see is what you see above. The "gold" is my hands. I guess it was obvious I should immediately start just moving my hands around, but it was not obvious to me. 
 
 Eventually I figure out that this orientation is supposed to show three different aspects - the view port, the viewing area, and the level of detail. The third one I didn't actually get to the first few times I ran the program because - well - I didn't even even realize it existed. Maybe if the app had <i>some</i> type of additional direction/help/anything it would have been clear. Once I did get to the third part though it was freaking cool.
 
-<img src="http://static.raymondcamden.com/images/s41.png" />
+<img src="https://static.raymondcamden.com/images/s41.png" />
 
 By the way - that was the exact moment I felt like Iron Man. (Again though - this was later in the day - not initially.)
 
@@ -41,29 +41,29 @@ So I go to the Airspace app. This is basically a local listing of Leap Motion-co
 
 Then I tried Dropchord. It looked cool. Nope, didn't work. I got this:
 
-<img src="http://static.raymondcamden.com/images/dropchord1.png" />
+<img src="https://static.raymondcamden.com/images/dropchord1.png" />
 
 Um... ok. So I hit next. 
 
-<img src="http://static.raymondcamden.com/images/dropchord2.png" />
+<img src="https://static.raymondcamden.com/images/dropchord2.png" />
 
 Hmm. Well, when I first connected to Leap Motion I had to create an account. So obviously that is it. Let me try that.
 
-<img src="http://static.raymondcamden.com/images/dropchord3.png" />
+<img src="https://static.raymondcamden.com/images/dropchord3.png" />
 
 Erp. Um, well, let me check out Leap Motion support. To be fair, this isn't a Leap Motion app (actually, I have no way of knowing that, but they shipped it, so...). I see a form and try searching for dropchord.
 
 Ok, so here's the form...
 
-<img src="http://static.raymondcamden.com/images/leapmotions.png" />
+<img src="https://static.raymondcamden.com/images/leapmotions.png" />
 
 I type in dropchord and get...
 
-<img src="http://static.raymondcamden.com/images/leapmotions2.png" />
+<img src="https://static.raymondcamden.com/images/leapmotions2.png" />
 
 Um... that. Ok. So I click around a bit more and discover an ergonomic section. I see this picture:
 
-<img src="http://static.raymondcamden.com/images/leapmotion3.png" />
+<img src="https://static.raymondcamden.com/images/leapmotion3.png" />
 
 Notice the Leap is in <i>front</i> of the keyboard. I then realize - nowhere was I shown where to actually put it. I double check the box - nothing. No suggestions at all. 
 

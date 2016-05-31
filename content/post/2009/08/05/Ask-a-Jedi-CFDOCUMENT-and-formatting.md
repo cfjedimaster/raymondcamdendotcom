@@ -30,7 +30,7 @@ Saul contacted me with an interesting little problem. He was using a simple text
 
 This code uses a simple form that passes the field value to the cfdocument tag. Here is an example with some text typed in...
 
-<img src="http://static.raymondcamden.com/images/Picture 252.png" />
+<img src="https://static.raymondcamden.com/images/Picture 252.png" />
 
 But when the PDF was generated, the text came out like so:
 

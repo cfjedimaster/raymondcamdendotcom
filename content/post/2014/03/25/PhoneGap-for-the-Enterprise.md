@@ -30,5 +30,5 @@ You can read more here: <a href="http://enterprise.phonegap.com/">Adobe PhoneGap
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/ul.jpg" />
+<img src="https://static.raymondcamden.com/images/ul.jpg" />
 </p>

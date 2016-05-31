@@ -14,7 +14,7 @@ This past Saturday I <a href="http://www.raymondcamden.com/index.cfm/2011/5/14/I
 <!--more-->
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip90.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip90.png">
 
 <p>
 
@@ -22,7 +22,7 @@ This looked perfect to me. But when run in my device, the text ended up being a 
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Image.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Image.png" />
 
 <p>
 
@@ -68,7 +68,7 @@ The first declaration, global, applies to everything within the app - but not th
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Image2.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Image2.png" />
 
 <p>
 

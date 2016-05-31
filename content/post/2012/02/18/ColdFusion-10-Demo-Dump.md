@@ -16,4 +16,4 @@ I'm also very impressed by the demos I've seen posted already. Scott Stroz has p
 I'll remind folks to check out <a href="http://www.coldfusionbloggers.org/">ColdFusionBloggers</a> for a quick way to see the latest ColdFusion 10 (and ColdFusion in general) posts from the community.
 
 
-<img src="http://static.raymondcamden.com/images/IMAG0950.jpg" title="This picture has nothing to do with ColdFusion" /><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fforzeus%2Ezip'>Download attached file.</a></p>
+<img src="https://static.raymondcamden.com/images/IMAG0950.jpg" title="This picture has nothing to do with ColdFusion" /><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fforzeus%2Ezip'>Download attached file.</a></p>

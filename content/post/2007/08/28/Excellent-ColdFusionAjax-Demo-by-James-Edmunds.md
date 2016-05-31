@@ -19,4 +19,4 @@ I spoke with James a bit about the technology behind the demo. It is using ColdF
 
 <a href="http://gisdata.usgs.net/XMLWebServices/TNM_Elevation_service.asmx">http://gisdata.usgs.net/XMLWebServices/TNM_Elevation_service.asmx</a>
 
-<img src="http://static.raymondcamden.com/images/elevationdemo.jpg">
+<img src="https://static.raymondcamden.com/images/elevationdemo.jpg">

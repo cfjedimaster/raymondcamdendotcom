@@ -40,7 +40,7 @@ Also note the showOutput command. You can specify three different values here:
 
 However, in my testing, showOutput:never didn't actually work. I just made the output window a bit smaller and later today I'll file a bug report on it. On a larger screen (i.e. not this laptop) I wouldn't even care. Here it is in action.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot12.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/shot12.png" alt="shot1" width="800" height="461" class="aligncenter size-full wp-image-6150" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot12.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/05/shot12.png" alt="shot1" width="800" height="461" class="aligncenter size-full wp-image-6150" /></a>
 
 So what if you want to specify the platform to emulate? You can define multiple tasks like so:
 
@@ -71,7 +71,7 @@ So what if you want to specify the platform to emulate? You can define multiple 
 
 In this case, I've defined an ios and android task to pass to the emulate command. Note that I've still set ios to be the build command so I can use it as a default. One thing I don't like about this is that I can't provide a 'label' for the tasks. So when I do Shift+Command+P, Run Tasks, I see it like so:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot21.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/shot21.png" alt="shot2" width="800" height="137" class="aligncenter size-full wp-image-6151" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot21.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/05/shot21.png" alt="shot2" width="800" height="137" class="aligncenter size-full wp-image-6151" /></a>
 
 That's not the end of the world, but I'd like to have a label so I could see "Emulate iOS" and "Emulate Android (please wait 2-3 hours for the emulator to start)".
 
@@ -112,6 +112,6 @@ Ok, so I worked on this a bit more. I don't actually emulate Android as it is wa
 
 So I can now Shift+Command+B to send to iOS as my default, or do Shift+Command+P, Run Task, to select android if I need to.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot3.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/shot3.png" alt="shot3" width="800" height="458" class="aligncenter size-full wp-image-6152" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/shot3.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/05/shot3.png" alt="shot3" width="800" height="458" class="aligncenter size-full wp-image-6152" /></a>
 
 Hope this helps, and I'm going to keep an eye out for other ways to help VSC work with Cordova.

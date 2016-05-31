@@ -11,11 +11,11 @@
 
 Take one broken image:
 
-<img src="http://static.raymondcamden.com/images/test2.jpg" title="You should know why this image is broken." />
+<img src="https://static.raymondcamden.com/images/test2.jpg" title="You should know why this image is broken." />
 
 And then fix it in Photoshop CS5:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/test2a.jpg" title="Next up - the Ewoks." />
+<img src="https://static.raymondcamden.com/images/cfjedi/test2a.jpg" title="Next up - the Ewoks." />
 
 Problem solved. May the Fourth be with you.
 

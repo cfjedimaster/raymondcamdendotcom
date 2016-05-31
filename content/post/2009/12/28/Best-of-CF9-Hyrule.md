@@ -9,7 +9,7 @@
 	"guid": "3667"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry is <a href="http://hyrule.riaforge.org">Hyrule</a> from <a href="http://www.danvega.org/blog/">Dan Vega</a>. This entry is - to me - a slight break in the rules. It is an existing project and not something created brand new for the contest. I don't think I was specific in that regards and since the code is ColdFusion 9 specific and therefore pretty much new, I'm letting it slide here. Plus it has a Zelda-based name and therefore it must be cool.
+<img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry is <a href="http://hyrule.riaforge.org">Hyrule</a> from <a href="http://www.danvega.org/blog/">Dan Vega</a>. This entry is - to me - a slight break in the rules. It is an existing project and not something created brand new for the contest. I don't think I was specific in that regards and since the code is ColdFusion 9 specific and therefore pretty much new, I'm letting it slide here. Plus it has a Zelda-based name and therefore it must be cool.
 <!--more-->
 At it's heart, Hyrule is a validation framework. Now - I don't know about you - but one thing I've yet to really nail down in my development is a good way to do validation. I have a few different ways I do it in my applications, and I don't expect to have "One Right Way", but I would like to have a method that I feel confident in and that I use most of the time. I'm just not there yet. Hyrule looks to be a solution for that problem.
 
@@ -80,7 +80,7 @@ Once you've validated your component, you can then get the result:
 </code>
 
 The result:<br/><br/>
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2009-12-28 at 10.33.04 PM.png" /><br/><br/>
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2009-12-28 at 10.33.04 PM.png" /><br/><br/>
 
 Pretty nifty. There is a long list of validators supported by Hyrule, including basic type checking (numeric for example), range checking, regex patterns, etc. And if you don't find a validator to your liking, you can actually create a custom one:
 

@@ -36,15 +36,15 @@ In this example I've provide a title for both Y Axises, but ColdFusion provides 
 
 Now for the next question - dashed lines. This was a bit trickier. I loaded up the chart editor and selected a line chart. I expanded Elements and then Series. Note the screen shot:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 256.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 256.png" />
 
 This is very important. You can see line stroke right there - and you can change it to Dashed or Dotted. However - if you hit Apply, nothing changes. Why? You have to explicitly specify what series you want first. I entered 0 in the left hand text input:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 337.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 337.png" />
 
 And <i>then</i> I hit Add. Now when I select Dashed for lineStroke and hit Ok, I can see this in the chart editor:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 415.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 415.png" />
 
 The relevant XML then is just:
 
@@ -98,6 +98,6 @@ So, going back to the original example from the <a href="http://www.coldfusionje
 
 And the result (sans dumps):
  
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 58.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 58.png" />
 
 So as to Joe's last question - as already described above - I'm using the Chart Editor. This is a Java application that ships with ColdFusion (including ColdFusion 9). You can find the executable (it is a BAT file for Windows a sh file Linux/OSX) within the charting folder under your ColdFusion install. The basic procedure is to use the editor to tweak the chart to your liking and then copy the XML created.

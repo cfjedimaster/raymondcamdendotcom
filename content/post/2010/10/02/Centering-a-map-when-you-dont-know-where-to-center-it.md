@@ -38,7 +38,7 @@ And it renders like so:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-10-02 at 10.25.53 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-10-02 at 10.25.53 PM.png" />
 
 <p>
 
@@ -161,7 +161,7 @@ The result? Looks right:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-10-02 at 10.43.05 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-10-02 at 10.43.05 PM.png" />
 
 <p>
 
@@ -204,7 +204,7 @@ And the result...
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-10-02 at 10.45.26 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-10-02 at 10.45.26 PM.png" />
 
 <p>
 
@@ -222,7 +222,7 @@ And the result:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-10-02 at 10.47.21 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-10-02 at 10.47.21 PM.png" />
 
 <p>
 

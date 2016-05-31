@@ -53,7 +53,7 @@ As you can see, the function creates a query and then copies values to a structu
 
 And something odd occurred. This is the output from running both his local and remote tests:
 
-<img src="http://static.raymondcamden.com/images/aug20ss.png">
+<img src="https://static.raymondcamden.com/images/aug20ss.png">
 
 As you can see - the remote call returned a structure of arrays - not a structure of simple values. Why? While I can't answer why one method returned different data then the other, I can point out the problem with the code in the method. Notice how he copied the values from the query:
 

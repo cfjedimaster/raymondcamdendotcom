@@ -136,4 +136,4 @@ Click the pretty demo button below to see this in action:
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/april52011/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby, and visit my wishlist or ELSE!" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/april52011/test.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby, and visit my wishlist or ELSE!" border="0"></a>

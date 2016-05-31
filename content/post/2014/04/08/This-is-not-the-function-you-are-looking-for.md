@@ -14,7 +14,7 @@ Yesterday I was doing some editing on the CFML Reference wiki when I ran across 
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/5ad1x.jpg" />
+<img src="https://static.raymondcamden.com/images/5ad1x.jpg" />
 </p>
 
 <p>

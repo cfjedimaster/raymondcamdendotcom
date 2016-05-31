@@ -24,7 +24,7 @@ Oh. Of course. Error code 1. Well, everyone knows what that is, right? If you ch
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip243.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip243.png" />
 
 <p>
 

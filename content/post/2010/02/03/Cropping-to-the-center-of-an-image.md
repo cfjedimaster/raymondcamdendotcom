@@ -26,7 +26,7 @@ Basically, your center is the point defined at half your width and half your hei
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/star-wars-stormtroopers-breakfast-cereal.jpg" />
+<img src="https://static.raymondcamden.com/images/star-wars-stormtroopers-breakfast-cereal.jpg" />
 
 <p>
 
@@ -55,7 +55,7 @@ You can see my math in there (ok, it's division, and it's simple, but it's still
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ssc1.PNG" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ssc1.PNG" />
 
 <p>
 
@@ -86,7 +86,7 @@ Which produces the following:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ssc2.PNG" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ssc2.PNG" />
 
 <p>
 

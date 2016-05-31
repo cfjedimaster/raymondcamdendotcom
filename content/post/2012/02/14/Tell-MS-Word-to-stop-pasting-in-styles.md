@@ -16,6 +16,6 @@ Do you hate it when you paste text into MS Word and it tries keep the formatting
 Go into Options, Advanced, and set the value in the <b>Cut, copy, and paste</b> section for "Pasting from other programs:"
 
 
-<img src="http://static.raymondcamden.com/images/ScreenClip26.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip26.png" />
 
 Finally, our long national nightmare can finally come to an end...

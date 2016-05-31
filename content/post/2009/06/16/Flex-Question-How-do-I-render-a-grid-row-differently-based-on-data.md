@@ -51,7 +51,7 @@ function getUsersResult(evt):void {
 
 You can see my RemoteObject on top. Remember that is like an alias to my CFC. On the application's creationComplete, I run the init function. This fires off the getUsers() method on my CFC. The result then simply takes the data and binds it to my data grid. Short and sweet, right? I won't bore you with my CFC. It just returns a query containing an id, age, and name column. The result is spectacular:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 165.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 165.png">
 
 Truly I am an experience designer, wouldn't you say? Ok, so I created a new Application in my Flex project, cut and pasted the code in, and began to dig into Google. Turned out, a <i>lot</i> of people were asking the same question. Turned out, it wasn't that simple. After a lot of digging (and bugging Andrew), I came to the conclusion that the only nice way I was going to modify a grid row based on my data was to use a cell renderer. That meant that each cell would have to do the same check to determine if it should highlight itself.
 
@@ -88,7 +88,7 @@ As you can see, I added 2 new styles, old and new. I'm not doing anything with n
 
 Notice that each column now has an inline itemRenderer. This is pretty darn cool. I can essentially build a custom 'block' to handle displaying my column data. The argument, data, is passed in, so I can use that in my display, as well as my stylng. Notice the use of the ternary operator there to check the data and specify the right style sheet based on age. 
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 241.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 241.png">
 
 Not bad, right? I think now I'll call myself an "Advanced Experience Designer." I decided to take it one step further and see if I could use an externally defined item renderer. For my last example, I created a new file, MyCustomCell.mxml, and used the following code:
 

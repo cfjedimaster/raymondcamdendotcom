@@ -59,7 +59,7 @@ Now for the hard part. Some command line programs (like SVN and Git) will actual
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip26.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip26.png" />
 
 <p>
 

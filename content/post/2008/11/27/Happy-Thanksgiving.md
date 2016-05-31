@@ -11,4 +11,4 @@
 
 Just a quick note to wish all my readers (well those who celebrate it!) a happy Thanksgiving. I'm definitely thankful for my readers. Without you guys, this blog would be nothing. So have a wonderful day and try to eat too much. (No, that isn't a typo. Screw the diet today.)
 
-<img src="http://static.raymondcamden.com/images//StarWarsThanksgiving.jpg">
+<img src="https://static.raymondcamden.com/images//StarWarsThanksgiving.jpg">

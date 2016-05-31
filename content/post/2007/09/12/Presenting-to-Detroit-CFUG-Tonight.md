@@ -9,7 +9,7 @@
 	"guid": "2340"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi//robocop2.jpg" align="left">
+<img src="https://static.raymondcamden.com/images/cfjedi//robocop2.jpg" align="left">
 
 I'll be presenting tonight to the <a href="http://detcfug.org/cfug/">Detroit CFUG</a>. This meeting is open to anyone who can click on the url below...
 

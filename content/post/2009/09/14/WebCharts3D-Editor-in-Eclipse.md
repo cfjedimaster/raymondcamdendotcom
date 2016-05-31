@@ -15,14 +15,14 @@ Installation proved a bit tricky for me. On my Snow Leopard Mac, the plugin neve
 
 Once you get it working then you can create a new Chart project by using the New/Other menu. There should be a new WebCharts3D option:
 
-<img src="http://static.raymondcamden.com/images/Picture 186.png" />
+<img src="https://static.raymondcamden.com/images/Picture 186.png" />
 
 You can create the project anywhere - I just saved it in my web root. I picked the first web chart and then it loaded the preview directly in Eclipse. I had to enable the General/Properties window to allow me to edit the chart, but once I did, I was able to edit the chart to meet my stringent design requirements:
 
 <b>First the chart preview:</b><br>
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 258.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 258.png" />
 
 <b>Properties pane:</b><br>
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 338.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 338.png" />
 
 Pretty cool I think - and hopefully the lack of support on my Mac ColdFusion Builder will be corrected in a later build.

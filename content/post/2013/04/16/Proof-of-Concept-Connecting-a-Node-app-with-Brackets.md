@@ -18,7 +18,7 @@ http://localhost:3000/?num=rnd:10&author=name&age=age&gender=oneof:male:female&s
 
 This returns:
 
-<img src="http://static.raymondcamden.com/images/screenshot48.png">
+<img src="https://static.raymondcamden.com/images/screenshot48.png">
 
 I built the project, released it up on GitHub (<a href="https://github.com/cfjedimaster/mockdata">https://github.com/cfjedimaster/mockdata</a>) and didn't really think about it again until last week. The app I built is easy to use... if you know Node. But I bet that I could make it even easier by integrating it into Brackets itself. 
 
@@ -33,11 +33,11 @@ I won't repeat the docs, but will encourage you to read them <i>carefully</i>. I
 
 So did it work? Heck yes! Here's the menu item I added...
 
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-16 at 2.47.37 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-04-16 at 2.47.37 PM.png" />
 
 Which then fires off the request and presents a nice dialog to the user:
 
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-16 at 2.48.40 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-04-16 at 2.48.40 PM.png" />
 
 At which point you can start playing with it in your JavaScript code. I'm considering adding a nice little icon so that you can click and copy the URL to your clipboard in case you forget. There's also the issue of documentation. I know how to massage the server to get what I want, but I should provide a quick reference guide. 
 

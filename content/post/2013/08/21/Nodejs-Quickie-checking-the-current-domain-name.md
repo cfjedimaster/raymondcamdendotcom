@@ -15,7 +15,7 @@ First - my thanks to StackOverflow user <a href="http://stackoverflow.com/users/
 
 I did a quick dump (JSON.stringify(req.headers)) to see what this looked like:
 
-<img src="http://static.raymondcamden.com/images/Screenshot_8_21_13_11_56_AM1.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_8_21_13_11_56_AM1.png" />
 Pretty much what I expected. So I wrote a quick little snippet that would focus on returning just the subdomain:
 
 <script src="https://gist.github.com/cfjedimaster/6297080.js"></script>

@@ -38,7 +38,7 @@ Working from the bottom first - notice I've got my form (well, to be technical, 
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-28 at 12.51.16 PM.png" title="jQuery RTE FTW"/>
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-28 at 12.51.16 PM.png" title="jQuery RTE FTW"/>
 
 <p>
 

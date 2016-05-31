@@ -23,7 +23,7 @@ First, it uses a visual icon with a number to show how many items are being stor
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip180.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip180.png" />
 
 <p>
 
@@ -31,7 +31,7 @@ I didn't have an icon for 9+, but you can control the mouse over text very easy.
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip181.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip181.png" />
 
 <p>
 
@@ -39,7 +39,7 @@ And yes - that page was using 59 items. It was a test page though so don't panic
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip182.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip182.png" />
 
 <p>
 
@@ -47,7 +47,7 @@ And here is what <a href="http://jsbin.com">JSBin</a> was using:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip183.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip183.png" />
 
 <p>
 

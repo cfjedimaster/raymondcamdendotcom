@@ -16,4 +16,4 @@ My alma mater, the University of Louisiana at Lafayette, has multiple web relate
 To be clear, there is nowhere on this planet better than Lafayette, LA. Serious. It makes Utopia look kinda slummy. Here's a picture outside my window right now...
 
 
-<img src="http://static.raymondcamden.com/images/uni.jpg" />
+<img src="https://static.raymondcamden.com/images/uni.jpg" />

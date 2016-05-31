@@ -16,7 +16,7 @@ Unfortunately, things change, and developer evangelism ceased to exist. I've got
 
 I like to teach. I like to share. As shy as I am in most situations, I love to be in front of a group of developers showing them cool crap. To this day I remember the joy of my very first program running (after an hour or so of it failing) and when I present I feel like I get to share some of that joy with others. 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/ibm_200x200.jpg"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/01/ibm_200x200.jpg" alt="ibm_200x200" width="200" height="200" class="alignnone size-full wp-image-5561" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/ibm_200x200.jpg"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/01/ibm_200x200.jpg" alt="ibm_200x200" width="200" height="200" class="alignnone size-full wp-image-5561" /></a>
 
 I'm happy to announce that - starting in February - I'll be joining IBM as a MobileFirst Developer Evangelist, the same team my buddy, and former coworker, <a href="http://www.tricedesigns.com">Andy Trice</a> is on. The platform makes use of Apache Cordova so you can expect me to still blog quite heavily on it. Once I google how to tie a tie, I expect to be on the road as I was before with Adobe so hopefully I can meet more of my readers this year. 
 

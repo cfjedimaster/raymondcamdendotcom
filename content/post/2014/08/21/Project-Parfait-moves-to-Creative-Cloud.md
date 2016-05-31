@@ -27,7 +27,7 @@ As a quick tour, here is what you'll see different when selecting a PSD file in 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot19.png" />
+<img src="https://static.raymondcamden.com/images/shot19.png" />
 </p>
 
 <p>
@@ -35,5 +35,5 @@ Just hit the Extract link in the header and you'll see the same functionality yo
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot29.png" />
+<img src="https://static.raymondcamden.com/images/shot29.png" />
 </p>

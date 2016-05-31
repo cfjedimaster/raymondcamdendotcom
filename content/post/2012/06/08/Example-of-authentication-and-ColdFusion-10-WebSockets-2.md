@@ -39,4 +39,4 @@ Finally - in case you're curious - when you run wsGetSubscribers on the server s
 
 If you would like to demo this, just hit the link below. As I said earlier, you must login with either 'admin' or 'bob'. You can also download the full source code below.
 
-<a href="http://raymondcamden.com/demos/2012/jun/8/index.cfm"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fexample8%2Ezip'>Download attached file.</a></p>
+<a href="http://raymondcamden.com/demos/2012/jun/8/index.cfm"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fexample8%2Ezip'>Download attached file.</a></p>

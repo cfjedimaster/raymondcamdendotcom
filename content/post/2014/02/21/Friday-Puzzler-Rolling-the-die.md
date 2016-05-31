@@ -26,4 +26,4 @@ And hey - I'll give you a prize too. How about a 30 gig USB card from Adobe? It 
 </p>
 
 
-<img src="http://static.raymondcamden.com/images/fantasy_roleplaying.jpg" />
+<img src="https://static.raymondcamden.com/images/fantasy_roleplaying.jpg" />

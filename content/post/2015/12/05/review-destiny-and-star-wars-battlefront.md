@@ -34,7 +34,7 @@ The only aspect I really didn't care for is PVP. Maybe I didn't dedicate enough 
 
 The game has a cool mobile app companion as well as a web-based profile. Here's my character - not the prettiest one in the world but she's mine.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot12.png" alt="shot1" width="750" height="349" class="aligncenter size-full wp-image-7213" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot12.png" alt="shot1" width="750" height="349" class="aligncenter size-full wp-image-7213" />
 
 <h2>Star Wars Battlefront</h2>
 
@@ -60,6 +60,6 @@ Of course, you can't talk about this game without mentioning the graphics and so
 So as I said - it is a fun game. Really fun. It has room to grow and I really hope they adjust level advancement, but I'm having a great time playing it. Probably the most I've had in a multiplayer environment.
 
 Like Destiny, there is a companion site and mobile app for Battlefront, but the companion app also has a completely new game too - a simple turn based combat game. It isn't incredible, but it's free and gives you a few bonuses to your main game as well.
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/File-Dec-05-10-09-50-AM.png" alt="File Dec 05, 10 09 50 AM" width="750" height="1000" class="aligncenter size-full wp-image-7216" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/File-Dec-05-10-09-50-AM.png" alt="File Dec 05, 10 09 50 AM" width="750" height="1000" class="aligncenter size-full wp-image-7216" />
 
 Any way - that's it for now. If you are playing either of these games, let me know in the comments below. As a reminder, if you click on the product links I get a small kick back when you purchase at Amazon. Thank you!

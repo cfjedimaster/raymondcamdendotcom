@@ -13,7 +13,7 @@ Every day I use ColdFusion Builder I like it a bit more. Last night I built out 
 
 <p>
 <!--more-->
-<a href="http://www.raymondcamden.com/demos/fw1.swf"><img src="http://static.raymondcamden.com/images/cfjedi/fw1s.png" title="Go ahead and click, you know you want to..." /></a>
+<a href="http://www.raymondcamden.com/demos/fw1.swf"><img src="https://static.raymondcamden.com/images/cfjedi/fw1s.png" title="Go ahead and click, you know you want to..." /></a>
 
 <p>
 

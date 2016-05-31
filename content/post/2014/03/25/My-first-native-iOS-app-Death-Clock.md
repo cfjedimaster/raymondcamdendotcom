@@ -18,7 +18,7 @@ I used a UINavigationController to handle my views. I like the simple push, pop 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot17.png" />
+<img src="https://static.raymondcamden.com/images/shot17.png" />
 </p>
 
 <p>
@@ -104,7 +104,7 @@ The second view is the actual counter. This isn't terribly exciting. I've got th
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot27.png" />
+<img src="https://static.raymondcamden.com/images/shot27.png" />
 </p>
 
 <p>

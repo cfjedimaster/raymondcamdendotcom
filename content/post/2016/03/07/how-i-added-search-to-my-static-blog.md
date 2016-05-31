@@ -15,11 +15,11 @@ I was talking with fellow coder [Nic Raboy](https://www.thepolyglotdeveloper.com
 
 At a high level, I'm using a [Google Custom Search Engine](https://cse.google.com/cse). This is a free tool by Google that lets you create a client-side widget to add a search engine for a particular domain, or set of domains. You have control over a number of features, like the CSS and specific paths under a domain you want to include, and for the most part it just simply works as you expect. This is what the administrator looks like. Notice the preview on the right hand side. It is "live" and you can see how I've entered a text string for testing.
 
-<img src="http://static.raymondcamden.com/images/2016/03/cse1.png" class="imgborder" alt="CSE">
+<img src="https://static.raymondcamden.com/images/2016/03/cse1.png" class="imgborder" alt="CSE">
 
 I didn't customize much. Under look and feel, I switched to "Full Width" so it would look good under my blog theme.
 
-<img src="http://static.raymondcamden.com/images/2016/03/cse2.png" class="imgborder" alt="CSE">
+<img src="https://static.raymondcamden.com/images/2016/03/cse2.png" class="imgborder" alt="CSE">
 
 For some reason, they don't make it easy to get the code you need to put on your site. You won't find it under `Setup`, the default page you land on when working on your CSE. But you will find it under `Look & Feel`. I cropped it out of the screen shot above but there is a `Save & Get Code` button. 
 

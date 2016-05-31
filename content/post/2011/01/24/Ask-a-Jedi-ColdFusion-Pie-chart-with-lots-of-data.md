@@ -88,7 +88,7 @@ And we can see right away the - um - "suboptimal" rendering:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip15.png" title="The chart is messier than my daughter's bed room." />
+<img src="https://static.raymondcamden.com/images/ScreenClip15.png" title="The chart is messier than my daughter's bed room." />
 
 <p>
 
@@ -134,7 +134,7 @@ And the result is:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip16.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip16.png" />
 
 <p>
 

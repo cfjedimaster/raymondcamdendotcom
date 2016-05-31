@@ -30,7 +30,7 @@ Run this template and add the following to the URL:
 
 Remember that the cflogin scope is populated when the security framework senses a login attempt. This can be via HTTP Auth, a Form (or URL), and Flash Remoting. The dump though shows a problem:
 
-<img src="http://static.raymondcamden.com/images/Picture 180.png" />
+<img src="https://static.raymondcamden.com/images/Picture 180.png" />
 
 As you can see, cflogin.password is incorrect. If you tried to pass it to code to do an authentication it would fail. What's odd though is that you can use the value in cfloginuser:
 

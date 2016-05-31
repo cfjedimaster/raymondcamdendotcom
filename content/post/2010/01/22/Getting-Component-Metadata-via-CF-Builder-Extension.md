@@ -83,6 +83,6 @@ That's it. So does it work? Yes and no. It does correctly reflect function metad
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/shotcfb.jpg" />
+<img src="https://static.raymondcamden.com/images/shotcfb.jpg" />
 
 <p>

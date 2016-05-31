@@ -104,7 +104,7 @@ That's it. Here's the result of a zip I tested.
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/images.png" />
+<img src="https://static.raymondcamden.com/images/images.png" />
 </p>
 
 <p>

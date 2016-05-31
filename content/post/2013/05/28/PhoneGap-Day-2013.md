@@ -11,4 +11,4 @@
 
 Just sharing the news that another PhoneGap Day was announced - Friday, July 19th, in Portland, Oregon. Details here: <a href="http://pgday.phonegap.com/us2013/">http://pgday.phonegap.com/us2013/</a>. Early bird tickets are a low, low 25 dollars. I went last year and thought it was great.  I definitely recommend it.
 
-<img src="http://static.raymondcamden.com/images/buildbot2013.png" />
+<img src="https://static.raymondcamden.com/images/buildbot2013.png" />

@@ -19,7 +19,7 @@ Let's begin with a simple jQuery Mobile template.
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -61,32 +61,25 @@ $("#mainPage").on("pageshow", function(e) {
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
-<p>
 
 I've got a few things going on here to prepare for the autocomplete control. I've got a text field that will accept the user input. I've got a page event handler (this is jQuery Mobile specific) that will fire when the page loads. Now let's talk about my proposed solution.
 
-<p>
 
 I thought it might be handy to use a jQuery Mobile listview to render the suggestions. So I began by adding an empty list view beneath my form field:
 
-<p>
 
-<code>
+<pre><code class="language-javascript">
 &lt;p&gt;
 &lt;input type="text" id="searchField" placeholder="Search"&gt;
 &lt;ul id="suggestions" data-role="listview" data-inset="true"&gt;&lt;/ul&gt;
 &lt;/p&gt;
-</code>
-
-<p>
+</code></pre>
 
 I then wrote some simple code to handle changes to the input field. 
 
-<p>
-
-<code>
+<pre><code class="language-javascript">
 $("#mainPage").on("pageshow", function(e) {
 	console.log("Ready to bring the awesome.");
 	var sugList = $("#suggestions");
@@ -110,36 +103,21 @@ $("#mainPage").on("pageshow", function(e) {
 	});
 
 });
-</code>
-
-<p>
+</code></pre>
 
 The code is rather simple I think. We bind to the "input" event for the text field and check the value. Now - most autosuggest controls make a determination on whether or not it makes sense to fire off a request. You may - for example - decide you only want to ask for autocomplete results when the user has entered 3 or 4 characters. Mine will <i>always</i> fire as long as you have at least one character. I did that because my data (a list of names) was a bit short and I wanted to ensure that the demo was easy to use. Obviously you can alter that to your liking. 
 
-<p>
-
 If the user entered something, we fire off a request to the server. (In this case to a ColdFusion script that performs a search against a list of names. It's trivial enough that I won't include it in this blog entry, but if anyone wants it, you can view it here: <a href="http://pastebin.com/pFGggRc3">http://pastebin.com/pFGggRc3</a>) The server responds with an array of names. We can then take that array and create a simple HTML string out of it. This string is inserted into our empty list and then we simply call the jQuery Mobile refresh method to ensure it is marked up correctly.
-
-<p>
 
 And that's it. I tested it on my mobile device and while the keyboard will cover some of the results, it seems to work well:
 
-<p>
-
-<img src="http://static.raymondcamden.com/images/forblog.png" />
-
-<p>
+<img src="https://static.raymondcamden.com/images/forblog.png" />
 
 Obviously this demo needs a bit more work to be complete. Your list options would probably link to the detail for your search results. You can find the demo below as well as the complete code.
 
-<p>
+Demo is removed as I no longer run ColdFusion on my server. Here is a link to a zip: <a href="https://static.raymondcamden.com/enclosures/27.zip">https://static.raymondcamden.com/enclosures/27.zip</a>
 
-<a href="http://www.raymondcamden.com/demos/2012/mar/27/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
-
-<p>
-
-<code>
-
+<pre><code class="language-javascript">
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -201,8 +179,7 @@ $("#mainPage").on("pageshow", function(e) {
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
-<p>
 
 P.S. So hey - what about the HTML5 Datalist option? Unfortunately on mobile it is only supported in Opera. You can find details on support here: <a href="http://caniuse.com/#feat=datalist">http://caniuse.com/#feat=datalist</a>

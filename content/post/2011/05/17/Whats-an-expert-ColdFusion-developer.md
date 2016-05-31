@@ -19,7 +19,7 @@ I have been working with CF for about 5 years and in no way consider myself expe
 Just hoping to get a feel for the expectation, within the community.
 </blockquote>
 <!--more-->
-<img src="http://static.raymondcamden.com/images/cfjedi/code-ninja.png" style="float:left;padding-right:5px;padding-bottom:5px" /> I love easy to answer questions like this! The answer is "It Depends." Thanks, and good night.<more/>Ok, so maybe we can talk a <i>little</i> bit more about this. Here are some traits/qualities/skill/etc that come to my mind when thinking about what would be an "Expert". As always, I encourage folks to add to this list (or disagree!!) in the comments below.
+<img src="https://static.raymondcamden.com/images/cfjedi/code-ninja.png" style="float:left;padding-right:5px;padding-bottom:5px" /> I love easy to answer questions like this! The answer is "It Depends." Thanks, and good night.<more/>Ok, so maybe we can talk a <i>little</i> bit more about this. Here are some traits/qualities/skill/etc that come to my mind when thinking about what would be an "Expert". As always, I encourage folks to add to this list (or disagree!!) in the comments below.
 
 <ul>
 

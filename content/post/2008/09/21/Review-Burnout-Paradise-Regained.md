@@ -15,13 +15,13 @@ Criterion, the makes of Burnout, did something interesting though. Over the past
 
 Criterion went nuts though. They have already added major features to the game, but this week they released the bike pack. 
 
-<img src="http://static.raymondcamden.com/images/cfjedi//bike2.jpg">
+<img src="https://static.raymondcamden.com/images/cfjedi//bike2.jpg">
 
 For the first time in a Burnout game, you get to ride on a motorcycle. How well does it work? Wow. The illusion of incredible speed that has always been a hallmark of Burnout games is cranked up to 11. Even the sound is cooler. Racing down the street and then shooting into a tunnel will create an incredible sound as your bike's engine echos throughout the tunnel. Jumps, which were fun in a car, are ten times better (and a bit more scary) on the bikes. 
 
 Oh - and they also added a day/time cycle and weather. Oh - and all of this is a) on top of big earlier updates and b) 100% free. The day/night cycle is more than a simple visual trick as available races changes throughout the day and traffic patterns change when the sun goes down. Weather is not as cool as it could be. It's mainly just fog and mist and random times, not rain as I had expected, but it still adds something to the game. 
 
-<img src="http://static.raymondcamden.com/images/cfjedi//bike3.jpg">
+<img src="https://static.raymondcamden.com/images/cfjedi//bike3.jpg">
 
 Of course, one of the big questions folks had about this update is how crashes would be handled. Burnout has great crashes, but the cars might as well be sentient creatures as you never see any human carnage. When you crash your bike, you will <i>not</i> see the driver thrown a thousand feet to their death. You will see the bike crash out nicely, but not the driver. This is fine by me. The crashes are still pretty darn fun, especially since you can imagine a heck of lot worse than Criterion could have shown anyway.
 
@@ -29,6 +29,6 @@ Another cool feature of the XBox 360 (and I'm not sure if the PS3 does this but 
 
 So imagine this. I'm racing around, enjoying my new motorcycle, when I suddenly get a message saying that <a href="http://www.remotesynthesis.com/">Brian Rinaldi</a> had just beat my time on a street. While I was laughing with enjoyment at how cool that was, Brian did it again. And again. So now I hate Brian and will be forced to hunt him down and kill him. Or at least try to beat his records. Moving to multiplayer seems to be quite easy now as well. You can hit right on your controller, find your online friends, and send an invite. (I tried this with Brian but he said it was his son playing. I call chicken!)
 
-<img src="http://static.raymondcamden.com/images/cfjedi//bike1.jpg">
+<img src="https://static.raymondcamden.com/images/cfjedi//bike1.jpg">
 
 Apparently the updates will continue. If I've read right, the next update will add a whole new island to the game. Considering the fact that I'm still finding parts of Paradise City I had not seen before, I can't wait for the world to get even larger. I still say they should consider adding a reset to races. But I really want to give Criterion credit for what they have given to gamers here. They have easily earned my money for whatever comes next from them.

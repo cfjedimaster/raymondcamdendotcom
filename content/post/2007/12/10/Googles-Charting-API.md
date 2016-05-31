@@ -14,7 +14,7 @@ A few blogs have reported this over the weekend, but the Big G (as I like to cal
 Well first off - I think the Flash charts in ColdFusion looks <i>real</i> swell. But you can't always use Flash. What if you want to embed a chart in a PDF? CFCHART lets you output PNG or JPG, but frankly, these versions look pretty bad. Check this screen shot which has both a Flash and PNG version side by side:
 
 
-<img src="http://static.raymondcamden.com/images/Picture 14.png">
+<img src="https://static.raymondcamden.com/images/Picture 14.png">
 
 As you can see - the text is especially bad when compared to the Flash version. Now compare this to a Google version (and this is a 'live' example of the API, right click on the chart to see the URL):
 

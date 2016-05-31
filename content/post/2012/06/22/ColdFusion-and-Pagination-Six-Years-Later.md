@@ -25,4 +25,4 @@ The critical changes are these lines:
 
 By using a simple bit of math, I can determine both what the total number of pages are as well as the current page. If I decide to change the size of a page later on the math will continue to work. And that's it. Not exactly rocket science, but the basic concept of paging over a set of data is still something folks like to see examples of, so I hope this is helpful! If you fancy seeing a demo, click the big obvious Demo button below...
 
-<a href="http://raymondcamden.com/demos/2012/jun/22/test2.cfm"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://raymondcamden.com/demos/2012/jun/22/test2.cfm"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

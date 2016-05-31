@@ -21,7 +21,7 @@ Currently the URLs are checked for malware and porn, but additional categories (
 
 From a developer perspective, the API is about as simple as it can get. To test it, I built a quick Ionic app with a fake registration form:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/iOS-Simulator-Screen-Shot-Mar-13-2015-12.12.59-PM1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/iOS-Simulator-Screen-Shot-Mar-13-2015-12.12.59-PM1.png" alt="iOS Simulator Screen Shot Mar 13, 2015, 12.12.59 PM" width="422" height="454" class="alignnone size-full wp-image-5828" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/iOS-Simulator-Screen-Shot-Mar-13-2015-12.12.59-PM1.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/iOS-Simulator-Screen-Shot-Mar-13-2015-12.12.59-PM1.png" alt="iOS Simulator Screen Shot Mar 13, 2015, 12.12.59 PM" width="422" height="454" class="alignnone size-full wp-image-5828" /></a>
 I then implemented a basic form submit handler in my controller.
 
 <pre><code class="language-javascript">.controller(&#x27;MainCtrl&#x27;,function($scope,$http) {

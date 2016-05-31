@@ -285,7 +285,7 @@ And finally, you can play with this demo by clicking the big ass demo button bel
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/dec172010/jqplot/test3a.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/dec172010/jqplot/test3a.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

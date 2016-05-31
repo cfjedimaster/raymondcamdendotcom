@@ -12,6 +12,6 @@
 
 The title says it all. I just got shipment of book 3 of CFWACK, as evidenced by the cool photo below (I have the photography skills of a drunk paparazzi): 
 
-<img src="http://static.raymondcamden.com/images/b3.jpg">
+<img src="https://static.raymondcamden.com/images/b3.jpg">
 
 Enjoy folks.

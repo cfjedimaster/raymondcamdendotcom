@@ -22,7 +22,7 @@ So does anyone know how you would make an image from scratch that would work wit
 The code is pasted at the very bottom. Let me show some examples of the output. First the original image.
 
 <p align="center">
-<img src="http://static.raymondcamden.com/images/s1.PNG"><br>
+<img src="https://static.raymondcamden.com/images/s1.PNG"><br>
 <b>Writing PHP is hard!</b>
 </p>
 
@@ -34,7 +34,7 @@ Now to make the drop shadow:
 </code>
 
 <p align="center">
-<img src="http://static.raymondcamden.com/images/cfjedi/s2.PNG"><br>
+<img src="https://static.raymondcamden.com/images/cfjedi/s2.PNG"><br>
 <b>.Net makes Mommy and Daddy fight.</b>
 </p>
 
@@ -46,7 +46,7 @@ And finally an example with what I call the blood red shadow:
 </code>
 
 <p align="center">
-<img src="http://static.raymondcamden.com/images/cfjedi//s3.PNG"><br>
+<img src="https://static.raymondcamden.com/images/cfjedi//s3.PNG"><br>
 <b>Rails broke all my toys and Ruby killed my dog!</b>
 </p>
 

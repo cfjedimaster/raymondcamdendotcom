@@ -88,7 +88,7 @@ All this code does is take input from the first field and send it to my CFC. Whe
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/screen36.png" />
+<img src="https://static.raymondcamden.com/images/screen36.png" />
 
 <p>
 
@@ -96,7 +96,7 @@ Now at this point I then switched back to my browser tab containing my Flex app.
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/screen37.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/screen37.png" />
 
 <p>
 

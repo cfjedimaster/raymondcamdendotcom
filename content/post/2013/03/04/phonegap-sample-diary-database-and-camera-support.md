@@ -23,15 +23,15 @@ I thought I'd help out the reader by building a simple application that made use
 
 Here's the home page - a simple list of entries with the ability to view an entry and add a new entry.
 
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Mar 4, 2013 1.29.17 PM.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot Mar 4, 2013 1.29.17 PM.png" />
 
 And the amazingly well-designed entry page:
 
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Mar 4, 2013 1.30.02 PM.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot Mar 4, 2013 1.30.02 PM.png" />
 
 Finally, the form to write entries:
 
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Mar 4, 2013 1.31.03 PM.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot Mar 4, 2013 1.31.03 PM.png" />
 
 I also built a wrapper for my Diary class that would abstract out the persistence for me. Here is that wrapper. Please don't laugh at my pitiful object-oriented-ish JavaScript code.
 
@@ -49,7 +49,7 @@ Here is that code:
 
 Note that I've updated my form to include a preview and the entry detail view (not shown here) has been updated to display it.
 
-<img src="http://static.raymondcamden.com/images/2013-03-04 13.45.11.png" />
+<img src="https://static.raymondcamden.com/images/2013-03-04 13.45.11.png" />
 
 Ok, so at this point, the core functionality is done. (You can find this version in the www2 folder.)  I can add and view content (I didn't bother with edit/delete, but that would be trivial) and I can use the device camera to assign a picture to a diary entry. Now to look into the bug.
 
@@ -75,4 +75,4 @@ Next - before I store the Diary entry, if I am on iOS, I simply copy the image o
 
 <script src="https://gist.github.com/cfjedimaster/5085467.js"></script>
 
-Overall, not as messy as I thought. You can find the complete source code attached below. Enjoy.<p><a href='http://static.raymondcamden.com/enclosures/Archive29.zip'>Download attached file.</a></p>
+Overall, not as messy as I thought. You can find the complete source code attached below. Enjoy.<p><a href='https://static.raymondcamden.com/enclosures/Archive29.zip'>Download attached file.</a></p>

@@ -16,7 +16,7 @@ A reader had created a vertically large animation. The animation was more than l
 
 In order to demo this, I created a new Edge Animate animation and edited the stage to be very large vertically. I then created a Symbol and defined an animation on the symbol itself. Lastly, I set the autoplay to false.
 
-<img src="http://static.raymondcamden.com/images/Screenshot_8_9_13_8_17_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_8_9_13_8_17_AM.png" />
 
 So... now came the interesting part. I assumed I could do something similar to my previous entries. Wait for the element to be visible and then start the animation.
 
@@ -42,4 +42,4 @@ And this works. (There is a demo link at the bottom.) Speaking more with Josh, h
 
 When you view this demo, you'll see a very tall pink box. In theory, you will not see a yellow box. When you scroll down and you see it, it should begin to move to the right. Please be sure you are sitting. My design skills are so incredible you may fall to the ground and I do not wish to be the cause of any physical damage.
 
-<a href="http://raymondcamden.com/demos/2013/aug/9_2/Untitled-1.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2013%2Eraymondcamden%2Ecom%5Cenclosures%2FArchive31%2Ezip'>Download attached file.</a></p>
+<a href="http://raymondcamden.com/demos/2013/aug/9_2/Untitled-1.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2013%2Eraymondcamden%2Ecom%5Cenclosures%2FArchive31%2Ezip'>Download attached file.</a></p>

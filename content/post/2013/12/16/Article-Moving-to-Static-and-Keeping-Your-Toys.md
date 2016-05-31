@@ -23,6 +23,6 @@ It also has the best header to one of my pieces yet...
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/toys_header.jpg" /><br/>
+<img src="https://static.raymondcamden.com/images/toys_header.jpg" /><br/>
 <a href="http://commons.wikimedia.org/wiki/File:Ha_Ha_Toy_%E2%80%93_Tin_Wind_Up_%E2%80%93_Planet_Robot_%E2%80%93_More_and_More!.jpg">Image Credit</a>
 </p>

@@ -37,7 +37,7 @@ Once I had that, I then simply wrote a quick parser. I decided to go full bore a
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/shot1.PNG" />
+<img src="https://static.raymondcamden.com/images/shot1.PNG" />
 
 <p>
 

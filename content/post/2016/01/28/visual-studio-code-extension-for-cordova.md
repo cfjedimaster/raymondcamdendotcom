@@ -22,7 +22,7 @@ The extension provides three main features:
 * Second, you get Cordova commands in the command palette. Right now this is just Build and Run, but it's something. 
 * Third, and my favorite, you get intellisense for the plugin APIs. This provides code completion for Cordova plugins. Even cooler - the extension is smart enough to know what plugins you have installed in the current project. So if you don't have the Camera plugin installed, you won't get code completion. How does it look? Here is a quick example:
 
-![Visual Studio Code completion](http://static.raymondcamden.com/images/2016/01/cordovaext1.png)
+![Visual Studio Code completion](https://static.raymondcamden.com/images/2016/01/cordovaext1.png)
 
 To give you an idea of how the debugger looks, I did a quick video. I'm coming down with a bit of a cold, so forgive the somewhat scratchy voice.
 

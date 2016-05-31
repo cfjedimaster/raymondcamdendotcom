@@ -22,7 +22,7 @@ Chrome Remote Debugging is a cool feature, but so far it had not been available 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_1_2_14__1_25_PM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_1_2_14__1_25_PM.png" />
 </p>
 
 <p>
@@ -30,5 +30,5 @@ And just to prove it works, I went into the DOM, modified it, and it showed up l
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen Shot 2014-01-02 at 1.24.35 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2014-01-02 at 1.24.35 PM.png" />
 </p>

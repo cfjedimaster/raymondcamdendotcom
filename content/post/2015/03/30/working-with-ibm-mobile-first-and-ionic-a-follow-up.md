@@ -25,7 +25,7 @@ This line does <strong>not</strong> exist in the Ionic template but <strong>does
 
 Second, there is a CSS element for iOS that breaks Ionic - but not all the time. I only noticed it in the tabs layout, not the default which is what I had used for my first post. Check out the screen shot below:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/iOS-Simulator-Screen-Shot-Mar-30-2015-9.22.37-AM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/iOS-Simulator-Screen-Shot-Mar-30-2015-9.22.37-AM.png" alt="iOS Simulator Screen Shot Mar 30, 2015, 9.22.37 AM" width="281" height="500" class="alignnone size-full wp-image-5907" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/iOS-Simulator-Screen-Shot-Mar-30-2015-9.22.37-AM.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/iOS-Simulator-Screen-Shot-Mar-30-2015-9.22.37-AM.png" alt="iOS Simulator Screen Shot Mar 30, 2015, 9.22.37 AM" width="281" height="500" class="alignnone size-full wp-image-5907" /></a>
 
 Notice how the tabs are missing the bottom portion. This is simple enough to correct. In your initialization routine, simply tell MobileFirst that you do <strong>not</strong> what to show the iOS7 status bar. As you can probably guess, this is only an issue on iOS. Here is the relevant code.
 
@@ -38,6 +38,6 @@ Notice how the tabs are missing the bottom portion. This is simple enough to cor
 
 I should point out that Carlos' templates up on GitHub had this fixed already - <a href="https://github.com/csantanapr/mfp-ionic-templates">https://github.com/csantanapr/mfp-ionic-templates</a>. 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/iOS-Simulator-Screen-Shot-Mar-30-2015-11.46.49-AM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/iOS-Simulator-Screen-Shot-Mar-30-2015-11.46.49-AM.png" alt="iOS Simulator Screen Shot Mar 30, 2015, 11.46.49 AM" width="282" height="500" class="alignnone size-full wp-image-5909" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/iOS-Simulator-Screen-Shot-Mar-30-2015-11.46.49-AM.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/iOS-Simulator-Screen-Shot-Mar-30-2015-11.46.49-AM.png" alt="iOS Simulator Screen Shot Mar 30, 2015, 11.46.49 AM" width="282" height="500" class="alignnone size-full wp-image-5909" /></a>
 
 Any way, I hope this helps, and later today I'll share another example of Ionic and MobileFirst!

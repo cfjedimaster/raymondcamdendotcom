@@ -13,7 +13,7 @@ A few minutes ago (although according to the blog post this happened tomorrow), 
 
 Once you download the bits, you can find a <b>create</b> script for Android, iOS, and Blackberry. I tested the Android one just now. After first ensuring I had the Android SDK in my path, I simply ran the script and it generated a complete Android+PhoneGap project. 
 
-<img src="http://static.raymondcamden.com/images/screenshot10.png" />
+<img src="https://static.raymondcamden.com/images/screenshot10.png" />
 
 If you don't use any options it just uses a set of defaults but you can tweak the folder where the code is created, the package name for the application, and the activity. The generated HTML includes code that demonstrates a variety of PhoneGap APIs, including device info, accelerometer, geolocation, and others.
 

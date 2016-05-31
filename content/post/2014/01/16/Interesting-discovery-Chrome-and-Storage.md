@@ -19,7 +19,7 @@ Be warned that when you first enter the URL, your browser may seem to hang. For 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s16.png" />
+<img src="https://static.raymondcamden.com/images/s16.png" />
 </p>
 
 <p>
@@ -27,7 +27,7 @@ In case you're wondering, the 'floating window' effect isn't me being fancy with
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s28.png" />
+<img src="https://static.raymondcamden.com/images/s28.png" />
 </p>
 
 <p>
@@ -35,7 +35,7 @@ Note how each cookie is listed as well as multiple instances of "Indexed databas
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s33.png" />
+<img src="https://static.raymondcamden.com/images/s33.png" />
 </p>
 
 <p>
@@ -47,7 +47,7 @@ A while ago I built a Chrome extension (<a href="https://chrome.google.com/webst
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s42.png" />
+<img src="https://static.raymondcamden.com/images/s42.png" />
 </p>
 
 <p>

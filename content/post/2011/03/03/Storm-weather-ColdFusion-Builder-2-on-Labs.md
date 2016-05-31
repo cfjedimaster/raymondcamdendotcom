@@ -16,11 +16,11 @@ This is - I think - a very exciting release. It's been my primary IDE for a whil
 I've said for a while now that extensions are the absolute coolest part of ColdFusion Builder. But one of the things you couldn't do with extensions is create a non blocking view. What do I mean? Consider <a href="http://varscoper.riaforge.org/">VarScoper</a>, the excellent tool created by  Mike Schierberl. When run as an extension, the report is on top of Builder and can't be put to the side. This means as you work to fix the problems varScoper finds you have to keep rerunning it to see your progress. Here is an example:
 
  
-<img src="http://static.raymondcamden.com/images/ScreenClip34.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip34.png" />
 
 In ColdFusion Builder 2 however we can make use of views. I'll detail this more later, but get this. I modified Mike's extension to switch to a view in <b>one minute</b> - and this one minute change allowed me to put the report in a view.
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip35.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip35.png" />
 
 And yes - you can click on the files to open them in the editor. I've attached my version of Mike's code to this blog entry. Download it now and give it  try!<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fvs%2Ezip'>Download attached file.</a></p>

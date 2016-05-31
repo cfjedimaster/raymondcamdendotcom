@@ -101,7 +101,7 @@ Once this feature is enabled, your autocomplete stops working. You get no error.
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip217.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip217.png" />
 
 <p>
 
@@ -149,4 +149,4 @@ My dataFilter function takes in the data stream and simply removes the first two
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/2011/nov/8/index.html"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/2011/nov/8/index.html"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

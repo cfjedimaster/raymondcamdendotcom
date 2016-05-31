@@ -11,6 +11,6 @@
 
 Guess what Fedex just dropped off?
 
-<img src="http://static.raymondcamden.com/images/DSC01823.jpg">
+<img src="https://static.raymondcamden.com/images/DSC01823.jpg">
 
 Only one more to go!

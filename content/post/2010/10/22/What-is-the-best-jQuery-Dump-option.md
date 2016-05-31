@@ -269,4 +269,4 @@ This returns (and I cropped this screen shot a bit to make it fit):
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/screen22.png" />
+<img src="https://static.raymondcamden.com/images/screen22.png" />

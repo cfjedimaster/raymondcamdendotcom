@@ -53,7 +53,7 @@ Ok, if we look at this, we can see the date is being rendered correctly in that 
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/screen13.png" />
+<img src="https://static.raymondcamden.com/images/screen13.png" />
 
 <p/>
 
@@ -87,7 +87,7 @@ Now when you run this you get a properly formatted result both immediately on di
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/screen14.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/screen14.png" />
 
 <p/>
 

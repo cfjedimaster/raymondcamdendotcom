@@ -31,8 +31,8 @@ And now for my 3 OT best things about MAX.
 
 2) Beating my high score at Galaga (no, mine isn't the <b>top</b> score, but the one on the left):
 
-<img src="http://static.raymondcamden.com/images/cfjedi//galaga.jpg">
+<img src="https://static.raymondcamden.com/images/cfjedi//galaga.jpg">
 
 3) And the number one best OT thing about MAX - the 5 Tagger Posse:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//5taggers.jpg">
+<img src="https://static.raymondcamden.com/images/cfjedi//5taggers.jpg">

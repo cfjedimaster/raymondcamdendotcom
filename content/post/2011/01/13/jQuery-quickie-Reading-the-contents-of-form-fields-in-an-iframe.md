@@ -76,4 +76,4 @@ So as I said, contents() was what you wanted. I just tie to that a find() comman
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/jan132011/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/jan132011/test.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

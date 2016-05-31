@@ -18,27 +18,27 @@ For the first entry, I've decided to do something completely radical. I'm not go
 
 Instead, I'm going to describe the application and share a prototype I built using <a href="http://www.adobe.com/products/proto.html">Adobe Proto</a>. Proto is a tablet application that lets you quickly design web sites and mobile apps. You use familiar typing tools (along with some cool gesture support) to layout pages. You can add dummy text, basic forms, and even create links between various pages. As an example:
 
-<img src="http://static.raymondcamden.com/images/proto-1-600x375.png" />
+<img src="https://static.raymondcamden.com/images/proto-1-600x375.png" />
 
-<img src="http://static.raymondcamden.com/images/proto-3-600x375.png" />
+<img src="https://static.raymondcamden.com/images/proto-3-600x375.png" />
 
 The most powerful aspect, I think, is that you can add interactivity to your prototypes. Forms can be manipulated and buttons can link to other pages. 
 
 So the app? Simple - the Cow Tip Line:
 
-<img src="http://static.raymondcamden.com/images/ctl.png" />
+<img src="https://static.raymondcamden.com/images/ctl.png" />
 
 The Cow Tip Line will be the cow tippers best friend. You can use it to report places to tip cows and find cows to tip. And - err - well that's it. I began by defining a simple home page in Proto:
 
-<img src="http://static.raymondcamden.com/images/Photo Sep 21, 10 35 22 AM (Custom).png" />
+<img src="https://static.raymondcamden.com/images/Photo Sep 21, 10 35 22 AM (Custom).png" />
 
 The top bar is my navigation bar. I only wanted one button but Proto wouldn't allow for that. (Actually, I could have just used a regular button, but I liked how the menu looked.) Beneath the top bar is space for my logo and some basic text, and then two buttons that lead right into the next pages. Here's the form for reporting a prime cow tipping location:
 
-<img src="http://static.raymondcamden.com/images/Photo Sep 21, 10 35 33 AM.png" />
+<img src="https://static.raymondcamden.com/images/Photo Sep 21, 10 35 33 AM.png" />
 
 Followed by the report interface. 
 
-<img src="http://static.raymondcamden.com/images/Photo Sep 21, 10 35 47 AM.png" />
+<img src="https://static.raymondcamden.com/images/Photo Sep 21, 10 35 47 AM.png" />
 
 As I mentioned, you are able to add basic interactivity to these pages and export them as HTML. I've got a version online now you can click away at. 
 

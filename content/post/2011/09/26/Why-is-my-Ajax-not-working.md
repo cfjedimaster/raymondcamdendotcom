@@ -65,7 +65,7 @@ component {
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip190.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip190.png" />
 
 <p>
 
@@ -73,7 +73,7 @@ However, when I ran my code I saw this instead:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip191.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip191.png" />
 
 <p>
 
@@ -103,7 +103,7 @@ The problems becomes more apparent when you make use of Chrome Dev Tools or Fire
 <p>
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip192.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip192.png" />
 
 <p>
 

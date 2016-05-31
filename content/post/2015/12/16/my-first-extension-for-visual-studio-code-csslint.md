@@ -13,11 +13,11 @@ Well, it took a while, but I finally got around to writing my first extension fo
 
 <!--more-->
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot1-2.png" alt="shot1" width="750" height="524" class="aligncenter size-full wp-image-7261" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot1-2.png" alt="shot1" width="750" height="524" class="aligncenter size-full wp-image-7261" />
 
 In the screen shot above, you can see the green squiggles from the linting reporting on the issues. If you click the little warning icon at the bottom, you get a formal list.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot2-3.png" alt="shot2" width="750" height="524" class="aligncenter size-full wp-image-7263" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot2-3.png" alt="shot2" width="750" height="524" class="aligncenter size-full wp-image-7263" />
 
 As just an FYI, VS Code has internal <a href="https://code.visualstudio.com/docs/languages/css#_syntax-verification-linting">CSS linting</a> and they do not document how to turn this off. You can disable their linting by adding this to your preferences:
 
@@ -33,7 +33,7 @@ The biggest tip I can give involves logging. While you can debug the server port
 
 This will then show up in your debug console. And I kind of like that both parts of my extension can share one log.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot3-1.png" alt="shot3" width="750" height="499" class="aligncenter size-full wp-image-7264" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot3-1.png" alt="shot3" width="750" height="499" class="aligncenter size-full wp-image-7264" />
 
 So - I did publish it to the <a href="https://marketplace.visualstudio.com/#VSCode">Marketplace</a>, and that too was a bit complex, but I think - eventually - it will show up and be available. You can find the detail page here: <a href="https://marketplace.visualstudio.com/items/raymondcamden.CSSLint">https://marketplace.visualstudio.com/items/raymondcamden.CSSLint</a>. It is pretty bare bones though. You can find the Git repo here: <a href="https://github.com/cfjedimaster/vscode-csslint">https://github.com/cfjedimaster/vscode-csslint</a>.
 

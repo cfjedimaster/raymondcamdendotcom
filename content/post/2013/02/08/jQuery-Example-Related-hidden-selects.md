@@ -18,7 +18,7 @@ His data supported, at most, three levels of options. But not every option would
 
 Because of this restriction, I decided to simply build my code to support three levels total and not build some high level, super cool, infinite deep relation type doohicky. As it stands, if I were to see 4 or more related selects on a form I'd run away screaming.
 
-<img src="http://static.raymondcamden.com/images/tumblr_mgoqplvaqr1s373hwo1_500.gif" />
+<img src="https://static.raymondcamden.com/images/tumblr_mgoqplvaqr1s373hwo1_500.gif" />
 
 Let's then start off with the HTML portion of the code.
 
@@ -38,4 +38,4 @@ If a value was selected, an AJAX call is fired off. Typically this would be to a
 
 And that's pretty much it. Not rocket science, but maybe useful. You can play with the demo by clicking the ginormous button below. This was tested in Chrome, Firefox, and IE10.
 
-<a href="http://www.raymondcamden.com/demos/2013/feb/8/test.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2013/feb/8/test.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

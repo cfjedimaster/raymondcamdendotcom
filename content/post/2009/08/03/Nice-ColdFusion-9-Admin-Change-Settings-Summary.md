@@ -11,7 +11,7 @@
 
 Earlier today I twittered about the Settings Summary page of the ColdFusion Administrator. I'm working on a general ColdFusion Admin guide for a client (set this normally, turn that off normally, etc) and I mentioned how this tool is a handy way to quickly view all your settings at once. Ryan Hartwich replied that in ColdFusion 9, they added a new "Save as PDF" option:
 
-<img src="http://static.raymondcamden.com/images/Picture 178.png" />
+<img src="https://static.raymondcamden.com/images/Picture 178.png" />
 
 It works as expected, with one minor nit. It saves the file as settings.cfm, not settings.pdf. Most likely they simply wrapped the output in cfdocument and left it at that. One simple fix for that (in case folks are curious), is to place this right above the cfdocument: 
 

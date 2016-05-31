@@ -15,4 +15,4 @@ The material covers 15 chapters on topics ranging from ORM, security and even in
 
 To make it even sweeter - this is also 100% free!
 
-<img src="http://static.raymondcamden.com/images/logo_white.png" />
+<img src="https://static.raymondcamden.com/images/logo_white.png" />

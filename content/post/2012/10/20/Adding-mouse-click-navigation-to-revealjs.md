@@ -22,4 +22,4 @@ Finally, the actual event handler is somewhat trivial. You check which button wa
 
 That's it. Regular links still work fine, which is kind of cool. I'm not sure if I'll actually use this, but I thought it was a fun experiment. If you want to test this, hit up the demo below.
 
-<a href="http://www.raymondcamden.com/demos/2012/oct/20/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/oct/20/"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

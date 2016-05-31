@@ -67,7 +67,7 @@ Here's a quick look:
 
 <p>
  
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip (Custom).png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip (Custom).png" />
 
 <p>
 

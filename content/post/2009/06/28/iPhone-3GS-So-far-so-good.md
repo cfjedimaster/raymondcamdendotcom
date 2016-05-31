@@ -9,7 +9,7 @@
 	"guid": "3411"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi//iphone3gs1.jpg" align="left" style="margin-right:10px;margin-bottom:10px"> I wanted to give folks a quick update on my experience with the new iPhone 3GS. With the expensive (for some) upgrade price, I know people aren't sure if it is worth the upgrade. Here is what I've found so far. First though - note that I had a first generation iPhone. What seems really great for me may not be so great for folks already on a 3G phone.
+<img src="https://static.raymondcamden.com/images/cfjedi//iphone3gs1.jpg" align="left" style="margin-right:10px;margin-bottom:10px"> I wanted to give folks a quick update on my experience with the new iPhone 3GS. With the expensive (for some) upgrade price, I know people aren't sure if it is worth the upgrade. Here is what I've found so far. First though - note that I had a first generation iPhone. What seems really great for me may not be so great for folks already on a 3G phone.
 
 1) <b>Network Speed</b> I guess I shouldn't be too surprised, but, I had heard that 3G wasn't "too big" of a jump over Edge. Maybe it isn't, but it certainly feels a heck of a lot zippier. The main applications I use with a lot of network activity are Twitterific, Maps, and Safari. All of them run much faster now. I was particularly surprised by Maps. I had it tracking my car and it updated our position in real time. (I wasn't driving. :) I was also impressed by the directions. I hadn't used it before, but I can see using it a lot more now that I know how it works. 
 

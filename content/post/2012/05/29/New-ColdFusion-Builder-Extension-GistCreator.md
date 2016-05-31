@@ -16,17 +16,17 @@ Now that I've made the switch, I find myself making a heck of a lot of gists. I 
 
 <a href="http://gistcreator.riaforge.org/">GistCreator</a> works with both files and in the editor. To create a Gist out of a file, just right-click:
 
-<img src="http://static.raymondcamden.com/images/ScreenClip91.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip91.png" />
 
 Or - you can select text in the editor and create a Gist out of it:
 
-<img src="http://static.raymondcamden.com/images/ScreenClip92.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip92.png" />
 
 You can also just right click in a file, and if nothing is selected, the entire file is sent.
 
 Once done - the extension returns the URL:
 
-<img src="http://static.raymondcamden.com/images/ScreenClip93.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip93.png" />
 
 And that's it. Right now the extension only creates public Gists and doesn't allow you to name them, but it should work fine for now. Also, it is a bit brittle. If your authentication changes then the extension will not handle it well. As always, I'm open to folks checking it out and adding features. 
 

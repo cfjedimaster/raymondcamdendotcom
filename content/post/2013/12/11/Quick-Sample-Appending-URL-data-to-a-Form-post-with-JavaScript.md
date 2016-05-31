@@ -102,5 +102,5 @@ For simplicity sake, I went with the second option. You can see that I simply cr
 </p>
 
 <p>
-<a href="http://www.raymondcamden.com/demos/2013/dec/11/jqmincludeqs.html?ray=1&beer=good"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>   
+<a href="http://www.raymondcamden.com/demos/2013/dec/11/jqmincludeqs.html?ray=1&beer=good"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>   
 </p>

@@ -28,4 +28,4 @@ Interested in learning more about Creative Cloud? Want to see some awesome speak
 <li>New York - Upcoming - <a href="http://www.adobeeventsonline.com/CreateEvent/notify/?loc=ny" >Notify me</a></li>
 </ul>
 
-<img src="http://static.raymondcamden.com/images/adobe_photobanner2.jpg" />
+<img src="https://static.raymondcamden.com/images/adobe_photobanner2.jpg" />

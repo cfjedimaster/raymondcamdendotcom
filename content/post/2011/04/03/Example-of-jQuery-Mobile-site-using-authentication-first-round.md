@@ -197,4 +197,4 @@ So - how horrible is this? It seems to work ok.  You can try this yourself by ru
 <p>
 
 
-<a href="http://www.raymondcamden.com/demos/april32011/rev1/"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/april32011/rev1/"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

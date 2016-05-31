@@ -38,17 +38,17 @@ The first thing I thought I'd point out is that you don't need to use the CFaaS 
 
 This example begins by first uploading a PDF to the Upload CFC. This CFC provides support for uploading files to the CFaaS system. It stores it and returns a URL containing a dynamic link to your file. Here is the output of the first dump:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 266.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 266.png" />
 
 Now that we have a pointer to the file we can use it with the PDF service. In this case I run the extractImage method. The result is a list of image URLs for each and every image from the PDF:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 344.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 344.png" />
 
 Pretty simple, right? While I can't imagine why you would use ColdFusion to post to another ColdFusion server to use CFaaS, you could if you wanted to. Mainly I imagine this example being useful if translated to another language, like PHP. (Just take the number of lines of code above and multiple by 4.)
 
 For my second example, I did something a bit fancier. I used Aptana Studio to create a new HTML-based AIR application. This example makes use of the Image service and converts an image (specified by a URL) to grayscale:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 418.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 418.png" />
 
 Ok, not exactly rocket science, but not something you can easily do in HTML (as far as I know - I do know that CSS does some cool filtering so it may actually support this!). The code behind this is relatively simple:
 

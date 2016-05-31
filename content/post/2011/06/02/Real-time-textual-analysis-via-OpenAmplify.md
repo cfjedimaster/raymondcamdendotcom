@@ -103,4 +103,4 @@ I setup an online demo of this as well, but with my personal API key being used,
 <p>
 
 
-<a href="http://www.coldfusionjedi.com/demos/june12011/test3.html"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/june12011/test3.html"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

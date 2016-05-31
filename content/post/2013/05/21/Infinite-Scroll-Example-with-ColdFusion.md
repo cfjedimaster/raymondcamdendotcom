@@ -12,7 +12,7 @@
 
 A few weeks ago a reader asked if I had an example of infinite scroll with a ColdFusion back end. I replied that I did not, and that infinite scroll was the worst thing to happen to the Internet since the rainbow horizontal rule. 
 
-<img src="http://static.raymondcamden.com/images/lirainbw.gif" />
+<img src="https://static.raymondcamden.com/images/lirainbw.gif" />
 
 I'm possibly being a bit overly dramatic, but I'm <strong>really</strong> not a fan of it. Maybe it's the OCD in me, but the fact that I can never get to the end of an infinite scroll UI just bugs the hell out of me.
 

@@ -20,12 +20,12 @@ I edited my code to include a JavaScript file instead of directly embedding it. 
 
 Note the simple interval. I increment a variable and log it to the console. I opened up the HTML in Chrome and confirmed it was logging as expected. I then switched over to my Resources tab and edited the file directly in Chrome.
 
-<img src="http://static.raymondcamden.com/images/screenshot62.png" />
+<img src="https://static.raymondcamden.com/images/screenshot62.png" />
 
 Hit CTRL+S to save it and then switched back to my console.
 
 
-<img src="http://static.raymondcamden.com/images/screenshot63.png" />
+<img src="https://static.raymondcamden.com/images/screenshot63.png" />
 
 Easy - and cool. But note that this change did <b>not</b> persist to the file system. Unless you've read the docs or read it on a blog entry, you'll have no idea until you reload. You can save it to the file system if you do Save As instead. 
 

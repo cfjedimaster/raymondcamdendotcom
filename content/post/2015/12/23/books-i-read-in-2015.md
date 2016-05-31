@@ -15,4 +15,4 @@ Yep, another lame, non-tech post. Sorry (not sorry). Today's post is my list of 
 
 I'm rather proud of the number of books I read - and even happier that there were so few stinkers. 
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/books.jpg" alt="books" width="654" height="3638" class="aligncenter size-full wp-image-7320" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/books.jpg" alt="books" width="654" height="3638" class="aligncenter size-full wp-image-7320" />

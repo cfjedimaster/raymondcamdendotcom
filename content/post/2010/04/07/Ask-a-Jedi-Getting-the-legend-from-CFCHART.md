@@ -53,7 +53,7 @@ Which renders this fairly typical chart:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-04-07 at 8.12.19 AM.png" title="Chart One" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-04-07 at 8.12.19 AM.png" title="Chart One" />
 
 <p>
 
@@ -80,7 +80,7 @@ Obviously the legend is a work in progress, but as you can see I've got my chart
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-07 at 8.17.27 AM.png" title="Oh crap, it broke!" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-07 at 8.17.27 AM.png" title="Oh crap, it broke!" />
 
 <p>
 
@@ -164,7 +164,7 @@ And here is the final result, starting with the chart:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-07 at 8.25.17 AM.png" title="The Chart" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-07 at 8.25.17 AM.png" title="The Chart" />
 
 <p>
 
@@ -172,7 +172,7 @@ And now the legend:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-07 at 8.25.23 AM.png" title="The Legend" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-07 at 8.25.23 AM.png" title="The Legend" />
 
 <p>
 

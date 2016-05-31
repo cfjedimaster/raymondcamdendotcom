@@ -109,7 +109,7 @@ So, because of the limits Behance puts on API calls, I decided <i>not</i> to put
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_10_16_13_6_10_AM.jpg" />
+<img src="https://static.raymondcamden.com/images/Screenshot_10_16_13_6_10_AM.jpg" />
 </p>
 
 <p>

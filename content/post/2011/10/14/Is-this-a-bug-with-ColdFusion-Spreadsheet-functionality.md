@@ -35,7 +35,7 @@ Which gives you:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip202.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip202.png" />
 
 <p/>
 

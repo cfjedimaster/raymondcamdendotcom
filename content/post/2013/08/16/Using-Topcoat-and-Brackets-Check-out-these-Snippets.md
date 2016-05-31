@@ -17,7 +17,7 @@ In that vein, today I whipped up a set of data files for <a href="http://topcoat
 
 Here's a screenshot. Note - I don't usually keep the Snippets panel quite this large. 
 
-<img src="http://static.raymondcamden.com/images/tcb.png" />
+<img src="https://static.raymondcamden.com/images/tcb.png" />
 
 Hopefully that's readable. I don't typically use the keyboard shortcuts so I didn't really spend a lot of time thinking about them. You can find the bits up on GitHub: <a href="https://github.com/topcoat/topcoat-brackets-extension">https://github.com/topcoat/topcoat-brackets-extension</a>. Any suggestions, or pull requests, are definitely welcome.
 

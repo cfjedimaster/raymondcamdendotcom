@@ -26,7 +26,7 @@ The other cool feature is support for console logs in terminal. Now - I typicall
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/a1.png" />
+<img src="https://static.raymondcamden.com/images/a1.png" />
 </p>
 
 <p>

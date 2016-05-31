@@ -170,4 +170,4 @@ And you can play with it here:
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/may52011/test.html"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/may52011/test.html"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

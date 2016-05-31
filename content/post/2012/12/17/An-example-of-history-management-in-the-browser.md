@@ -62,4 +62,4 @@ Make sense? Here's the complete new version. It isn't that much different from t
 
 I tested this in Chrome and Firefox and it seems to work reasonably well. Check it out below. 
 
-<a href="http://www.raymondcamden.com/demos/2012/dec/17/newnewskool/index.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/dec/17/newnewskool/index.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

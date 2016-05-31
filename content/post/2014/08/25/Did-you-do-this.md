@@ -15,5 +15,5 @@ One day I'll share photos of my Star Wars collection. It hasn't quite hit Hoarde
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/14 - 1.jpg" />
+<img src="https://static.raymondcamden.com/images/14 - 1.jpg" />
 </p>

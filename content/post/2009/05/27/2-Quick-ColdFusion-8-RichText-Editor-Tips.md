@@ -22,7 +22,7 @@ Sorry for the sidetrack there. So - the tips. It just so happened that the reade
 
 As long as blacksmokemonster is defined in the config file, it should work, right? When I first tested, I got this instead:
 
-<img src="http://static.raymondcamden.com/images//Picture 327.png">
+<img src="https://static.raymondcamden.com/images//Picture 327.png">
 
 Turns out the issue is just caching. Now you may think - why would caching be involved? I bet that - like me - you have browser setup to not cache anything, right? Well even with that, there are cases where the browser still seems to cache. In my inspection of the 'flow' involved in loading the editor, it appears as if JavaScript is used to load HTML that includes code then to load the config JavaScript file. In all those requests it seems like the config file gets cached. I cleared my cache using the <a href="https://addons.mozilla.org/en-US/firefox/addon/60">Web Developer</a> toolbar and the problem went away. What's odd is that after the initial cache clear, I was able to edit my toolbar multiple times and see it reflected without clearing my cache. 
 

@@ -161,7 +161,7 @@ module.exports = function(app) {
 
 Pretty simple, and it works nicely.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot1-1.png" alt="shot1" width="550" height="385" class="aligncenter size-full wp-image-7367" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2016/01/shot1-1.png" alt="shot1" width="550" height="385" class="aligncenter size-full wp-image-7367" />
 
 <h2>But Wait - There's More!</h2>
 

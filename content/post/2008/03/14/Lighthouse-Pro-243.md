@@ -9,7 +9,7 @@
 	"guid": "2709"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/lighthouse_header.png" align="left" style="margin-right: 10px;margin-bottom:10px"> I'm happy to announce the release of <a href="http://lighthousepro.riaforge.org">LighthousePro 2.4.3</a>. For those who may not know what Lighthouse is, it is an open source bug tracker. This version includes:
+<img src="https://static.raymondcamden.com/images/cfjedi/lighthouse_header.png" align="left" style="margin-right: 10px;margin-bottom:10px"> I'm happy to announce the release of <a href="http://lighthousepro.riaforge.org">LighthousePro 2.4.3</a>. For those who may not know what Lighthouse is, it is an open source bug tracker. This version includes:
 
 <ul>
 <li>New logo, provided by Ron Stewart and Marco Olson. A favicon.ico is also provided. I had mentioned a redesign a few weeks back - this is not it. The only design change here is the logo.

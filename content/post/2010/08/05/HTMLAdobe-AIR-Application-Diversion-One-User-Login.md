@@ -161,12 +161,12 @@ Finally - I've got a simple handler for the random number generator. On click I 
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/capture11.PNG" />
+<img src="https://static.raymondcamden.com/images/capture11.PNG" />
 
 <p>
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/capture21.PNG" />
+<img src="https://static.raymondcamden.com/images/cfjedi/capture21.PNG" />
 
 <p>
 
@@ -191,7 +191,7 @@ Right now the handler is a bit dumb. It assumes <i>any</i> error is an authoriza
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/capture31.PNG" />
+<img src="https://static.raymondcamden.com/images/cfjedi/capture31.PNG" />
 
 <p>
 

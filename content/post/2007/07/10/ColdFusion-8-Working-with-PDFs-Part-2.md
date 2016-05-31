@@ -37,7 +37,7 @@ Lets start off with a simple example of reading a PDF. Consider the following ex
 
 I begin by checking to see if a file is a proper PDF. If it is, I then use the CFPDF tag to read the PDF into a variable named mypdf. At that point I can dump the PDF and see information about it. By the way, the same trick (reading and dumping) works for images as well.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/pdf1.png" align="left">
+<img src="https://static.raymondcamden.com/images/cfjedi/pdf1.png" align="left">
 
 I've displayed the dump to the left, and you can see it reveals quite a bit of information about my PDF. The PDF I had used was one made from scratch using CFDOCUMENT, so somethings like Author and Keywoard are blank. But it did pick up the page size and security settings. It is too bad that CFDOCUMENT doesn't easily allow us to set the metadata, but guess what? We can use the CFPDF tag to correct that!
 

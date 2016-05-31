@@ -33,4 +33,4 @@ On the software side, you need Eclipse and related tools (free) for Android and 
 This is just a high level list (and it doesn't talk about the various charges you to get to pay to publish your applications), but hopefully it gives you a basic idea.
 
 
-<img src="http://static.raymondcamden.com/images/old_mobile_phone.jpg" />
+<img src="https://static.raymondcamden.com/images/old_mobile_phone.jpg" />

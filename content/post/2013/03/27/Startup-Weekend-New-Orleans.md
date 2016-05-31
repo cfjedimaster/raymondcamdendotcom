@@ -23,4 +23,4 @@ Beginning with open mic pitches on Friday, attendees bring their best ideas and 
 
 Unfortunately I'll not be able to make it (celebrating my 40th birthday during that weekend - yes the whole weekend), but it sounds like a great event.
 
-<img src="http://static.raymondcamden.com/images/startupwkndad.png"  />
+<img src="https://static.raymondcamden.com/images/startupwkndad.png"  />

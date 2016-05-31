@@ -54,7 +54,7 @@ Once we have a structure, we can then just search it:
 
 Match will contain all the possible matches where the value is name.
 
-<img src="http://static.raymondcamden.com/images//Picture 12.png">
+<img src="https://static.raymondcamden.com/images//Picture 12.png">
 
 There is one problem though. This function will find <b>all</b> (or one) match based on the value. David wanted to search just names. If you look at the result above though you will see that it does contain the key. All in all though - David's original solution is quicker and probably even simpler, if you know the exact path where you want to search. (Although I wouldn't use structFind. See <a href="http://www.coldfusionjedi.com/index.cfm/2007/9/20/A-use-for-structFind">this post</a> for a discussion why.)
 

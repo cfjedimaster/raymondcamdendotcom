@@ -37,7 +37,7 @@ And finally last month:
 
 This data then can easily be dumped into a chart:
 
-<img src="http://static.raymondcamden.com/images/fbstats.png">
+<img src="https://static.raymondcamden.com/images/fbstats.png">
 
 Here is a live <a href="http://www.coldfusionjedi.com/demos/fbdemo/test.cfm">demo</a>.
 

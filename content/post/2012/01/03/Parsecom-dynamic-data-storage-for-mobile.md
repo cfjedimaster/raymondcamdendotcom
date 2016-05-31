@@ -52,7 +52,7 @@ Four - they have a nice web based data browser. This allows you to do some basic
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip7.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip7.png" />
 
 <p>
 
@@ -262,7 +262,7 @@ Here's a quick screen shot:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/device-2012-01-03-132751.png" />
+<img src="https://static.raymondcamden.com/images/device-2012-01-03-132751.png" />
 
 <p>
 

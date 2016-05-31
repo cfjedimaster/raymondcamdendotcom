@@ -18,7 +18,7 @@ As with my last post, I'll warn folks that I'm still learning about <a href="htt
 
 <!--more-->
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/MobileFirst-Logo.jpg"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/MobileFirst-Logo.jpg" alt="MobileFirst-Logo" width="500" height="260" class="alignnone size-full wp-image-5672" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/MobileFirst-Logo.jpg"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/MobileFirst-Logo.jpg" alt="MobileFirst-Logo" width="500" height="260" class="alignnone size-full wp-image-5672" /></a>
 
 MobileFirst is a collection of products that offer features and support for mobile developers. This support covers the full range of mobile development, from native to hybrid (my main area of concern). These features/support include:
 
@@ -40,11 +40,11 @@ A full look at installation, usage, etc. for MobileFirst is outside the scope of
 
 Given you've got stuff downloaded and installed, you can fire up a new server and hybrid application quickly:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/mfp1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/mfp1.png" alt="mfp1" width="800" height="191" class="alignnone size-full wp-image-5690" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/mfp1.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/mfp1.png" alt="mfp1" width="800" height="191" class="alignnone size-full wp-image-5690" /></a>
 
 In the above screen shot, I create a new MobileFirst server, added a hybrid application, and then enabled support for iPhone and Android. Now let's take a look at the directory structure.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/mf2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/mf2.png" alt="mf2" width="600" height="535" class="alignnone size-full wp-image-5675" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/mf2.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/mf2.png" alt="mf2" width="600" height="535" class="alignnone size-full wp-image-5675" /></a>
 
 The folder we care about is the common folder. This is where your HTML, CSS, and JavaScript exists and represents what you'll spend most of your time editing. Right now we've got a basic application, essentially the MobileFirst version of the Cordova skeleton.
 
@@ -54,21 +54,21 @@ So given that you now have a folder of web assets, how do we actually <i>test</i
 
 One of the first things you want to do is start the server you created and then open up the console. That's done with <code>mfp start</code> and <code>mfp console</code>. 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/mf3.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/mf3.png" alt="mf3" width="800" height="556" class="alignnone size-full wp-image-5676" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/mf3.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/mf3.png" alt="mf3" width="800" height="556" class="alignnone size-full wp-image-5676" /></a>
 
 The console gives you a variety of options, but the one we care most about is the preview. Clicking the eye icon next to a platform opens up a preview tab. 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/mf4.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/mf4.png" alt="mf4" width="800" height="412" class="alignnone size-full wp-image-5677" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/mf4.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/mf4.png" alt="mf4" width="800" height="412" class="alignnone size-full wp-image-5677" /></a>
 
 What you've got here is essentially a web browser view of the mobile app with tools to simulate various different events and plugins. Yep, this is much like the Ripple tool. I'm going to talk about this a bit deeper in another post, but for now, let's focus on the editing process. Whenever I edit my common resources, I need to tell MobileFirst about it. This is typically done with two commands: <code>mfp build</code> and <code>mfp deploy</code>, but you can combine these into one nice call: <code>mfp bd</code>. As you can imagine, you could further automate this with a Grunt file watcher to make it automatic.
 
 What about working with the native device, or simulator? Within the app folder, and next to the common folder, is one folder for each native platform you added via <code>mfp add environment</code>. For now, let's consider the iPhone folder:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/mf5.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/mf5.png" alt="mf5" width="600" height="599" class="alignnone size-full wp-image-5678" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/mf5.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/mf5.png" alt="mf5" width="600" height="599" class="alignnone size-full wp-image-5678" /></a>
 
 Within it is an XCode project. If you double click to open it, you can then send the project to the simulator (or a device).
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/mf6.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/mf6.png" alt="mf6" width="800" height="574" class="alignnone size-full wp-image-5679" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/mf6.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/mf6.png" alt="mf6" width="800" height="574" class="alignnone size-full wp-image-5679" /></a>
 
 So in my testing, my process so far has been: Edit in Brackets, do <code>mfp bd</code>, then simply click the Build/Run button in XCode. You don't have to reopen or refresh the project at all, the command line takes care of that.
 

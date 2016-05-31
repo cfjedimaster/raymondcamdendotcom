@@ -17,20 +17,20 @@ Then I got to the part where they talked about Klout Perks. Apparently, Klout wo
 
 The perk finally came in this week while I was out of town. The package included an envelope:
 
-<img src="http://static.raymondcamden.com/images/1.jpg" />
+<img src="https://static.raymondcamden.com/images/1.jpg" />
 
 With a nicely flattering form letter (ask my friends - I'm all for having my ego flattered):
 
-<img src="http://static.raymondcamden.com/images/2.jpg" />
+<img src="https://static.raymondcamden.com/images/2.jpg" />
 
 Here is the back with the code of ethics:
 
-<img src="http://static.raymondcamden.com/images/3.jpg" />
+<img src="https://static.raymondcamden.com/images/3.jpg" />
 
 Here was the actual wine-related gift:
 
-<img src="http://static.raymondcamden.com/images/4.jpg" />
+<img src="https://static.raymondcamden.com/images/4.jpg" />
 
-<img src="http://static.raymondcamden.com/images/5.jpg" />
+<img src="https://static.raymondcamden.com/images/5.jpg" />
 
 That's an opener, decanter, what my wife thinks is an aerator(sp?), and a ring that neither of us could figure out. All the items (and the box) are really well done. So overall, not bad for a freebie.

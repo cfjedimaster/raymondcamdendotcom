@@ -113,4 +113,4 @@ You can see that version at the demo link below. Anyway - that's it. I'd love fo
 
 <p/>
 
-<a href="http://www.coldfusionjedi.com/demos/oct62010/test3.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/oct62010/test3.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

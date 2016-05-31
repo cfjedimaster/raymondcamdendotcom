@@ -19,11 +19,11 @@ To be fair, this may not be <i>very</i> new, I've been working with an alpha ver
 
 The State feature lets you quickly save and restore plugins and platforms for an Ionic project. By default, when you add a platform or a plugin, Ionic will store this information in the package.json file. Here is an example of adding a platform:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/ionic1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/ionic1.png" alt="ionic1" width="750" height="319" class="alignnone size-full wp-image-6032" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/ionic1.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/ionic1.png" alt="ionic1" width="750" height="319" class="alignnone size-full wp-image-6032" /></a>
 
 (And as an aside - did you notice it added icons and splashscreens? Freaking awesome.) And here is adding a new plugin:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/ionic21.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/ionic21.png" alt="ionic2" width="750" height="189" class="alignnone size-full wp-image-6034" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/ionic21.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/ionic21.png" alt="ionic2" width="750" height="189" class="alignnone size-full wp-image-6034" /></a>
 
 When done, here is how package.json is updated:
 

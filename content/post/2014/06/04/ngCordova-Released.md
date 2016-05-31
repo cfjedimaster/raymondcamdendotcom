@@ -16,7 +16,7 @@ So I know (think?) there is a significant portion of my audience who do not use 
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/ngCordova.png" style="float:left;margin-right:10px;margin-bottom:10px" />
+<img src="https://static.raymondcamden.com/images/ngCordova.png" style="float:left;margin-right:10px;margin-bottom:10px" />
 </p>
 
 <p>

@@ -123,7 +123,7 @@ The last thing was to edit the view:
 
 Wow, that was a lot of typing. Hopefully you get what I did. Basically, defined my beans in ColdSpring, wrote some dummy logic for them, then had Model-Glue actually make a call to them for my event so I could see, in the browser, the query. Just to prove I'm not crazy, here is the result:
 
-<img src="http://static.raymondcamden.com/images/Picture 119.png">
+<img src="https://static.raymondcamden.com/images/Picture 119.png">
 
 Alright. My next stop was the <a href="http://www.coldspringframework.org/docs/">ColdSpring docs</a>. From that, it seemed like exposing my beans as remote proxies came down to two basic steps:
 

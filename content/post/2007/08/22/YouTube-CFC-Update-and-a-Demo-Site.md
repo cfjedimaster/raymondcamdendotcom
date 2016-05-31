@@ -15,4 +15,4 @@ The new version now includes a utility function to return a query of valid categ
 
 I built a quick <a href="http://www.raymondcamden.com/demos/yt/">little demo</a> site using ColdFusion 8 Ajax goodness and the CFC. Enjoy.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ytb.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/ytb.png">

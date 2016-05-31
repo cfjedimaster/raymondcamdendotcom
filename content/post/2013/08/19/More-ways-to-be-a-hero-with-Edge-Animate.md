@@ -15,4 +15,4 @@ I've been enjoying playing with Edge Animate. Not that I can make anything prett
 
 This weekend I got an email from Rob Boerman. He has a site called <a href="http://www.edgehero.com/">Edge Hero</a> that you might want to check out. He has a library of useful interactions/widgets you can add to your project. 
 
-<img src="http://static.raymondcamden.com/images/logo_edgehero.png" />
+<img src="https://static.raymondcamden.com/images/logo_edgehero.png" />

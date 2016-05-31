@@ -118,7 +118,7 @@ Basically, all we have here is a touch handler for the button that fires off a c
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Jul 23, 2014, 8.42.12 AM.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot Jul 23, 2014, 8.42.12 AM.png" />
 </p>
 
 <p>
@@ -126,7 +126,7 @@ Note how the popover is anchored to my image DOM element. Note too how it is pos
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Jul 23, 2014, 8.43.58 AM.png" class="bthumb" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot Jul 23, 2014, 8.43.58 AM.png" class="bthumb" />
 </p>
 
 <p>

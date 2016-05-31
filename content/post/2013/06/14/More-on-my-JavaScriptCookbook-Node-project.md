@@ -42,7 +42,7 @@ Yeah, <a href="http://www.disqus.com">Disqus</a>. Done.
 
 I love <a href="https://www.appfog.com/">AppFog</a>. How much do I love AppFog? AppFog is this:
 
-<img src="http://static.raymondcamden.com/images/bobapony1.jpg" />
+<img src="https://static.raymondcamden.com/images/bobapony1.jpg" />
 
 Let me describe what their process was like for me. 
 

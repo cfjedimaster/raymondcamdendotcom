@@ -9,7 +9,7 @@
 	"guid": "3802"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> Welcome to the first entry in the ColdFusion Builder Contest. We didn't get a lot of entries for this contest, but every entry is <b>really</b> darn cool, so I'm very excited to be able to share the first of the entries with you today. Our first entry is <b>Squeezer</b> and comes to us from Guust Nieuwenhuis. 
+<img src="https://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> Welcome to the first entry in the ColdFusion Builder Contest. We didn't get a lot of entries for this contest, but every entry is <b>really</b> darn cool, so I'm very excited to be able to share the first of the entries with you today. Our first entry is <b>Squeezer</b> and comes to us from Guust Nieuwenhuis. 
 <br clear="left" />
 
 <p>
@@ -18,7 +18,7 @@ Squeezer is an extension that provides support for optimization/compression/mini
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-05-04 at 9.28.57 AM.png" title="Install Screen" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-05-04 at 9.28.57 AM.png" title="Install Screen" />
 
 <p>
 
@@ -30,7 +30,7 @@ Once installed, you have the option of running Google's <a href="http://code.goo
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-05-04 at 9.36.04 AM.png" title="Yahoo Compressor" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-05-04 at 9.36.04 AM.png" title="Yahoo Compressor" />
 
 <p>
 

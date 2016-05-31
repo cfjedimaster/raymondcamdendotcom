@@ -16,7 +16,7 @@ I'm not sure if this is new behavior, but if it isn't, I haven't run into this t
 
 <!--more-->
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/Simulator-Screen-Shot-Nov-9-2015-10.46.48-AM.png" alt="Simulator Screen Shot Nov 9, 2015, 10.46.48 AM" width="700" height="394" class="aligncenter size-full wp-image-7077" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/11/Simulator-Screen-Shot-Nov-9-2015-10.46.48-AM.png" alt="Simulator Screen Shot Nov 9, 2015, 10.46.48 AM" width="700" height="394" class="aligncenter size-full wp-image-7077" />
 
 I knew that Cordova supports a preference to lock orientation, and I checked my config.xml to ensure there wasn't a "lock" there. Turns out, I was half-wrong. 
 

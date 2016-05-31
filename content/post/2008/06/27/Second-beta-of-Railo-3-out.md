@@ -25,7 +25,7 @@ function doit(y) {
 
 As you can see, I have an unscoped X variable. When I dump the Variables scope, I see doit and X. However, I can now jump into the Railo Admin...
 
-<img src="http://static.raymondcamden.com/images//Picture 113.png">
+<img src="https://static.raymondcamden.com/images//Picture 113.png">
 
 when I change the setting to "Always" as you see in the screen shot, now the x variable is automatically placed in the var scope instead.
 

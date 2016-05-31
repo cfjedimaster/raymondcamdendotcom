@@ -13,4 +13,4 @@ In San Francisco, or fancy a trip to the bay next month? Adobe is hosting the se
 
 Register with promo code 'adobe' to get $100 off Early bird price of $300.
 
-<img src="http://static.raymondcamden.com/images/1358379790.png" />
+<img src="https://static.raymondcamden.com/images/1358379790.png" />

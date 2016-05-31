@@ -17,7 +17,7 @@ Let's consider a simple example, a client-side application. If you watch the vid
 
 Turns out it was under the File menu, and already enabled:
 
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-08-28 at 11.24.44 AM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-08-28 at 11.24.44 AM.png" />
 
 So given a simple HTML page (and yes, Theseus will work with JavaScript embedded in an HTML page, which is nice!), you can click the Live Development icon and you should be good to go.
 
@@ -27,7 +27,7 @@ Consider the following code. It is a simple example of the HTML5 Datalist contro
 
 After connecting Brackets to my browser and typing a bit, I can immediately see Theseus working!
 
-<img src="http://static.raymondcamden.com/images/Screenshot_8_28_13_11_28_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_8_28_13_11_28_AM.png" />
 
 But look... it's broken. It reported document.ready. It reported the input calls. But my Ajax calls are not firing. WTF. Stupid open source software. 
 
@@ -37,7 +37,7 @@ Then it occurred to me... wait... is this Ajax event firing right? Turns out my 
 
 And now check it...
 
-<img src="http://static.raymondcamden.com/images/Screenshot_8_28_13_11_31_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_8_28_13_11_31_AM.png" />
 
 So, my next issue was how to use this with Node. While documented at the Theseus GitHub page, if you just read the Bracket's blog you may miss this. You need to install node-theseus via NPM and then run your application at the command line with node-theseus. You then may run into this bug:
 
@@ -67,6 +67,6 @@ app.get('/data', routes.data);<br/>
 
 I noticed Theseus didn't note this. Turns out - it was noting it in routes.index.js, which kind of makes sense. That's where the actual code here. Here is a screen shot from that file:
 
-<img src="http://static.raymondcamden.com/images/Screenshot_8_28_13_11_39_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_8_28_13_11_39_AM.png" />
 
 There you go. All in all pretty darn fascinating. I definitely recommend checking it out, and if you have trouble like I did, use the <a href="https://groups.google.com/forum/#!forum/theseus-discuss">Theseus Discuss</a> Google Group for help.

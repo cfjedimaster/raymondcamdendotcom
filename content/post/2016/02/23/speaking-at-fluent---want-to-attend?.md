@@ -17,7 +17,7 @@ I'd pay to attend if I wasn't speaking.
 So - how about you - do you want to attend? I've got two options for you. Don't tell anyone else though - this is between
 just you and I...
 
-![A Secret](http://static.raymondcamden.com/images/2016/02/catsecret.jpg)
+![A Secret](https://static.raymondcamden.com/images/2016/02/catsecret.jpg)
 
 First - I have a discount code for 20% off the main ticket price. That secret code is `CAMDEN20`.
 

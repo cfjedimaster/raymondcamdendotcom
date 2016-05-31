@@ -13,7 +13,7 @@ Last night I <a href="http://www.raymondcamden.com/index.cfm/2009/4/2/Two-quicki
 <!--more-->
 If you expand the Elements attribute in the editor, then Series, you can edit the Marker attribute. This is a per series setting so you want to add an index value in the blank field and click Add before modifying the settings. The index value must be a number. I used 0 as I assumed that it would match the 1st series in my chart:
  <p/>
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 229.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 229.png">
  <p/>
 
 I selected Bitmap and picked an image. The XML generated from this change is:
@@ -68,4 +68,4 @@ And the result? <b>The most beautiful chart in the world.</b>
  <p/>
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 321.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 321.png">

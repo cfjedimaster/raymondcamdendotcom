@@ -20,7 +20,7 @@ I then spoke with <a href="http://blog.kevinhoyt.org/">Kevin Hoyt</a>, one of th
 To make things even nicer, Kevin also wrote up a quick demo. I'll go through some of the code and you can download the complete application at the bottom. Note that he wrote this <i>very</i> quickly, so it's not perfect, but it definitely works.
 <p>
 
-<img src="http://static.raymondcamden.com/images/Capture13.PNG" title="No, I will not Chat Roulette with you." />
+<img src="https://static.raymondcamden.com/images/Capture13.PNG" title="No, I will not Chat Roulette with you." />
 
 <p>
 

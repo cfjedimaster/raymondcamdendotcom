@@ -18,7 +18,7 @@ After switching to <a href="http://prismjs.com/">PrismJS</a> I realized that I n
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot.jpg" />
+<img src="https://static.raymondcamden.com/images/shot.jpg" />
 </p>
 
 <p>

@@ -106,4 +106,4 @@ Hope this is helpful to folks. If you want to run this, hit the demo link below 
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/2012/feb/16/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/feb/16/"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

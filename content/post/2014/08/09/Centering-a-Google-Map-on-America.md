@@ -64,7 +64,7 @@ This gives you:
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s13.jpg" />
+<img src="https://static.raymondcamden.com/images/s13.jpg" />
 </p>
 
 <p>
@@ -108,7 +108,7 @@ And the result:
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s23.jpg" />
+<img src="https://static.raymondcamden.com/images/s23.jpg" />
 </p>
 
 <p>

@@ -67,29 +67,29 @@ $scope.customLogin = function() {
 
 At this point, what you see is based on what button you click. Here is what Facebook login looks like. Notice that I've previously logged in. It is just asking me for my password at this point. Oddly - I don't see a way to change that, and in fact, I could click on the top bar there to browse my Facebook account. That could be a problem. It may be outside of Ionic's control, but I'm going to file a bug report for it right now.
 
-![FB login](http://static.raymondcamden.com/images/2016/03/ionicshot1.png)
+![FB login](https://static.raymondcamden.com/images/2016/03/ionicshot1.png)
 
 On the other hand, Twitter did not seem to cache anything, which is good.
 
-<img src="http://static.raymondcamden.com/images/2016/03/ionicshot2.png" class="imgborder" alt="Twitter Login">
+<img src="https://static.raymondcamden.com/images/2016/03/ionicshot2.png" class="imgborder" alt="Twitter Login">
 
 Notice that it is telling you that the app has write access to the account. If you are *only* using Twitter for login, you will want to go into your app settings and change it to read only. I *just* did that, and it was reflected right away.
 
-<img src="http://static.raymondcamden.com/images/2016/03/ionicshot3.png" class="imgborder" alt="Twitter Login 2">
+<img src="https://static.raymondcamden.com/images/2016/03/ionicshot3.png" class="imgborder" alt="Twitter Login 2">
 
 You may be wondering, what happens if you just click "Done" in the bottom of the UI? Nothing. Neither the error nor success handler is run. It basically acts as a 'cancel' for login. Here's where things get interesting. What if you actually hit Cancel in Twitter's UI? First you get this:
 
-<img src="http://static.raymondcamden.com/images/2016/03/ionicshot4.png" class="imgborder" alt="Twitter Login 3">
+<img src="https://static.raymondcamden.com/images/2016/03/ionicshot4.png" class="imgborder" alt="Twitter Login 3">
 
 If you then do, "Return to ionicUser" (that's the name of my app, so I could have picked something nicer), you get this:
 
-<img src="http://static.raymondcamden.com/images/2016/03/ionicshot5.png" class="imgborder" alt="Twitter Login 4">
+<img src="https://static.raymondcamden.com/images/2016/03/ionicshot5.png" class="imgborder" alt="Twitter Login 4">
 
 That's not very nice, but again, I'm not sure what you can do about it. (But to be safe, I logged a bug for that as well.)
 
 Ok, so assuming you login correctly, at the point everything is kosher. Unfortunately, you don't get any information about the user. I expected basic profile data, like their name, or email address, but all you get is a user id. Here is an example after I've logged into Facebook:
 
-<img src="http://static.raymondcamden.com/images/2016/03/ionicshot6.jpg" class="imgborder" alt="FB Login">
+<img src="https://static.raymondcamden.com/images/2016/03/ionicshot6.jpg" class="imgborder" alt="FB Login">
 
 I apologize for the slightly ugly display there. Notice that my Facebook ID was returned correctly, but nothing else. (I haven't filed a bug report for this yet as I'm waiting on confirmation that we should get something.) In theory, I could then make use of the Facebook Graph API to get information, but I don't have access to the access token that Ionic used to authenticate. That means - afaik - I'd have to prompt again for the user authentication which wouldn't be nice. The same issue applies to Twitter and I assume the rest of the social login providers.
 
@@ -107,13 +107,13 @@ $scope.details = function() {
 
 The object, `user.details`, is *just* the metadata that Ionic sets. Anything you do custom must be fetched using `get`. Here is an example of it running:
 
-<img src="http://static.raymondcamden.com/images/2016/03/ionicshot7.jpg" class="imgborder" alt="User Details">
+<img src="https://static.raymondcamden.com/images/2016/03/ionicshot7.jpg" class="imgborder" alt="User Details">
 
 You can store simple values and arrays, and they even support [custom types](http://docs.ionic.io/docs/user-usage#data-types) if you want to get fancy. 
 
 As an FYI, user data is stored in LocalStorage on the device. This enables you to know about the user even when you are logged out. 
 
-<img src="http://static.raymondcamden.com/images/2016/03/ionicshot8.jpg" class="imgborder" alt="User Details">
+<img src="https://static.raymondcamden.com/images/2016/03/ionicshot8.jpg" class="imgborder" alt="User Details">
 
 Logout
 ---
@@ -177,7 +177,7 @@ Password Reset
 
 Yes, this just works too. If you try to password reset on a social-network authenticated user, you get an error. I expected that, but the error isn't clear. (I logged a bug report for that.) If you use it for a 'basic' login, it works as expected:
 
-<img src="http://static.raymondcamden.com/images/2016/03/ionicshot9.jpg" class="imgborder" alt="Password Reset">
+<img src="https://static.raymondcamden.com/images/2016/03/ionicshot9.jpg" class="imgborder" alt="Password Reset">
 
 Currently you can't change the email. I filed a bug report suggesting that we should be able to change the from name, the from address, the subject, and the email text (as well as providing both plain and HTMl versions). As I noted in my bug report, this should probably be a premium feature.
 
@@ -186,13 +186,13 @@ The API
 
 The last thing I tested was the API. This was something I've been complaining to the Ionic folks about for months, so I was happy to see it fully released. Again, it works as [documented](http://docs.ionic.io/docs/api-getting-started). One thing I noticed though. On the documentation page specifically for [users](http://docs.ionic.io/docs/api-users), they don't tell you that getting all users is supported. This is strongly implied in the [conventions](http://docs.ionic.io/docs/api-conventions) docs, but I believe it should be explictely called out in the list of available methods. (Yep, I filed a bug for it.) I tested in Postman and it works great:
 
-<img src="http://static.raymondcamden.com/images/2016/03/ionicshot10.jpg" class="imgborder" alt="All Users">
+<img src="https://static.raymondcamden.com/images/2016/03/ionicshot10.jpg" class="imgborder" alt="All Users">
 
 Notice that users created with the 'basic' style are marked as 'ionic' users while the Social-created ones have their social network specified.
 
 As a quick aside, the Ionic App's site lets you browser users as well. 
 
-<img src="http://static.raymondcamden.com/images/2016/03/ionicshot11.jpg" class="imgborder" alt="All Users on App Site">
+<img src="https://static.raymondcamden.com/images/2016/03/ionicshot11.jpg" class="imgborder" alt="All Users on App Site">
 
 
 Be aware that there is a caching issue there. I updated a user and then clicked to view their details and my new data wasn't there. Reloading the page updated the data.

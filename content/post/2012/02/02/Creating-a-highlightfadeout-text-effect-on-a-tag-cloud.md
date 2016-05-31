@@ -70,4 +70,4 @@ You can see a demo of this yourself by clicking the big demo button below. Note 
 <p>
 
 
-<a href="http://www.raymondcamden.com/demos/2012/feb/2/cfbtagcloud.htm"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/feb/2/cfbtagcloud.htm"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

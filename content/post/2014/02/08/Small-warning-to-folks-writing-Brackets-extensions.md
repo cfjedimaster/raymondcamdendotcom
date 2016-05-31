@@ -18,7 +18,7 @@ I have an extension I built that does CSS linting. In the most recent Brackets u
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/sho1.png" />
+<img src="https://static.raymondcamden.com/images/sho1.png" />
 </p>
 
 <p>
@@ -26,7 +26,7 @@ But something odd happened. When I clicked install, I got this:
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot25.png" />
+<img src="https://static.raymondcamden.com/images/shot25.png" />
 </p>
 
 <p>
@@ -42,7 +42,7 @@ Peter Flynn (from the Brackets team) has already suggested that the error could 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot33.png" />
+<img src="https://static.raymondcamden.com/images/shot33.png" />
 </p>
 
 <p>

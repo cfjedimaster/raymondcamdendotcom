@@ -31,7 +31,7 @@ I begin with my source image that is read into a proper image variable. I create
 
 Here is the result - and forgive me - I'm feeling lazy. I resized it for the web page via HTML. If you click you will see the full image in all its glory.
 
-<a href="http://www.raymondcamden.com/images/sep4.png"><img src="http://static.raymondcamden.com/images/cfjedi/sep4.png" border="0" width="400" height="400" /></a>
+<a href="http://www.raymondcamden.com/images/sep4.png"><img src="https://static.raymondcamden.com/images/cfjedi/sep4.png" border="0" width="400" height="400" /></a>
 
 It works, but what if we want to center the image in the canvas? We just need to add a bit of math.
 
@@ -57,7 +57,7 @@ It works, but what if we want to center the image in the canvas? We just need to
 
 Woot. I'm so happy I took all those calculus classes in college. The result is now centered:
 
-<a href="http://www.coldfusionjedi.com/images/sep4a.png"><img src="http://static.raymondcamden.com/images/cfjedi/sep4a.png" width="400" height="400" border="0"/></a>
+<a href="http://www.coldfusionjedi.com/images/sep4a.png"><img src="https://static.raymondcamden.com/images/cfjedi/sep4a.png" width="400" height="400" border="0"/></a>
 
 Ok, so it works - but maybe we can make it a bit more abstract? Here is a simple UDF that lets you pass in an image, new dimensions, as well as a text-based position, and have it return the new image to you. It should probably use a dynamic color model, and it may barf if you use a smaller image, but it works with my simple tests.
 
@@ -134,6 +134,6 @@ And some sample code to run it:
 
 Which gives us this lovely montage:
 
-<a href="http://www.coldfusionjedi.com/images/sep4b.png"><img src="http://static.raymondcamden.com/images/cfjedi/sep4b.png" width="400" height="400" border="0"/></a>
+<a href="http://www.coldfusionjedi.com/images/sep4b.png"><img src="https://static.raymondcamden.com/images/cfjedi/sep4b.png" width="400" height="400" border="0"/></a>
 
 Hopefully this will be helpful for others. I may need to add this to the imageUtils project.

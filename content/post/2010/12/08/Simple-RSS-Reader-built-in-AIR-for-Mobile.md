@@ -149,7 +149,7 @@ This is <b>exactly</b> what I was talking about in terms of Adobe going out of i
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip.png" />
 
 <p>
 
@@ -214,7 +214,7 @@ For the most part, this isn't anything special. Note how I make use of data.item
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip1.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip1.png" />
 
 <p>
 

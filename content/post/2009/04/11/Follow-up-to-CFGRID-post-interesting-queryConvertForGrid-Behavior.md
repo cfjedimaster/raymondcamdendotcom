@@ -26,7 +26,7 @@ A few days ago I <a href="http://www.raymondcamden.com/index.cfm/2009/4/9/Ask-a-
 
 I've got a simple, hand made query with 2 rows. I converted it using queryConvertForGrid. Check out the result:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 150.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 150.png">
 
 As you can see, the query was expanded to fill the page size. Why? I wrote up a quick test where I copied the query value and trimmed it down to just the two rows. I then returned that to my CFGIRD. Surprisingly the grid actually shrunk in size. When my data had 2 rows, only two rows showed up.
 

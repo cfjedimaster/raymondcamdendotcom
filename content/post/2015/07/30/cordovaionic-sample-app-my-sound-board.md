@@ -19,27 +19,27 @@ Today's demo is something I started working on Sunday "for fun", but when it tur
 
 Let me share some of the screens behind the app and then I'll dive into the code. On launch, the app will present you with a list of sounds you currently have or prompt you to record a new one.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot114.png" alt="shot1" width="394" height="700" class="aligncenter size-full wp-image-6562 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot114.png" alt="shot1" width="394" height="700" class="aligncenter size-full wp-image-6562 imgborder" />
 
 Clicking record brings you to a new UI:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot27.png" alt="shot2" width="394" height="700" class="aligncenter size-full wp-image-6563 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot27.png" alt="shot2" width="394" height="700" class="aligncenter size-full wp-image-6563 imgborder" />
 
 On this screen you can record a sound, play it back to test, and name it. The recording interface will be device specific on Android, but on iOS it is a standard UI created by the Media Capture plugin itself. Here it is on my HTC M8.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot34.png" alt="shot3" width="394" height="700" class="aligncenter size-full wp-image-6564 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot34.png" alt="shot3" width="394" height="700" class="aligncenter size-full wp-image-6564 imgborder" />
 
 And here it is on an iPhone.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shotThu2.png" alt="shotThu2" width="395" height="700" class="aligncenter size-full wp-image-6565" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shotThu2.png" alt="shotThu2" width="395" height="700" class="aligncenter size-full wp-image-6565" />
 
 Once you've saved a few sounds, you can see the list grow.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot44.png" alt="shot4" width="394" height="700" class="aligncenter size-full wp-image-6566 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot44.png" alt="shot4" width="394" height="700" class="aligncenter size-full wp-image-6566 imgborder" />
 
 I then used a cool Ionic feature that makes it easy to add delete buttons to a list. If you swipe right, you get a button:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot52.png" alt="shot5" width="394" height="700" class="aligncenter size-full wp-image-6567 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot52.png" alt="shot5" width="394" height="700" class="aligncenter size-full wp-image-6567 imgborder" />
 
 All I had to do then was wire up the logic to handle deleting. So - about that code - let's take a look. I won't cover the workaround I mentioned in this weeks <a href="http://www.raymondcamden.com/2015/07/27/recording-and-saving-audio-in-cordova-applications">blog post</a>, but I <strong>strongly</strong> suggest reading it. I'll begin with the controller code for the home page:
 

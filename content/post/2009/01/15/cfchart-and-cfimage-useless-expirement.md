@@ -31,10 +31,10 @@ So after my <a href="http://www.raymondcamden.com/index.cfm/2009/1/14/Ask-a-Jedi
 
 Nothing too crazy here. I save the image binary into a variable and then 'load' it as an Image object using imageNew. I then use the reflectImage function to create...
 
-<img src="http://static.raymondcamden.com/images/cfjedi//chart.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//chart.png">
 
 I then got artsy:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//chart2.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//chart2.png">
 
 So yeah, this was a complete waste of time. I can't think of anything I'd use CF8's image functions for that I can't do natively with cfchart itself, but maybe something intelligent will come to me later.

@@ -9,7 +9,7 @@
 	"guid": "3164"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Video-Games-Posters.jpg" align="left" hspace="5">
+<img src="https://static.raymondcamden.com/images/cfjedi//Video-Games-Posters.jpg" align="left" hspace="5">
 
 2007 was a banner year for video games, at least for me. With Bioshock, Call of Duty 4, Mass Effect, and Halo 3 all coming and all being, in general, "big" games, it was a great year for the consoles. (I didn't do any PC gaming at all last year.) I'm not so sure about this year.
 <br clear="left">

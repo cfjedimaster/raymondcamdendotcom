@@ -21,4 +21,4 @@ All in all - this took a 10 minute process that I had to pay particular attentio
 
 <b>Edit:</b> One thing I forgot to mention. When you create the project there will be an error. Open AndroidManifest.xml and remove this: android:xlargeScreens="true". That should clear up the bug that appears on project creation.
 
-<img src="http://static.raymondcamden.com/images/kitten-mind-meld.jpg" title="Yes, this picture IS appropriate for the blog entry and is NOT just an excuse to be silly." />
+<img src="https://static.raymondcamden.com/images/kitten-mind-meld.jpg" title="Yes, this picture IS appropriate for the blog entry and is NOT just an excuse to be silly." />

@@ -52,7 +52,7 @@ This results in a hodgepodge of graphics and other items:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/screen5.png" />
+<img src="https://static.raymondcamden.com/images/screen5.png" />
 
 <p/>
 
@@ -90,7 +90,7 @@ That works... ok.... see the result:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/screen6.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/screen6.png" />
 
 <p/>
 

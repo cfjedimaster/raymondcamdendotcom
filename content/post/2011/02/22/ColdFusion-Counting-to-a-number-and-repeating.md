@@ -64,7 +64,7 @@ So given 12, for example, I have 2 whole sets of 5, for a value of 10. 12-10 is 
 <p>
 
 And the result:<br/>
-<img src="http://static.raymondcamden.com/images/ScreenClip28.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip28.png" />
 
 <p>
 
@@ -90,7 +90,7 @@ What the hey? Every time I hit a multiple of 5 I end up with 0. Ok, that makes s
 <p>
 
 And the result...<br/>
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip29.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip29.png" />
 
 <p>
 

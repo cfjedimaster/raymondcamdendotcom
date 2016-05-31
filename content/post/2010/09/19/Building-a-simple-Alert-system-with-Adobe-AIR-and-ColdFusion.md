@@ -46,7 +46,7 @@ Now let's tackle the second part - having an application run in the Windows task
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-09-19 at 2.01.46 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-09-19 at 2.01.46 PM.png" />
 
 <p/>
 
@@ -90,7 +90,7 @@ Ok, we've got a few things going on here. Let's begin in the lower third. Notice
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/screen2.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/screen2.png" />
 
 <p/>
 
@@ -144,7 +144,7 @@ So - line by line - the code here is listening to a destination setup on the ser
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-09-19 at 2.32.21 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-09-19 at 2.32.21 PM.png" />
 
 <p/>
 
@@ -219,7 +219,7 @@ Here is a low level warning message as seen on the Windows machine:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/screen3.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/screen3.png" />
 
 <p/>
 
@@ -227,7 +227,7 @@ Now here is a slightly more important message as seen on the Mac:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/screen31.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/screen31.png" />
 
 <p/>
 
@@ -235,7 +235,7 @@ And finally - a critical message:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/screen4.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/screen4.png" />
 
 <p/>
 

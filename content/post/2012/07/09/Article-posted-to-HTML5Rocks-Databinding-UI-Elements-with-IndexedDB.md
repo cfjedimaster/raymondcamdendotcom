@@ -19,4 +19,4 @@ The article discusses how you can create a simple auto-suggest for an input fiel
 
 How happy do I feel? This happy...
 
-<img src="http://static.raymondcamden.com/images/robocop unicorn.jpg" />
+<img src="https://static.raymondcamden.com/images/robocop unicorn.jpg" />

@@ -35,12 +35,12 @@ Just by eyeballing that<sup>*</sup> you can see the object contains a count key,
 
 Pretty cool, right? The [readme](https://github.com/s3u/JSONPath) contains many examples. You can use this both in 'regular' client-side JavaScript as well as Node. I wanted to do some testing with the library so I built a quick online demo. Here's a screen shot in action. I used *all* my design skills on this one:
 
-<img src="http://static.raymondcamden.com/images/2016/03/jsonpath1.png" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2016/03/jsonpath1.png" class="imgborder">
 
 While JSONPath itself has a few configuration options, my tool simply takes the defaults. You can paste in a JSON string and then play around with the path options to see the results. 
 
-<img src="http://static.raymondcamden.com/images/2016/03/jsonpath2.png" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2016/03/jsonpath2.png" class="imgborder">
 
-My code isn't anything special here - basically take in the inputs and render them out. I'll remind folks that JSON.stringify lets you pass in basic formatting instructions. That's how I got the nicely layout dump of the data. You can try out the demo here: [http://static.raymondcamden.com/demos/2016/03/15/](http://static.raymondcamden.com/demos/2016/03/15/).
+My code isn't anything special here - basically take in the inputs and render them out. I'll remind folks that JSON.stringify lets you pass in basic formatting instructions. That's how I got the nicely layout dump of the data. You can try out the demo here: [https://static.raymondcamden.com/demos/2016/03/15/](https://static.raymondcamden.com/demos/2016/03/15/).
 
 &#42; As a quick aside, I've been using this [online JSON viewer](http://jsonviewer.stack.hu/) for a while now to render complex JSON objects. I need to build an extension for Visual Studio Code so I can use this in my editor.

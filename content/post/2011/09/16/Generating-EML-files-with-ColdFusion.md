@@ -57,7 +57,7 @@ Nothing crazy there. Do note though that my download link makes use of the UID v
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip185.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip185.png" />
 
 <p>
 
@@ -120,7 +120,7 @@ And here is the file opened in Windows Mail:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip186.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip186.png" />
 
 <p>
 
@@ -128,7 +128,7 @@ And the same in Thunderbird:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip187.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip187.png" />
 
 <p>
 

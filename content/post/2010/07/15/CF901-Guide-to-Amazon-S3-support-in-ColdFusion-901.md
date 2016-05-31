@@ -109,7 +109,7 @@ The example above makes use of both directoryExists and directoryCreate. If not 
 On every reload, a new file is created (with the text 'Foo'). I use the directoryList command to get all the files from the folder. Here is an example result:
 <p>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-07-15 at 8.15.11 AM.png" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-07-15 at 8.15.11 AM.png" />
 
 <p>
 
@@ -198,7 +198,7 @@ You end up with this:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/acl.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/acl.png" />
 
 <p>
 
@@ -260,7 +260,7 @@ This template simply lists the contents of my last bucket and for each file grab
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/getmd.png" title="Result of get metadata" />
+<img src="https://static.raymondcamden.com/images/cfjedi/getmd.png" title="Result of get metadata" />
 
 <p>
 
@@ -287,7 +287,7 @@ This is kind of a silly example since I'm using a random number, but after runni
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/setmd.png" title="Result of setting metadata" />
+<img src="https://static.raymondcamden.com/images/cfjedi/setmd.png" title="Result of setting metadata" />
 
 <p>
 

@@ -29,7 +29,7 @@ This results in a one line response that is - for the most part - the exact same
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/av1.png" title="Results from AV" />
+<img src="https://static.raymondcamden.com/images/av1.png" title="Results from AV" />
 
 <p>
 
@@ -45,7 +45,7 @@ In fact, for the most part I think you can assume if you get one response back, 
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/av2.PNG" title="Results from AV2" />
+<img src="https://static.raymondcamden.com/images/cfjedi/av2.PNG" title="Results from AV2" />
 
 <p>
 
@@ -159,7 +159,7 @@ checkAddy begins by getting all the values. If any are blank, we leave. If not, 
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/av3.PNG" title="Another AV Result" />
+<img src="https://static.raymondcamden.com/images/cfjedi/av3.PNG" title="Another AV Result" />
 
 <p>
 
@@ -200,7 +200,7 @@ Because UPS tends to be a huge pain in the rear with the API at times, I cannot 
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/images/ups.swf"><img src="http://static.raymondcamden.com/images/cfjedi/av4.PNG" title="Click me for cool video" /></a>
+<a href="http://www.coldfusionjedi.com/images/ups.swf"><img src="https://static.raymondcamden.com/images/cfjedi/av4.PNG" title="Click me for cool video" /></a>
 
 <p>
 

@@ -6,11 +6,11 @@ As much as I love to write code, I enjoy teaching even more. That's part of the 
 
 <h3>My Next Events</h3>
 
-<a href="https://plus.google.com/events/cp7o1hqo4afsq334ps60lhvhdt0">Using Browser Developer Tools</a><br/>
-Online, March 17, 2016
+<a href="http://www.meetup.com/Mobile-Monday-New-York-City/events/231130196/">DevLab and Startup Demo Night - Rapid API Development w/ Node.js and LoopBack</a><br/>
+Mobile Monday, June 27, NYC, NY
 
-<a href="https://www.eventbrite.com/e/loopbackjs-webinar-with-raymond-camden-tickets-22784668557?aff=wraymond">LoopBackJS Webinar with Raymond Camden</a><br/>
-Online, March 31, 2016
+<a href="http://www.meetup.com/Ionic-NYC-Meetup/events/231217932/">LoopBack Presentation</a><br/>
+Ionic NYC, June 29, NYC, NY
 
 <p>
 
@@ -55,3 +55,12 @@ PhoneGap Day, Lehi, Utah, January 29, 2016
 
 <a href="http://conferences.oreilly.com/fluent/javascript-html-us">Rapidly building out your APIs</a><br/>
 FluentConf, San Francisco, CA, March 8, 2016</a>
+
+<a href="https://plus.google.com/events/cp7o1hqo4afsq334ps60lhvhdt0">Using Browser Developer Tools</a><br/>
+Online, March 17, 2016
+
+<a href="https://www.eventbrite.com/e/loopbackjs-webinar-with-raymond-camden-tickets-22784668557?aff=wraymond">LoopBackJS Webinar with Raymond Camden</a><br/>
+Online, March 31, 2016
+
+<a href="http://gluecon.com/">LoopBack Presentation</a><br/>
+Gluecon, May 25, Broomfield, CO

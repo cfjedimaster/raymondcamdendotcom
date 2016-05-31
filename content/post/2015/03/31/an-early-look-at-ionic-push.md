@@ -16,27 +16,27 @@ Before I begin - please, please, <i>please</i> make note of the date of this pos
 
 <!--more-->
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/ionicpush.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/ionicpush.png" alt="ionicpush" width="612" height="224" class="alignnone size-full wp-image-5917" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/ionicpush.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/ionicpush.png" alt="ionicpush" width="612" height="224" class="alignnone size-full wp-image-5917" /></a>
 
 My readers already know that Ionic provides a heck of a lot of awesomeness for Cordova developers. You've got UI elements, UX elements, AngularJS love (yes, that's a thing), and other features like live reload on device and multi-device preview. While this is cool, they are also working on creating an Ionic platform - a set of services that Ionic apps can make use of to better enhance the functionality of their applications. The first of these new services is Ionic Push. While not publicly released yet, you can sign up <a href="https://apps.ionic.io/landing/push">now</a> and possibly get early access. They are slowly adding more testers to the beta over time. 
 
 Using Ionic Push requires making use of the Apps back end. If you have no idea what that is - don't worry. It's primary usage has been with the <a href="http://view.ionic.io/">Ionic View</a> service. You may have noticed that the Ionic CLI supports an "upload" command:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/i1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/i1.png" alt="i1" width="600" height="195" class="alignnone size-full wp-image-5918" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/i1.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/i1.png" alt="i1" width="600" height="195" class="alignnone size-full wp-image-5918" /></a>
 
 Uploading your app is required to use View, and also services like Push. So to begin, you have to upload your app at the CLI:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/i2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/i2.png" alt="i2" width="600" height="94" class="alignnone size-full wp-image-5919" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/i2.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/i2.png" alt="i2" width="600" height="94" class="alignnone size-full wp-image-5919" /></a>
 
 As a quick note, before you upload, be sure to add a platform first. There is a bug with the CLI where if you upload without a platform, it silently fails. You can track this bug here: <a href="https://github.com/driftyco/ionic-cli/issues/325">https://github.com/driftyco/ionic-cli/issues/325</a>.
 
 Once you've done that, you can then go to <a href="http://apps.ionic.io">apps.ionic.io</a> to see your new app (and all your other ones as well):
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/i3.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/i3.png" alt="i3" width="800" height="436" class="alignnone size-full wp-image-5920" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/i3.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/i3.png" alt="i3" width="800" height="436" class="alignnone size-full wp-image-5920" /></a>
 
 The "Ionic Services" link will <strong>not</strong> show up for you unless you are in the Push alpha, or unless you're reading this in the future when the feature is actually released. Clicking that takes you to a dashboard for your app. 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/i4.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/i4.png" alt="i4" width="800" height="523" class="alignnone size-full wp-image-5921" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/i4.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/i4.png" alt="i4" width="800" height="523" class="alignnone size-full wp-image-5921" /></a>
 
 At this point, you can simply follow the docs to get working. I'll cover the high level details to give you an idea of the process, but again, this is early, and you can expect some things to change in the future.
 
@@ -101,12 +101,12 @@ That covers the basics for the code - although is just the very beginning. You w
 
 Ok - so at this point - you can test on a device (this may be obvious, but I swear I forget half the time - you can only test push on a real device). You want to use your Chrome Remote debug to pick up the registration ids sent back. This can take about 10 seconds or so. 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/i5.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/i5.png" alt="i5" width="800" height="229" class="alignnone size-full wp-image-5922" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/i5.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/i5.png" alt="i5" width="800" height="229" class="alignnone size-full wp-image-5922" /></a>
 
 You want to copy out that device token because testing, currently, is done via CLI. Ionic will be adding a proper dashboard soon, but at the moment, sending a push notification requires using curl:
 
 <pre><code>curl -u 3ec834b08thisisecretf53: -H "Content-Type: application/json" -H "X-Ionic-Application-Id: myappid" https://push.ionic.io/api/v1/push -d '{"tokens":["devicetoken"],"notification":{"alert":"MOAR KITTENS!"}}'</code></pre>
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/i6.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/i6.png" alt="i6" width="450" height="800" class="alignnone size-full wp-image-5923" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/i6.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/i6.png" alt="i6" width="450" height="800" class="alignnone size-full wp-image-5923" /></a>
 
 So - that's push. It still feels a bit rough to me, but as I said, this is an early build of the service. When I first tried to get this working, it took me a while to get things setup, and I can see that documentation updates have already been made to help correct the issues I ran into. If your interested in checking this out yourself, don't forget you can <a href="https://apps.ionic.io/landing/push">register now</a>!

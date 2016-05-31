@@ -22,7 +22,7 @@ Today I want to talk about Epic Sell Wars. I was introduced to this before NCDev
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Everything.jpg" />
+<img src="https://static.raymondcamden.com/images/Everything.jpg" />
 </p>
 
 <p>
@@ -34,7 +34,7 @@ Wizard selection is simply picking a game representing the character you want to
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Wizards2.jpg" />
+<img src="https://static.raymondcamden.com/images/Wizards2.jpg" />
 </p>
 
 <p>
@@ -42,7 +42,7 @@ Gameplay revolves around the creation of spells. For the most part, every spell 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/CardType.png" />
+<img src="https://static.raymondcamden.com/images/CardType.png" />
 </p>
 
 <p>
@@ -54,11 +54,11 @@ Along with strategy, spell crafting is freaking hilarious. Here are two examples
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Spell1.jpg" />
+<img src="https://static.raymondcamden.com/images/Spell1.jpg" />
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Spell2.jpg" />
+<img src="https://static.raymondcamden.com/images/Spell2.jpg" />
 </p>
 
 <p>
@@ -70,7 +70,7 @@ Another example of this is that when you die, the game doesn't end for you. Upon
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/DeadWizards.jpg" />
+<img src="https://static.raymondcamden.com/images/DeadWizards.jpg" />
 </p>
 
 <p>
@@ -78,7 +78,7 @@ This is a <strong>great</strong> game. If I had to include one warning, I'd say 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Treasures.jpg" />
+<img src="https://static.raymondcamden.com/images/Treasures.jpg" />
 </p>
 
 <p>

@@ -34,7 +34,7 @@ You can see I originally used the hosted version of Firebug Lite. It worked - bu
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-05-28 at 8.34.47 AM.png" title="Shot One" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-05-28 at 8.34.47 AM.png" title="Shot One" />
 
 <p>
 
@@ -42,7 +42,7 @@ As you can see, the Firebug Lite icon shows up in the lower right corner. I incr
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-05-28 at 8.35.48 AM.png" title="Shot Two" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-05-28 at 8.35.48 AM.png" title="Shot Two" />
 
 
 <p>
@@ -51,6 +51,6 @@ As you can see, the Firebug Lite icon shows up in the lower right corner. I incr
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-05-28 at 8.36.54 AM.png" title="Shot Three" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-05-28 at 8.36.54 AM.png" title="Shot Three" />
 
 <b>Sweet Again!</b> So I'm not sure how deeply you would want to use AJAX within a CFBuilder extension, but if you do decide to push the limits, this could be a real boon to your development. Thanks again to Ben for the idea, and thanks to Adobe for the extension feature!

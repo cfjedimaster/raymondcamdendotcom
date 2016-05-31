@@ -42,7 +42,7 @@ As you can see, I've got jQuery and 4 plugins being loaded. I've also got 3 diff
 As a graphical example of the impact of these scripts, check out the YSlow report:
 <p>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-04-26 at 12.26.54 PM.png" title="Initial YSlow Report" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-04-26 at 12.26.54 PM.png" title="Initial YSlow Report" />
 
 <p>
 
@@ -263,7 +263,7 @@ As you can see, each of my multiple JS and CSS requests have been turned into on
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-26 at 12.46.48 PM.png" title="Second YSlow Report" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-26 at 12.46.48 PM.png" title="Second YSlow Report" />
 
 
 <p>

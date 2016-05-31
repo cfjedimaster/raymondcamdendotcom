@@ -22,7 +22,7 @@ ColdFusion 10 fixes this by letting you adding <code>this.sameformfieldsasarray=
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_2_25_14__6_55_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_2_25_14__6_55_AM.png" />
 </p>
 
 <p>
@@ -30,7 +30,7 @@ Perfect. Until you add another form field. Now imagine we have 3 name fields. Te
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_2_25_14__6_56_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_2_25_14__6_56_AM.png" />
 </p>
 
 <p>
@@ -38,7 +38,7 @@ If you said, "An array where element 1 is John,Smith and element 3 is Joe", you 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_2_25_14__6_57_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_2_25_14__6_57_AM.png" />
 </p>
 
 <p>

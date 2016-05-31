@@ -29,4 +29,4 @@ Chapter 7 (testing and debugging) and chapter 8 (writing custom plugins) will be
 
 You can buy the book now via the graphic below. If you don't mind, let me know in the comments what you think!
 
-<a href="http://manning.com/camden/?a_aid=apachecordova&amp;a_bid=2a2a33f0"><img src="http://static.raymondcamden.com/images/camden_cover150.jpg" style="float:left;margin-right:10px;margin-bottom:10px" scale="0"></a> 
+<a href="http://manning.com/camden/?a_aid=apachecordova&amp;a_bid=2a2a33f0"><img src="https://static.raymondcamden.com/images/camden_cover150.jpg" style="float:left;margin-right:10px;margin-bottom:10px" scale="0"></a> 

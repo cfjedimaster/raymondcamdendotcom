@@ -115,7 +115,7 @@ And finally, the last piece, the CFC:
 
 Ok, so hopefully I haven't lost you yet. If you run this, the result will be... nothing. Why? If you use Firebug to examine the result (and you would, right?), you can see the following:
 
-<img src="http://static.raymondcamden.com/images//Picture 154.png">
+<img src="https://static.raymondcamden.com/images//Picture 154.png">
 
 Notice the JSON in the middle, wrapped by HTML? That HTML breaks the JSON format and prevents the front end code from correctly parsing it. 
 

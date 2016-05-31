@@ -39,7 +39,7 @@ The code calls a custom tag called parent. Inside of this call are 3 calls to a 
 
 Assuming child.cfm is just an empty file, our dump will be:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2009-10-09 at 2.31.16 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2009-10-09 at 2.31.16 PM.png" />
 
 Nothing unusual here. So here is where cfassociate comes in. What if we wanted the parent tag to be able to introspect data from the kids? We can simply add a cfassociate tag like to create this connection. Here is child.cfm:
 
@@ -49,7 +49,7 @@ Nothing unusual here. So here is where cfassociate comes in. What if we wanted t
 
 The cfassociate tag has only one required attribute, the name of the tag to share data with. Notice the cf_ in front. Even though, mentally, I'd "name" the tag parent, ColdFusion uses a cf_ in front to signify that it is a custom tag. Now when we run the tag we see something interesting:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2009-10-09 at 2.33.25 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2009-10-09 at 2.33.25 PM.png" />
 
 The thisTag structure has a new key, AssocAttribs, and an array of structures. Notice that the structure data matches what we passed to the child. This is an important point. The only data passed from the child to the parent are items in the child's Attributes scope. They need not be attributes passed in either. If child.cfm does:
 
@@ -77,7 +77,7 @@ Then this data will be passed back as well. So where did the name AssocAttribs c
 
 If pet.cfm uses the same cfassociate tag, we end up with this:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2009-10-09 at 2.40.00 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2009-10-09 at 2.40.00 PM.png" />
 
 A bit confusing, isn't it? Luckily cfassociate allows us to specify another location for our data. By using the "datacollection" argument we can specify another structure key for the data. So I've modified child.cfm like so:
 
@@ -93,7 +93,7 @@ and pet.cfm like so:
 
 Now the data is segregated and easier to deal with:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2009-10-09 at 2.43.00 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2009-10-09 at 2.43.00 PM.png" />
 
 Sweet. As for what you do with that data... well it's up to you. In my 10+ years of writing CFML applications I've used this feature only once or twice. Just to complete the example though I've modified parent.cfm to inspect the child data.
 

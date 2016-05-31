@@ -13,7 +13,7 @@ So this morning I decided to install Adobe Creative Suite 3 Master Collection. I
 
 So I killed the installer and tried again. After a few minutes  my leg accidentally hit the CD tray - which was open - which was news to me. When my leg hit the tray it closed. I figured - no big deal - it must want one of the other CDs. But when I selected the installer, I saw this:
 
-<img src="http://static.raymondcamden.com/images/csinstall.png">
+<img src="https://static.raymondcamden.com/images/csinstall.png">
 
 Nice verbose message there. I waited a while and when nothing happened I force quit the application. I ran the installer a <i>third</i> time - ensuring I kept my legs to myself (I can't stop moving when I listen to techno - I'm crazy like that) and this time the <i>exact same problem occurred!</i> I didn't touch the CD tray, but I've got the same nice blank installer message. 
 

@@ -15,11 +15,11 @@ Today I gave my presentation at <a href="http://www.cfobjective.com">cfObjective
 
 The only thing not in here is the Hangman code. If folks want that I can post it up separately. And of course, I can't leave this post without sharing a fully built version of American Unicorn. Check out the screen shot:
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-04-22 at 6.23.40 PM.png" title="Wait, it gets better..." />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-04-22 at 6.23.40 PM.png" title="Wait, it gets better..." />
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-22 at 6.23.52 PM.png" title="You wouldn't believe how many pictures of unicorns there are on the Internet." />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-22 at 6.23.52 PM.png" title="You wouldn't believe how many pictures of unicorns there are on the Internet." />
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-22 at 6.24.22 PM.png" title="Unicorns are cooler than Star Wars." />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-22 at 6.24.22 PM.png" title="Unicorns are cooler than Star Wars." />
 
 You can download the AIR file below. (Note - I'm going to double check my IIS settings. So if you can't download it right away, give me a minute.) 
 

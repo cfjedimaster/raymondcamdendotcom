@@ -71,6 +71,6 @@ Now - let's discuss the user's particular question. You can detect, with JavaScr
 
 An event handler is added to the Window object to listen for the user leaving and warn them beforehand. Then we can use the form submission handler to just remove the event.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/leave.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/leave.png" alt="leave" width="1184" height="966" class="alignnone size-full wp-image-5785" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/leave.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/leave.png" alt="leave" width="1184" height="966" class="alignnone size-full wp-image-5785" /></a>
 
 This works, but is pretty annoying, so I'd say use sparingly. Then again, it isn't as evil as those darn modal windows asking you to "Like" the site - but that's a rant for later.

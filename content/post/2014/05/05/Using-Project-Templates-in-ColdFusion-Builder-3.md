@@ -49,7 +49,7 @@ As you can see, I've got a top level description for my group. It doesn't really
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s35.png" />
+<img src="https://static.raymondcamden.com/images/s35.png" />
 </p>
 
 <p>
@@ -57,7 +57,7 @@ That's really all there is to it. Just remember that the value in the XML field 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s112.png" />
+<img src="https://static.raymondcamden.com/images/s112.png" />
 </p>
 
 <p>
@@ -65,7 +65,7 @@ And here is the project it laid out - nicely laid out with FW/1 files.
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s212.png" />
+<img src="https://static.raymondcamden.com/images/s212.png" />
 </p>
 
 <p>

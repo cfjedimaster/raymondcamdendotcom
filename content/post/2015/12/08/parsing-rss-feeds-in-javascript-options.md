@@ -12,7 +12,7 @@
 
 For a while now I've used the <a href="https://developers.google.com/feed/?hl=en">Google Feed API</a> to parse RSS feeds in JavaScript. It did a good job of converting various RSS flavors into a simple array of entries you could easily work with. Unfortunately, Google has deprecated the API and while it still worked the last time I used it, I would strongly recommend folks migrate their apps away from it as soon as possible. While this makes me sad, you have to move on.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/2000px-Sad_panda.svg_.png" alt="2000px-Sad_panda.svg" width="400" height="400" class="aligncenter size-full wp-image-7229" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/2000px-Sad_panda.svg_.png" alt="2000px-Sad_panda.svg" width="400" height="400" class="aligncenter size-full wp-image-7229" />
 
 <!--more-->
 
@@ -50,13 +50,13 @@ So remember that RSS is just XML, and XML is just a string, and string parsing i
 
 So all I'm doing here is using jQuery to request my RSS feed. I then use jQuery's built in XML parsing to iterate over the &lt;item&gt; blocks in my RSS feed. As you can see, I'm using sample code from a <a href="http://stackoverflow.com/questions/10943544/how-to-parse-an-rss-feed-using-javascript">StackOverflow answer</a> that I modified a tiny bit. Specifically the answer iterated over &lt;entry&gt; blocks, not &lt;item&gt;. Remember when I said there were different flavors of RSS? That's an example of the issue right there. If you must write code to handle both cases, you would need to look for &lt;item&gt; first and then &lt;entry&gt;. But that's basically it. If your curious, I tested this in Canary with --disable-web-security as a command line flag. 
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot14.png" alt="shot1" width="750" height="552" class="aligncenter size-full wp-image-7231" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot14.png" alt="shot1" width="750" height="552" class="aligncenter size-full wp-image-7231" />
 
 <h2>YQL</h2>
 
 Remember <a href="https://developer.yahoo.com/yql/">YQL (Yahoo Query Language)</a>? The last time I blogged about it was way back in 2010 (<a href="http://www.raymondcamden.com/2010/01/19/proof-of-concept-911-viewer">Proof of Concept 911 Viewer</a>). As a gross simplification, YQL acts like a "query language" for the web. You can literally run SQL like content against URLs and get formatted data out of it. They provide a powerful testing console and wouldn't you know it, one of the examples is a RSS parser:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot21.png" alt="shot2" width="750" height="449" class="aligncenter size-full wp-image-7232" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot21.png" alt="shot2" width="750" height="449" class="aligncenter size-full wp-image-7232" />
 
 Just in case that screenshot is a bit too small, here is what the YQL statement looks like:
 
@@ -64,7 +64,7 @@ Just in case that screenshot is a bit too small, here is what the YQL statement 
 
 I've got one word for that. Bad ass! Like, kitten in armor bad ass!
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot3.jpg" alt="shot3" width="350" height="250" class="aligncenter size-full wp-image-7233" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot3.jpg" alt="shot3" width="350" height="250" class="aligncenter size-full wp-image-7233" />
 
 I tested with two different RSS flavors and YQL had no issue handling either. Note the REST query URL at the bottom. I copied that into a new file:
 
@@ -80,7 +80,7 @@ I tested with two different RSS flavors and YQL had no issue handling either. No
 
 And it worked like a charm. Note the use of JSON/P to sidestep needing CORS. And here is the result:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot4.png" alt="shot4" width="750" height="654" class="aligncenter size-full wp-image-7234" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot4.png" alt="shot4" width="750" height="654" class="aligncenter size-full wp-image-7234" />
 
 A big thank you to Addy Osmani from Google for reminding me that YQL was still around. Google, I forgive you for killing the Feed API now.
 
@@ -109,7 +109,7 @@ $(document).ready(function() {
 
 That's also pretty darn easy to use. Here is the result:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot5.png" alt="shot5" width="750" height="654" class="aligncenter size-full wp-image-7235" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot5.png" alt="shot5" width="750" height="654" class="aligncenter size-full wp-image-7235" />
 
 <h2>Summary</h2>
 

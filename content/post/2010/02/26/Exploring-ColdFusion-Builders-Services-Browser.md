@@ -13,19 +13,19 @@ Today I thought I'd take a look at ColdFusion Builder feature I had not paid muc
 
 <p/>
 <!--more-->
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-26 at 12.16.28 PM.png" title="Services Browser window" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-26 at 12.16.28 PM.png" title="Services Browser window" />
 <p/>
 
 As you can see, the Services Browser primary role is to list all the CFCs defined for a server. It creates a package base listing of each CFC. You can expand a package to see individual CFCs, and then expand a CFC to see the physical file path (which oddly you can't use as a quick way to open the file) and then each method.
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-26 at 12.18.33 PM.png" title="One particular CFC." />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-26 at 12.18.33 PM.png" title="One particular CFC." />
 <p/>
 
 Notice right away this is much more detailed then the outline view. You can see a list of arguments as well as a return type. If you expand the method itself you see details on the arguments:
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-26 at 12.20.39 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-26 at 12.20.39 PM.png" />
 <p/>
 
 Another important difference between this and the Outline view is that the Services view is <b>not</b> tied to your current page. So if you want to work on test.cfm and see test.cfc, you would use the Services panel. 
@@ -64,7 +64,7 @@ On top of the Services view are some interesting buttons:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-26 at 12.24.38 PM.png" title="Buttons, buttons, and more buttons" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-26 at 12.24.38 PM.png" title="Buttons, buttons, and more buttons" />
 
 <p/>
 
@@ -76,7 +76,7 @@ Last but not least I want to point out two more buttons on the upper right side 
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-26 at 12.31.23 PM.png" title="Show CFCs/Web Services" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-26 at 12.31.23 PM.png" title="Show CFCs/Web Services" />
 
 <p/>
 
@@ -84,7 +84,7 @@ This button let's you toggle between CFCs and web services. Once you switch to w
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-26 at 12.36.59 PM.png" title="Only the Borg read WSDL" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-26 at 12.36.59 PM.png" title="Only the Borg read WSDL" />
 
 <p/>
 

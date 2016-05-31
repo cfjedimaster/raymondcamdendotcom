@@ -218,6 +218,6 @@ Woot. So at this point I've got an array of arrays. Let's see about rendering it
 
 I begin, and end, with a table tag. I added a border to my output to make it a bit clearer, but obviously that is something that CALS handles with an XML attribute not present in the sample above. For each row, and each cell, I check the attributes and output the relevant HTML for it. The result?
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2009-10-01 at 10.43.34 AM.png" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2009-10-01 at 10.43.34 AM.png" />
 
 I've attached the entire template to the blog entry. As I said above - this code isn't terribly flexible, but hopefully it can give people a head start if they need to work with CALS data.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Ftest%2Ezip'>Download attached file.</a></p>

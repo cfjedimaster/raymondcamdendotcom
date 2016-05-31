@@ -19,7 +19,7 @@ Just to be clear on that last point - you can use a fraking step debugger with y
 
 In order to use this feature you must be using iOS6, but even if you are targeting iOS5, you could easily use iOS6 in your simulator just for debugging purposes. You must first <a href="http://moduscreate.com/enable-remote-web-inspector-in-ios-6/">enable</a> the feature, but once you do, just open Safari (because, seriously, you don't use it for the web, right?) and look under the "Develop" menu:
 
-<img src="http://static.raymondcamden.com/images/screenshot58.png" />
+<img src="https://static.raymondcamden.com/images/screenshot58.png" />
 
 In the screen shot above, I'm referencing a PhoneGap application called "f2" (sorry for the short, simple name) on my iOS Simulator. 
 

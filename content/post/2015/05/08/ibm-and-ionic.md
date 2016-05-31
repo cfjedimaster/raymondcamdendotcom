@@ -26,6 +26,6 @@ And also the Ionic blog post here:
 
 In a nutshell, I think the takeaway from this is that IBM MobileFirst is an awesome product (admittedly I'm biased) to help support the back end services of your mobile app and Ionic is an awesome product (yeah, totally biased) for building the mobile app itself. Ensuring these two awesome things work together is a net win for developers. It is the very example of mixing your chocolate and peanut butter for development. Enjoy.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/12662182664_ec3eded5c1_z.jpg"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/12662182664_ec3eded5c1_z.jpg" alt="12662182664_ec3eded5c1_z" width="336" height="450" class="aligncenter size-full wp-image-6119" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/12662182664_ec3eded5c1_z.jpg"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/05/12662182664_ec3eded5c1_z.jpg" alt="12662182664_ec3eded5c1_z" width="336" height="450" class="aligncenter size-full wp-image-6119" /></a>
 
 <i>Totally important picture credit: <a href="https://flic.kr/p/khUZLd">https://flic.kr/p/khUZLd</a> by Mike Mozart</i>

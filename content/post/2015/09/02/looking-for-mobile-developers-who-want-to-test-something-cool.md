@@ -16,7 +16,7 @@ One of the reasons I joined IBM was because I discovered they were doing some pr
 
 What if you could build a mobile application that wasn't static? An app that would actually modify its behavior in an intelligent manner depending on the person who was actively using it? For example, imagine a shopping app that can recognize your location, not just the longitude and latitude, but the <i>nature</i> of where you are, and selectively target different products or services? As a concrete example, imagine being at a stadium and the application recognizes this and suggests sports-related items to you, but is intelligent enough to only do this if you've shown a prior interest in sports products. It is this combination of factors, not just one simple property, where true intelligence could do some pretty useful stuff.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/cat-baseball-player.jpg" alt="cat-baseball-player" width="425" height="278" class="aligncenter size-full wp-image-6723" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/cat-baseball-player.jpg" alt="cat-baseball-player" width="425" height="278" class="aligncenter size-full wp-image-6723" />
 
 On the flip side, the development experience is quite simple. A developer can initialize support for this service, but then let a non-technical person actually design these rules. They can decide what factors matter most (location, history, time of day, etc) and visually design the rules for how your app responds.
 

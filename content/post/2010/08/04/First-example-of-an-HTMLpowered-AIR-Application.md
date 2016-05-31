@@ -130,11 +130,11 @@ To give you some idea of what this looks like, here are two quick screen shots:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-04 at 1.06.24 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-04 at 1.06.24 PM.png" />
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-04 at 1.06.42 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-04 at 1.06.42 PM.png" />
 
 <p>
 

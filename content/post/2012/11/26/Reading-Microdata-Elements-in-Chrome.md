@@ -32,6 +32,6 @@ I used some source HTML based on the article I linked to earlier:
 
 When I execute my JavaScript against this, I get:
 
-<img src="http://static.raymondcamden.com/images/screenshot40.png" />
+<img src="https://static.raymondcamden.com/images/screenshot40.png" />
 
 Useful? Not sure yet. I assume, eventually, Chrome will get the native API anyway. (Although in Firefox it returns the Node items, not a nice array like I've got, unless I'm using it wrong it looks like there may still be a need for a utility function.)

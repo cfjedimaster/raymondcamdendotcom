@@ -45,7 +45,7 @@ And the result:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-06-08 at 12.20.07 PM.png" title="Screen Shot" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-06-08 at 12.20.07 PM.png" title="Screen Shot" />
 
 <p>
 
@@ -53,7 +53,7 @@ Pretty nice to see the service working so easily so far. I haven't yet dug enoug
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-06-08 at 12.22.44 PM.png" title="Another Screen Shot" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-06-08 at 12.22.44 PM.png" title="Another Screen Shot" />
 
 <p>
 

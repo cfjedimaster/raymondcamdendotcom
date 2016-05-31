@@ -9,7 +9,7 @@
 	"guid": "3871"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/security.jpg" align="left" style="margin-right: 10px"/> A reader just asked:
+<img src="https://static.raymondcamden.com/images/cfjedi/security.jpg" align="left" style="margin-right: 10px"/> A reader just asked:
 
 <blockquote>
 Hello, I am Brazilian and I am starting to develop with ColdFusion. I would like some tips on how to develop with security, my applications, so you never have problems. Thanks.

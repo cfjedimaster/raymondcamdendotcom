@@ -201,4 +201,4 @@ Basically I took my display code and made it it's own function while also moving
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/2011/oct/30/test3.html"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/2011/oct/30/test3.html"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

@@ -19,7 +19,7 @@ In order to give this a shot though I wanted to test it first, and that is what 
 
 If you go into the instance detail page, you'll see a Clone button right away:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/Google_Developers_Console.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/Google_Developers_Console.png" alt="Google_Developers_Console" width="850" height="137" class="alignnone size-full wp-image-5730" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/Google_Developers_Console.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/Google_Developers_Console.png" alt="Google_Developers_Console" width="850" height="137" class="alignnone size-full wp-image-5730" /></a>
 
 But do <strong>not</strong> use that first! When you clone, Google will ask you what disk to use. You can pick one of the main source disks (for different operating systems), a snapshot, or an existing disk. It wasn't clear if "existing disk" would copy or re-use the same disk. I assumed it would re-use the disk which isn't what I wanted obviously. (And I just confirmed with my friend at Google - it would re-use it.) So instead - make a snapshot of your disk. Then go back to the Clone operation and select that.
 
@@ -30,11 +30,11 @@ I then worked on getting Nginx installed. Since this post is about the Google Co
 Back when I first launched on Google Compute, I went with the smallest instance possible. When I discovered I needed to move to a bigger instance, I ran into the issue of migrating the IP address. Back then I used the CLI to deallocate the IP from the server and re-allocate it to the new one. For the life of me I couldn't find that blog post detailing the process. On a whim, I went to the Network portion of my Google panel and discovered something cool. You could do the entire thing there!
 
 You can see the two instances below. 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/swapIP1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/swapIP1.png" alt="swapIP1" width="850" height="165" class="alignnone size-full wp-image-5731" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/swapIP1.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/swapIP1.png" alt="swapIP1" width="850" height="165" class="alignnone size-full wp-image-5731" /></a>
 
 I began by clicking Change:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/swapIP3.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/swapIP3.png" alt="swapIP3" width="1128" height="734" class="alignnone size-full wp-image-5732" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/swapIP3.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/swapIP3.png" alt="swapIP3" width="1128" height="734" class="alignnone size-full wp-image-5732" /></a>
 
 I then simply selected my new instance - and that was that. Google started pointing my static external IP to the new box! Also notice how it restored an ephemeral IP address back to the original instance. That's pretty helpful.
 

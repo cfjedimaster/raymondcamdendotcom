@@ -14,7 +14,7 @@ I don't know about you, but when I see a form that has disabled autocomplete, I 
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_3_23_14__8_48_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_3_23_14__8_48_AM.png" />
 </p>
 
 <p>

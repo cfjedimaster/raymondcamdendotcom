@@ -25,11 +25,11 @@ One of three things will happen:
 
 1) You will get an error with the full path shown, like below. This shows that you have not added error management to your application, and that you have Enabled Robust Exception information in your ColdFusion Administrator. Stop reading this blog entry, go to your Admin, and disable it. Now. (Please note that this guide is intended for a production machine environment. Obviously you can keep this setting on in development. I do.)
 
-<img src="http://static.raymondcamden.com/images/cfjedi/eshot1.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/eshot1.png">
 
 2) You will get an error with no path shown. This is slightly better. It still shows that you haven't added error management to your application though.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/eshow2.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/eshow2.png">
 
 3) You get an "error page". By "error page" I mean a page saying that an error occurred, but displayed in your standard site layout, or close to it. That's good. You should still continue to read though as I'm going to discuss things that should normally be in an error handler.
 
@@ -37,7 +37,7 @@ Ok, before going on - delete the page you just uploaded. I'd be willing to bet a
 
 So - lets talk error handling now. You have two high level options. The first is to set an error template in the ColdFusion administrator:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/eshot3.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/eshot3.png">
 
 If you specify a template here, than ColdFusion will run the template when an error occurs. In general though I wouldn't recommend setting the template here. 
 
@@ -64,7 +64,7 @@ Now for the details. The error.cfm template is a normal CFM page. But it has acc
 
 If you run your error test again (you may have to reupload it if you deleted it like I suggested, just don't forget to remove it later!), you will see something like this:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/eshot4.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/eshot4.png">
 
 I'm not going to list every field - again, check the <a href="http://www.cfquickdocs.com/cf8/?getDoc=cferror">cferror syntax doc</a> for that. The item you will most care about normal is cferror.message. This is the simplest representation of the error and will be most useful for logging. The diagnostics value gives more detail including a line number which is handy during development.
 
@@ -176,7 +176,7 @@ All I've done here is dump all the arguments sent in. Now go back to your error 
 
 Run it in your browser, and you will see this:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/eshot5.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/eshot5.png">
 
 Notice that the HTML before the error is displayed in the browser. If we had used a nice error message instead of the dump, the user would see both. This can result in oddly formatted pages. What you can do instead is simply handle the error and cflocate to the a nicer page:
 

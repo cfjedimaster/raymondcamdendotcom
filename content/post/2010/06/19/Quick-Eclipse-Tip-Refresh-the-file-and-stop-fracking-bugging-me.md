@@ -13,7 +13,7 @@ Ok, I love the Eclipse platform, but it has a few... eccentricities that annoy t
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/refresh.png" title="Thank you Eclipse for making the obvious not be the default." />
+<img src="https://static.raymondcamden.com/images/refresh.png" title="Thank you Eclipse for making the obvious not be the default." />
 
 <p>
 

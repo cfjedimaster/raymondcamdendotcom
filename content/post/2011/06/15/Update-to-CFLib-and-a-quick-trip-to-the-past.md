@@ -13,6 +13,6 @@ At lunch I released a small update to <a href="http://www.cflib.org">CFLib</a> -
 
 I realized today that - I believe - CFLib is my oldest running ColdFusion site. (The Death Clock is older but I don't own that anymore.) I checked the Wayback Machine and found this snapshot from <a href="http://web.archive.org/web/20010722013830/http://www.cflib.org/">July 22, 2001</a>. 
 
-<a href="http://web.archive.org/web/20010722013830/http://www.cflib.org/"><img src="http://static.raymondcamden.com/images/ScreenClip117.png" /></a>
+<a href="http://web.archive.org/web/20010722013830/http://www.cflib.org/"><img src="https://static.raymondcamden.com/images/ScreenClip117.png" /></a>
 
 Even that isn't the real first version. ColdFusion 5 was released April 30, 2001, and I swear I remember launching CFLib while it was in beta, but at minimum, it has been around now for over 10 years. Be sure to check the <a href="http://web.archive.org/web/20011024020332/http://www.cflib.org/about.cfm">about</a> link from the Wayback Machine archive. I was the Principal Compliance Engineer for Spectra and worked for Macromedia at the time.

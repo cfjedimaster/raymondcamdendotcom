@@ -17,4 +17,4 @@ Credit <a href="http://cfmlblog.adamcameron.me/2013/10/adobe-coldfusion-10-docs-
 Editor access is restricted (but can be requested) and is <strong>not</strong> limited to just Adobians (as Adam points out in his <a href="http://cfmlblog.adamcameron.me/2013/10/adobe-coldfusion-10-docs-now-community.html">blog post</a>). Check it out now!
 </p>
 
-<img src="http://static.raymondcamden.com/images/Screen-Shot-2013-10-29-at-05.51.43.jpg" />
+<img src="https://static.raymondcamden.com/images/Screen-Shot-2013-10-29-at-05.51.43.jpg" />

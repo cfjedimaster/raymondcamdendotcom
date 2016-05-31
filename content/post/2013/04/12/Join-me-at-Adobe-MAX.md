@@ -23,4 +23,4 @@ Finally, if the price is a sticking point for you, you can register using the co
 
 p.s. Oh, and apparently a little band called the Black Keys will be there too...
 
-<img src="http://static.raymondcamden.com/images/home-agenda.jpg" />
+<img src="https://static.raymondcamden.com/images/home-agenda.jpg" />

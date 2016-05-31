@@ -83,15 +83,15 @@ So I won't go into terribly deep detail here, you can read the [docs](https://ww
 
 Here is a screen shot of the video selection in action. You can see it compressing the video automatically.
 
-![Shot](http://static.raymondcamden.com/images/2016/03/onymos1s.jpg)
+![Shot](https://static.raymondcamden.com/images/2016/03/onymos1s.jpg)
 
 Once compressed, the thumbnail generation works as you would expect. I could have made this quite a bit smaller if I wanted to.
 
-![Shot](http://static.raymondcamden.com/images/2016/03/onymos2.jpg)
+![Shot](https://static.raymondcamden.com/images/2016/03/onymos2.jpg)
 
 The compression technology is pretty impressive. I didn't play with it much in my demo, but the Onymos folks have an [online demo](https://www.onymos.com/blog) that demonstrates this rather well. The video demo portion is especially cool - they got the size down to 16% of the original and the quality looks darn good.
 
-![Screen shot from Onymos demo](http://static.raymondcamden.com/images/2016/03/onymos3.jpg)
+![Screen shot from Onymos demo](https://static.raymondcamden.com/images/2016/03/onymos3.jpg)
 
 The other big benefit of the Onymos Media plugin is the upload/search/download aspect. As I said above, you can upload media and store it either on their server or your own S3 bucket. The Upload API is pretty powerful. You can:
 

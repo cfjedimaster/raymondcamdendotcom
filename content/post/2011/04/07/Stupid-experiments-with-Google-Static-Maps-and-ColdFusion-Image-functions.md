@@ -64,7 +64,7 @@ And get...
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/gmap.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/gmap.png" />
 
 <p>
 
@@ -81,7 +81,7 @@ Not exactly art - but if you want to get fancy, you can download <a href="http:/
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/mapshad.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/mapshad.png" />
 
 <p>
 
@@ -97,7 +97,7 @@ Or even more silly...
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/mapref.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/mapref.png" />
 
 <p>
 

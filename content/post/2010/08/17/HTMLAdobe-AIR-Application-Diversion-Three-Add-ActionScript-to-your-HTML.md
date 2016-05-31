@@ -145,7 +145,7 @@ What we have here is a RSS parser, written in ActionScript, being used in an HTM
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/Capture12.PNG" title="Smell the awesomeness." />
+<img src="https://static.raymondcamden.com/images/Capture12.PNG" title="Smell the awesomeness." />
 
 <p>
 

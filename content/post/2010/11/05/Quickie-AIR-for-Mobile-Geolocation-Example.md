@@ -131,7 +131,7 @@ The application begins by running a call to my locate method. The code here is a
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/screen40.png" />
+<img src="https://static.raymondcamden.com/images/screen40.png" />
 
 <p>
 

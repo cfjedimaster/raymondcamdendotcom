@@ -204,21 +204,21 @@ So - the code - and again - this is a <strong>mess</strong> so don't consider th
 
 Ok - so what were the results like? In the following screen shot, 0.jpg represents the first image, which is at 20%, whereas 4.jpg represents the last one, at 100%. Note the file size differences:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot14.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot14.png" alt="shot1" width="864" height="258" class="alignnone size-full wp-image-6065" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot14.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot14.png" alt="shot1" width="864" height="258" class="alignnone size-full wp-image-6065" /></a>
 
 How about the quality? I'll include all the images as an attachment to this blog post, but let's focus on the 20% and 100%. I'm resizing these too of course. First, the 20%:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/0.jpg"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/0.jpg" alt="0" width="850" height="481" class="alignnone size-full wp-image-6066" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/0.jpg"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/0.jpg" alt="0" width="850" height="481" class="alignnone size-full wp-image-6066" /></a>
 
 And now the 100%:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/4.jpg"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/4.jpg" alt="4" width="850" height="481" class="alignnone size-full wp-image-6067" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/4.jpg"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/4.jpg" alt="4" width="850" height="481" class="alignnone size-full wp-image-6067" /></a>
 
 There seems to be a huge difference in the details of the wallpaper and the colors in the flowers. 
 
 Interestingly enough - the 80% is over one meg smaller despite being just 20% less quality. Obviously theres a lot of loss going on - but I think if you look at the 80% - it looks really good:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/3.jpg"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/3.jpg" alt="3" width="850" height="481" class="alignnone size-full wp-image-6068" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/3.jpg"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/3.jpg" alt="3" width="850" height="481" class="alignnone size-full wp-image-6068" /></a>
 
 Certainly this isn't an incredibly scientific test. I left my default camera settings on and each click was a new picture. Many things could have impacted the result - how I held the camera - small changes in light - ghosts, etc. For folks curious, I tested this with an HTC M8. If folks want, I can give the iPhone a try as well.
 

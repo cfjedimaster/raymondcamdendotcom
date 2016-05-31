@@ -32,4 +32,4 @@ The only tricky part I ran into was that in iOS the URL object is still prefixed
 
 But the end result is nearly the exact same functionality in a web page - no PhoneGap, no native code.
 
-<iframe width="600" height="450" src="http://www.youtube.com/embed/knU2SpymiaI?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="450" src="https://www.youtube.com/embed/knU2SpymiaI?rel=0" frameborder="0" allowfullscreen></iframe>

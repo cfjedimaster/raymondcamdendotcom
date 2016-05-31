@@ -27,15 +27,15 @@ app.use('/dropbox',express.directory('/Users/ray/Dropbox'));
 
 This let me map /dropbox in the browser path to my local Dropbox install. Here's how this is rendered by Express<sup>*</sup>.
 
-<img src="http://static.raymondcamden.com/images/ss1.png" />
+<img src="https://static.raymondcamden.com/images/ss1.png" />
 
 As you can see, it is nice, if somewhat minimal. You can click to browse into subfolders:
 
-<img src="http://static.raymondcamden.com/images/ss2.png" />
+<img src="https://static.raymondcamden.com/images/ss2.png" />
 
 The search field has a nice highlight effect, but is case-sensitive which seems like an odd choice:
 
-<img src="http://static.raymondcamden.com/images/ss3.png" />
+<img src="https://static.raymondcamden.com/images/ss3.png" />
 
 There are a few options you can use with the Directory middleware. One is icon support, but in my testing this was very poorly implemented. As far as I could tell it only supported PDFs. I appreciate the Adobe-love there, but it seems odd that other file types weren't recognized.
 
@@ -45,7 +45,7 @@ app.use('/dropbox',express.directory('/Users/ray/Dropbox',{icons:true}));
 
 And the result:
 
-<img src="http://static.raymondcamden.com/images/ss4.png" />
+<img src="https://static.raymondcamden.com/images/ss4.png" />
 
 Yet another option is the ability to filter the results. The docs don't tell you how to use this. I supplied a function to my options object and simply did a console.log(arguments) to see what was passed. 
 

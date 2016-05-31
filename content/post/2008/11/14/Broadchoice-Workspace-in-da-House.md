@@ -13,4 +13,4 @@ It's here. We did it. It's launched. After a <i>heck</i> of a lot of hard work, 
 
 Can I get an official ruling? Is it Miller Time? I think it is. (Of course, replace 'Miller' with a decent beer. :)
 
-<img src="http://static.raymondcamden.com/images//bc.jpg">
+<img src="https://static.raymondcamden.com/images//bc.jpg">

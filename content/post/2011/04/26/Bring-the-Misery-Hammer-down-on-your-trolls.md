@@ -184,9 +184,9 @@ This is fairly straightforward. My onApplicationStart creates an instance of mis
 <p>
 
 
-<a href="http://www.raymondcamden.com/demos/april262011/index.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/april262011/index.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/TROLLING_RE_The_Meme_Team-s600x750-97874.jpg" />
+<img src="https://static.raymondcamden.com/images/cfjedi/TROLLING_RE_The_Meme_Team-s600x750-97874.jpg" />

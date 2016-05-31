@@ -23,7 +23,7 @@ For this post, I'm going to speak specifically about <a href="http://ionicframew
 
 In general, that would work fine, but there's a way to make it even easier. As I mentioned, my buddy Carlos has been working on this issue and has already made something that will help quite a bit - a set of Ionic templates: <a href="https://github.com/csantanapr/mfp-ionic-templates">https://github.com/csantanapr/mfp-ionic-templates</a>. These templates make it easier to work with MobileFirst and Ionic. Assuming you've checked out the repo, you can simply provide the path to the repo when creating a new MobileFirst hybrid project:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot19.png" alt="shot1" width="750" height="229" class="aligncenter size-full wp-image-6669" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/08/shot19.png" alt="shot1" width="750" height="229" class="aligncenter size-full wp-image-6669" />
 
 Once you've created the project, you then need to initialize Ionic library values and other settings. Luckily Carlos made this easy - just run: <code>npm install</code>. This will read in the dependencies defined in package.json <i>and</i> run bower as well. (This means that Carlos didn't need to include a specific Ionic JavaScript library - you'll always get the latest.)
 
@@ -31,6 +31,6 @@ If you crack open the code, you'll see that app.js has been updated to include M
 
 Here's an incredibly cool animated Gif of the blank starter in action.
  
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/08/Untitled4.gif" alt="Untitled4" width="408" height="714" class="aligncenter size-full wp-image-6670" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/08/Untitled4.gif" alt="Untitled4" width="408" height="714" class="aligncenter size-full wp-image-6670" />
 
 And there you have it. Let me know what you think in the comments below!

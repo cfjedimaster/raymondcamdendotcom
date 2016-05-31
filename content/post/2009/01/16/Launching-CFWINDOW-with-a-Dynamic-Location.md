@@ -32,7 +32,7 @@ function makeWin(x,y) {
 And, um, that's it! I thought it would be a bit more complex. The +25 on both x and y will launch the window 25 pixels to the right and down from where you clicked. Adjust accordingly to taste.
 <p/>
 
-<img src="http://static.raymondcamden.com/images//pushedwin.png">
+<img src="https://static.raymondcamden.com/images//pushedwin.png">
 <p/>
 
 The complete template (minus win.cfm) is below:

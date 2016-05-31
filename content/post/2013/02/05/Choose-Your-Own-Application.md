@@ -21,4 +21,4 @@ Overall I absolutely loved it. It was easily one of the most fun tutorials I've 
 
 Anyway - check it out and let me know what you think.
 
-<img src="http://static.raymondcamden.com/images/Splash_Graphic_Launch.gif" />
+<img src="https://static.raymondcamden.com/images/Splash_Graphic_Launch.gif" />

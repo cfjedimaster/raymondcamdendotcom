@@ -9,7 +9,7 @@
 	"guid": "4018"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/mobile-phone-security-software.jpg" style="float:left;margin-right:5px" />This question came in via my <a href="http://www.raymondcamden.com/forums">forums</a> but I thought it would be great to bring it up here and reach a bigger audience. wolfee asked:
+<img src="https://static.raymondcamden.com/images/cfjedi/mobile-phone-security-software.jpg" style="float:left;margin-right:5px" />This question came in via my <a href="http://www.raymondcamden.com/forums">forums</a> but I thought it would be great to bring it up here and reach a bigger audience. wolfee asked:
 <br clear="left">
 
 <blockquote>

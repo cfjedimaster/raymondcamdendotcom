@@ -39,6 +39,6 @@ url:&lt;br&gt;
 
 The CFC method getslow did the same thing test3.cfm did. When I ran this I saw:
 
-<img src="http://static.raymondcamden.com/images/badloader.jpg">
+<img src="https://static.raymondcamden.com/images/badloader.jpg">
 
 As you can see, the CFC based one has no form of loading message while the URL one does. I could switch to a URL based CFC call, but this is rather odd. I can't see why one form of remote call would get a message and another would not.

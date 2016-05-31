@@ -18,7 +18,7 @@ In this first screen shot, note there are not any initial indicators that the fi
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot1a.png" class="bthumb" />
+<img src="https://static.raymondcamden.com/images/shot1a.png" class="bthumb" />
 </p>
 
 <p>
@@ -26,7 +26,7 @@ As soon as you click into the field, a downward triangle UI appears. This provid
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot2a.png" class="bthumb" />
+<img src="https://static.raymondcamden.com/images/shot2a.png" class="bthumb" />
 </p>
 
 <p>
@@ -34,7 +34,7 @@ At this point, you can click the triangle for a complete list:
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot3a.png" class="bthumb" />
+<img src="https://static.raymondcamden.com/images/shot3a.png" class="bthumb" />
 </p>
 
 <p>
@@ -42,7 +42,7 @@ That list is scrollable of course. Typing a few letters provides a shorter versi
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot4a.png" class="bthumb" />
+<img src="https://static.raymondcamden.com/images/shot4a.png" class="bthumb" />
 </p>
 
 <p>

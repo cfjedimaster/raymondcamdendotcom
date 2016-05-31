@@ -62,7 +62,7 @@ I didn't bother building out notreal.html since the important part is the form. 
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip231.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip231.png" />
 
 <p>
 
@@ -178,7 +178,7 @@ And the result:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip232.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip232.png" />
 
 <p>
 
@@ -218,7 +218,7 @@ Which gives us....
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip233.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip233.png" />
 
 <p>
 
@@ -255,7 +255,7 @@ And then step 3....
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip234.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip234.png" />
 
 <p>
 
@@ -286,7 +286,7 @@ And you like #session.regform.stuffilike#.
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip235.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip235.png" />
 
 <p>
 

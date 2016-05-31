@@ -57,6 +57,6 @@ I begin by doing a normal query. This grid isn't Ajax based, but that doesn't re
 
 I added the query column to the display, and that was it. I added a dump to the page so I could confirm the right ID was being passed. That's it really. Here is how the grid now renders:
 
-<img src="http://static.raymondcamden.com/images/grid.jpg">
+<img src="https://static.raymondcamden.com/images/grid.jpg">
 
 Again, I'm not quite sure this is "proper" usage of the grid, but it works!

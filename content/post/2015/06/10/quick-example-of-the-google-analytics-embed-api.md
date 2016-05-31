@@ -97,7 +97,7 @@ gapi.analytics.ready(function() {
 
 That's nice, right? As I said, when I was building my own Google Analytics mashup it was quite a bit more complex than this. Here is a screen shot of the result - don't forget you can see this, and other examples, on the <a href="https://ga-dev-tools.appspot.com/embed-api/">demo site</a> for the API.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/shot13.png" alt="shot1" width="470" height="397" class="aligncenter size-full wp-image-6289 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/06/shot13.png" alt="shot1" width="470" height="397" class="aligncenter size-full wp-image-6289 imgborder" />
 
 I've called out two things in the screen shot above. The first is the "You are logged in as" message. The Embed API does <strong>not</strong> let you remove this. You can change the text in front of the username, but even if you set the property to an empty string, the username will still show up. To me, this is useless information if I'm embedding in my site admin portal. And obviously the site picker itself is something we want to get rid of.
 
@@ -178,7 +178,7 @@ So what did I change?
 
 And that's it. Here is the result - which would make more sense in an admin portal of some kind but I assume you can use your imagination:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/06/shot22.png" alt="shot2" width="482" height="271" class="aligncenter size-full wp-image-6290" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/06/shot22.png" alt="shot2" width="482" height="271" class="aligncenter size-full wp-image-6290" />
 
 By the way, you can customize the chart quite a bit as well. For example, here is a modification that adds a simple animation as the chart loads:
 

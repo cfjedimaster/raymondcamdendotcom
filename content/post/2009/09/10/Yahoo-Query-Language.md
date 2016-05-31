@@ -45,7 +45,7 @@ select title,abstract,url from search.web(0,10) where query='coldfusion'
 
 The first query simply mimics the results of the blog entry. The second two perform searches. All three though return query objects just like the built in cfquery tag. Here is a quick screen shot from the first query:
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2009-09-10 at 5.19.05 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2009-09-10 at 5.19.05 PM.png" />
 
 The actual custom tag isn't too complex. Remember ColdFusion makes it simple to get content between tags:
 

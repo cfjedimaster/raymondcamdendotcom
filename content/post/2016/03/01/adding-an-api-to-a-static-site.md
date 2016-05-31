@@ -13,7 +13,7 @@ Ok, so I'm starting off this tutorial with something of a lie. By every *practic
 
 <!--more-->
 
-![Obi knows best](http://static.raymondcamden.com/images/2016/03/obi.jpg)
+![Obi knows best](https://static.raymondcamden.com/images/2016/03/obi.jpg)
 
 If you consider just the *read* aspect of an API, it is possible to create such a thing for a static site, but only if you ignore things like searching, filtering, or otherwise manipulating the data.
 
@@ -63,7 +63,7 @@ This is the standard way by which you can provide generic data for a Jekyll site
 
 And here it is on the site:
 
-<img src="http://static.raymondcamden.com/images/2016/03/ssg1.png" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2016/03/ssg1.png" class="imgborder">
 
 Yeah, not terribly pretty, but for a demo it will suffice. I could also create HTML pages for my products so you can click to view more information. (For Jekyll, that could be done by hand, or by using a generator to read the JSON file and automatically create the various detail pages.)
 
@@ -79,7 +79,7 @@ layout: null
 
 Yeah, that's it. So a few things. In order to have anything dynamic in a random page in Jekyll, you must use front matter. For me that was just fine as I wanted to ensure no layout was used for the file anyway. Jekyll also supports a `jsonify` filter that turns data into JSON. So basically I went from JSON to real data to JSON again, and it outputs just fine in my browser:
 
-<img src="http://static.raymondcamden.com/images/2016/03/ssg2.png" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2016/03/ssg2.png" class="imgborder">
 
 Of course, this assumes that my core data file matches, 100%, to what I want to expose to my "API". That may not work for every case. I could manually output the JSON by looping over my site data and picking and choosing what properties to output. Heck, I could even make new properties on the fly. For an example of this, see this Jekyll snippet: [JSONify your Jekyll Site](http://jekyllsnippets.com/excluding-jsonify-your-site/).
 

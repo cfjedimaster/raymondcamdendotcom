@@ -18,7 +18,7 @@ With all that being said, after recently helping someone out with a technical pr
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/vs1.jpg" />
+<img src="https://static.raymondcamden.com/images/vs1.jpg" />
 </p>
 
 <p>
@@ -30,7 +30,7 @@ The visuals in the game are incredible. This is an America that has gone wild ov
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/vs2.jpg" />
+<img src="https://static.raymondcamden.com/images/vs2.jpg" />
 </p>
 
 <p>

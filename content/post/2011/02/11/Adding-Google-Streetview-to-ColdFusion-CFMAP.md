@@ -78,4 +78,4 @@ So what changed? I begin by adding an event handler for my map. I can do it via 
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/feb112011/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/feb112011/test.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

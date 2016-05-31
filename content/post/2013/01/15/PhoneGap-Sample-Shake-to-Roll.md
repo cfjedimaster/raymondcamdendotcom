@@ -16,7 +16,7 @@ The idea behind the application was to demonstrate the <a href="http://docs.phon
 
 By itself, the API is easy enough to use. What I was having difficulty with was coming up with a practical example of it. I thought I'd create a simple application that mimicked rolling a die. I'd start off by selecting a random number between one and six. I'd display this on the screen like so.
  
-<img src="http://static.raymondcamden.com/images/screenshot55.png" />
+<img src="https://static.raymondcamden.com/images/screenshot55.png" />
 
 (What you're seeing here is the Ripple emulator. I plan on talking about this in a few days.) 
 

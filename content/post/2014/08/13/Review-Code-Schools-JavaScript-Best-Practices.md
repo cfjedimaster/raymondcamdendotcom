@@ -14,7 +14,7 @@ Yesterday evening I finally wrapped up Code School's <a href="http://campus.code
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/jsbp2.jpg" />
+<img src="https://static.raymondcamden.com/images/jsbp2.jpg" />
 </p>
 
 <p>

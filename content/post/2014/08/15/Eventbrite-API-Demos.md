@@ -20,7 +20,7 @@ Before making use of these demos yourself, you will want to get yourself an auth
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s118.png" />
+<img src="https://static.raymondcamden.com/images/s118.png" />
 </p>
 
 <p>
@@ -32,7 +32,7 @@ Once logged in, add a new app, and when done, make note of the OAuth token. My A
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s215.png" />
+<img src="https://static.raymondcamden.com/images/s215.png" />
 </p>
 
 <p>
@@ -154,7 +154,7 @@ Nothing special really. I just construct the URL and fire off the call. That UDF
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s3.jpg" />
+<img src="https://static.raymondcamden.com/images/s3.jpg" />
 </p>
 
 <p>
@@ -162,7 +162,7 @@ For the most part, this was simple, but the issue I ran into (and this is a repo
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s41.jpg" />
+<img src="https://static.raymondcamden.com/images/s41.jpg" />
 </p>
 
 <p>

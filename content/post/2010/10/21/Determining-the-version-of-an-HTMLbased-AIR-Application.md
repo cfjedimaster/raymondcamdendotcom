@@ -51,6 +51,6 @@ The application simply loads up the XML via the NativeApplication object. This i
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/screen21.png" />
+<img src="https://static.raymondcamden.com/images/screen21.png" />
 
 <p/>

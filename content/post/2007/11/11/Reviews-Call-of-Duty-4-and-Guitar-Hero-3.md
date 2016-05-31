@@ -22,7 +22,7 @@ The first thing you notice about the game is the level of detail. It is easily t
 Of course, pretty graphics aren't everything. The game play is awesome. After a kind of boring, but quick, training gig, you are put on a mission that is exciting as heck, and that's just the beginning. Every mission is incredibly intense. While you have some stealth portions, in general everything is one huge firefight. It's so quick, loud, and frentic that when things <i>do</i> slow down, you don't want to trust it. The game moves back and forth from Russia and Middle East, and each area is very well done (not that I've been to either place!). I can definitely recommend Call of Duty 4, just maybe not via Amazon. 
 
 
-<img src="http://static.raymondcamden.com/images/cd3.jpg">
+<img src="https://static.raymondcamden.com/images/cd3.jpg">
 
 <b>Guitar Hero 3</b><br />
 
@@ -30,4 +30,4 @@ Well, there isn't much to say about this one. I <i>really</i> enjoyed Guitar Her
 
 I kind of feel like I may be being overly negative. I really do recommend the game, but I don't think folks should expect anything revolutionary. Now, I will say the music selection is <b>much</b> better. There are some great songs in there, especially the punk songs. But I have to say - it is a bit ironic to play a song talking about white male corporate oppression on an XBox. Somehow I can't imagine Sonic Youth intending for legions of geeks to be playing plastic guitars to that tune.
 
-<img src="http://static.raymondcamden.com/images/cfjedi//gh1.jpg">
+<img src="https://static.raymondcamden.com/images/cfjedi//gh1.jpg">

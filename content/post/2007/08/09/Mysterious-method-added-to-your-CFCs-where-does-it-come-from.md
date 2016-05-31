@@ -11,7 +11,7 @@
 
 If you've been working with CFCs in ColdFusion 8, you may come across a mysterious method. Consider this screen shot from a CFC descriptor:
 
-<img src="http://static.raymondcamden.com/images/Picture%2011.png">
+<img src="https://static.raymondcamden.com/images/Picture%2011.png">
 
 Notice the method, _cffunccfthread_cftest2ecfc6414264711. What the heck is that? As may be able to guess, it has something to do with threading. Check out the source for my CFC:
 

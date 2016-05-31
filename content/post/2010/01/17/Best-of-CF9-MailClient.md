@@ -10,7 +10,7 @@
 	"guid": "3684"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" a style="float:left;margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry is the second to last entry. Slowly but surely we're getting there. One more and it will be time to judge! Today's entry comes from Adam Tuttle. Hits entry is entitled MailClient. It's a simple entry so the review won't be too long, but it's got a lot of interesting bits to it I think folks will want to take a closer look at. Before getting started, ensure you read the following.
+<img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" a style="float:left;margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry is the second to last entry. Slowly but surely we're getting there. One more and it will be time to judge! Today's entry comes from Adam Tuttle. Hits entry is entitled MailClient. It's a simple entry so the review won't be too long, but it's got a lot of interesting bits to it I think folks will want to take a closer look at. Before getting started, ensure you read the following.
 
 <br clear="left">
 <!--more-->
@@ -24,7 +24,7 @@ Because of CFaaS usage, be sure to create a user with the following credentials:
 
 One done, you should be able to run it as is. If everything worked ok, you'll get a nice little AIR window.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screenshotjan17.png" title="The Mail Window" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screenshotjan17.png" title="The Mail Window" />
 
 As you can see, this is a simple mail reader. It makes use of the CFaaS Pop service. It's using a 'throw away' account Adam set up, but you can modify the account details by editing MailController.as. It doesn't send yet, but it does show a simple example of reading mail via CFaaS. I'll also point out it makes use of <a href="http://swizframework.org/">Swiz</a>. I've fallen behind on recent updates to Swiz, but I <b>cannot stress enough</b> how darn helpful Swiz was in my Flex development. It's the number one thing I recommend for people who have gotten past the "Hello World" Flex development. 
 

@@ -24,7 +24,7 @@ Now, let's look at a simple front end. All this template needs to do is use Ajax
 
 Pretty simple - document loads - we do the Ajax request - and for now - not much else. But notice I dumped the data to the console. If you've never seen how a query comes across the wire in JSON, it consists of two parts: A COLUMNS array that is an array of columns. (Duh.) and a DATA array which is an array of arrays. The Nth item in each array represents the Nth item in the COLUMNS array.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip78.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip78.png" />
 
 (As a quick aside - you can return an alternative version of query data if you pass in an additional URL argument. It's different, but not much 'nicer' in terms of what we need to do here.)
 

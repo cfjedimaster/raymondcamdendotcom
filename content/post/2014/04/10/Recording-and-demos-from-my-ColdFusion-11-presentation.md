@@ -14,7 +14,7 @@ Thanks to the <a href="http://www.meetup.com/slcfug/">Salt Lake City UG</a> for 
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/cf11.png" />
+<img src="https://static.raymondcamden.com/images/cf11.png" />
 </p>
 
 <p>

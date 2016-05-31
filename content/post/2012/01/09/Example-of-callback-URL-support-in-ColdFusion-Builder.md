@@ -15,23 +15,23 @@ I know this isn't new - and I've blogged it before - but I thought it was cool s
 
 <b>Right click on a folder and select the extension...</b><br/>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip9.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip9.png" />
 
 <p>
 
 <b>Pick a project...</b><br/>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip10.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip10.png" />
 
 <p>
 
 <b>Browse to the one you want - note - we filter to projects with actual downloads</b><br/>
-<img src="http://static.raymondcamden.com/images/ScreenClip11.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip11.png" />
 
 <p>
 
 <b>Select one...</b><br/>
-<img src="http://static.raymondcamden.com/images/ScreenClip12.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip12.png" />
 
 <p>
 

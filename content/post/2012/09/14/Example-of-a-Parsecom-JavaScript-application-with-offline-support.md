@@ -34,7 +34,7 @@ That seemed simple enough, but I figured I might as well build a real demo just 
 
 I began by creating the layout for an application. Since the reader just mentioned a form, I built the entire application around one form. I decided to build a simple UFO Report Form. It has a field for the number of UFOs, your name, and the description. I didn't make use of any UI framework but instead directed my incredible design skills at the task.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip121.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip121.png" />
 
 Here's the HTML behind the form, just in case your curious:
 
@@ -74,11 +74,11 @@ Before we get into the synchronization aspect, here is resetForm. Again, it just
 
 I did some quick testing and confirmed it was working. I used Parse.com's online data browser first:
 
-<img src="http://static.raymondcamden.com/images/ScreenClip122.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip122.png" />
 
 I then tested offline storage. Chrome makes it easy to check since it has a database viewer built in:
 
-<img src="http://static.raymondcamden.com/images/ScreenClip123.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip123.png" />
 
 That's almost it. The final piece of the puzzle is handling uploading the database data. This turned out to be simple too. If we are online, we can run a SQL against the table. If anything exists, we upload it and remove it.
 

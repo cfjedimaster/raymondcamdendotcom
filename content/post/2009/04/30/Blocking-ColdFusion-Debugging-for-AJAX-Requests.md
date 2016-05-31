@@ -18,11 +18,11 @@ $("#response").load('reverse.cfm',{string:str})
 
 I took this line from the last InsideRIA <a href="http://www.insideria.com/2009/04/detecting-an-end-of-session-ev.html">blog entry</a> I wrote - basically it calls a ColdFusion service to reverse a string. If I enable ColdFusion debugging, the initial page looks likes so:
 
-<img src="http://static.raymondcamden.com/images//Picture 233.png">
+<img src="https://static.raymondcamden.com/images//Picture 233.png">
 
 But when I fire off an Ajax request to reverse the string, check what comes back:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 325.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 325.png">
 
 Yeah, that's so <i>not</i> hot. Luckily it is pretty easy to avoid. I've <a href="http://www.insideria.com/2009/04/jqueryserver-side-tip-on-detec.html">blogged</a> before about how you can sniff the request headers to check for an Ajax based request. The article focuses on jQuery, but <a href="http://blog.cutterscrossing.com/">Cutter</a> has assured me the same header exists in ExtJS. (Cutter did some more digging and he believes most JS framework peeps are standardizing on it.)
 

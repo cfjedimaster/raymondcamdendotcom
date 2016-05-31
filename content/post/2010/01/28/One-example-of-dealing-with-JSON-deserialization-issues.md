@@ -17,7 +17,7 @@ The reader was dealing with JSON returned from Facebook. This JSON packet contai
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-01-28 at 5.19.16 PM.png" title="Screen shot of JSON issue" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-01-28 at 5.19.16 PM.png" title="Screen shot of JSON issue" />
 
 <p>
 
@@ -45,7 +45,7 @@ Notice that the end of my regex matches either a comma or a } to handle it being
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-01-28 at 5.22.59 PM.png" title="Regex to the rescue - again" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-01-28 at 5.22.59 PM.png" title="Regex to the rescue - again" />
 
 <p>
 

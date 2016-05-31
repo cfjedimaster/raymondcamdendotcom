@@ -21,7 +21,7 @@ Pretending for a moment that the chart isn't static, how could we highlight the 
 
 You've probably never seen this before in a ColdFusion chart, but the code should be simple enough to understand. Here is the result:
 
-<img src="http://static.raymondcamden.com/images/screenshot18.png" />
+<img src="https://static.raymondcamden.com/images/screenshot18.png" />
 
 Here is another example - this time flagging products with sales below a threshold:
 
@@ -29,7 +29,7 @@ Here is another example - this time flagging products with sales below a thresho
 
 And the result:
 
-<img src="http://static.raymondcamden.com/images/screenshot19.png" />
+<img src="https://static.raymondcamden.com/images/screenshot19.png" />
 
 The next example I showed demonstrated the preview and zoom features. The preview feature will display a miniature version of the chart and provide simple controls for 'focusing' in on one portion. Zooming works much the same way but is mouse driven. The code is still relatively simple:
 

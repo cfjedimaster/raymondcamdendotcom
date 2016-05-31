@@ -32,7 +32,7 @@ Here is a screen shot showing it in action. And yes - this could be rendered a b
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/ss12.png" />
+<img src="https://static.raymondcamden.com/images/ss12.png" />
 </p>
 
 <p>
@@ -44,5 +44,5 @@ Check it out. Again, you can grab the source over on GitHub (<a href="https://gi
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s25.png" />
+<img src="https://static.raymondcamden.com/images/s25.png" />
 </p>

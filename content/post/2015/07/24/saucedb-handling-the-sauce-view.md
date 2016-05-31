@@ -38,7 +38,7 @@ In today's update, I'm building the "Sauce view", or what you see when you click
 
 Unlike the call I did to get reviews, I'm not modifying the result. In theory, this is kind of bad because I'm passing data back to the client that i don't need, specifically a <code>_rev</code> key that my front-end doesn't need:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot19.png" alt="shot1" width="606" height="326" class="aligncenter size-full wp-image-6531" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot19.png" alt="shot1" width="606" height="326" class="aligncenter size-full wp-image-6531" />
 
 But for now, I don't care. I just mention it as something to consider. JSON is small, and Ajax is awesome, but we still shouldn't be wasteful about the crap we send back and forth, right?
 
@@ -65,6 +65,6 @@ On the client-side, the change was simpler. Here is the getSauce method:
 
 Finally, I can run this baby in the emulator and see my live data:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-24-2015-8.51.38-AM.png" alt="iOS Simulator Screen Shot Jul 24, 2015, 8.51.38 AM" width="450" height="800" class="aligncenter size-full wp-image-6532 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/iOS-Simulator-Screen-Shot-Jul-24-2015-8.51.38-AM.png" alt="iOS Simulator Screen Shot Jul 24, 2015, 8.51.38 AM" width="450" height="800" class="aligncenter size-full wp-image-6532 imgborder" />
 
 Ok, that's it for now. Don't forget you can see the complete source code here: <a href="https://github.com/cfjedimaster/SauceDB">https://github.com/cfjedimaster/SauceDB</a>. Next, I'm going to try building the Add Sauce view. This will require a valid login as well as security on the Node side.

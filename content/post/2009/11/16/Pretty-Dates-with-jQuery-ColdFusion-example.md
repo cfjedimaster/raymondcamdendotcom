@@ -12,11 +12,11 @@
 
 Just a quick note here to share a jQuery plugin that <a href="http://www.cfsilence.com/">Todd Sharp</a> shared with me: <a href="http://bassistance.de/jquery-plugins/jquery-plugin-prettydate/">Prettydate</a>. Prettydate takes dates (which you would hide within your DOM) and formats them in a more generic "time since.." form. So for example, a date within a few seconds will post as "just now", whereas an entry a few minutes old will display as "5 minutes old." The plugin supports dates up to one month old and will automatically update while your users look at a page. This creates a cool effect. They may initially see:
 <p>
-<img src="http://static.raymondcamden.com/images/pd1.png" />
+<img src="https://static.raymondcamden.com/images/pd1.png" />
 <p>
 But within a few minutes this will be:
 <p>
-<img src="http://static.raymondcamden.com/images/cfjedi/pd2.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/pd2.png" />
 <p>
 I created a quick ColdFusion script that demonstrates this. The one thing you have to remember is that you must convert the dates to ISO8601 format. In the following example I've used hard coded dates but obviously you could get this data from a database:
 <p>

@@ -152,4 +152,4 @@ You can ignore the SQL and most of the formatting. Focus on the fact that I've g
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/2011/nov/3/test3.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2011/nov/3/test3.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

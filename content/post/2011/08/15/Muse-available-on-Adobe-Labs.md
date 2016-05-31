@@ -17,7 +17,7 @@ Muse (codename) enables designers to create websites as easily as creating a lay
 
 Now - I know that is <b>not</b> something that will probably interest most of my readers. I definitely have a more developer-heavy crowd then designer. However, I do think you should check out Muse anyway. Why? It's an AIR-based application and easily one of the most impressive ones I've ever seen. The site tree, for example, works really well. 
 
-<img src="http://static.raymondcamden.com/images/ScreenClip153.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip153.png" />
 
 The design aspect feels pretty powerful too. You can drag and drop widgets in that tie into data (for example, a menu that links to your site plan) or your file system. The output HTML is kinda clean too. 
 

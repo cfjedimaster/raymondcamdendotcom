@@ -69,7 +69,7 @@ So what's going on here? Remember that we use a special folder in the virtual fi
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-03-29 at 6.26.26 PM.png" title="Cool screenshot." />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-03-29 at 6.26.26 PM.png" title="Cool screenshot." />
 
 <p/>
 

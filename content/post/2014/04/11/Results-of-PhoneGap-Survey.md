@@ -18,7 +18,7 @@ First up - what version of Cordova are you using.
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot18.png" />
+<img src="https://static.raymondcamden.com/images/shot18.png" />
 </p>
 
 <p>
@@ -26,7 +26,7 @@ I expected to see a set of folks still on 2.9.X as the 3.X change was big, and t
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot28.png" />
+<img src="https://static.raymondcamden.com/images/shot28.png" />
 </p>
 
 <p>
@@ -34,7 +34,7 @@ Pretty much the same thing. No surprise there. Next I asked how quickly folks up
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot35.png" />
+<img src="https://static.raymondcamden.com/images/shot35.png" />
 </p>
 
 <p>
@@ -66,7 +66,7 @@ I saw a bunch of remarks about plugins. Some of these were for things out of our
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen-Shot-2014-04-11-at-14.38.20.jpg" />
+<img src="https://static.raymondcamden.com/images/Screen-Shot-2014-04-11-at-14.38.20.jpg" />
 </p>
 
 <p>

@@ -19,7 +19,7 @@ The first thing I did was inspect the element. Here is a screen shot from my own
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-10-28 at 3.36.47 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-10-28 at 3.36.47 PM.png" />
 </p>
 
 <p>
@@ -27,7 +27,7 @@ As soon as I did this - I discovered an onclick event in the link. This wasn't i
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-10-28 at 3.37.07 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-10-28 at 3.37.07 PM.png" />
 </p>
 
 <p>
@@ -35,7 +35,7 @@ Cool. I selected "Attributes Modifications". At this point, Chrome will try to m
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-10-28 at 3.48.27 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-10-28 at 3.48.27 PM.png" />
 </p>
 
 <p>
@@ -43,7 +43,7 @@ Boom. So, I reran my page, and bingo, it showed up right away. Unfortunately, th
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-10-28 at 3.50.03 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-10-28 at 3.50.03 PM.png" />
 </p>
 
 <p>

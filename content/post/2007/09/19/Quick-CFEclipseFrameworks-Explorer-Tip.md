@@ -15,7 +15,7 @@ While this makes the XML a lot easier to read, it confuses the framework explore
 
 Turns out there is a simple solution. I just needed to right click on my included XML file, select CF Frameworks, and then Set/Unset as Configuration file:
 
-<img src="http://static.raymondcamden.com/images/cfe.png">
+<img src="https://static.raymondcamden.com/images/cfe.png">
 
 In the drop down, select Model-Glue. Then in the frameworks explorer window, hit the Refresh button. Your XML file will now show up as a Model-Glue config file you can browse. 
 

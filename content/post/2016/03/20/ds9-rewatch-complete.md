@@ -20,7 +20,7 @@ So what did I like...
 
 The Ferengi, which were barely used in TNG, really shined here. Most of the time there were played for comedic effect, and that was fine, but I loved how much attention they got as a race. Quark, especially, was a great character. The interaction between him and Odo was great to see over the years. But my favorite Ferengi was Nog. 
 
-![Nog](http://static.raymondcamden.com/images/2016/03/nog.jpg)
+![Nog](https://static.raymondcamden.com/images/2016/03/nog.jpg)
 
 During my rewatch of TNG, I paid special attention to Crusher's character. Mainly because everyone seemed to hate him and I wanted to know why. While he was a bit annoying at times, I honestly felt like I would have been the exact same in his position. Given a chance to join Star Fleet, I would have been just as eager as Crusher. 
 
@@ -28,19 +28,19 @@ Nog reminded me a lot of Crusher, but while Crusher was eager, Nog was completel
 
 On the flip side, the Cardassians were great too. They were evil, but... stylish. Nothing like the Klingons or Romulans, they had a way about them that made them a joy to watch. I actually felt a bit sorry for them when they joined the Dominion. You just knew they were going to be crapped upon and would end up regretting it, and of course that's exactly how things ended up. 
 
-![Vorta](http://static.raymondcamden.com/images/2016/03/vorta.jpg)
+![Vorta](https://static.raymondcamden.com/images/2016/03/vorta.jpg)
 
 Speaking of the Dominion, I thought the Vorta were really interesting as well. There was one episode where a Vorta and Cardassian were confronting Sisko I believe. The Cardassian was being very aggressive, and Sisko was having none of it. If you watch closely, the Vorta is actually watching the Cardassian instead of Sisko. He's watching him with a look in his eyes like he *wants* the Cardassian to lose the argument. He is actually enjoying seeing his ally lose the argument. Now it becomes obvious later that this is probably how the Dominion operate, pitting one of their races against an another, but it is a subtle effect and so well done in the show. 
 
 Oh, and I was happy as hell that someone recognized that Worf was one of the best parts of TNG and found a way to get him on the show. As before, he had some of the funniest lines, but even more interesting was to see him in comparison to the other Klingons. 
 
-![Worf](http://static.raymondcamden.com/images/2016/03/worf.jpg)
+![Worf](https://static.raymondcamden.com/images/2016/03/worf.jpg)
 
 When rumors of a new television series were being thrown around, at least one of them involved the idea of a show with Worf as the captain, and frankly, I think that would be a damn good idea. 
 
 So was there anything I didn't like? Not really. I seem to remember one episode in season six that I thought was a bit crap, but it mainly stood out as the rare exception. I can say that I thought it was odd that the main computer system of the station devoted something like 50% of the visible screen space to some weird circle UI. Here's an example:
 
-![WTF?](http://static.raymondcamden.com/images/2016/03/ds92.jpg)
+![WTF?](https://static.raymondcamden.com/images/2016/03/ds92.jpg)
 
 I mean look at that - at least 50% of the available space is wasted. Who in the heck designed a UI like that?
 

@@ -169,4 +169,4 @@ The next change is to the FileTransfer object. I have to add a header with the t
 
 And voila - that's it. 
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/Simulator-Screen-Shot-Nov-13-2015-10.51.51-AM.png" alt="Simulator Screen Shot Nov 13, 2015, 10.51.51 AM" width="394" height="700" class="aligncenter size-full wp-image-7102 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/11/Simulator-Screen-Shot-Nov-13-2015-10.51.51-AM.png" alt="Simulator Screen Shot Nov 13, 2015, 10.51.51 AM" width="394" height="700" class="aligncenter size-full wp-image-7102 imgborder" />

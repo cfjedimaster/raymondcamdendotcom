@@ -13,7 +13,7 @@ Using the new mail.cfc to send emails in ColdFusion 9? You may notice an odd for
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-08-28 at 10.39.31 AM.png" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-08-28 at 10.39.31 AM.png" />
 
 <p>
 
@@ -50,4 +50,4 @@ This fixes it up. You still get some whitespace <i>after</i> the message, but th
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-28 at 10.42.49 AM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-28 at 10.42.49 AM.png" />

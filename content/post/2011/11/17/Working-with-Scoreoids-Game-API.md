@@ -24,7 +24,7 @@ To test the service out, I decided to build a very simple game. I called it OCD 
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip227.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip227.png" />
 
 <p/>
 
@@ -32,7 +32,7 @@ After entering your username, the game screen is presented.
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip228.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip228.png" />
 
 <p/>
 
@@ -40,7 +40,7 @@ To play the game, you just click the button. That's it.
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip229.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip229.png" />
 
 <p/>
 
@@ -347,7 +347,7 @@ Here's an example of their basic stats:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip230.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip230.png" />
 
 <p>
 

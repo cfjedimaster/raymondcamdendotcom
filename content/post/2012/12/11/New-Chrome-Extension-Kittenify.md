@@ -12,7 +12,7 @@
 
 I had an hour to kill this morning before a day of meetings, so I built a new Chrome extension - <a href="https://chrome.google.com/webstore/detail/kittenify/nbjopbciknbclbhneogialmaibjkcnen">Kittenify</a>. While not exactly rocket science, it simply takes all the images in a page and replaces them with calls to <a href="http://placekitten.com">placekitten.com</a>. As an example:
 <!--more-->
-<img src="http://static.raymondcamden.com/images/screenshot46.png" />
+<img src="https://static.raymondcamden.com/images/screenshot46.png" />
 
 Stupid, I know. ;) But it did answer one question I had about Chrome extensions. In the docs I saw, there is always an HTML page tied to the click event of icons in the browser UI. I wasn't sure how to simply run random JavaScript code on the click event. Turns out it is rather simple.
 

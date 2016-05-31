@@ -17,7 +17,7 @@ After speaking to a few other people in the community, it seems like there is a 
 
 3) So how do you upgrade? Unfortunately, you cannot use Eclipse's built in tools to update. You have to redownload the code from our site. How? Just download the trial again:
 
-<img src="http://static.raymondcamden.com/images/ScreenClip94.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip94.png" />
 
 I <i>thought</i> you had to uninstall the previous version, but <a href="http://www.carehart.org/blog">Charlie Arehart</a> let me know that you do not need to do this. The installer will recognize the previous install and upgrade it.
 

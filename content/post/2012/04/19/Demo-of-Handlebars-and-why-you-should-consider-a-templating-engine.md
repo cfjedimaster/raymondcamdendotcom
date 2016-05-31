@@ -60,4 +60,4 @@ Ok. Time to kick it up a notch. Many moons ago <a href="http://www.12robots.com/
 
 This application uses JSON/P and the ComicVine API to let you search against their character database. A good search string is "spider". Obviously it doesn't have <i>everything</i> in there, but it's fun to see what's there. Oh yeah - be sure to search for "Beyonder" - the best thing to come out of Marvel in the 80s. You can demo this here:
 
-<a href="http://raymondcamden.com/demos/2012/apr/19/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://raymondcamden.com/demos/2012/apr/19/"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

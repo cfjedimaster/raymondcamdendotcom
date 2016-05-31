@@ -43,7 +43,7 @@ The Google Analytics number came from, well, Google Analytics of course. I creat
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/screenshot82.png" />
+<img src="https://static.raymondcamden.com/images/screenshot82.png" />
 </p>
 
 <p>
@@ -55,7 +55,7 @@ And waited some more.
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/stillwaiting.png" />
+<img src="https://static.raymondcamden.com/images/stillwaiting.png" />
 </p>
 
 <p>
@@ -79,7 +79,7 @@ So.... yeah... that's frustrating. I created a new GA site, put in a fake URL as
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/screenshot83.png" />
+<img src="https://static.raymondcamden.com/images/screenshot83.png" />
 </p>
 
 <p>
@@ -87,7 +87,7 @@ Surprisingly - or maybe I shouldn't be surprised - the geo data was right as wel
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/screenshot84.png" />
+<img src="https://static.raymondcamden.com/images/screenshot84.png" />
 <p>
 
 <p>
@@ -95,7 +95,7 @@ That orange blob isn't <i>terribly</i> accurate, but I do live inside of it. Act
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/screenshot85.png" />
+<img src="https://static.raymondcamden.com/images/screenshot85.png" />
 </p>
 
 <p>
@@ -103,7 +103,7 @@ If I had to guess, I'd say it took about one hour before data showed up in the n
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/screenshot86.png" />
+<img src="https://static.raymondcamden.com/images/screenshot86.png" />
 </p>
 
 <p>

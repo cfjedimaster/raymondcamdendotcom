@@ -14,7 +14,7 @@ If you use cfindex to parse a directory of files, you should be aware of a serio
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/s117.png" />
+<img src="https://static.raymondcamden.com/images/s117.png" />
 </p>
 
 <p>
@@ -50,7 +50,7 @@ As a general FYI, "silent fail" is something that should never, ever, be done. I
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/SAM_3213.JPG" /><br/>
+<img src="https://static.raymondcamden.com/images/SAM_3213.JPG" /><br/>
 <i>Image credit: <a href="http://adashofflavour.blogspot.com/2010/08/mushy-peas.html">http://adashofflavour.blogspot.com/2010/08/mushy-peas.html</a></i>
 </p>
 

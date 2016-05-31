@@ -132,4 +132,4 @@ You can test this yourself below. Any comments?
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/march132011/index2.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/march132011/index2.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

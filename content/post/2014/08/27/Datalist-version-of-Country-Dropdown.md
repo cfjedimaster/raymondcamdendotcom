@@ -52,7 +52,7 @@ And yeah - this works - but the UX is not terribly optimal. At minimum the US sh
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen Shot 2014-08-27 at 4.08.41 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2014-08-27 at 4.08.41 PM.png" />
 </p>
 
 <p>
@@ -102,7 +102,7 @@ The result is a bit nicer I think.
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen Shot 2014-08-27 at 4.14.39 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2014-08-27 at 4.14.39 PM.png" />
 </p>
 
 <p>

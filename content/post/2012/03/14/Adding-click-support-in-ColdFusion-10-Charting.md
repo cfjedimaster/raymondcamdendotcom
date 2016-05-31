@@ -114,7 +114,7 @@ This is the result:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip43.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip43.png" />
 
 <p>
 
@@ -179,7 +179,7 @@ You can demo this yourself by clicking the lovely demo button below. I've also i
 <p>
 
 
-<a href="http://fivetag-cf10beta.securecb1cf10.ezhostingserver.com/charting/test8.cfm"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://fivetag-cf10beta.securecb1cf10.ezhostingserver.com/charting/test8.cfm"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

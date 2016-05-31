@@ -21,11 +21,11 @@ To make this even more crazy, when I commented out that part of the code, it <st
 
 Here is an example:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-9.07.23-AM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-9.07.23-AM.png" alt="Screen Shot 2014-12-10 at 9.07.23 AM" width="593" height="466" class="alignnone size-full wp-image-5429" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-9.07.23-AM.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-9.07.23-AM.png" alt="Screen Shot 2014-12-10 at 9.07.23 AM" width="593" height="466" class="alignnone size-full wp-image-5429" /></a>
 
 I reloaded his page, submitted the form, and as expected, the browser paused. Here is a sample of what that looks like:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/Screen_Shot_2014-12-10_at_9_08_04_AMmod.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2014/12/Screen_Shot_2014-12-10_at_9_08_04_AMmod.png" alt="Screen_Shot_2014-12-10_at_9_08_04_AMmod" width="840" height="334" class="alignnone size-full wp-image-5430" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/Screen_Shot_2014-12-10_at_9_08_04_AMmod.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2014/12/Screen_Shot_2014-12-10_at_9_08_04_AMmod.png" alt="Screen_Shot_2014-12-10_at_9_08_04_AMmod" width="840" height="334" class="alignnone size-full wp-image-5430" /></a>
 
 I've added a few callouts to the screen shot to make it a bit more obvious. The lowest callout is just a nice message from the Dev Tools saying why it fired. It may be obvious, but I dug that. The second call out is the crucial one. It is telling me exactly what script/code modified my DOM. In his code (the screen shots above are just from a local sample), it was actually <i>another</i> piece of code loaded by the template. It was a generic forms handler plugin that had <i>also</i> listened in for the form submit and was modifying the DOM. I had no idea this was even being used on the site until I tried this particular type of debugging.
 

@@ -37,4 +37,4 @@ And here is a weather example:
 
 And the result:
 
-<img src="http://static.raymondcamden.com/images/Picture 187.png" />
+<img src="https://static.raymondcamden.com/images/Picture 187.png" />

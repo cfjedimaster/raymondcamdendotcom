@@ -24,23 +24,23 @@ Parse's set up is slightly more complex so the rest of the entry will focus on t
 
 First, navigate over to the Parse <a href="https://parse.com/#signup">signup</a>.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip131.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip131.png" />
 
 Note that signup is 100% free and doesn't require a credit card. After signing up, you are immediately dropped into a form to create a new application:
 
-<img src="http://static.raymondcamden.com/images/ScreenClip132.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip132.png" />
 
 Now this part is a bit odd - after naming your first application, you get brought back to the main Parse site. Just click the Dashboard link, which will bring you to a listing of your apps - all one of them:
 
-<img src="http://static.raymondcamden.com/images/ScreenClip133.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip133.png" />
 
 Click the application and you're brought into the detail view of the application. Here you will want to make note of the keys to the left. There are two important values here, the Application ID and the JavaScript Key.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip134.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip134.png" />
 
 You won't need them just yet, but keep in mind where they are. Finally, click Downloads.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip135.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip135.png" />
 
 You will be interested in the JavaScript section. Development links to a readable copy of the JavaScript API whereas Production leads to the minified version. The blank project isn't necessarily blank. It actually has a bit of CSS and some code that automatically creates an object for you. You want to grab the minified version of the JavaScript library and drop it into a new folder.
 

@@ -26,15 +26,15 @@ I was convinced that this wasn't the case in ColdFusion 6 and higher, but I whip
 
 This should increment a session variable named hits. If I add clear=1 to the URL it will clear the entire session. I ran this code a few times and confirmed it worked fine:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 130.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 130.png">
 
 I then added clear=1 and got:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 218.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 218.png">
 
 So it looks like the special variables are definitely cleared. However, the code had no problem setting hits back to 0 and then adding one to it. But get this - I reloaded without clear=1 in the URL and got:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 315.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 315.png">
 
 Notice that urltoken is returned but not cfid, cftoken, or sessionid. Also notice that urltoken is right. It has the same cfid/cftoken values from before. So is my session screwed? It seems not. If I used cfid/cftoken/sessionid in my code though it would certainly fail (unless I parsed apart session.urltoken). 
 

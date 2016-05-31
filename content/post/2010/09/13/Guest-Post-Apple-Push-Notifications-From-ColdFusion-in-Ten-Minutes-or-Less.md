@@ -29,7 +29,7 @@ The first thing you need to do is enable APNs (development, production of both) 
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-09-10 at 3.55.23 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-09-10 at 3.55.23 PM.png" />
 
 <p/>
 
@@ -37,7 +37,7 @@ Then you'll need to export the certificate (option-click the certificate) as a P
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/s21.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/s21.png" />
 <p/>
 
 Enabling push notifications within the iOS app itself is really easy.  You'll need to register the app for push notifications...
@@ -114,7 +114,7 @@ Voila!  Push notifications!  I had already stubbed out some methods related to p
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Voila.PNG" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Voila.PNG" />
 
 <p/>
 

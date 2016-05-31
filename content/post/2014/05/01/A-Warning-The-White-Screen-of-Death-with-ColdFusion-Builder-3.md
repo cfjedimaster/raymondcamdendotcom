@@ -22,7 +22,7 @@ So as I was saying - I needed to build an extension - and they prefer web root. 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/wall.jpg" />
+<img src="https://static.raymondcamden.com/images/wall.jpg" />
 </p>
 
 <p>

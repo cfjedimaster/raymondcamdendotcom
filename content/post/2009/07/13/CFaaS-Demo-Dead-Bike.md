@@ -12,7 +12,7 @@
 
 One of the cool new features of ColdFusion 9 is CFaaS, or ColdFusion as a Service. I'll be honest, I hate the abbreviation. It makes me think of a disease. But - I'll get over it since the feature itself is so impressive. During the ColdFusion Meetup (recording <a href="http://experts.na3.acrobat.com/p53217737/">here</a>), ColdFusion Evangelist Terry Ryan demonstrated using CFDOCUMENT remotely via Flex. In his demo, he enters some text, clicks a button, and gets the URL to download a PDF. This reminded me that many moons ago, earlier in the ColdFusion 9 beta, I had created a simple demo called DeadBike. (I'll buy you a beer at CFUNITED if you can guess why.) Here is a quick video showing it in action (clicking will take you to a full screen view, so I'd recommend 'open in new tab'):
 
-<a href="http://screencast.com/t/1VUtdwZmwY"><img src="http://static.raymondcamden.com/images//Picture 172.png"></a>
+<a href="http://screencast.com/t/1VUtdwZmwY"><img src="https://static.raymondcamden.com/images//Picture 172.png"></a>
 
 So the code behind this is very similar to what Terry showed. Note that I've been lazy and hard coded all the security information within Flex.
 

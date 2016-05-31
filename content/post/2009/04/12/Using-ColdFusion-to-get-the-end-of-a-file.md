@@ -31,7 +31,7 @@ I begin by creating a variable, l, that points to my file. Next, I use a loop to
 
 Once done, I create a new array, tail, and populate it by reading backwards from the larger array. When done you get a nice array of lines representing the end of the file.
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 230.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 230.png">
 
 The file I used was a bit large, 13 megs, so the operation takes a few seconds to run. Could we do it quicker? In the dusty, foggy part of my brain I remember using some Java about 10 years ago to read in the file backwards. I did some digging in the API docs and figured out that I probably needed <a href="http://java.sun.com/j2se/1.5.0/docs/api/java/io/RandomAccessFile.html">RandomAccessFile</a>. It lets you seek to any position in a file and read in data. Using that, I wrote up a simple UDF that seeks, and then steps back one character a time. This is not very safe - I should probably try/catch the read, but it seemed to work well enough.
 
@@ -69,6 +69,6 @@ function tailFile(filename) {
 
 What was interesting was the speed comparison. Using cftimer, I checked them both. Check out the results:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 322.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 322.png">
 
 Pretty significant difference there. (And yes, that's <a href="http://coldfire.riaforge.org">ColdFire</a> in action there.)

@@ -13,7 +13,7 @@ Yes. Done. End of post. See ya. Ok - bad joke. Let me be a bit more verbose. Ear
 <!--more-->
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip115.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip115.png" />
 
 <p>
 

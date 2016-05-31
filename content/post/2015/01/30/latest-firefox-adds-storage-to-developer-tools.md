@@ -13,19 +13,19 @@ I try to keep track of what all the browsers add to their developer tools, but s
 
 <!--more-->
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/ff1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/01/ff1.png" alt="ff1" width="616" height="502" class="alignnone size-full wp-image-5608" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/ff1.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/01/ff1.png" alt="ff1" width="616" height="502" class="alignnone size-full wp-image-5608" /></a>
 
 Once added, and selected, you will then get the ability to view cookies, IndexedDB databases, and Local and Session Storage. (No WebSQL since Firefox doesn't support it.)
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/ff2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/01/ff2.png" alt="ff2" width="440" height="558" class="alignnone size-full wp-image-5609" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/ff2.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/01/ff2.png" alt="ff2" width="440" height="558" class="alignnone size-full wp-image-5609" /></a>
 
 Expanding the IDB section, you can browse the structure of local databases:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/ff3.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/01/ff3.png" alt="ff3" width="750" height="242" class="alignnone size-full wp-image-5610" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/ff3.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/01/ff3.png" alt="ff3" width="750" height="242" class="alignnone size-full wp-image-5610" /></a>
 
 And when you click an object store, you will see a list of data. If you click one row, you get details:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/ff4.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/01/ff4.png" alt="ff4" width="750" height="242" class="alignnone size-full wp-image-5611" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/ff4.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/01/ff4.png" alt="ff4" width="750" height="242" class="alignnone size-full wp-image-5611" /></a>
 
 This will be very handy for folks working with local data. (And reminds me I need to give my presentation on this topic again!)
 

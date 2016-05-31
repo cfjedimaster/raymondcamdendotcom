@@ -9,23 +9,23 @@
 	"guid": "3646"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's entry is cf_ext_navbar. It was submitted by Andrew Duval and reviewed by Todd Sharp. Todd's review is below in it's entirety with no editing from me. Thanks Andrew and Todd!
+<img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's entry is cf_ext_navbar. It was submitted by Andrew Duval and reviewed by Todd Sharp. Todd's review is below in it's entirety with no editing from me. Thanks Andrew and Todd!
 
 This contest entry is called CF_EXT_NAVBAR'and was created by Andrew Duvall and is an example of how to utilize the Ext3 JavaScript library included with ColdFusion 9.  Many developers were thrilled when they learned that the Ext libraries that power the ColdFusion Ajax and UI widgets was being upgraded to the most recent version of the popular framework because there were a number of significant upgrades since the launch of ColdFusion 8 which bundled Ext 1.0.  Andrew's entry demonstrates the required libraries and scripts to create a "navbar" widget.
 
 When I first ran the entry I had the same reaction that I usually have when I see Ext widgets - "wow, that's pretty cool looking." Here's what the entry looks like:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/1.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/1.png" />
 
 My next step was to load up the code in ColdFusion Builder and once I got that done I loaded the entry up in the internal browser so I could have a peek at the code and the entry at the same time.  Unfortunately what I saw in the internal browser wasn't so pretty:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/2.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/2.png" />
 
 Turns out my default browser in CF Builder was set to IE and since IE can't render HTML properly like every other browser on earth there was a bit of a problem.  To be fair to Andrew, I'm sure this isn't his fault.  What surprises me is that the Ext folks never caught this issue with the navbar in IE.
 
 At this point I had the same second thought that I always do when I see Ext widgets - "I wonder how many scripts had to be imported just to create a simple navbar?"   I opened up Firebug and took a look:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/3.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/3.png" />
 
 I was pretty shocked to see 590 KB of scripts and images for a simple navbar widget especially since my local environment uses gzip compression on scripts.  The majority (519KB out of 590KB) of that bloat does come from a single  file – 'ext-all-debug.js' which I'm pretty sure is the core Ext library (and is actually 2.5MB before being gzip'd).    I swapped out the 'ext-all-debug.js' for the minified 'ext-all.js' and the total script size dropped down to 238 KB – much easier to swallow (but still pretty large for a simple navbar in my opinion).  The fact that about 99% of the scripts and images are served from cache on subsequent page requests makes all of this a bit irrelevant if you were creating a full blown application but it's something to keep in mind if you're thinking of just dropping in a simple widget on a page somewhere.
 

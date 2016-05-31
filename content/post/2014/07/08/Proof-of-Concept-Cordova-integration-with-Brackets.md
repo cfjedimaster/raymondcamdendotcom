@@ -19,7 +19,7 @@ The extension relies on the Cordova CLI to exist, so keep that in mind, and it a
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/13.png" />
+<img src="https://static.raymondcamden.com/images/13.png" />
 </p>
 
 <p>
@@ -27,7 +27,7 @@ It is a bit hard to see, but the icon is grayscale. Switching to a Cordova proje
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/23.png" />
+<img src="https://static.raymondcamden.com/images/23.png" />
 </p>
 
 <p>
@@ -35,7 +35,7 @@ Clicking the icon opens up a bottom panel with two tabs: Platforms and Plugins. 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/31.png" />
+<img src="https://static.raymondcamden.com/images/31.png" />
 </p>
 
 <p>
@@ -47,7 +47,7 @@ The next tab is Plugins. This will allow you to list, remove, and add plugins. C
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/41.png" />
+<img src="https://static.raymondcamden.com/images/41.png" />
 </p>
 
 <p>

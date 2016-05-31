@@ -142,14 +142,14 @@ and finally, here is the super complex code to draw the maze:
 
 Remember that a 1 in our maze array means a wall. ColdFusion provides a rectangle drawing function for you, so the work is pretty trivial. And the result?
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 179.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 179.png" />
 
 Pretty cool I think. It's not super fast, but it only takes about one second. I was going to leave it at that, but then I decided - why not go crazy? Instead of a white canvas, what if we drew on a picture?
 
-<img src="http://static.raymondcamden.com/images/cfjedi/maze2.jpg" />
+<img src="https://static.raymondcamden.com/images/cfjedi/maze2.jpg" />
 
 Then - being the wild and crazy guy I am - I revered the draw logic. Instead of drawing walls, I drew the paths. (Note, this one has a different source image.)
 
-<img src="http://static.raymondcamden.com/images/cfjedi/maze3.jpg" />
+<img src="https://static.raymondcamden.com/images/cfjedi/maze3.jpg" />
 
 Pretty dumb - but it was cool to me. I've included a zip of the modified CFMs.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Farchive23%2Ezip'>Download attached file.</a></p>

@@ -41,39 +41,39 @@ My understanding of that was that I needed to make a new Node application and si
 
 After signing up for Bluemix (you can get a free, 30 day trial), you want to first create an application. You won't actually be <i>using</i> the application, but it is necessary to get the proper credentials to use the service.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm1.png" alt="bm1" width="750" height="380" class="alignnone size-full wp-image-5645" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm1.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm1.png" alt="bm1" width="750" height="380" class="alignnone size-full wp-image-5645" /></a>
 
 On the next screen I selected Web. This may be something I change next time I do this.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm2.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm2.png" alt="bm2" width="750" height="315" class="alignnone size-full wp-image-5646" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm2.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm2.png" alt="bm2" width="750" height="315" class="alignnone size-full wp-image-5646" /></a>
 
 And then I selected the Node option. Since I really wasn't using the app, I probably could have selected "I Have Code Already."
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm3.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm3.png" alt="bm3" width="750" height="284" class="alignnone size-full wp-image-5647" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm3.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm3.png" alt="bm3" width="750" height="284" class="alignnone size-full wp-image-5647" /></a>
 
 For the application name, pick anything. If you pick "RayIsTheBestNewIBMer" you get double the time for your free trial. (Note - the preceding statement may not be exactly true.)
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm4.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm4.png" alt="bm4" width="750" height="314" class="alignnone size-full wp-image-5648" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm4.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm4.png" alt="bm4" width="750" height="314" class="alignnone size-full wp-image-5648" /></a>
 
 On the next screen, select Add a Service:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm5.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm5.png" alt="bm5" width="750" height="393" class="alignnone size-full wp-image-5649" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm5.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm5.png" alt="bm5" width="750" height="393" class="alignnone size-full wp-image-5649" /></a>
 
 And then - obviously - select the Visual Recognition service. Note the beta label. Results may vary. Yada, yada, yada.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm6.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm6.png" alt="bm6" width="750" height="411" class="alignnone size-full wp-image-5650" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm6.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm6.png" alt="bm6" width="750" height="411" class="alignnone size-full wp-image-5650" /></a>
 
 Since you added this service <i>from</i> an app, it will be automatically selected in the next screen. (You may not have a "Space" though. I made a few while testing and I don't remember if it is required or not.)
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm7.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm7.png" alt="bm7" width="412" height="521" class="alignnone size-full wp-image-5651" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm7.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm7.png" alt="bm7" width="412" height="521" class="alignnone size-full wp-image-5651" /></a>
 
 You'll get a warning about needing to restage the application, but since you don't have anything there anyway you can just go ahead and let it restart the app. Woot - almost done. Now we need the authentication and API info. Back on the app dashboard, note there is a link to show credentials for the service:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm8.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm8.png" alt="bm8" width="750" height="433" class="alignnone size-full wp-image-5652" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm8.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm8.png" alt="bm8" width="750" height="433" class="alignnone size-full wp-image-5652" /></a>
 
 Clicking that will expose properties for the service including the ones we care about: <strong>url</strong>, <strong>username</strong>, and <strong>password</strong>:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm9.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm9.png" alt="bm9" width="631" height="750" class="alignnone size-full wp-image-5653" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm9.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm9.png" alt="bm9" width="631" height="750" class="alignnone size-full wp-image-5653" /></a>
 
 Ok, we've got what we came for, let's talk about the Cordova side. I began by creating a simple application that would make use of the Camera API. I created a web page with two buttons - one to source from the device camera and one from the photo gallery. Once I had the image file, I would then make use of the File Transfer plugin to post to the API.
 
@@ -149,13 +149,13 @@ I assume the camera usage is not necessarily new for my readers. All I do "fancy
 
 Once done, I take the result and simply output the labels to the app. The service returns labels with an underscore between words and that could be cleaned up, but I didn't really bother. Here are a few samples. Of course, the results are not perfect, but close, and can be improved. First, a scary picture of myself.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm10.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm10.png" alt="bm10" width="360" height="750" class="alignnone size-full wp-image-5654" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm10.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm10.png" alt="bm10" width="360" height="750" class="alignnone size-full wp-image-5654" /></a>
 
 I'm not quite sure where <strong>Combat Sport</strong> came from, but I'm all about the combat sport. <strong>Meat Eater</strong> is also dead on too. On a serious note, <strong>human</strong>, <strong>indoors</strong> and <strong>person view</strong> were perfect. 
 
 Each label returns a score and you could use that to filter out items that appear to be too low. I'm not doing that in this demo but that would help improve the results shown to the user. Ok, another test.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm11.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm11.png" alt="bm11" width="360" height="750" class="alignnone size-full wp-image-5655" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/02/bm11.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/02/bm11.png" alt="bm11" width="360" height="750" class="alignnone size-full wp-image-5655" /></a>
 
 Personally I think <strong>toothed whale</strong> is pretty damn funny. It didn't recognize shark, but it got close, which I think is pretty good. 
 

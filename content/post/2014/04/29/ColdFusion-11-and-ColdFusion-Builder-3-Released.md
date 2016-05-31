@@ -14,7 +14,7 @@ Honestly, the title says it all. ;) Today we released the latest versions of Col
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/cf112.png" />
+<img src="https://static.raymondcamden.com/images/cf112.png" />
 </p>
 
 <p>

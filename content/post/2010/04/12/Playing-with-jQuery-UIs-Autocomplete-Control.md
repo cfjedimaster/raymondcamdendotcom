@@ -10,7 +10,7 @@
 	"guid": "3779"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/jqueryui.png" style="margin-right:5px" title="jQuery UI" align="left" /> jQuery UI 1.8 has been out for a while now (see details on their <a href="http://blog.jqueryui.com/2010/03/jquery-ui-18/">blog</a>) but I've yet to really find the time to play around with it. This weekend I finally took a look at it, specifically the new autocomplete widget, and I thought I'd whip up a few quick examples showing the control being used with ColdFusion.
+<img src="https://static.raymondcamden.com/images/cfjedi/jqueryui.png" style="margin-right:5px" title="jQuery UI" align="left" /> jQuery UI 1.8 has been out for a while now (see details on their <a href="http://blog.jqueryui.com/2010/03/jquery-ui-18/">blog</a>) but I've yet to really find the time to play around with it. This weekend I finally took a look at it, specifically the new autocomplete widget, and I thought I'd whip up a few quick examples showing the control being used with ColdFusion.
 <br clear="left">
 <!--more-->
 <p>

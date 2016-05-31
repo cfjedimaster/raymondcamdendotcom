@@ -19,39 +19,39 @@ Yesterday I blogged about StrongLoop and the ability to quickly generate APIs (<
 
 To set up a persistence system with your StrongLoop-enabled app, you'll want to set up a datasource. In the screen shot below you can see five different data source types. Clicking one will open up the appropriate editor.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot14.png" alt="shot1" width="750" height="379" class="aligncenter size-full wp-image-6919" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot14.png" alt="shot1" width="750" height="379" class="aligncenter size-full wp-image-6919" />
 
 For my testing, I decided to first try MySQL. I've got a local MySQL server running so I made a new database and user just for testing my local application. I entered the appropriate details and tried to save. I then got this:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot24.png" alt="shot2" width="750" height="112" class="aligncenter size-full wp-image-6920" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot24.png" alt="shot2" width="750" height="112" class="aligncenter size-full wp-image-6920" />
 
 This was surprising. Since I saw the icons in the nav I just assumed it was already supported. Luckily the error message not only tells you what is wrong but gives you a link to correct it. I literally spent the 2 seconds to use npm to add the connector and that's all it took. The web admin also provides a test button you may miss if you aren't paying attention. It is at the very bottom of the data source form.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot1a.png" alt="shot1a" width="592" height="154" class="aligncenter size-full wp-image-6921 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot1a.png" alt="shot1a" width="592" height="154" class="aligncenter size-full wp-image-6921 imgborder" />
 
 The next step is to go to your model, each model, and update the data source to point to your new source. 
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot3b.png" alt="shot3b" width="750" height="256" class="aligncenter size-full wp-image-6922 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot3b.png" alt="shot3b" width="750" height="256" class="aligncenter size-full wp-image-6922 imgborder" />
 
 Remember, you need to do this for <i>each</i> model. I imagine most folks will use one data source per API, but certainly it makes sense to allow for multiple. What's cool too is that you can have an existing site with various models and then you can use the in-memory data source to test something new. 
 
 So at this point, you're done, right? Nope. I went to the explorer to test creating a new cat. When I did my POST, I got:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot-3.5.png" alt="shot 3.5" width="750" height="246" class="aligncenter size-full wp-image-6923" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot-3.5.png" alt="shot 3.5" width="750" height="246" class="aligncenter size-full wp-image-6923" />
 
 This is easy to fix - when you change the data source, click that "Migrate Model" button I had not noticed before:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot42.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot42.png" alt="shot4" width="750" height="138" class="aligncenter size-full wp-image-6924 imgborder" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/10/shot42.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot42.png" alt="shot4" width="750" height="138" class="aligncenter size-full wp-image-6924 imgborder" /></a>
 
 Again, you will want to do this for each model. StrongLoop also provides a JavaScript API for data migration if you want to programmatically handle moving from one data source to another.
 
 Once I did that for my cat and dog models, I hopped back over to the MySQL GUI and confirmed it:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot51.png" alt="shot5" width="438" height="460" class="aligncenter size-full wp-image-6925" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot51.png" alt="shot5" width="438" height="460" class="aligncenter size-full wp-image-6925" />
 
 I then ran my POST to add a cat and confirmed it persisted as well:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot61.png" alt="shot6" width="750" height="524" class="aligncenter size-full wp-image-6926 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot61.png" alt="shot6" width="750" height="524" class="aligncenter size-full wp-image-6926 imgborder" />
 
 And that was it! To be clear, everything I did visually with the StrongLoop web admin could also be done via the CLI or just pure files. In case you're curious, here is the datasources.json file I have for my application:
 

@@ -27,7 +27,7 @@ ColdFusion 8.0.1 makes this even better by letting you nest these implicit creat
 
 Which results in:
 
-<img src="http://static.raymondcamden.com/images/Picture 111.png">
+<img src="https://static.raymondcamden.com/images/Picture 111.png">
 
 Now obviously you don't want to go crazy with this. You still want to keep things readable!
 

@@ -14,7 +14,7 @@ I've been using Dreamweaver CS4 for ColdFusion editing the past few weeks. This 
 
 Last night while updating my employee directory application for my latest <a href="http://www.raymondcamden.com/index.cfm/2008/11/10/Managing-Relationships-with-Transfer-2">Transfer post</a> I noticed something rather cool about Dreamweaver. I had added a custom tag named adminlayout. All of a sudden, the next time I typed cf_, check out what the auto-suggest provided:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/shot2.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/shot2.png">
 
 I guess Dreamweaver noticed the first time I did cf_foo and added it to the autosuggest list. I also assume it is site based (I would hope so). 
 

@@ -110,7 +110,7 @@ Woot. Lots of a code there, eh? As you can see, I simply validate that the reque
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cooluploadtest.png" title="Best. Upload. Ever." />
+<img src="https://static.raymondcamden.com/images/cooluploadtest.png" title="Best. Upload. Ever." />
 
 <p>
 

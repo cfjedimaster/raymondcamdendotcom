@@ -13,7 +13,7 @@ It's been a few days since the <a href="http://www.raymondcamden.com/index.cfm/2
 
 <p>
 <!--more-->
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-15 at 4.39.01 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-15 at 4.39.01 PM.png" />
 
 <p>
 
@@ -21,7 +21,7 @@ When the application loads, you end up with a list of files in the left hand sid
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-15 at 4.40.16 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-15 at 4.40.16 PM.png" />
 
 <p>
 

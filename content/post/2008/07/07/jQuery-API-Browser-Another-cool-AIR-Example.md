@@ -15,4 +15,4 @@ Remy Sharp has posted a nice AIR jQuery API browser. You can find it here:
 
 This is great if you need offline access to jQuery docs. The only thing missing is a generic browser for the API for those of us (like me!) who don't even know what to look for. Remy mentioned though that a browser will be in a future version.
 
-<img src="http://static.raymondcamden.com/images/Picture 114.png">
+<img src="https://static.raymondcamden.com/images/Picture 114.png">

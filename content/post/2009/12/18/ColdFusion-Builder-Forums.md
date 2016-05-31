@@ -15,4 +15,4 @@ Have a question about the new ColdFusion Builder beta? Want to help others learn
 
 I know not everyone is interested in setting up a blog, but support forums like this are a great way for people to share knowledge and help others. 
 
-<img src="http://static.raymondcamden.com/images/AdmiralAckbarTrap.jpg" title="This picture has absolutely nothing to do with the blog post." />
+<img src="https://static.raymondcamden.com/images/AdmiralAckbarTrap.jpg" title="This picture has absolutely nothing to do with the blog post." />

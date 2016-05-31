@@ -14,7 +14,7 @@ This falls into the category of "Possibly Useless", something I thrive on here a
 <!--more-->
 Edge Inspect can also  gather screen shots from your devices. When Inspect does this, it creates one image (the screen shot obviously) and one text file for each connected device. Here's what my folder looks like now:
 
-<img src="http://static.raymondcamden.com/images/screenshot34.png" />
+<img src="https://static.raymondcamden.com/images/screenshot34.png" />
 
 And here is a quick example of the detail provided in the corresponding text file.
 
@@ -36,8 +36,8 @@ Finally, let's take a quick look at the main home page. I'm making use of Bootst
 
 And finally, some screenshots of the app itself. 
 
-<img src="http://static.raymondcamden.com/images/screenshot35.png" />
+<img src="https://static.raymondcamden.com/images/screenshot35.png" />
 
-<img src="http://static.raymondcamden.com/images/screenshot36.png" />
+<img src="https://static.raymondcamden.com/images/screenshot36.png" />
 
 Let me know what you think. I've attached the full source code below.<p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Finspectviewer%2Ezip'>Download attached file.</a></p>

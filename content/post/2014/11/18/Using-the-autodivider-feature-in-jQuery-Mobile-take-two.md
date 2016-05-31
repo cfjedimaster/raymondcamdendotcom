@@ -21,7 +21,7 @@ One of my readers, Fher (who has a cool name - I kind of imagine her/him as a fi
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot20.png" />
+<img src="https://static.raymondcamden.com/images/shot20.png" />
 </p>
 
 <p>
@@ -81,7 +81,7 @@ The first change was to abstract out the code used to generate the divider - bas
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/shot213.png" />
+<img src="https://static.raymondcamden.com/images/shot213.png" />
 </p>
 
 <p>

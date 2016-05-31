@@ -61,7 +61,7 @@ In this case, I'm simply ignoring calls to URLs that match that regex. I could a
 
 Here is an example of it running.
 
-![console output](http://static.raymondcamden.com/images/2016/04/appmetrics1.jpg)
+![console output](https://static.raymondcamden.com/images/2016/04/appmetrics1.jpg)
 
 Currently the Mongo data is a bit hard to grok. You can see a query of {} above, which represents me asking for all objects, but it should (imo) also return the fact that I was asking for all objects of type X.
 

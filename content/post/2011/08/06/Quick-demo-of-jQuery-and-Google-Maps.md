@@ -165,7 +165,7 @@ So - nothing more to say really. As I said above, I think it works well on mobil
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/aug62011/"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/aug62011/"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

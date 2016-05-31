@@ -15,14 +15,14 @@ Last night I updated the mobile version of <a href="http://www.coldfusionblogger
 
 <p/>
 <!--more-->
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip48.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip48.png" />
 <p/>
 
 The idea I had was - clicking on the title shows the summary (which could be short or long depending on the RSS feed). Clicking the icon takes you right to the "right" entry, bypassing the need to load the summary and click the show full article button...
 <p/>
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip49.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip49.png" />
 <p/>
 
 For the most part, things just worked. I'll paste the entire code base below. The only real issue I ran into was formatted. Some RSS feeds included HTML that broke jQuery Mobile a bit. I do some string manipulation to a) replace HTML breaks with real line breaks and b) remove HTML and c) return the line breaks back into HTML. I got some help from <a href="http://www.boyzoid.com">Scott Stroz</a> on this as well. But to be honest, that was the biggest technical issue. Check out how short the code is below. First, the home page.

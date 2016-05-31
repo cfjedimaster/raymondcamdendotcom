@@ -36,11 +36,11 @@ public function currentOSUser():String {
 </code>
 
 I modified it a bit just to simplify things. Running it on my Mac I see: 
-<img src="http://static.raymondcamden.com/images//Picture 167.png">
+<img src="https://static.raymondcamden.com/images//Picture 167.png">
 
 On my PC (oh, and I loved how the AIR installer noticed my PC was a bit behind on the AIR SDK and updated itself) it displayed:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 243.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 243.png">
 
 Ok, one last tip. Gary was trying to use binding with this method and had trouble getting it working. Let's look at what he did.
 

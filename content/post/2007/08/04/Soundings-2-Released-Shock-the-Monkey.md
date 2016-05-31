@@ -9,7 +9,7 @@
 	"guid": "2250"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi//logo.gif" align="left" style="margin-right: 10px">
+<img src="https://static.raymondcamden.com/images/cfjedi//logo.gif" align="left" style="margin-right: 10px">
 
 It's very late and I'm very tired, so hopefully I didn't miss anything obvious, but I'm happy to announce the release of <a href="http://soundings.riaforge.org">Soundings 2.0</a>. Soundings is a ColdFusion Survey application. New features include:
 

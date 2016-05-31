@@ -35,7 +35,7 @@ That's a manual approach and would work, but I had a hunch about an alternative 
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip59.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip59.png" />
 
 <p>
 
@@ -86,7 +86,7 @@ Just to be sure it's clear - my modification is the cfdump. Here's a screen shot
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip60.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip60.png" />
 
 <p>
 

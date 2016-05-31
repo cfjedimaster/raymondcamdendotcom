@@ -19,4 +19,4 @@ Take the script attached to this template and put it in your ColdFusion Administ
 
 Then hit up your Admin and you can run the utility. You can enter a CFM/CFC to clear or a folder and all CFM/CFCs under it will be clearer.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/cacheclearer.png" width="400"><p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fcacheclearer%2Ezip'>Download attached file.</a></p>
+<img src="https://static.raymondcamden.com/images/cfjedi/cacheclearer.png" width="400"><p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fcacheclearer%2Ezip'>Download attached file.</a></p>

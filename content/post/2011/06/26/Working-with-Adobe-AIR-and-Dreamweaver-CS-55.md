@@ -15,16 +15,16 @@ First - you need to add support for Adobe AIR via a plugin. The plugin can be do
 
 Now here is where I got confused. I was certain AIR would be an option under the New menu. Nope. Instead, AIR is a per site setting. Thanks to the Adobe docs (<a href="http://help.adobe.com/en_US/AIR/1.5/devappshtml/WS5b3ccc516d4fbf351e63e3d118666ade46-7f7f.html">Create your first HTML-based AIR application with Dreamweaver</a> - note that that link is for AIR 1.5 - there is probably a link for the newer version but I don't think the actual process in DW has changed). So basically -  you would make a new site and then simply configure the AIR settings.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip127.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip127.png" />
 
 Note that the settings menu is also where you generate the AIR file to ship. If you want to run the AIR file while testing, you use the Preview/Debug in Browser icon: 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip128.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip128.png" />
 
 By the way, the ugly red circle is my awesome attempt at making it clear what icon I meant. 
 
 So in general - that's it. One big thing that Aptana does much better is the inclusion of the AIRAliases.js file. I had to manually copy that from the AIR SDK folder. Once I did and included it within my HTML template DW did a darn good job with autocomplete and hinting. I was also very surprised to see that DW supported displaying air.trace statements. It shows up in a panel called "Site Reports" which seems oddly named. Here's an example where I traced the word "ran":
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip129.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip129.png" />
 
 All in all, not so bad. I wish the test operation was one click instead of two. I can see that getting a bit annoying as you work. I also wish there was an easier way to 'install' JavaScript files like the aliases file or even jQuery. Any other DW users out there doing HTML AIR development?

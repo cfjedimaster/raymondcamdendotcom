@@ -30,7 +30,7 @@ To show you an example of what he said, I dropped an image with a space in it in
 
 When run, you get an error:
 
-<img src="http://static.raymondcamden.com/images/screenshot50.png" />
+<img src="https://static.raymondcamden.com/images/screenshot50.png" />
 
 Interestingly enough, the browser has no issue with this. I've noticed this for years now - browsers (well at least Chrome) simply automatically escape the spaces for you.
 
@@ -44,7 +44,7 @@ So to fix it, we need to urlEncode the file name. To do this we need to break ap
 
 Returns these values:
 
-<img src="http://static.raymondcamden.com/images/screenshot51.png" />
+<img src="https://static.raymondcamden.com/images/screenshot51.png" />
 
 Based on what I saw here, I thought this might be a nice way to rebuild the URL. I would not call this code 100% safe as it wouldn't pick up the username and password if they existed, but I wanted something simple.
 
@@ -52,6 +52,6 @@ Based on what I saw here, I thought this might be a nice way to rebuild the URL.
 
 And the result...
 
-<img src="http://static.raymondcamden.com/images/screenshot52.png" />
+<img src="https://static.raymondcamden.com/images/screenshot52.png" />
 
 I hope this is helpful!

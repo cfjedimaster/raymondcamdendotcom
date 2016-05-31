@@ -11,7 +11,7 @@
 }
 
 <p>
-<img src="http://static.raymondcamden.com/images/snaplogo.gif" title="Snap logo" style="float:left;margin-right:10px;margin-bottom:10px;width:120px" />
+<img src="https://static.raymondcamden.com/images/snaplogo.gif" title="Snap logo" style="float:left;margin-right:10px;margin-bottom:10px;width:120px" />
 
 Today at the HTML5Dev Conference (http://html5devconf.com/) we announced the availability of Snap.svg. Snap.svg is the successor to <a href="http://raphaeljs.com/">Raphael</a> . It is an open source JavaScript library that enables you to easily work with SVG graphics and animations. The library targets modern browsers (IE9, Safari, Chrome, Firefox, Opera) and provides support for making, clipping, gradients, animation, and more. Even cooler, it does so in a jQuery-ish familiar format.
 </p>
@@ -21,7 +21,7 @@ You can find out more about Snap.svg at the web site: <a href="http://snapsvg.io
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/snaptut.jpg" />
+<img src="https://static.raymondcamden.com/images/snaptut.jpg" />
 </p>
 
 <p>
@@ -33,7 +33,7 @@ I whipped up this beauty in Adobe Illustrator and saved it as a SVG file.
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/ai.jpg" />
+<img src="https://static.raymondcamden.com/images/ai.jpg" />
 </p>
 
 <p>

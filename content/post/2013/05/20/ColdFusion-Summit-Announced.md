@@ -20,4 +20,4 @@ Registration cost: $250
 Each paid registration will receive a FREE copy of ColdFusion Builder (MSRP value of $299!)
 
 
-<img src="http://static.raymondcamden.com/images/bobapony.jpg" />
+<img src="https://static.raymondcamden.com/images/bobapony.jpg" />

@@ -24,4 +24,4 @@ Unfortunately, this solution is probably not as "tight" as I would like. I was n
 Oh - and I discovered that <a href="https://twitter.com/melodythomassco">Melody Thomas Scott</a> follows me. <b>Awesome.</b>
 
 
-<img src="http://static.raymondcamden.com/images/screenshot23.png" />
+<img src="https://static.raymondcamden.com/images/screenshot23.png" />

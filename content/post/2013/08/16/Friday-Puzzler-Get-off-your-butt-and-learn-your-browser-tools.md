@@ -14,7 +14,7 @@ Ok, pardon the link-bait title. If you are a regular reader of this blog you kno
 
 As you know - I am a <strong>huge</strong> advocate of making use of the debugging tools that modern browsers provide. I can't tell you how often I get emails from people who say their code isn't working and have absolutely no idea why.
 <!--more-->
-<img src="http://static.raymondcamden.com/images/notacc.jpg" />
+<img src="https://static.raymondcamden.com/images/notacc.jpg" />
 
 The goal of this challenge (and the others that may or may not follow) is to simply debug a broken web application. I'm going to provide a link to a web page. In this case, a simple form that asks for two numbers and does math on them with JavaScript. As I said, the application is broken, but <i>how</i> it is broken is the task you need to solve. To be clear, if you already know how to use your browser dev tools then this challenge is probably not for you. But I bet you work with a few people who don't know squat about their browser. Or maybe you're like me and primarily a Chrome user. This would be a great opportunity to try the tools in another browser. Heck, maybe you'll <a href="http://www.raymondcamden.com/index.cfm/2013/8/16/JavaScript-Errors-and-the-Firefox-Console">learn something</a> in the process.
 

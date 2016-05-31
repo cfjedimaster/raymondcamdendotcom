@@ -18,4 +18,4 @@ Why? I forgot one of the basic rules. When displaying content that could have HT
 Nice one there, Ray. Anyway, I'll leave the bug in there for another hour or so before I fix it. In case it's fixed before you read this, here is a screen shot. (Someone save this and post it to my site next time my ego gets away with me.)
 
 
-<img src="http://static.raymondcamden.com/images/cfbloggers.png">
+<img src="https://static.raymondcamden.com/images/cfbloggers.png">

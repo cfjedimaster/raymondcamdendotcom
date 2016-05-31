@@ -50,7 +50,7 @@ The result is an array of keys sorted in the right order. So taking the simple d
 &lt;cfdump var="#sorted#"&gt;
 </code>
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 170.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 170.png">
 
 And that's it. Well, you probably don't want to use dump to format your data. Since we have an array of keys as a result, here is how I'd actually display it:
 
@@ -96,6 +96,6 @@ In this example, instead of simple values, every key is itself a structure conta
 
 Which outputs:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 245.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 245.png">
 
 I hope this helps. And yes - I know the rank sort isn't sorting by the proper military hierarchy. You would have to write custom code to handle that yourself.

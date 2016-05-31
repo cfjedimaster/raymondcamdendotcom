@@ -9,7 +9,7 @@
 	"guid": "3670"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/happy_new_year.jpg" style="float:left;padding-right:5px;padding-bottom:5px" title="Yo, Happy New Year. Word to 2010." />
+<img src="https://static.raymondcamden.com/images/cfjedi/happy_new_year.jpg" style="float:left;padding-right:5px;padding-bottom:5px" title="Yo, Happy New Year. Word to 2010." />
 
 Please note what follows is an especially personal, especially rambling, look back at 2009. I don't think this blog entry will be useful to anyone but me, so be warned before reading any further!
 

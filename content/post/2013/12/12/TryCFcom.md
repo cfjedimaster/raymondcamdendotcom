@@ -14,7 +14,7 @@ Just passing along this note about a <strong>cool</strong> new site by <a href="
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/s13.png" />
+<img src="https://static.raymondcamden.com/images/s13.png" />
 </p>
 
 <p>
@@ -22,7 +22,7 @@ TryCF.com is an online, interactive ColdFusion tutorial. You can actually write 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s24.png" />
+<img src="https://static.raymondcamden.com/images/s24.png" />
 </p>
 
 <p>

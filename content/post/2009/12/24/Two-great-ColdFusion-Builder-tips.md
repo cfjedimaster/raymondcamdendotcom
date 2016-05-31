@@ -13,8 +13,8 @@ Nice to see I'm not the only one around today. Typically I try to share links on
 
 The first is: <a href="http://www.aliaspooryorik.com/blog/index.cfm/e/posts.details/post/filtered-project-views-in-coldfusion-builder-247">Filtered Project Views in ColdFusion Builder</a> by John Whish. He talks about how you can use working sets to separate projects instead of workspaces. This is something I've done for a while as I find the workingspace change to be a bit slow. 
 
-<img src="http://static.raymondcamden.com/images/firstblogpic.png" title="I took this picture myself. Woot" />
+<img src="https://static.raymondcamden.com/images/firstblogpic.png" title="I took this picture myself. Woot" />
 
 The second is: <a href="http://blog.mxunit.org/2009/12/sharing-your-cfeclipse-coldfusion.html">Sharing your CFEclipse / ColdFusion Builder Snippets across multiple installs</a> by Marc Esher. This is an awesome tip and a great use of the free <a href="http://dropbox.com/">Dropbox</a> service. As a beta tester for CF Builder I've had to update my snippets <i>a lot</i>. No more! (Well, technically I'll need to edit the preference.)
 
-<img src="http://static.raymondcamden.com/images/cfjedi/secondblogpic.png" title="I took this picture too." />
+<img src="https://static.raymondcamden.com/images/cfjedi/secondblogpic.png" title="I took this picture too." />

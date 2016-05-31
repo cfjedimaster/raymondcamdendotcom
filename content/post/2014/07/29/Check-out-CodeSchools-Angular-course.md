@@ -14,7 +14,7 @@ I've raved about CodeSchool before so I thought folks might be interested in kno
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/sua.jpg" />
+<img src="https://static.raymondcamden.com/images/sua.jpg" />
 </p>
 
 <p>

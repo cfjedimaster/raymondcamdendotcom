@@ -11,7 +11,7 @@
 
 Just sharing a little picture Adam Lehman (aka adrocknaphobia on Twitter) just shared via twitter:
 
-<a href="http://twitpic.com/1bf62" title="Share photos on twitter with Twitpic"><img src="http://static.raymondcamden.com/images/cfjedi/bolt.jpg"></a>
+<a href="http://twitpic.com/1bf62" title="Share photos on twitter with Twitpic"><img src="https://static.raymondcamden.com/images/cfjedi/bolt.jpg"></a>
 
 Notice the editor name? Notice the code? Question is - if you could write 100% of your CFCs in script, how many of you will? (I know I will!)
 

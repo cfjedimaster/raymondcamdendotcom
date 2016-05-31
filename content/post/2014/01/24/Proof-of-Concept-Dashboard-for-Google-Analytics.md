@@ -22,7 +22,7 @@ Once I had authentication working right and was able to get a bit of data return
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_1_24_14__11_38_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_1_24_14__11_38_AM.png" />
 </p>
 
 <p>
@@ -295,7 +295,7 @@ The end result is pretty cool I think. Here it is on my desktop (I've got 12 pro
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_1_24_14__11_49_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_1_24_14__11_49_AM.png" />
 </p>
 
 <p>
@@ -303,7 +303,7 @@ I also tested this on mobile. On my iPhone, the Chrome browser never closed the 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_1_24_14__11_51_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_1_24_14__11_51_AM.png" />
 </p>
 
 <p>
@@ -311,5 +311,5 @@ I tested on my Android and there Chrome had no problem with the authorization fl
 </p>
 
 <p>
-<a href="http://www.raymondcamden.com/demos/2014/jan/24/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>  
+<a href="https://static.raymondcamden.com/demos/2014/jan/24/index.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>  
 </p>

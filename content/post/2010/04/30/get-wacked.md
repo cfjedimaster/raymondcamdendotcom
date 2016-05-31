@@ -9,7 +9,7 @@
 	"guid": "3798"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/cfwack9.jpg" title="OMG this was a lot of work to write" align="left" style="margin-right:10px;margin-bottom:10px" />
+<img src="https://static.raymondcamden.com/images/cfjedi/cfwack9.jpg" title="OMG this was a lot of work to write" align="left" style="margin-right:10px;margin-bottom:10px" />
 
 Not sure if this is new or not, but you can now preorder ColdFusion 9 Web Application Construction Kit volumes 1 through 3. If you order via the links below I get a small kick back. Like - every purchase is one good beer. You want me to have good beer, right?
 <br clear="left">

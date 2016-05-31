@@ -58,7 +58,7 @@ You may notice that I've moved the render portion into its own function. For the
 
 Even if you've never seen Leaflet before, you can probably read that easily enough and see what it is doing. For each result I add a marker along with a little info window you can click to get the details. You can see an example of this below:
 
-<img src="http://static.raymondcamden.com/images/myshot.png" />
+<img src="https://static.raymondcamden.com/images/myshot.png" />
 
 All in all - I've now got a complete, if basic, application. Don't forget you can see the complete source code for the application at the <a href="https://github.com/cfjedimaster/CowTipLine">GitHub Repo</a> and you can download builds of the application on the <a href="https://build.phonegap.com/apps/215210/share">public PhoneGap Build</a> site.
 

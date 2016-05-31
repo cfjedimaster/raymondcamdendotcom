@@ -29,7 +29,7 @@ Technically the answer to this is no, but there are two ways of doing this. The 
 
 By the way, check out the memory usage for the model-glue app:
 
-<img src="http://static.raymondcamden.com/images/dec18.png">
+<img src="https://static.raymondcamden.com/images/dec18.png">
 
 The Model-Glue app is the one in red. Model-Glue is so good it <i>gives</i> your server RAM. Yeah, that's it. 
 

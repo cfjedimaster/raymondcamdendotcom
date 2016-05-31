@@ -127,4 +127,4 @@ Yeah, I love me some script-based CFCs. So as you can imagine, this would probab
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/may82010/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/may82010/test.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo" border="0"></a>

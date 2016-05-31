@@ -13,7 +13,7 @@
 	"guid": "4602"
 }
 
-<img src="http://static.raymondcamden.com/images/ipad-cover-may.jpg" style="float:left;margin-right:5px; margin-bottom:5px" />
+<img src="https://static.raymondcamden.com/images/ipad-cover-may.jpg" style="float:left;margin-right:5px; margin-bottom:5px" />
 
 The second issue of <a href="http://appliness.com/">Appliness</a> has launched. Appliness is a free digital magazine available on Android and iOS (in stunning Retina graphics too). The May issue contains articles on...
 
@@ -40,4 +40,4 @@ The second issue of <a href="http://appliness.com/">Appliness</a> has launched. 
 I way to make special note of the "Generate color palettes from HTML5 video" article. This is <i>not</i> something that has been on my blog before. It's a brand new WebRTC demo I made that demonstrates generating color palettes from a live web-cam video feed. It's super hot. Really. OK, it's a bit silly. But it was fun as hell to write. 
 
 
-<img src="http://static.raymondcamden.com/images/photo (1) (Custom).PNG" />
+<img src="https://static.raymondcamden.com/images/photo (1) (Custom).PNG" />

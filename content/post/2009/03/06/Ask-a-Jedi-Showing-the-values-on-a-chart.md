@@ -36,7 +36,7 @@ Turns out this is rather easy. You can use the dataLabelStyle attribute to speci
 Which creates:
 <p/>
 
-<img src="http://static.raymondcamden.com/images//Picture 319.png">
+<img src="https://static.raymondcamden.com/images//Picture 319.png">
 <p/>
 
 Almost right - the chart isn't quite tall enough. We can fix that by using scaleTo:
@@ -47,13 +47,13 @@ Almost right - the chart isn't quite tall enough. We can fix that by using scale
 </code>
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 47.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 47.png">
 <p/>
 
 That's better, but obviously we would have to make scaleTo a bit dynamic if we weren't sure of our value range. I mentioned 'pattern' above. What does that do? 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 52.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 52.png">
 <p/>
 
 That's cool, but you don't have control over what is there. It is kind of silly that the label is repeated, but that second line is really nice. 
@@ -94,7 +94,7 @@ That got me digging into the chart editor. First I was curious about the data la
 Notice I also turned off the legend in the chart. This resulted in:
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 6.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 6.png">
 <p/>
 
 So - remember how I said that pattern was hard coded? Well with the chart editor you can muck with that. Consider this XML:
@@ -112,7 +112,7 @@ $(value) [$(colPercent) of $(colTotal)]
 I specified both the value, and the percent of total, and got rid of the newline there by default. Also note I moved the labels inside. I could get rid of extraLines now if I wanted to. This resulted in the following chart:
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 71.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 71.png">
 <p/>
 
 Pretty cool! But I'd probably want to change that font color. Anyway, I hope this is useful!

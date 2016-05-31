@@ -18,7 +18,7 @@ In the Bracket's Help menu, simply click "Show Extensions Folder."
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen Shot 2014-11-04 at 10.43.14 AM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2014-11-04 at 10.43.14 AM.png" />
 </p>
 
 <p>

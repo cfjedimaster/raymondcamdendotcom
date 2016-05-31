@@ -59,7 +59,7 @@ As an example of this, I created a simple Ionic application that lets you select
 
 Here is an awesome animated gif of this in action:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/anim1.gif"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/anim1.gif" alt="anim1" width="286" height="532" class="alignnone size-full wp-image-5821" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/anim1.gif"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/anim1.gif" alt="anim1" width="286" height="532" class="alignnone size-full wp-image-5821" /></a>
 
 Obviously this would be tied to a form process of some sort. You would use the array of images as values with the FileTransfer plugin to send them to your server. 
 
@@ -147,7 +147,7 @@ For the final - and probably best - option there is the <a href="http://plugins.
 
 And here it is in action:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/Untitled2.gif"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/Untitled2.gif" alt="Untitled2" width="286" height="528" class="alignnone size-full wp-image-5822" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/Untitled2.gif"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/Untitled2.gif" alt="Untitled2" width="286" height="528" class="alignnone size-full wp-image-5822" /></a>
 
 Honestly, this seems like the best option. You can see the full source code for this version here: <a href="https://github.com/cfjedimaster/Cordova-Examples/tree/master/multiimageselect/multiimageselect2">https://github.com/cfjedimaster/Cordova-Examples/tree/master/multiimageselect/multiimageselect2</a>
 

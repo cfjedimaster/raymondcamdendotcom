@@ -17,7 +17,7 @@ Luckily for lazy people like me - there is a an automated computer-only version.
 
 <p align="center">
 <a href="http://www.raymondcamden.com/images/war_thumb.jpg">
-<img src="http://static.raymondcamden.com/images/cfjedi/war.jpg" title="Click for larger picture."></a><br />
+<img src="https://static.raymondcamden.com/images/cfjedi/war.jpg" title="Click for larger picture."></a><br />
 <i>Poor South America!</i>
 </p>
 

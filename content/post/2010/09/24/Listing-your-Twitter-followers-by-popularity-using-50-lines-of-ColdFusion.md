@@ -92,7 +92,7 @@ Finally - all I have to do is sort the query and dump it to screen. Here's mine:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/screen7.png" />
+<img src="https://static.raymondcamden.com/images/screen7.png" />
 
 <p>
 

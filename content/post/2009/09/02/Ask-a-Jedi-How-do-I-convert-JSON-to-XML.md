@@ -80,6 +80,6 @@ Not really rocket science, but it works. Of course, you don't have to use a comp
 
 The Twitter API returns more information than what I've used. I kept things simple though. Here is a quick screen shot showing the result:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 184.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 184.png" />
 
 One quick last note - well ok, two quick notes. First off - the <a href="http://apiwiki.twitter.com/Twitter-API-Documentation">Twitter API</a> kicks major butt. I'm blown away with how simple it is to use and how - lord forbid - how much it helps you actually use it. (Google - are you listening? Please don't buy Twitter and ruin the API.) Secondly - Twitter supports ATOM results. This is a flavor of RSS and is XML already, so technically, I wouldn't need to convert the JSON.

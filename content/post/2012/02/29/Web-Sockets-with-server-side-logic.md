@@ -36,7 +36,7 @@ But that information only contains metadata about the clients. Here's an example
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ws1.png" />
+<img src="https://static.raymondcamden.com/images/ws1.png" />
 
 <p>
 
@@ -75,7 +75,7 @@ So far so good? Now that server side call can get all the users:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ws2.png" />
+<img src="https://static.raymondcamden.com/images/ws2.png" />
 
 <p>
 
@@ -242,4 +242,4 @@ So - that's it for now. I've got one more modification coming up soon (a user fo
 <p>
 
 
-<a href="http://fivetag-cf10beta.securecb1cf10.ezhostingserver.com/chat4/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fchat4%2Ezip'>Download attached file.</a></p>
+<a href="http://fivetag-cf10beta.securecb1cf10.ezhostingserver.com/chat4/"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fchat4%2Ezip'>Download attached file.</a></p>

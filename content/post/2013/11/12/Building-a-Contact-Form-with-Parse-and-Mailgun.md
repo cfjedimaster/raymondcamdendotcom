@@ -146,7 +146,7 @@ $(document).ready(function() {
 Again, I tried to keep it simple so on a successful return I use a lame alert to let you know it went through. I don't even publicly display a message if an error is thrown. Again, bad. But I was trying to make the demo as simple as possible. I ran this and confirmed that I could fill out the form and the results would be stored at Parse.
 </p>
 
-<img src="http://static.raymondcamden.com/images/Screenshot_11_12_13__3_28_PM.jpg" />
+<img src="https://static.raymondcamden.com/images/Screenshot_11_12_13__3_28_PM.jpg" />
 
 <p>
 While this would work, I'd have to constantly check the Parse dashboard to see when someone filled out my contact form. How can I add email support?
@@ -199,7 +199,7 @@ You can see where I take the data from the Comment object and use that when I sp
 </p>
 
 
-<img src="http://static.raymondcamden.com/images/Screenshot_11_12_13__3_32_PM.jpg" />
+<img src="https://static.raymondcamden.com/images/Screenshot_11_12_13__3_32_PM.jpg" />
 
 <p>
 Want to give it a try yourself? Hit the <a href="http://www.raymondcamden.com/demos/2013/nov/12/">demo</a> and spam me to high heaven.

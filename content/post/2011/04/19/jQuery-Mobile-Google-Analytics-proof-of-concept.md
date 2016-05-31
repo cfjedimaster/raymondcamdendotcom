@@ -171,7 +171,7 @@ What this code does is listen for the pagebeforeshow event. This is one of many 
 
 <p>
  
-<img src="http://static.raymondcamden.com/images/ScreenClip71.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip71.png" />
 
 <p>
 

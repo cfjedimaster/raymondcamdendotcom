@@ -18,7 +18,7 @@ One of the most important things to note is that you can install Ionic V2 *witho
 
 You'll want to spend some time in the [docs](http://ionicframework.com/docs/v2/) of course, and specifically the [Getting Started](http://ionicframework.com/docs/v2/getting-started/) guide. Note that there are mistakes in the guide (hey, it *is* a beta) that may trip you up. Specifically it seems like some of the code samples are a bit out of date. For the most part I think you can figure it out, but these issues have been reported and may be corrected by the time you get to it.
 
-<img src="http://static.raymondcamden.com/images/2016/02/ionic2-1.gif" class="imgborder" title="Ionic V2 Docs">
+<img src="https://static.raymondcamden.com/images/2016/02/ionic2-1.gif" class="imgborder" title="Ionic V2 Docs">
 
 Working through the Getting Started guide gets you through a simple application and will give you a *super*
 basic idea of what's going on, but I'd strongly urge you to go through the [Angular 2 quickstart](https://angular.io/docs/ts/latest/quickstart.html) first just so things aren't completely alien to you. 
@@ -26,17 +26,17 @@ basic idea of what's going on, but I'd strongly urge you to go through the [Angu
 You'll also want to peruse the [components](http://ionicframework.com/docs/v2/components) docs. From my quick look through it, things look quite a bit simpler to use, but again, this is still in development. A notable missing component currently is the loading widget. Be sure to notice that the component examples
 give you a quick way to toggle between Android and iOS views, and specifically that Android now has a Material look that is *really* freaking sweet. As an example, here are tabs in iOS:
 
-![iOS Tabs Ionic 2](http://static.raymondcamden.com/images/2016/02/ionic2-2.gif)
+![iOS Tabs Ionic 2](https://static.raymondcamden.com/images/2016/02/ionic2-2.gif)
 
 Now compare it to the Android version:
 
-![Android Tabs Ionic 2](http://static.raymondcamden.com/images/2016/02/ionic2-3.gif)
+![Android Tabs Ionic 2](https://static.raymondcamden.com/images/2016/02/ionic2-3.gif)
 
 That's damn spiffy.
 
 So what's the code like? As I said before, Angular 2 is different. Not bad different, just... *different.*
 
-![Like this...](http://static.raymondcamden.com/images/2016/02/pikacat.jpg)
+![Like this...](https://static.raymondcamden.com/images/2016/02/pikacat.jpg)
 
 While working on my first demo, I ran into things I immediately liked. For example, I love that my "page" template and controller are in a folder nicely packaged together. I could have easily done that in Ionic/Angular1 too I guess, but I like the organization. 
 
@@ -189,11 +189,11 @@ export class DetailPage {
 
 Here is the home page:
 
-<img src="http://static.raymondcamden.com/images/2016/02/ionic2-4.png" class="imgborder" title="Home Page">
+<img src="https://static.raymondcamden.com/images/2016/02/ionic2-4.png" class="imgborder" title="Home Page">
 
 And one detail page:
 
-<img src="http://static.raymondcamden.com/images/2016/02/ionic2-5.png" class="imgborder" title="Detail Page">
+<img src="https://static.raymondcamden.com/images/2016/02/ionic2-5.png" class="imgborder" title="Detail Page">
 
 Not exactly rocket science, but you get the idea. So far, I'm digging it. I've got a lot of research to do, and I'm really looking forward to when things hit a firm release and stop changing, but I'd definitely take some time to look into it. As a reminder, you can, and should, join the [Ionic Slack](http://ionicworldwide.herokuapp.com/) channel. It is the best place to get support and help others. 
 

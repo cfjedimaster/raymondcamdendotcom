@@ -21,7 +21,7 @@ Since our application is going to use Google for login, I've created a simple Ap
 
 The onApplicationStart is virtually a carbon copy of the earlier examples, but the onRequestStart is new. It checks to see if we are logged in, and barring that, checks to see if we are requesting either the login page or the callback page. When the user first hits the application, they are sent to the login page:
  
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-17 at 1.17.26 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-04-17 at 1.17.26 PM.png" />
 
 Notice that there isn't a form here. Remember, we're sending the user to Google instead. I could have automatically pushed them, but I felt this was more friendly. Here's the code for that template.
 
@@ -29,7 +29,7 @@ Notice that there isn't a form here. Remember, we're sending the user to Google 
 
 I've put the Google OAuth code into a CFC to abstract a bit, but for now, don't worry about it. The link generation is very similar to the previous two examples. Once the user clicks login, they are sent to Google. In this case, Google recognized my account and preset the login, but I have the option to switch users as well.
 
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-17 at 1.18.20 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-04-17 at 1.18.20 PM.png" />
 
 As before, the user is sent to a callback page. Here is that template. Again note that I've put much more into the CFC now so this is somewhat simpler.
 
@@ -37,7 +37,7 @@ As before, the user is sent to a callback page. Here is that template. Again not
 
 Finally, the user is directed to the homepage. As part of the Google API, I can get info about the user. I did so and dumped it out:
 
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-04-17 at 1.17.48 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-04-17 at 1.17.48 PM.png" />
 
 Here is that template:
 

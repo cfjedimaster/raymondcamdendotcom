@@ -268,4 +268,4 @@ You can see this running here: http://www.raymondcamden.com/demos/2012/jan/18/v2
 
 <p/>
 
-I've attached a zip of both v1 and v2 applications to this blog entry. In order for them to work you will need to have the cfartgallery datasource present on your system.<p><a href='http://static.raymondcamden.com/enclosures/cfapi1.zip'>Download attached file.</a></p>
+I've attached a zip of both v1 and v2 applications to this blog entry. In order for them to work you will need to have the cfartgallery datasource present on your system.<p><a href='https://static.raymondcamden.com/enclosures/cfapi1.zip'>Download attached file.</a></p>

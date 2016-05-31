@@ -21,4 +21,4 @@ Analyst predicts food riots and roving gangs in US by 2012
 
 Seriously. This was a news alert (bright red UI, etc) on Fox this morning. Now that I'm reading it again I wonder if I dreamed it instead. 
 
-<img src="http://static.raymondcamden.com/images//madmax2.jpg">
+<img src="https://static.raymondcamden.com/images//madmax2.jpg">

@@ -23,7 +23,7 @@ To begin with the Nook App Store, I first had to set up my account. This involve
 
 Once I was approved, you then use the Nook Developer site to manage your applications. A nice, tabbed-based form (written in Flex!) is used to manage the process. I found this to be a bit nicer than Google's form. You do not upload your application. Instead you submit metadata about your application first. This is where the store review process comes in. BN will review your application for - well  - I assume appropriateness - and get back to you once approved. When approved, you then actually upload the APK.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip156.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip156.png" />
 
 How long does it take? Well one of the interesting things about their developer site is that it keeps track of the history of your application. Here's how mine went. 
 
@@ -42,7 +42,7 @@ I don't know how this compares to the Apple store, but I believe this is probabl
 
 After your application is approved, what else is there to do? In the developer site, you've got a Reports link and a Marketing link. The Reports are pretty good. You can see units sold and money earned. You can do this for all applications or just one application at a time. You can't yet change the date filters to something more dynamic though (like the whole year, past 2 weeks, etc). The chart is far better than what you get in the Playbook developer portal. It still doesn't report actual number. (Seriously.) I may have to select each month and do simple math with the Nook report, but I can't tell at all how many downloads I've gotten on the Playbook.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip210.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip210.png" />
 
 The Marketing link currently is just a badge generator. You can see the result here:
 

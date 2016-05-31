@@ -73,7 +73,7 @@ Here is a screen shot. Click for a large version. I hid my physical paths:
 
 
 <a href="http://www.coldfusionjedi.com/images/1206.png">
-<img src="http://static.raymondcamden.com/images/cfjedi/1206small.png"></a>
+<img src="https://static.raymondcamden.com/images/cfjedi/1206small.png"></a>
 
 The reason for the replace is to handle the bug I <a href="http://www.coldfusionjedi.com/index.cfm/2007/12/3/Interesting-display-bug-with-CF8-HTML-Grid">blogged</a> about a few days ago. 
 

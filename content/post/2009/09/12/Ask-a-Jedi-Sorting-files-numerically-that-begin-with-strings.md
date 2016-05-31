@@ -31,7 +31,7 @@ So what Leigh is seeing here is text based sorting. Text based sorting will sort
 
 As I didn't have a bunch of files named like Leigh did I simply faked the list with a string. I turned the result into an array to make it a bit nicer to display.
 
-<img src="http://static.raymondcamden.com/images/Picture 185.png" />
+<img src="https://static.raymondcamden.com/images/Picture 185.png" />
 
 If you try to sort these values numerically you get an error. So what to do?
 
@@ -60,7 +60,7 @@ So now that I have a UDF, I can sort by converting my list into an array and the
 
 And the result?
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 257.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 257.png" />
 
 Here is the complete template I used for testing. One small note. ColdFusion allows you to call UDFs that aren't defined yet in a template. By "yet" I mean on the current line. You can call foo() on line 1 and then define foo() on line 10. You can't do that here though. Since you have to pass the actual UDF instance to quickSort, you have to insure the UDF is defined before you do that. Ok, now the code:
 

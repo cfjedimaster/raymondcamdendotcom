@@ -56,4 +56,4 @@ A grand total of one line changed. Instead of myWS.publish() I've got myWS.invok
 
 You can demo this version by hitting the big ole demo button below. Hope this helps!
 
-<a href="http://fivetag-cf10beta.securecb1cf10.ezhostingserver.com/websocketmay11/index2.cfm"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://fivetag-cf10beta.securecb1cf10.ezhostingserver.com/websocketmay11/index2.cfm"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

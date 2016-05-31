@@ -19,7 +19,7 @@ I then CD into the folder, run "subl www" to open the www folder in Sublime, and
 
 All of this takes about 2 seconds and works great, except for one small nit. By default, the new project has this fancy HTML.
 
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Jan 24, 2013 2.39.21 PM1.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot Jan 24, 2013 2.39.21 PM1.png" />
 
 You can't see it - but the green "Device Is Ready" is pulsating. It's very hypnotic. 
 
@@ -27,10 +27,10 @@ What this means is that I actually spend <i>more</i> time "cleaning" the HTML, J
 
 Luckily there is a quick fix for this. Given your desired platform, go to where you installed PhoneGap and you will see a "bin" folder and beneath that, a "templates" folder. There should be one folder underneath it.
 
-<img src="http://static.raymondcamden.com/images/screenshot59.png" />
+<img src="https://static.raymondcamden.com/images/screenshot59.png" />
 
 See the www folder? Just edit the contents within there to your liking and the next time you create a project, your modifications will be used. Here's my version. 
 
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Jan 24, 2013 2.46.35 PM1.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot Jan 24, 2013 2.46.35 PM1.png" />
 
 Ok, that's kinda boring, but I've got a nice blank HTML, JS, and CSS file ready to go in my editor.

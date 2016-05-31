@@ -12,7 +12,7 @@
 First up is <a href="http://cfgloss.com/">Gloss</a>, a new ColdFusion reference that includes both built in functions as well as <a href="http://www.cflib.org">CFLib.org</a> UDFs. So a search for email, for example...
 
 
-<img src="http://static.raymondcamden.com/images/ScreenClip203.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip203.png" />
 
 returns both CFLib and built-in functionality. 
 

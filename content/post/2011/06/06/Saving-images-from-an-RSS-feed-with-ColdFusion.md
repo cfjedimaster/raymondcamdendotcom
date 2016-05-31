@@ -49,4 +49,4 @@ As I loop through the RSS feed, I make use of the linkhref column for the image 
 
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip108.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip108.png" />

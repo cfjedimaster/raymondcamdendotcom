@@ -19,7 +19,7 @@ In the code snippet above, you can see some data being passed to a CFC within a 
 
 Now let's look at the output. There should be 6 dumps from the set() call and one in the middle for test2.
 
-<img src="http://static.raymondcamden.com/images/screenshot71.png" />
+<img src="https://static.raymondcamden.com/images/screenshot71.png" />
 
 Um... ok. We have 8 dumps. We <i>don't</i> have the dump of test2. Also note the third dump,  which should have "Bob in line 2", has it as 9. Oh, and even better, i is 2, not 3. 
 
@@ -27,7 +27,7 @@ Things get weirder if we simplify. I commented out everything but the last two c
 
 <script src="https://gist.github.com/cfjedimaster/5044091.js"></script>
 
-<img src="http://static.raymondcamden.com/images/screenshot72.png" />
+<img src="https://static.raymondcamden.com/images/screenshot72.png" />
 
 Yep, three dumps. Here is where things get even more weird. Jeremy found that if he simply stopped using named arguments and switched to ordered ones, everything worked fine.
 

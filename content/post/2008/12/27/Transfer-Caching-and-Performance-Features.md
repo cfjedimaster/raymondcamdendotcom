@@ -64,11 +64,11 @@ Now let's take a look at another feature - lazy loading. If you remember the Emp
 
 Compare the memento dump and how it changes. With lazy not enabled, benefits is returned automatically:
 
-<img src="http://static.raymondcamden.com/images//Picture 217.png">
+<img src="https://static.raymondcamden.com/images//Picture 217.png">
 
 With lazy=true, the object is now slimmer:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 314.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 314.png">
 
 What's awesome though is that as soon as you need the data, Transfer has no trouble getting it. Consider:
 
@@ -115,6 +115,6 @@ Now something interesting happens. When we get positions (getPositionsArray) fro
 
 Notice that we only run getName() on the first position returned. For every position we show the ID and report if it is loaded. This outputs:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 45.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 45.png">
 
 Notice how the first object is reported as loaded while the second is not. Again, this is <b>exactly</b> the problem I ran into at CFLib.

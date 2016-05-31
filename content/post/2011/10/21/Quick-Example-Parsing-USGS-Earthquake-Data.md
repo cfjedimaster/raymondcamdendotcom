@@ -72,7 +72,7 @@ Do I need to parse the CSV? Not at all. Here's how the dump looks:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip205.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip205.png" />
 
 <p>
 
@@ -139,4 +139,4 @@ So how does it work? I simply loop over my query and output the data. Notice I m
 <p>
 
 
-<a href="http://www.coldfusionjedi.com/demos/2011/oct/21/usgstest.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/2011/oct/21/usgstest.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

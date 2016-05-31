@@ -63,7 +63,7 @@ This will search for author anywhere in the document. The result is:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/screen23.png" />
+<img src="https://static.raymondcamden.com/images/screen23.png" />
 
 <p>
 
@@ -82,7 +82,7 @@ Unfortunately, this still returns a complex structure:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/screen24.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/screen24.png" />
 
 <p>
 

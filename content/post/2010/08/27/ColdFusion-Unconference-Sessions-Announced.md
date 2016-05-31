@@ -19,6 +19,6 @@ I will also remind people that you can attend MAX for the low cost of 200 dollar
 
 I've only one thing left to say:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/stwa.jpg" />
+<img src="https://static.raymondcamden.com/images/cfjedi/stwa.jpg" />
 
 Big thanks to all the speakers who agreed to participate as well as Ezra Parker and Charlie Griefer for once again being co-managers of this event.

@@ -245,4 +245,4 @@ The m2flag code simply handles initializing the second map correctly. I couldn't
 
 
 As I said, useless, but kind of fun anyway. 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 1.jpg">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 1.jpg">

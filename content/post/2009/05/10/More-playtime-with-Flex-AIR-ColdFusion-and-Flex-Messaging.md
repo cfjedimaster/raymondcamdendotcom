@@ -16,7 +16,7 @@ I began on the server side. I didn't want to build a real ecommerce site for thi
 
 Data Services Messaging is fairly simple to setup. I went to my ColdFusion Administrator, Event Gateways, Gateway Instances, and created a new instance. I named it SimpleTest, used the DataServicesMessaging type, and pointed to a CFC in my code folder. This CFC is used when Flex sends data to the server. However, in my application, the client will never send data. A blank file then is fine for the CFC. However, if you try to skip making the file the administrator will get pissy with you.
  
-<img src="http://static.raymondcamden.com/images//Picture 155.png">
+<img src="https://static.raymondcamden.com/images//Picture 155.png">
 
 <b>Important:</b> Note that you have to start the gateway instance. Even with the startup set to auto, which I would assume would mean 'start now too please', don't forget to hit that start icon after you create it.
 

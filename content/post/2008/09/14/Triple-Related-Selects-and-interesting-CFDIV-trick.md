@@ -13,7 +13,7 @@ Last week I helped a user who was having problems with a multi-related select ap
 
 Lets take a look at his front end code first:
 
-<code>
+<pre><code class="language-javascript">
 &lt;cfform name="Localiza"&gt;
 &lt;table&gt;
 &lt;tr&gt;
@@ -33,7 +33,7 @@ Lets take a look at his front end code first:
 		display="DsCounty" value="IdCounty"/&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 &lt;/cfform&gt;
-</code>
+</code></pre>
 
 Nothing too complex here. The first drop down asks a CFC for a list of divisions. The second drop down is bound to that value. The third drop down is then bound to the first two. 
 
@@ -41,7 +41,7 @@ I had him simply debug that arguments being sent to the CFC methods, and as you 
 
 To fix this, I recommended that both the getState and getCounty methods should look for empty values being passed. Here is the complete CFC. Notice in the two latter methods how he handles and responds to the empty values.
 
-<code>
+<pre><code class="language-javascript">
 &lt;cfcomponent&gt;
 
 &lt;cfinclude template="QryPlaces.cfm"&gt;
@@ -88,20 +88,22 @@ To fix this, I recommended that both the getState and getCounty methods should l
     &lt;/cffunction&gt;
 
 &lt;/cfcomponent&gt;
-</code>
+</code></pre>
 
 Yes, he is missing var statements and cfqueryparam tags. So these changes did solve his initial load problem. I'd also probably recommend slimming down his queries a bit. So for example, the third drop down uses dsCount and IdCountry, but his CFC method is returning four columns. Now on one hand, it's nice to be able to use the exact same code for your Ajax code as you would for other code. But if this CFC is only being used for Ajax, he may want to trim down the query for performance reasons. While JSON is used to pass the data to the client and is pretty slim, there is no reason not to make that as small as possible. 
 
 Ok, so all in all, a rather simple issue, and I thought folks might like to see this in action. The user, Rigo, was kind enough to take his code and package it up with fake query data. You can download it below, and run a live demo <a href="http://www.raymondcamden.com/demos/threeselects/places.cfm">here</a>. Now for the kind of cool part. I noticed when running his demo that the three values for the drop downs were being displayed on the page. He did this with this code:
 
-<code>
+<pre><code class="language-javascript">
 &lt;cfdiv name="despliegue" bind="{SelDivision},{SelState},{SelCounty}"&gt;&lt;/cfdiv&gt;
-</code>
+</code></pre>
 
 Note the bind statement. No URL, CFC, or JavaScript function is in use here. All he did was use the bound values. On a whim, I changed it to (and this is what you see in the live demo):
 
-<code>
+<pre><code class="language-javascript">
 &lt;cfdiv name="despliegue" bind="static - {SelDivision},{SelState},{SelCounty}"&gt;&lt;/cfdiv&gt;
-</code>
+</code></pre>
 
-And this worked perfectly fine as well. I had no idea this would work, but I guess if you don't specify URL, CFC, or javascript, than ColdFusion treats it as a literal string result for the div. I'm not sure how I'd use that in production, but for debugging it's pretty useful.<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FRelatedSelectsPlaces%2Ezip'>Download attached file.</a></p>
+And this worked perfectly fine as well. I had no idea this would work, but I guess if you don't specify URL, CFC, or javascript, than ColdFusion treats it as a literal string result for the div. I'm not sure how I'd use that in production, but for debugging it's pretty useful.
+
+<a href="https://static.raymondcamden.com/enclosures/RelatedSelectsPlaces.zip">Download attached file.</a>

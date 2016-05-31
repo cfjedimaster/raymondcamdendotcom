@@ -98,5 +98,5 @@ If you've read the other posts then most of this should make sense already. To s
 </p>
 
 <p>
-<a href="http://www.raymondcamden.com/demos/2013/dec/4/Untitled-1.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>   
+<a href="http://www.raymondcamden.com/demos/2013/dec/4/Untitled-1.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>   
 </p>

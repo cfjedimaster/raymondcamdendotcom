@@ -20,27 +20,27 @@ I tend to work with client-side databases with just the vanilla JavaScript APIs 
 
 First, add the <strong>Cloudant NoSQL DB</strong> service to your Bluemix app:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot13.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot13.png" alt="shot1" width="850" height="547" class="alignnone size-full wp-image-6055" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot13.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot13.png" alt="shot1" width="850" height="547" class="alignnone size-full wp-image-6055" /></a>
 
 After you have added the service and restaged your app, select it, and then hit the Launch button:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot22.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot22.png" alt="shot2" width="850" height="434" class="alignnone size-full wp-image-6056" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot22.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot22.png" alt="shot2" width="850" height="434" class="alignnone size-full wp-image-6056" /></a>
 
 This fires up the Cloudant administrator where you can do - well - pretty much everything related to setting up your database. But to work with that guide at PouchDB, select Databases and then "Add New Database":
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot31.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot31.png" alt="shot3" width="850" height="434" class="alignnone size-full wp-image-6057" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot31.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot31.png" alt="shot3" width="850" height="434" class="alignnone size-full wp-image-6057" /></a>
 
 Then enter <code>todos</code> to match the guide:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot41.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot41.png" alt="shot4" width="500" height="243" class="alignnone size-full wp-image-6058" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot41.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot41.png" alt="shot4" width="500" height="243" class="alignnone size-full wp-image-6058" /></a>
 
 Ok, you're almost done. You then want to enable CORS for your Cloudant install. In the Cloudant admin, click Account and then CORS. Enable it, and then select what origin domains you want. For now, it may be easier to just allow all domains.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot51.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot51.png" alt="shot5" width="850" height="295" class="alignnone size-full wp-image-6059" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot51.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot51.png" alt="shot5" width="850" height="295" class="alignnone size-full wp-image-6059" /></a>
 
 Woot - ok - one more step. When using PouchDB and sync, they expect you to supply a connection URL. You can get this back in your Bluemix console. Select the "Show Credentials" link to expand the connection data and then copy the "url" portion.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot6.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot6.png" alt="shot6" width="435" height="600" class="alignnone size-full wp-image-6060" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot6.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot6.png" alt="shot6" width="435" height="600" class="alignnone size-full wp-image-6060" /></a>
 
 And voila - that's it. If you open your test in multiple browsers, you'll see everything sync perfectly. Remember you can also use PouchDB in Node.js, which, coincidentally, you can <i>also</i> host up on Bluemix, so yeah, that works out well too. 
 

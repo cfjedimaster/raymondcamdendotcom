@@ -42,7 +42,7 @@ The second issue is more subtle. Notice the typo? I said sqltpye instead of sqlt
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-03-24 at 7.54.32 AM.png" title="ORM Scanner Result" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-03-24 at 7.54.32 AM.png" title="ORM Scanner Result" />
 
 <p/>
 

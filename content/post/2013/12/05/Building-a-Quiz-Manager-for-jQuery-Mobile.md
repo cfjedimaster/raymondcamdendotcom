@@ -58,7 +58,7 @@ I whipped up a quick jQuery Mobile application with two pages. The first simply 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Dec 5, 2013, 11.08.38 AM.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot Dec 5, 2013, 11.08.38 AM.png" />
 </p>
 
 <p>
@@ -66,7 +66,7 @@ Once you load the quiz page, the code you see above runs the library. Here is ho
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s12.png" />
+<img src="https://static.raymondcamden.com/images/s12.png" />
 </p>
 
 <p>
@@ -74,7 +74,7 @@ And this is the first question:
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s23.png" />
+<img src="https://static.raymondcamden.com/images/s23.png" />
 </p>
 
 <p>
@@ -247,5 +247,5 @@ All in all this was fun to write, but as I said, feels very much like a first dr
 </p>
 
 <p>
-<a href="http://static.raymondcamden.com/demos/2013/dec/5/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>  
+<a href="https://static.raymondcamden.com/demos/2013/dec/5/"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>  
 </p>

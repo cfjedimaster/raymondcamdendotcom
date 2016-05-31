@@ -17,7 +17,7 @@ Almost two years ago I <a href="http://www.raymondcamden.com/2012/8/20/New-site-
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/Popular_Twitter_Followers.jpg" />
+<img src="https://static.raymondcamden.com/images/Popular_Twitter_Followers.jpg" />
 </p>
 
 <p>

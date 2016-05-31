@@ -24,7 +24,7 @@ Let's begin with an example of a web site that includes CFCs meant to be called 
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip133.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip133.png" />
 
 <p/>
 
@@ -53,7 +53,7 @@ So the question is - what happens when I use this CFC? If I put this in my brows
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip134.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip134.png" />
 
 <p/>
 
@@ -100,7 +100,7 @@ Nothing terribly complex here. I just made an instance of util in my method and 
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip135.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip135.png" />
 
 <p/>
 
@@ -157,7 +157,7 @@ So this Application.cfc is rather simple, but you can see now that I use the onA
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip136.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip136.png" />
 
 <p/>
 
@@ -183,7 +183,7 @@ The component has one method, getHelloWorld, that wraps a call to the Applicatio
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip137.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip137.png" />
 
 <p/>
 

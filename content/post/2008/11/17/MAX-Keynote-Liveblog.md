@@ -16,7 +16,7 @@ The keynote opened with an awesome show by Mike Realm, a DJ/scratch artist/whate
 
 The boss is up (sorry, I didn't quite get his name, Shatenu?). This is the large MAX ever attendance wise.
 
-<img src="http://static.raymondcamden.com/images//photo.jpg">
+<img src="https://static.raymondcamden.com/images//photo.jpg">
 
 9:41AM<br/>
 Talking about the non-PC market (living room, mobile, etc). Moving from a 'single screen room' to a multi-screen environment. Adobe's vision is to enable you to deliver the most engaging content over multiple platforms. Referring to "Flash Platform" which I think is a new term for them? Showing the range of prodcts - tools, ramework, clients, servers. Announcing Thermo's new name - Catalyst. Preview build will be available <b>TODAY!</b>

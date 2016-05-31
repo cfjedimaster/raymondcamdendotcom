@@ -33,7 +33,7 @@ Nothing too complex here, right? Just one simple helloWorld method with an optio
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip118.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip118.png" />
 
 
 <p/>
@@ -42,7 +42,7 @@ Unless you have both your CF Admin and RDS passwords turned off, you are prompte
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip119.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip119.png" />
 
 <p/>
 
@@ -82,7 +82,7 @@ In this guide I'm focusing on the last item above, but let's quickly cover the f
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip120.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip120.png" />
 
 <p/>
 
@@ -98,7 +98,7 @@ So now we are on our third option - straight HTTP calls. The <a href="http://hel
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip121.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip121.png" />
 
 <p/>
 
@@ -106,7 +106,7 @@ Nice and simple, right? If I want to include a name, then I'd just add another a
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip122.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip122.png" />
 
 <p/>
 
@@ -176,7 +176,7 @@ I've added a new function to my CFC called getNames. It returns an array of 5 na
 
 
 <b>localhost/test.cfc?method=getNames&returnFormat=plain</b><br/>
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip123.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip123.png" />
 
 <p/>
 

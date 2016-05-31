@@ -17,7 +17,7 @@ Hey - guess what? I'm working on a book. This time the publisher is Manning, and
 </p>
 <!--more-->
 <p>
-<a href="http://manning.com/camden/?a_aid=apachecordova&a_bid=2a2a33f0"><img src="http://static.raymondcamden.com/images/camden_cover150.jpg" style="float:left;margin-right:10px;margin-bottom:10px" /></a><a href="http://manning.com/camden/?a_aid=apachecordova&a_bid=2a2a33f0">"Apache Cordova in Action"</a> will help readers learn how to use Apache Cordova. As you know, I'm an avid user of Cordova and PhoneGap. Sometimes the documentation can be a bit difficult to grasp. I think the docs are good, but there are a lot of different things developers need to synthesize in order to really get it. This book - I hope - will help tremendously in that area.
+<a href="http://manning.com/camden/?a_aid=apachecordova&a_bid=2a2a33f0"><img src="https://static.raymondcamden.com/images/camden_cover150.jpg" style="float:left;margin-right:10px;margin-bottom:10px" /></a><a href="http://manning.com/camden/?a_aid=apachecordova&a_bid=2a2a33f0">"Apache Cordova in Action"</a> will help readers learn how to use Apache Cordova. As you know, I'm an avid user of Cordova and PhoneGap. Sometimes the documentation can be a bit difficult to grasp. I think the docs are good, but there are a lot of different things developers need to synthesize in order to really get it. This book - I hope - will help tremendously in that area.
 </p>
 
 <p>

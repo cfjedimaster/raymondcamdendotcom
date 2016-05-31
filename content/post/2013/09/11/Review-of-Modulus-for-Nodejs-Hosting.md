@@ -39,12 +39,12 @@ I have to admit I did not originally spend much time on their site. I don't like
 
 <p>
 AppFog:<br/>
-<img src="http://static.raymondcamden.com/images/Screenshot_9_11_13_2_10_PM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_9_11_13_2_10_PM.png" />
 </p>
 
 <p>
 Modulus:<br/>
-<img src="http://static.raymondcamden.com/images/Screenshot_9_11_13_2_11_PM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_9_11_13_2_11_PM.png" />
 </p>
 
 <p>
@@ -52,12 +52,12 @@ Ugly, right? But while both report basic stats, I find the Modulus ones a lot ea
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_9_11_13_2_14_PM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_9_11_13_2_14_PM.png" />
 </p>
 
 <p>
 A little lower on the same page...<br/>
-<img src="http://static.raymondcamden.com/images/Screenshot_9_11_13_2_16_PM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_9_11_13_2_16_PM.png" />
 </p>
 
 <p>
@@ -66,7 +66,7 @@ Look at that - per route timings. Now from what I can tell - AppFog can support 
 
 <p>
 Even better - yesterday Modulus announced they were adding MongoDB stats. Check this screen shot:<br/>
-<img src="http://static.raymondcamden.com/images/mongo2.jpg" />
+<img src="https://static.raymondcamden.com/images/mongo2.jpg" />
 </p>
 
 <p>

@@ -13,7 +13,7 @@ Back in January of this year I <a href="http://www.raymondcamden.com/index.cfm/2
 <!--more-->
 This is one of the areas that was touched in the 901 updater, and I'm very happy to see that Adobe did indeed do a great job improving their support for binary files. I did a quick test where I dumped in some MP3, PDF, and Word docs into a folder and then indexed it. (I also tried an AVI for the heck of it - it didn't work though.) After the collection was created I did a few quick tests. Here is the result of a search for e*:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-07-19 at 6.04.38 PM.png" title="Searcher Results" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-07-19 at 6.04.38 PM.png" title="Searcher Results" />
 
 As you can see, it picked up quite a bit of information. Check out the summary on the MP3. It isn't clear unless you view source, but the data is line delimited and could be parsed if you wanted to. 
 

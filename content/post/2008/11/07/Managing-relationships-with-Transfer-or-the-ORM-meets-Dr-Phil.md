@@ -28,7 +28,7 @@ If you remember from my CRUD posts, I had created two simple files to manage emp
 
 The form is a lot smaller as well. Because these files aren't that interesting, I won't put them on the blog post (but again, they will be in the zip). I quickly created a few departments just to make sure everything was working.
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 125.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 125.png">
 
 Ok, so the point of this entry was to talk about relationships, so it's about time we got to it. Transfer defines three types of relationships: ManyToOne, OneToMany, and ManyToMany. We want to link an employee to a department, so which do we choose?
 
@@ -76,7 +76,7 @@ So what happens next? I manually edited one of my employee records and set depar
 
 This dump returned: 
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 211.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 211.png">
 
 Wow, check it out! The related department was automatically included in the employee TransferObject. As I mentioned before, you don't normally use getMemento(). Instead, we would probably have something like this:
 

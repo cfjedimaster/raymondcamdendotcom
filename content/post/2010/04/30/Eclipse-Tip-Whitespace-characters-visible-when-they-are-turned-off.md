@@ -13,7 +13,7 @@ Ok, this is officially from the WTF Files. Today I somehow enabled whitespace ch
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-04-30 at 2.14.00 PM.png" title="WTF 1" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-04-30 at 2.14.00 PM.png" title="WTF 1" />
 
 <p>
 
@@ -21,7 +21,7 @@ No big deal, right? While I figured I'd have no chance in heck to remember what 
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-30 at 2.14.56 PM.png" title="WTF 2" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-30 at 2.14.56 PM.png" title="WTF 2" />
 
 <p>
 
@@ -33,7 +33,7 @@ For the heck of it I turned it on and get this - the whitespace characters got d
 
 <p>
  
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-30 at 2.17.39 PM.png" title="WTF 3" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-30 at 2.17.39 PM.png" title="WTF 3" />
 
 <p>
 

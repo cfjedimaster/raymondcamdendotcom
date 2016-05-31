@@ -13,7 +13,7 @@
 
 This weekend I began work on a <a href="http://www.caniuse.com">CanIUse</a> extension for <a href="http://github.com/adobe/brackets">Brackets</a>. Given than I've already worked with the CanIUse data before, I figured it would be pretty easy. Within about an hour or so I got to the point where I could list out all the filters, allow you to filter to quickly find one, and then select a feature and get part of the report.
 <!--more-->
-<img src="http://static.raymondcamden.com/images/screenshot25.png" />
+<img src="https://static.raymondcamden.com/images/screenshot25.png" />
 
 For the most part, I was done, but I was dreading the rest of the work. Why? I knew I'd have to build out the support table by hand. It would be a slow, laborious process and I wasn't looking forward to it. (And in fact, I considered just plopping it up on GitHub and asking for help.)
 
@@ -23,7 +23,7 @@ I spent a bit of time attempting to get this working when Adam Lehman tweeted at
 
 I looked around a bit for an example and found it in the Edge Web Fonts extension. This extension ships with <a href="http://html.adobe.com/edge/code/">Edge Code</a> (which is free!). Since Brackets extensions are as open source as the tool itself, I took a quick look at their code. In case you don't know how to find your extensions, both Brackets and Edge Code have a "Show Extensions Folder" under the Help menu:
 
-<img src="http://static.raymondcamden.com/images/screenshot26.png" />
+<img src="https://static.raymondcamden.com/images/screenshot26.png" />
 
 After digging through their code, I found the process to be incredibly simple. First, you can write your HTML templates making use of Mustache, or, even just use static HTML as well. Once you've made a few of them, simply include them in your main.js file:
 

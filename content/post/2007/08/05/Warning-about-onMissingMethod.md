@@ -9,10 +9,12 @@
 	"guid": "2253"
 }
 
-Tonight I played around with onMissingMethod, a cool new feature in ColdFusion 8. See Ben Nadel's <a href="http://www.bennadel.com/index.cfm?dax=blog:868.view">entry</a on it for more detail. I knew that the method took two arguments - the name of the method invoked and a struct of the arguments that was passed.
+Tonight I played around with onMissingMethod, a cool new feature in ColdFusion 8. See Ben Nadel's <a href="http://www.bennadel.com/index.cfm?dax=blog:868.view">entry</a> on it for more detail. I knew that the method took two arguments - the name of the method invoked and a struct of the arguments that was passed.
 
 What I didn't realize and was surprised by - you can't rename these arguments. So consider this:
+
 <!--more-->
+
 <code>
 &lt;cffunction name="onMissingMethod" access="public" returnType="any" output="false"&gt;
 	&lt;cfargument name="method" type="string" required="true"&gt;

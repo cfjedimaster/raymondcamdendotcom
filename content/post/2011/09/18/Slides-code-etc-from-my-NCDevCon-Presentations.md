@@ -22,4 +22,4 @@ Any questions - let me know! I believe that video recordings will be available l
 <object height="425" width="550"><param name="movie" value="http://slidesix.com/viewer/SlideSixViewer.swf?alias=Introduction-to-jQuery-Mobile-3rucP" /><param name="menu" value="false"/><param name="scale" value="noScale"/><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always" /><param value="transparent" name="wmode" /><param value="quality" name="best" /><embed src="http://slidesix.com/viewer/SlideSixViewer.swf?alias=Introduction-to-jQuery-Mobile-3rucP" allowscriptaccess="always" allowFullScreen="true" height="425" width="550" type="application/x-shockwave-flash" wmode="transparent" quality="best" /></object>
 
 <p/>
-<img src="http://static.raymondcamden.com/images/image3.png" />
+<img src="https://static.raymondcamden.com/images/image3.png" />

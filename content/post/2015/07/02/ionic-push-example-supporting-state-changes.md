@@ -98,6 +98,6 @@ The modification is simple. I had added the <a href="https://www.npmjs.com/packa
 
 Now - to be clear - my logic could be a bit tighter. I don't actually look at the $state value. I should see if it exists <i>and</i> if is tabs.chat, but you get the idea. Here it is in action:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot1.png" alt="shot1" width="450" height="600" class="alignnone size-full wp-image-6347" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot1.png" alt="shot1" width="450" height="600" class="alignnone size-full wp-image-6347" />
 
 You can grab the full source code here: <a href="https://github.com/cfjedimaster/Cordova-Examples/tree/master/push2">https://github.com/cfjedimaster/Cordova-Examples/tree/master/push2</a>.

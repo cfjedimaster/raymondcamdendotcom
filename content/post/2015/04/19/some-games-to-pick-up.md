@@ -27,11 +27,11 @@ I spent <i>many</i> hours playing SimCity (cracked copies at that) at my univers
 
 A few weeks ago I heard about <a href="http://store.steampowered.com/app/255710/">City: Skylines</a> and gave it a look. The first thing I noticed was that it was freaking beautiful.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/cs2.jpg"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/cs2.jpg" alt="cs2" width="750" height="422" class="alignnone size-full wp-image-6026" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/cs2.jpg"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/cs2.jpg" alt="cs2" width="750" height="422" class="alignnone size-full wp-image-6026" /></a>
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/cs3.jpg"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/cs3.jpg" alt="cs3" width="750" class="alignnone size-medium wp-image-6027" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/cs3.jpg"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/cs3.jpg" alt="cs3" width="750" class="alignnone size-medium wp-image-6027" /></a>
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/cs.jpg"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/cs.jpg" alt="cs" width="750" class="alignnone size-medium wp-image-6028" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/cs.jpg"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/cs.jpg" alt="cs" width="750" class="alignnone size-medium wp-image-6028" /></a>
 
 I picked it up and immediately felt like I was playing the good old SimCity I remembered from the past. The game play works well, but with obvious differences from classic SimCity. It seems like police and fire coverage don't matter quite as much, and health seems to be way more critical to infrastructure. Sometimes it can be frustrating (I've entered stages where dead bodies pile up in homes no matter how many cemeteries I build), but mostly in a good way. Even better, it has a built in cheat mode, which I really appreciate in my sim games. Sometimes I just want to build and not worry about reality. ;) Like Heroes, this game is rather cheap too - currently 29.99 on <a href="http://store.steampowered.com/app/255710/">Steam</a>. 
 

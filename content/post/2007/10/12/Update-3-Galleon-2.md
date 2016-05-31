@@ -9,7 +9,7 @@
 	"guid": "2410"
 }
 
-<p><img src="http://static.raymondcamden.com/images/glogo.png" align="left"></p>
+<p><img src="https://static.raymondcamden.com/images/glogo.png" align="left"></p>
 
 It's done. Galleon 2 - a major update of my forums package, is now released. You can download it from RIAForge: <a href="http://galleon.riaforge.org">http://galleon.riaforge.org</a>
 

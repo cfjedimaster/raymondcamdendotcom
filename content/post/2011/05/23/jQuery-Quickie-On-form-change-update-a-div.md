@@ -75,4 +75,4 @@ And that's it. My test2.cfm file just echos back the URL scope, but obviously wo
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/may232011/test.html"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/may232011/test.html"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

@@ -19,5 +19,5 @@ We will use Connect for this and the URL will be: <a href="https://my.adobeconne
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/cordova_bot.png" />
+<img src="https://static.raymondcamden.com/images/cordova_bot.png" />
 </p>

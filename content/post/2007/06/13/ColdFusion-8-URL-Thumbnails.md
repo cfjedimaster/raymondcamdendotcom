@@ -33,7 +33,7 @@ The "writeToBrowser" action lets me test without actually saving a file, but I b
 
 The image quality is pretty good I think. It is <b>not</b> the same as what you see from Firefox, but for a thumbnail, I think it works ok:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/geturl.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/geturl.png">
 
 <code>
 &lt;cffunction name="getThumbnail" returnType="any" output="false"&gt;

@@ -66,15 +66,15 @@ Finally, I use a quick writeToBrowser to test out the results. Here are a few sa
 <p>
 
 
-<img src="http://static.raymondcamden.com/images/ScreenClip214.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip214.png" />
 
 <p>
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip215.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip215.png" />
 
 
 Now check out this final copy. It correctly gets that Scott and I have glasses. it correctly says Dave isn't smiling. It gets my 'smile' factor wrong, but do note how lose the confidence is. 
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip216.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip216.png" />

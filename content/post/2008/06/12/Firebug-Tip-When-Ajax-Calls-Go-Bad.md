@@ -21,6 +21,6 @@ The browser error console keeps a history, but what I really need is the respons
 
 Ok, so it turns out there is a way to deal with this. If you open up Firebug, click on Script, and then go to Options, there is a "Break on All Errors" option. It took me a while to find this because there are multiple options link on the page. I've made it obvious here:
 
-<img src="http://static.raymondcamden.com/images/fb.jpg">
+<img src="https://static.raymondcamden.com/images/fb.jpg">
 
 Once you activate this, any error will cause the browser to stop. You can then click on the Net tab to examine the XHR request and see the response.

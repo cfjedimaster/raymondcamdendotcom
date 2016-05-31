@@ -29,7 +29,7 @@ Turned out the second item was a bit difficult. When you send your text to OpenA
 <p>
 
 
-<a href="http://www.raymondcamden.com/images/biggestdumpever.png"><img src="http://static.raymondcamden.com/images/cfjedi/biggestdumpever_small.png" title="Click me for the largest struct ever."></a>
+<a href="http://www.raymondcamden.com/images/biggestdumpever.png"><img src="https://static.raymondcamden.com/images/cfjedi/biggestdumpever_small.png" title="Click me for the largest struct ever."></a>
 
 <p>
 
@@ -37,7 +37,7 @@ So the immediate issue I had was... how do I store this? Storing a structure int
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip171.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip171.png" />
 
 <p>
 
@@ -334,7 +334,7 @@ This template reports on all the topics in my database. While I had 44K comments
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip172.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip172.png" />
 
 <p>
 
@@ -399,7 +399,7 @@ Which results in...
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip173.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip173.png" />
 
 <p>
 

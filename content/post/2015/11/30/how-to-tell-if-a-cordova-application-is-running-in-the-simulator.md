@@ -28,7 +28,7 @@ navigator.camera.getPicture(picDone, picFail, {
 
 Not rocket science, but useful. Just to be complete, here is a screen shot of the same code running on my device and simulator.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot24.png" alt="shot2" width="800" height="714" class="aligncenter size-full wp-image-7174" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot24.png" alt="shot2" width="800" height="714" class="aligncenter size-full wp-image-7174" />
 
 And if you want, you can grab the source for this demo here: <a href="https://github.com/cfjedimaster/Cordova-Examples/tree/master/checkforsim">https://github.com/cfjedimaster/Cordova-Examples/tree/master/checkforsim</a>.
 

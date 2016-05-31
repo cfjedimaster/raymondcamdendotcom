@@ -19,19 +19,19 @@ It works via a Chrome extension, which means, obviously, it is Chrome only. You 
 
 Once installed, your Chrome browser will get a new icon up by the URL:
 
-<img src="http://static.raymondcamden.com/images/ScreenClip170.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip170.png" />
 
 The extension works with any HTTP-based URL, even your local server. You aren't required to upload your files to a public host. As a test, you can simply point to an HTML file on your local server and then click the Ripple icon.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip171.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip171.png" />
 
 Click to enable Ripple and the page is reloaded with the Ripple emulator UI. Note - Ripple will (should) remember this setting. If you return to the page later it automatically loads Ripple. Just click the icon again to disable Ripple for that site. (Note - I'm not 100% sure on how long this 'sticks' - you may see something different.)
 
-<img src="http://static.raymondcamden.com/images/ScreenClip172.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip172.png" />
 
 There's a heck of a lot going on here. Each of the boxes surrounding your app allow for various configuration/testing options, but if you want to focus on just your app you can click the little arrows above the device simulator to hide them.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip173.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip173.png" />
 
 You can selectively close them as well. (I.e., keep the right one open but close the left.)
 
@@ -41,10 +41,10 @@ For the most part the UI here should be self-explanatory. I'll go through it any
 
 The devices pod allows you to select from a pretty large set of options. What's cool is that this integrates fully with PhoneGap's <a href="http://docs.phonegap.com/en/2.3.0/cordova_device_device.md.html#Device">Device API</a>. If you run the example code for the API and toggle between different devices, you see the right results in Ripple. Here are some examples.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip175.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip175.png" />
 <p/>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip176.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip176.png" />
 
 <h2>Platforms</h2>
 
@@ -74,7 +74,7 @@ Second - Ripple's proxy completely borked <a href="http://www.parse.com">Parse.c
 
 Luckily, there is an easy fix for that. Parse.com can work with CORS, and Ripple now lets you disable the proxy. 
 
-<img src="http://static.raymondcamden.com/images/ScreenClip177.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip177.png" />
 
 I tested this a few minutes ago with a Parse.com demo and as soon as I disabled it, it worked fine in Ripple.
 
@@ -86,13 +86,13 @@ This allows you to set the connection type as well as simulate lag. Again, this 
 
 You wouldn't normally need any help with Geolocation since it works just fine in Chrome, but Ripple lets you emulate different locations. This is <i>incredibly</i> helpful during testing. 
 
-<img src="http://static.raymondcamden.com/images/ScreenClip178.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip178.png" />
 
 <h2>Config</h2>
 
 If you are using config.xml files for your PhoneGap app, then Ripple will attempt to read and parse the XML file. Here is an example.
 
-<img src="http://static.raymondcamden.com/images/screenshot61.png" />
+<img src="https://static.raymondcamden.com/images/screenshot61.png" />
 
 <h2>Events</h2>
 
@@ -102,17 +102,17 @@ Finally, the Event section lets you simulate various events. This is not a compl
 
 So to be honest, one of the reasons I avoided Ripple in the past is because I believed that's all Ripple supported. But that's not the case. For example, Ripple supports the PhoneGap <a href="http://docs.phonegap.com/en/2.3.0/cordova_camera_camera.md.html#Camera">Camera API</a>. It works by simply asking you to upload a picture instead. Here is an example of what you would see if your app requests the device camera.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip179.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip179.png" />
 
 Hitting Select File gives you a regular browser based file selector. Once you select a file, you even get a preview, much like a real device.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip180.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip180.png" />
 
 Another feature that works is <a href="http://docs.phonegap.com/en/2.3.0/cordova_notification_notification.md.html#Notification">notification</a> - partially. You can fire off a notification.alert but the title and button value attributes are not used. The callback worked, but fired immediately, not after I closed the alert. Vibration worked by simply shaking the simulator (which would be a pretty incredible vibration in real life I think). 
 
 Beep did not, but it brings up something cool. So what happens when you call an API not supported by Ripple?
 
-<img src="http://static.raymondcamden.com/images/ScreenClip181.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip181.png" />
 
 As you can see, Ripple noticed the problem but provided you a quick way to handle it. You can type in a JSON result to 'fake' the result you expected.
 
@@ -120,7 +120,7 @@ How about the <a href="http://docs.phonegap.com/en/2.3.0/cordova_compass_compass
 
 How about the <a href="http://docs.phonegap.com/en/2.3.0/cordova_contacts_contacts.md.html#Contacts">Contact API</a>? Create works just fine, although it isn't obviously storing a new contact on your desktop. Search fails, but again, Ripple handles it nicely, letting you paste in a JSON response. 
 
-<img src="http://static.raymondcamden.com/images/ScreenClip182.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip182.png" />
 
 How about the <a href="http://docs.phonegap.com/en/2.3.0/cordova_file_file.md.html#File">File API</a>? This is one I haven't played with yet. Chrome supports the File System API, so some parts should "just work", but I'd be surprised if the File Transfer portion works at all. (Then again, every time I think Ripple can't do something it surprises me.)
 

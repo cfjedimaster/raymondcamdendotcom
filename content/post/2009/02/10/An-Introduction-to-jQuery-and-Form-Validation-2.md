@@ -9,7 +9,7 @@
 	"guid": "3231"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 139.png" align="left" style="margin-right: 5px"> Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2009/2/9/An-introduction-to-jQuery-and-Form-Validation">blogged</a> about jQuery and form validation using the excellent <a href="http://bassistance.de/jquery-plugins/jquery-plugin-validation/">Validation</a> plugin by Joern Zaefferer. I demonstrated simple validation techniques using simple additions to your HTML and one line of JavaScript. In today's blog post I'm going to dig a bit deeper into the JavaScript API for the plugin and show more advanced examples of forms validation. As always, please remember that I'm still new to jQuery (and especially this plugin) so comments are welcome!
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 139.png" align="left" style="margin-right: 5px"> Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2009/2/9/An-introduction-to-jQuery-and-Form-Validation">blogged</a> about jQuery and form validation using the excellent <a href="http://bassistance.de/jquery-plugins/jquery-plugin-validation/">Validation</a> plugin by Joern Zaefferer. I demonstrated simple validation techniques using simple additions to your HTML and one line of JavaScript. In today's blog post I'm going to dig a bit deeper into the JavaScript API for the plugin and show more advanced examples of forms validation. As always, please remember that I'm still new to jQuery (and especially this plugin) so comments are welcome!
 <p/>
 <!--more-->
 In yesterday's blog entry, all of the validation I demonstrated made use of CSS or HTML attributes. So for example, to mark a name field as required and require a minimum of two characters, you would do:
@@ -308,7 +308,7 @@ The display: none ensures the error box won't show up until the plugin turns it 
 Put all together you can see this in action here: <a href="http://www.coldfusionjedi.com/demos/jqueryvalidation/test32.html">http://www.coldfusionjedi.com/demos/jqueryvalidation/test32.html</a>
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi//whos_awsome.jpg">
+<img src="https://static.raymondcamden.com/images/cfjedi//whos_awsome.jpg">
 <p/>
 
 That's it for this entry. I remain incredibly impressed by this plugin, and I think my next blog entry will really cement the <b>Awesome Coolness that is jQuery</b>. I'll be demonstrating an example that mixes client side validation along with server side checks.

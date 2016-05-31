@@ -26,7 +26,7 @@ Anyway - I began by creating an incredibly simple web page. It lists the name of
 
 Here's a screen shot of it in action.
 
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot May 1, 2013 4.28.35 PM.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot May 1, 2013 4.28.35 PM.png" />
 
 Ok, now let's take a look at the code.
 

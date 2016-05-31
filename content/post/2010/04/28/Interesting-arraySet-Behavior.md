@@ -29,7 +29,7 @@ The result of this is:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-04-28 at 6.20.08 AM.png" title="That's a lot of Ray" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-04-28 at 6.20.08 AM.png" title="That's a lot of Ray" />
 
 <p>
 
@@ -48,7 +48,7 @@ When run this returns:
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-28 at 6.22.13 AM.png" title="Nothing says 'I Love You' like a bouquet of UUIDs" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-04-28 at 6.22.13 AM.png" title="Nothing says 'I Love You' like a bouquet of UUIDs" />
 
 <p>
 

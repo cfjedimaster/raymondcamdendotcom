@@ -19,7 +19,7 @@ For today's demo, I decided to try something I've been meaning to make time for 
 
 I began by building an application that simply returned events from a list and displayed them as is. Here is the view:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/Simulator-Screen-Shot-Sep-18-2015-11.32.58-AM.png" alt="Simulator Screen Shot Sep 18, 2015, 11.32.58 AM" width="422" height="750" class="aligncenter size-full wp-image-6784 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/Simulator-Screen-Shot-Sep-18-2015-11.32.58-AM.png" alt="Simulator Screen Shot Sep 18, 2015, 11.32.58 AM" width="422" height="750" class="aligncenter size-full wp-image-6784 imgborder" />
 
 Let's look at the code behind this. First, the HTML. Since this application is so simple, I'm not using routes and templates.
 
@@ -142,7 +142,7 @@ Yep, just call the service and render the events. Trivial. Now let's look at the
 
 Ok, so this is a bit more complex. I've got a set of fake data that creates four events in the future. The service then returns those fake events. Ok, so let's kick it up a notch. Given that our Calendar plugin can check for events, I'm going to update my code to display if an event has been added to the calendar or not. Here is an example.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/Simulator-Screen-Shot-Sep-18-2015-11.41.36-AM.png" alt="Simulator Screen Shot Sep 18, 2015, 11.41.36 AM" width="422" height="750" class="aligncenter size-full wp-image-6786 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/Simulator-Screen-Shot-Sep-18-2015-11.41.36-AM.png" alt="Simulator Screen Shot Sep 18, 2015, 11.41.36 AM" width="422" height="750" class="aligncenter size-full wp-image-6786 imgborder" />
 
 In this screen shot, you can see buttons to add the event to your calendar. Notice that the third event though is recognized as being in the calendar. To make this work, I updated the service call for events to handle checking the calendar. It was a bit complex since each call is asynch, but $q makes it easy to handle that.
 
@@ -205,6 +205,6 @@ Fairly simple, right? Now let's look at the add code. I'll skip the controller c
 
 And just to prove it works - here is the event I just added:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/Simulator-Screen-Shot-Sep-18-2015-11.46.06-AM.png" alt="Simulator Screen Shot Sep 18, 2015, 11.46.06 AM" width="422" height="750" class="aligncenter size-full wp-image-6787 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/Simulator-Screen-Shot-Sep-18-2015-11.46.06-AM.png" alt="Simulator Screen Shot Sep 18, 2015, 11.46.06 AM" width="422" height="750" class="aligncenter size-full wp-image-6787 imgborder" />
 
 I've put the full source code for this demo up on GitHub: <a href="https://github.com/cfjedimaster/Cordova-Examples/tree/master/calendarionic">https://github.com/cfjedimaster/Cordova-Examples/tree/master/calendarionic</a>. I want to give big thanks to Eddy Verbruggen for helping me use his plugin, and for fixing a bug I encountered!

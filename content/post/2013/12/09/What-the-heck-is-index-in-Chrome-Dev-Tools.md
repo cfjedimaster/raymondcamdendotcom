@@ -14,7 +14,7 @@ File this under the "Yet Another Thing Probably Obvious to Everyone But Me" fold
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/ss11.jpg" />
+<img src="https://static.raymondcamden.com/images/ss11.jpg" />
 </p>
 
 <p>
@@ -34,7 +34,7 @@ In case you're curious, Firefox does this (note that the last folder in the URL 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/ss2.jpg" />
+<img src="https://static.raymondcamden.com/images/ss2.jpg" />
 </p>
 
 <p>
@@ -42,5 +42,5 @@ Now you know - and we all know what that means.
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/knowing.png" />
+<img src="https://static.raymondcamden.com/images/knowing.png" />
 </p>

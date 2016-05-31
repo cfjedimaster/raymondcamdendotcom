@@ -21,29 +21,29 @@ First, I assume you've got a project up on Ionic Creator already. How it looks, 
 
 To begin, you'll want to grab the zip download. First hit the export link:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/Ionic_Creator.png" alt="Ionic_Creator" width="750" height="543" class="aligncenter size-full wp-image-7241" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/Ionic_Creator.png" alt="Ionic_Creator" width="750" height="543" class="aligncenter size-full wp-image-7241" />
 
 Then select the zip tab:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/Ionic_Creator2.png" alt="Ionic_Creator2" width="750" height="544" class="aligncenter size-full wp-image-7242" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/Ionic_Creator2.png" alt="Ionic_Creator2" width="750" height="544" class="aligncenter size-full wp-image-7242" />
 
 Extract the zip someplace - it doesn't matter where, we'll be moving it in a second.
 
 Ok, next, create a new MobileFirst Cordova application with: <code>mfp cordova create</code>. Just name it whatever you want and accept the defaults. (Or change them if you know what you're doing.)
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot1-1.png" alt="shot1" width="750" height="674" class="aligncenter size-full wp-image-7243" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot1-1.png" alt="shot1" width="750" height="674" class="aligncenter size-full wp-image-7243" />
 
 Now - I assume you've already got a working MobileFirst development server, but I like to be sure. So before going any further, go ahead and push the app to the server (<code>mfp push</code>) and then send it to your emulator (<code>mfp cordova emulate -p ios</code>).
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/Simulator-Screen-Shot-Dec-14-2015-10.36.27-AM.png" alt="Simulator Screen Shot Dec 14, 2015, 10.36.27 AM" width="422" height="750" class="aligncenter size-full wp-image-7244 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/Simulator-Screen-Shot-Dec-14-2015-10.36.27-AM.png" alt="Simulator Screen Shot Dec 14, 2015, 10.36.27 AM" width="422" height="750" class="aligncenter size-full wp-image-7244 imgborder" />
 
 Ok, so now lets get in your Ionic Creator code. Open the directory containing your MobileFirst Cordova project. Find the www folder and either delete it or rename it. 
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot2-1.png" alt="shot2" width="750" height="425" class="aligncenter size-full wp-image-7246" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot2-1.png" alt="shot2" width="750" height="425" class="aligncenter size-full wp-image-7246" />
 
 Then, copy the assets from your Creator zip export into a new <code>www</code> folder.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot3.png" alt="shot3" width="750" height="847" class="aligncenter size-full wp-image-7247" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot3.png" alt="shot3" width="750" height="847" class="aligncenter size-full wp-image-7247" />
 
 Ok, so you're almost done actually. First, be sure to add in Ionic's keyboard plugin: <code>mfp cordova plugin add ionic-plugin-keyboard</code>. <strong>NOTICE: </strong> At the time I write this, a bug in the mfp CLI will report <code>Error adding plugin "ionic-plugin-keyboard"</code>. But if you <code>mfp cordova plugin ls</code> you will see that the plugin was added. This bug is known and will be fixed in a future release. 
 
@@ -56,6 +56,6 @@ Next you need to prepare the app to "speak" to MobileFirst. I covered this proce
 
 Then simply emulate. (Note, previously you needed to <code>mfp push</code> before every emulation. Now that is unnecessary.)
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot4-1.png" alt="shot4" width="422" height="750" class="aligncenter size-full wp-image-7248 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/shot4-1.png" alt="shot4" width="422" height="750" class="aligncenter size-full wp-image-7248 imgborder" />
 
 And that's it. Let me know if you've got any questions about this process by leaving a comment below.

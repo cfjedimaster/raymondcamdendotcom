@@ -33,16 +33,16 @@ I bet folks know what I'm going to say. Once again, the built in chart editor co
 Passing this to my chart resulted in the following:
 <p>
 
-<img src="http://static.raymondcamden.com/images/Picture 26.png">
+<img src="https://static.raymondcamden.com/images/Picture 26.png">
 <p>
 
 And for comparison's sake, here is horizontal:
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 33.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 33.png">
 <p>
 
 You also have options for Slanted and Parallel. Parallel looked mostly like Horizontal, but here is an example of Slanted:
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 42.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 42.png">

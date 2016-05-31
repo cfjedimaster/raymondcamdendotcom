@@ -88,7 +88,7 @@ Ok, you can stop reading now. Seriously. The rest of this is just numbers BS for
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/31058511.jpg" />
+<img src="https://static.raymondcamden.com/images/31058511.jpg" />
 </p>
 
 <p>

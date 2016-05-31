@@ -19,7 +19,7 @@ First - I had assumed the port would be simple. The game itself is trivial so I 
 <p/>
 
 
-<img src="http://static.raymondcamden.com/images/ScreenClipwon.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClipwon.png" />
 
 <p/>
 
@@ -336,6 +336,6 @@ And a final screen shot so you can see the result you don't want to see:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenCliplost.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenCliplost.png" />
 
 I've attached a zip of the project to the blogentry.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FHangman1%2Ezip'>Download attached file.</a></p>

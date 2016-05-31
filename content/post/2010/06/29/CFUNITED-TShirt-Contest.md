@@ -9,7 +9,7 @@
 	"guid": "3863"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/cf_tag_shirt_contest.gif" title="CFUNITED Shirt Contest" align="left" style="margin-right: 5px" /> 
+<img src="https://static.raymondcamden.com/images/cfjedi/cf_tag_shirt_contest.gif" title="CFUNITED Shirt Contest" align="left" style="margin-right: 5px" /> 
 
 Let's be honest. The most important aspect of a conference isn't
 location, speakers, sessions, or dare I say it, food, but rather the

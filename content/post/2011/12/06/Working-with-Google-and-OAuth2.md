@@ -21,7 +21,7 @@ The first thing you have to do is create an "Application" registered with Google
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip244.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip244.png" />
 
 <p>
 
@@ -29,7 +29,7 @@ Notice that - initially - you can't edit the Redirect URI. We're going to fix th
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip245.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip245.png" />
 
 <p>
 
@@ -76,7 +76,7 @@ I output it just so I can see what it looks like a bit easier. Note - most sites
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip246.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip246.png" />
 
 <p>
 
@@ -114,7 +114,7 @@ The result is that now you have a session token. That session token gives you ac
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip247.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip247.png" />
 
 <p>
 
@@ -171,4 +171,4 @@ Notice that this just slightly tweaks the values sent. In my testing, a call to 
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/2011/dec/6/index1.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/2011/dec/6/index1.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

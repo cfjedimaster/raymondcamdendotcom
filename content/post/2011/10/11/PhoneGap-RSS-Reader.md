@@ -137,7 +137,7 @@ Pretty simple, right? (I should point out jQuery Mobile does support completely 
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/s12.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/s12.png" />
 
 <p/>
 
@@ -145,7 +145,7 @@ And another one...
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/s23.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/s23.png" />
 
 <p/>
 

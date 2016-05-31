@@ -35,7 +35,7 @@ Random comment: Motorola's first commercial for the Xoom was horrible. I don't m
 
 Random comment: Android in general is a great OS in terms of setup. I love that for both my Inspire and my Xoom I signed in with my Google Apps account and things just worked. Now I know I've complained a lot about Google Apps and their lag behind the core Google accounts - but in general - the synchronization/setup of this is darn sweet. When I first signed into my Xoom it immediately began to get the apps I had chosen for my Xoom. 
 
-<img src="http://static.raymondcamden.com/images/Motorola_XOOM.jpg" />
+<img src="https://static.raymondcamden.com/images/Motorola_XOOM.jpg" />
 
 <b>The Playbook</b>
 
@@ -60,7 +60,7 @@ I have not had a chance yet to test the battery. Seems reasonable so far.
 
 Random Comment: The camera on the Playbook is horrible. Maybe I just take bad pictures, but I've not been happy with the pictures I've taken with it. Then again - I don't plan on <i>ever</i> using a tablet for pictures I truly care about so it's not that big of a deal. If folks want, I can take a picture with my Xoom and Playbook of the same subject and post them for comparison.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/playbook_navigator_508.jpg" />
+<img src="https://static.raymondcamden.com/images/cfjedi/playbook_navigator_508.jpg" />
 
 <b>Wrap Up</b>
 

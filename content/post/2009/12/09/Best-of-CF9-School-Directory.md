@@ -9,13 +9,13 @@
 	"guid": "3640"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry comes to us from Dale Severin. It was reviewed by <a href="http://www.remotesynthesis.com/">Brian Rinaldi</a>. His review was pretty nicely organized so I'm including it as is. Everything up till "Ray here" is straight from him. 
+<img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry comes to us from Dale Severin. It was reviewed by <a href="http://www.remotesynthesis.com/">Brian Rinaldi</a>. His review was pretty nicely organized so I'm including it as is. Everything up till "Ray here" is straight from him. 
 
 Dale Severin's entry specifically focuses on two new features in ColdFusion 9: Google Maps and Excel spreadsheet integration. The application takes a simulated query of adult schools in the San Francisco area and allows you to view each item placemarked on a Google map. You can also export the query of schools as an Excel spreadsheet. While the application itself isn't overly complex and only spans a few templates, it does serve as a good example of these new features and Dale clearly shows how you can create complex functionality with only a little code in ColdFusion 9 (and that's the point isn't it?).
 
 As I mentioned, the data here is simply a simulated query that is loaded via a CFM template. This works fine, though I would have liked to see it perhaps create a built-in Apache Derby database. Though this isn't new to CF9, it would make the application more flexible and easier to expand upon should Dale or someone else choose to. Nonetheless, Dale made the application exceedingly easy to install as it can live in the site root or a subfolder and the only requirement is that you have a Google Maps API key set up in your ColdFusion Administrator. 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Best of CF9 2.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Best of CF9 2.png" />
 
 One you load the application, you can click on one of the schools and this will open a CFWindow pop-up containing a map of the school. ColdFusion 9 makes Google Maps incredibly easy to integrate. For example, the "guts" of Dale's map output is essentially one line of code:
 
@@ -30,7 +30,7 @@ One you load the application, you can click on one of the schools and this will 
 &lt;/cfmap&gt;
 </code>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Best of CF9 1.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Best of CF9 1.png" />
 
 One suggestion I had here was that he missed the opportunity to show off how you can create more complex maps just as easily. I would have added a map of all the schools where we simply add cfmapitems for each item in the query if no address is passed.
 

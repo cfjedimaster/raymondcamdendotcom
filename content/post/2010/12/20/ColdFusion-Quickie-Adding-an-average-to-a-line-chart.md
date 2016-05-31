@@ -39,7 +39,7 @@ Which gives us:
 <p>
 
 
-<img src="http://static.raymondcamden.com/images/ScreenClip3.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip3.png" />
 
 <p>
 
@@ -74,4 +74,4 @@ Obviously this could be done a bit cleaner, but you get the idea. Here is the re
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip4.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip4.png" />

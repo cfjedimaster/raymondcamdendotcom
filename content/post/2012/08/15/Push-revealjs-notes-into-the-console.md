@@ -18,4 +18,4 @@ reveal.js has an event handler for slide loading called slidechanged. I added an
 
 Here is a quick screenshot. Note that I have <i>not</i> detached the console for this shot. (Also - I just now noticed the horrible grammar in the notes. Since these were just for me, I'm not going to fix it. ;)
 
-<img src="http://static.raymondcamden.com/images/screenshot22.png" />
+<img src="https://static.raymondcamden.com/images/screenshot22.png" />

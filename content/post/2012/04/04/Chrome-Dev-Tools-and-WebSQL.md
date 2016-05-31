@@ -15,10 +15,10 @@ In my <a href="http://www.raymondcamden.com/index.cfm/2012/4/3/Adding-database-s
 <!--more-->
 Open up your Dev Tools and click the Resources panel. If the site uses any databases, you will see them listed here.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip65.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip65.png" />
 
 You can expand the database and look at the tables. Clicking on a table will list all the data available.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip66.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip66.png" />
 
 <strike>Currently there isn't a way to introspect the table structure or write arbitrary SQL. It should be possible to do SQL via the console.</strike> Oops, I was wrong. Down in the comments below Marcin pointed out that if you click the table, you get a console that allows for arbitrary SQL. That's fraking cool!

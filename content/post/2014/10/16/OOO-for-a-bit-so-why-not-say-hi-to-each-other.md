@@ -14,7 +14,7 @@ As I despise email auto responders I'll use this as my official OOO (Out Of Offi
 </p>
 <!--more-->
 <p>
-<img src="http://static.raymondcamden.com/images/coffeetalk.jpg" />
+<img src="https://static.raymondcamden.com/images/coffeetalk.jpg" />
 </p>
 
 <p>

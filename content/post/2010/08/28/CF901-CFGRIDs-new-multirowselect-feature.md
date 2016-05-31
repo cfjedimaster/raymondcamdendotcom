@@ -38,7 +38,7 @@ My code begins with a quick fake query on top. Next I've got a cfform with my gr
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-08-28 at 7.59.52 AM.png" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-08-28 at 7.59.52 AM.png" />
 
 <p>
 
@@ -46,7 +46,7 @@ Now let's turn the option back on, as in the code above.
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-28 at 8.00.31 AM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-28 at 8.00.31 AM.png" />
 
 <p>
 
@@ -54,7 +54,7 @@ As you can see, there is a new column now with checkboxes. There is also a check
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-28 at 8.02.32 AM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-08-28 at 8.02.32 AM.png" />
 
 <p>
 
@@ -101,7 +101,7 @@ Basically - create a list of IDs from the object and assign it to a new form fie
 
 <p>
 
-<a href="http://www.coldfusionjedi.com/demos/aug282010/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/aug282010/test.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

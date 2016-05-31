@@ -38,7 +38,7 @@ And last but not least, the JavaScript file loaded by the panel:
 
 And that's it. Here is my panel running in the Developer Tools UI:
 
-<img src="http://static.raymondcamden.com/images/screenshot14.png" />
+<img src="https://static.raymondcamden.com/images/screenshot14.png" />
 
 So - what about all those console messages? As I tried to get things working, I used console messages all over the place so I could - hopefully - see what was going on. I had very little luck with this. I've <a href="http://www.raymondcamden.com/index.cfm/2012/6/6/Quick-tip-for-debugging-Chrome-Extensions">blogged</a> before about how to use console with Chrome Extensions, but that tip only works when you have a background script. My test extension did not. What finally worked was this:
 

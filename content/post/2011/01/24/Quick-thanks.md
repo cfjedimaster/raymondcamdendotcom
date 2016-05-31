@@ -25,7 +25,7 @@ By the way - before I go any further - Google Docs - which I used for the survey
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip14.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip14.png" />
 
 <p/>
 

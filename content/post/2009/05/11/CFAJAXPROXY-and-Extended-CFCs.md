@@ -65,7 +65,7 @@ function doBase() {
 
 I begin by creating the proxy with cfajaxproxy. Then I have a JavaScript block with tests for both methods, double and basemethod. Two buttons then let me run them. Running the code shows that double(5) runs just fine, but basemethod() gives:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 156.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 156.png">
 
 Here's the weird thing though. I took the URL from the successful double call and modified it to run my base method:
 

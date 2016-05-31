@@ -18,5 +18,5 @@ Hope to see you there!
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/cfsummit_header.png" />
+<img src="https://static.raymondcamden.com/images/cfsummit_header.png" />
 </p>

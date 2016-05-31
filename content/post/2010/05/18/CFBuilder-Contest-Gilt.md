@@ -9,7 +9,7 @@
 	"guid": "3820"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> Today's CFBuilder Contest entry is our last - Gilt by Justin Carter. It covers something I haven't used myself, <a href="http://www.balsamiq.com/products/mockups">Balsamic Mockups</a>, but from what I can see, this is a pretty powerful little extension and could become something - well incredible - for CFBuilder. 
+<img src="https://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> Today's CFBuilder Contest entry is our last - Gilt by Justin Carter. It covers something I haven't used myself, <a href="http://www.balsamiq.com/products/mockups">Balsamic Mockups</a>, but from what I can see, this is a pretty powerful little extension and could become something - well incredible - for CFBuilder. 
 <br clear="left">
 <!--more-->
 <p>
@@ -18,7 +18,7 @@ Gilt takes BBML (which is a text-based export from Balsamic) and converts into H
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/balsamiq-form.png" title="Mockup" />
+<img src="https://static.raymondcamden.com/images/cfjedi/balsamiq-form.png" title="Mockup" />
 
 <p>
 

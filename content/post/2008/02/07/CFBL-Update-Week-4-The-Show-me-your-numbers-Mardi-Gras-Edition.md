@@ -9,7 +9,7 @@
 	"guid": "2637"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/jabbamask mardi gras2.jpg" align="left" style="margin-right: 5px"> Sorry for the delay in posting this, and thanks to everyone who resent their numbers. We still have a bit over 20 people participating, so thank you to everyone who is still working at it!
+<img src="https://static.raymondcamden.com/images/cfjedi/jabbamask mardi gras2.jpg" align="left" style="margin-right: 5px"> Sorry for the delay in posting this, and thanks to everyone who resent their numbers. We still have a bit over 20 people participating, so thank you to everyone who is still working at it!
 
 Here are the stats so far:
 

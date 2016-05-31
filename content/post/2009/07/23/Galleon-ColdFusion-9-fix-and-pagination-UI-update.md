@@ -39,7 +39,7 @@ Now for the UI issue. The ColdFusion/General <a href="http://www.coldfusionjedi.
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 249.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 249.png" />
 </p>
 
 <p>
@@ -47,7 +47,7 @@ That's awesome, isn't it? All it needs is a unicorn or two to spruce it up.
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/cfjedi/image_1248387116520.jpg" />
+<img src="https://static.raymondcamden.com/images/cfjedi/image_1248387116520.jpg" />
 </p>
 
 <p>
@@ -75,7 +75,7 @@ Which results in:
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/cfjedi/Picture 333.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Picture 333.png" />
 </p>
 
 <p>

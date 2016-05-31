@@ -15,7 +15,7 @@ I bring this up this weekend because earlier in the week I did some shopping at 
 
 This morning I got an email from Zazzle. Check it out:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip152.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip152.png" />
 
 I love how they call me a valued customer and how they talk about my "carefully selected" items. A bit much - but - you have to admit - this is great followup. I don't think it's clear in the shot (and it may not even be in it), but the email also says:
 

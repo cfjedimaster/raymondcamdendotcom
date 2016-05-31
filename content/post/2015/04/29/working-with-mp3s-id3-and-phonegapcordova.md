@@ -142,7 +142,7 @@ function init() {
 
 In this version, I've used a simple counter and made a loop that calls itself until all the entries have processed. I then added simple code that writes out to the DOM the results. 
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/device-2015-04-29-170149.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/device-2015-04-29-170149.png" alt="device-2015-04-29-170149" width="563" height="1000" class="alignnone size-full wp-image-6085" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/device-2015-04-29-170149.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/device-2015-04-29-170149.png" alt="device-2015-04-29-170149" width="563" height="1000" class="alignnone size-full wp-image-6085" /></a>
 
 So how well does it work? I fired up Chrome Remote Debug and watched it process. I'd say it takes about 1 second for each file to parse. That's not speedy - but you could easily cache these results so you aren't reparsing the MP3 on every request. You could also quickly display the file name (soandso.mp3) until you get the proper title from the ID3 info. That way a user could see the names, play the files, etc and then your code could update the display as it gets them. 
 

@@ -13,7 +13,7 @@ A reader wrote in with an interesting problem. He needed to use CFCHART to plot 
 <!--more-->
 Looking at the docs for cfchart, it does say that both scaleTo and scaleFrom are integers, so I guess it isn't too surprising that it would fail to recognize 0.9 and 1 as a scale. You can try to use 0.9 but it is simply ignored. Here is a chart showing how this data plots out.
 
-<img src="http://static.raymondcamden.com/images//Picture 147.png">
+<img src="https://static.raymondcamden.com/images//Picture 147.png">
 
 Not very nice, is it? As always, I turned to the chart designer. I quickly found the scaling options and tried 0.9 and 1.0 there. I was surprised to see that it worked right away. While there, I tweaked the xAxis labels to be vertical and turned off the legend. Here is the XML I ended up with:
 
@@ -40,6 +40,6 @@ Not very nice, is it? As always, I turned to the chart designer. I quickly found
 
 The result?
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 227.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 227.png">
 
 Much better, right? Not quite sure why cfchart doesn't like the numeric scale values. The charting engine works wonderfully with it. Anyway, I've attached a test file you can download and run to see it yourself.<p><a href='enclosures/E%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fcfchart%2Dtest%2Ecfm%2Ezip'>Download attached file.</a></p>

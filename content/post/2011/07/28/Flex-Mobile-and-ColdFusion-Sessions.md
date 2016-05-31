@@ -78,7 +78,7 @@ I've got one method, getKey, that returns the key, and just to be extra sure, th
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip148.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip148.png" />
 
 <p/>
 

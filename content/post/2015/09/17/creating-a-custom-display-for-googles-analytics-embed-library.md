@@ -85,7 +85,7 @@ gapi.analytics.ready(function() {
 
 I'm assuming you are somewhat familiar with my older posts, but if not, the basic idea here is that the Embed library will handle authentication and it provides rendering capabilities. You can see the DataChart call there handling both a query (what data to fetch) and how to render it (a table). Here is the result:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot11.png" alt="shot1" width="393" height="590" class="aligncenter size-full wp-image-6778 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot11.png" alt="shot1" width="393" height="590" class="aligncenter size-full wp-image-6778 imgborder" />
 
 Nice, but what if you wanted more control over the rendering? Specifically, the user wanted to change the seconds column into a report that showed the minutes instead. Unfortunately, you don't get the ability to modify the format of the table. Fortunately, Google makes it easy to get the data manually and do whatever the heck you want. Let's look at an updated version of the script.
 
@@ -211,6 +211,6 @@ First, I made use of Intl to format the dates and numbers nicely. This is a cool
 
 To handle the minute display, I made use of the awesome <a href="http://www.momentjs.com">MomentJS</a> library. It has a <code>duration</code> API that makes showing the parts of a span of time very easy. I'm not terribly happy with how I showed it - but obviously you could modify this to your needs. Here is the result.
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot21.png" alt="shot2" width="736" height="562" class="aligncenter size-full wp-image-6779 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/shot21.png" alt="shot2" width="736" height="562" class="aligncenter size-full wp-image-6779 imgborder" />
 
 There ya go. Hopefully this helps. I'd share an online version but it is currently tied to my web property so it wouldn't work for you. To be clear, you can easily change the property, or add support for letting the user select their property. 

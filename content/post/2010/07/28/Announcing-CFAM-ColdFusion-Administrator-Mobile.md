@@ -22,11 +22,11 @@ So <a href="http://www.cfsilence.com">Todd Sharp</a> and I have been dropping hi
 
 This is still a work in progress so we aren't quite ready to release it, but here are some screen shots to give you an idea. This is built in jQTouch and runs fine on the Android or iPhone. 
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-07-28 at 3.34.46 PM.png" />
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-07-28 at 3.35.09 PM.png" />
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-07-28 at 3.35.20 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-07-28 at 3.34.46 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-07-28 at 3.35.09 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-07-28 at 3.35.20 PM.png" />
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-07-28 at 3.35.35 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-07-28 at 3.35.35 PM.png" />
 
 FYI - that chart up there is "live" - it updates every 4 seconds. You can also watch a video of the app in action <a href="http://www.screencast.com/users/jedimaster/folders/Jing/media/2e45e047-da09-485c-9bcf-9f8eb8b0c8fd">here</a>. Note that this is a bit out of date from what is currently supported. 
 

@@ -13,7 +13,7 @@ Earlier this week I received a copy of <a href="http://oreilly.com/catalog/97805
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/screen42.png" />
+<img src="https://static.raymondcamden.com/images/screen42.png" />
 
 <p>
 

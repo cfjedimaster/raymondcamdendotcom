@@ -34,7 +34,7 @@ alert(data)
 
 I've got a CFML variable, string, that I output within a script block. Because I'm working with a string, I surround the variable with single quotes. Double quotes would have worked as well. When run in the browser, the alert displays:
 
-<img src="http://static.raymondcamden.com/images//Picture 162.png">
+<img src="https://static.raymondcamden.com/images//Picture 162.png">
 
 Woot. Nice and simple. Until someone goes and screws things up:
 

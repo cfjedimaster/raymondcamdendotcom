@@ -26,7 +26,7 @@ ColdFusion will nicely take those two form fields and combine them into one form
 <p>
 I did a quick test though and looked at how getHTTPRequestData saw the values. I began by dumping the form scope and dumping the result of getHTTPRequestData():
 <p>
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-03-31 at 10.47.25 PM.png" title="Example of form/gethttprequestdata" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-03-31 at 10.47.25 PM.png" title="Example of form/gethttprequestdata" />
 <p>
 Notice that the form scope is as I described - a list of munged data that we can't use. The result of getHTTPRequestData, however, is more clear. Notice specifically the content value:
 <p>

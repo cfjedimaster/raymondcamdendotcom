@@ -15,7 +15,7 @@ I'm working with a database that needs to be populated with time zone data. Turn
 
 I needed this tonight so I grabbed the zip, extracted, and went... wtf...
 
-<img src="http://static.raymondcamden.com/images/ScreenClip27.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip27.png" />
 
 So maybe I'm dumb, but I expected SQL files I could import via my client or even the command line. I had absolutely no idea what in the heck this was.
 

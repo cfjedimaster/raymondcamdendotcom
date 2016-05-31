@@ -102,7 +102,7 @@ function wlCommonInit(){
 
 The WL.Client.connect method does exactly what you expect - connect to the MobileFirst server. Seems like a small mod, right? But when I did this, I noticed something bad.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/Untitled21.gif"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/03/Untitled21.gif" alt="Untitled2" width="383" height="685" class="alignnone size-full wp-image-5879" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/Untitled21.gif"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/Untitled21.gif" alt="Untitled2" width="383" height="685" class="alignnone size-full wp-image-5879" /></a>
 
 Can you see it? It is a FOUC (Flash of Unstyled Content). There's a simple fix for this though. We can simply use the splash screen to hide the site until things are ready. (And credit for suggesting this approach goes to Carlos again!) One of the initialization options you can provide is to <i>not</i> hide the splash screen. You can then use the JavaScript API to hide it. Here is that version.
 

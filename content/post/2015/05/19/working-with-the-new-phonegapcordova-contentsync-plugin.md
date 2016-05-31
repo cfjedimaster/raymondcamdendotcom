@@ -24,12 +24,12 @@ Yesterday at PhoneGap Day EU (sooooo sorry I'm missing it!), someone (I forget w
 <li>By default, the plugin will always sync if you tell it too. You can pass an option to specify that it should only cache if a local copy doesn't exist, but for more complex logic like, "sync if the remote source is newer", then you need to build that logic yourself. That seems totally fair, just want to make it clear.
 </ul>
 
-Ok, so how about an example? I decided to build a sample that would fetch a zip of kitten images. Here is where I made my first mistake. I took my folder in OSX, right clicked, and selected compress. This created a zip of one item (actually two, one was a system file) where the one item was the folder. That was not what I intended. What I should have done is select all the images, right clicked, and created a zip from that. I then put up the zip on my S3 bucket at http://static.raymondcamden.com/kittens.zip. For my first example, all I wanted to do was sync the zip and display them in the DOM. Here is the JavaScript code for this version:
+Ok, so how about an example? I decided to build a sample that would fetch a zip of kitten images. Here is where I made my first mistake. I took my folder in OSX, right clicked, and selected compress. This created a zip of one item (actually two, one was a system file) where the one item was the folder. That was not what I intended. What I should have done is select all the images, right clicked, and created a zip from that. I then put up the zip on my S3 bucket at https://static.raymondcamden.com/kittens.zip. For my first example, all I wanted to do was sync the zip and display them in the DOM. Here is the JavaScript code for this version:
 
 <pre><code class="language-javascript">//where to put our crap
 var imageDiv;
 //zip asset
-var imageZip = &quot;http://static.raymondcamden.com/kittens.zip&quot;;
+var imageZip = &quot;https://static.raymondcamden.com/kittens.zip&quot;;
 
 document.addEventListener(&quot;deviceready&quot;, init, false);
 function init() {
@@ -68,7 +68,7 @@ function startSync() {
 
 So for the most part, I assume this is self-explanatory. My zip file had seven images named kitten1.jpg to kitten7.jpg. Since I knew exactly what they were, all I needed to do was iterate and create img tags for each. This worked perfectly. I really don't need to share a screen shot of this. You already know it's seven pictures of cats. But you know me. I've <i>got</i> to share cat pictures.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-11.26.20-AM.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-11.26.20-AM.png" alt="iOS Simulator Screen Shot May 19, 2015, 11.26.20 AM" width="422" height="750" class="aligncenter size-full wp-image-6161 imgborder" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-11.26.20-AM.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/05/iOS-Simulator-Screen-Shot-May-19-2015-11.26.20-AM.png" alt="iOS Simulator Screen Shot May 19, 2015, 11.26.20 AM" width="422" height="750" class="aligncenter size-full wp-image-6161 imgborder" /></a>
 
 Pretty darn easy, right? In case your curious about handling a zip of <i>unknown</i> images, you could use FileSystem APIs to iterate over the entries:
 
@@ -107,7 +107,7 @@ Yeah, that's it. Nice, eh? Now I'm not sure how often you'll have a sync strateg
 <pre><code class="language-javascript">//where to put our crap
 var $imageDiv;
 //zip asset
-var imageZip = &quot;http://static.raymondcamden.com/kittens.zip&quot;;
+var imageZip = &quot;https://static.raymondcamden.com/kittens.zip&quot;;
 
 document.addEventListener(&quot;deviceready&quot;, init, false);
 function init() {

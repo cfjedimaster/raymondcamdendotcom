@@ -9,7 +9,7 @@
 	"guid": "3660"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 contest entry is easyImages by Simon Romanski. It was judged by Francisco Paulino-Tofinha. This entry also has a rather large download. Therefore I recommend folks use the URL set up by Simon: <a href="http://www.simonit.com/easyImages">http://www.simonit.com/easyImages</a>
+<img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 contest entry is easyImages by Simon Romanski. It was judged by Francisco Paulino-Tofinha. This entry also has a rather large download. Therefore I recommend folks use the URL set up by Simon: <a href="http://www.simonit.com/easyImages">http://www.simonit.com/easyImages</a>
 
 I have to admit - I was a bit confused by this application. It didn't seem real clear to me what it actually was supposed to do. There is a README file, and videos, but even with them I was confused at first. After playing around a bit though it finally began to dawn on me what Simon had created. While the application is rather simple, and was buggy for me (I'll explain what I had to tweak), I think he has the start of something really freaking cool here. Let me explain.
 <!--more-->
@@ -21,11 +21,11 @@ c) It provides a service by which you can not only request images, but also dyna
 
 So for example, if I need my client to provide images, I use a simple form to make the request:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2009-12-21 at 5.41.29 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2009-12-21 at 5.41.29 PM.png" />
 
 If you select the email option (as I did above), the client will be sent an email containing the link. This leads them to a very simple page where they can upload images. I'm assuming this is something you would normally skin for your site.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2009-12-21 at 5.42.33 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2009-12-21 at 5.42.33 PM.png" />
 
 Note the use of the multi-file uploader. It would be nice if you could include more information on this page. Mainly because I can see clients forgetting what they are supposed to be uploading. 
 
@@ -33,7 +33,7 @@ So far so good. The images will copied to the folders you specified and the data
 
 Now this is the part that gets weird. The easyImages application has a ... tool... builder... not sure what to call it. But it basically allows you to write SQL and CFML code to generate image output. You are provided with a list of the columns (using cfdbinfo, which isn't new to ColdFusion 9, but I'm happy to see a practical use for it). You can use this tool to play with the layout/output/SQL to get something you like, and then copy it to your CFM.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2009-12-21 at 5.45.34 PM.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2009-12-21 at 5.45.34 PM.png" />
 
 But this is what I think is very cool. The URLs all make use of URL rewriting. So for example:
 

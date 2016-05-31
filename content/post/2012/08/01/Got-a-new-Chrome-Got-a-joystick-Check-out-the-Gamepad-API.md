@@ -23,13 +23,13 @@ Want to quickly test if your Chrome is working right with the API? Chrome develo
 
 And here is a quick screen shot from my machine running it:
 
-<img src="http://static.raymondcamden.com/images/ScreenClip107.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip107.png" />
 
 And finally - you can run the JSBin version Scott set up here: <a href="http://jsbin.com/acuhig">http://jsbin.com/acuhig</a>. Note that <i>sometimes</i> I've had to click a button first before it triggered.
 
 So given that we don't have the simpler events yet in Chrome, it still isn't terribly difficult to add support to a game. Consider the game below...
 
-<img src="http://static.raymondcamden.com/images/ScreenClip108.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip108.png" />
 
 While I won't be quitting my job anytime soon to go build games, it was a good way for me to practice with Canvas. (See - I don't <i>totally</i> hate the tag!) I had the logic done already so I was curious how difficult it would be to add in support for the gamepad. 
 
@@ -49,4 +49,4 @@ Want more information? You can find the spec <a href="https://dvcs.w3.org/hg/gam
 
 p.s. By the way, to test this I had to pick up (research!) a XBox controller that had a USB connection. All I had were wireless controllers. I picked up the most gaudy one I could find...
 
-<img src="http://static.raymondcamden.com/images/2012-08-01 15.39.25.jpg" />
+<img src="https://static.raymondcamden.com/images/2012-08-01 15.39.25.jpg" />

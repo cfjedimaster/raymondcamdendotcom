@@ -47,4 +47,4 @@ In my own defense, "Access is denied" as a message has a much different meaning 
 <p>
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/picard-facepalm.jpg" />
+<img src="https://static.raymondcamden.com/images/cfjedi/picard-facepalm.jpg" />

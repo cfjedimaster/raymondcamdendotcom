@@ -46,4 +46,4 @@ All together, the code then is:
 
 Here is a screen shot of the default pie chart followed by the modified one. As you can see, the colors change a bit too, but if you don't like the colors you can tweak that as well.
 
-<img src="http://static.raymondcamden.com/images//Picture 15.png">
+<img src="https://static.raymondcamden.com/images//Picture 15.png">

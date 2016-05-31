@@ -77,7 +77,7 @@ Next he uses cfpdf to convert the pdf into an image. Notice the scale is set to 
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-10-01 at 1.00.35 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-10-01 at 1.00.35 PM.png" />
 
 <p>
 

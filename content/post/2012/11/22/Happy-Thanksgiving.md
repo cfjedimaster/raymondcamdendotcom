@@ -11,6 +11,6 @@
 
 I hope everyone has a happy and <i>safe</i> Thanksgiving today. As always, I'm appreciative of everyone who reads this blog and especially those who participate, either by asking questions or helping to answer them. Have a great day. I decided to use a new picture today. This comes from <a href="http://www.stephenhayford.com/">Stephen Hayford</a>:
 
-<img src="http://static.raymondcamden.com/images/hayfordthanksgiving2010.jpg" />
+<img src="https://static.raymondcamden.com/images/hayfordthanksgiving2010.jpg" />
 
 You can see more from his collection <a href="http://www.lifeinplastics.com/">here</a> (and on Facebook <a href="http://www.facebook.com/StephenHayfordPlastics">here</a>).

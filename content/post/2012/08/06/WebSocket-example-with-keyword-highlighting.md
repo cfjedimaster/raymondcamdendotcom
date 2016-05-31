@@ -15,7 +15,7 @@ In the keynote this morning at <a href="http://www.riacon.com">RIACon</a>, I tal
 <!--more-->
 I began with a simple chat application - the one I've demoed a few times before. 
 
-<img src="http://static.raymondcamden.com/images/screenshot16.png" />
+<img src="https://static.raymondcamden.com/images/screenshot16.png" />
 
 You can check out my earlier entries (or download the zip) if you want to see how this is built, but for the most part, it's simply shuttling simple text messages back and forth over the channel.
 
@@ -45,4 +45,4 @@ Back in my front end then it's trivial to use a bit of JavaScript to detect clic
 
 To test this, head over to the demo (big button below) and try talking about cfsetting, or cfoutput, or any of the other ColdFusion tags and functions.
 
-<a href="http://www.raymondcamden.com/demos/2012/aug/6/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fwebsocket1%2Ezip'>Download attached file.</a></p>
+<a href="http://www.raymondcamden.com/demos/2012/aug/6/"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fwebsocket1%2Ezip'>Download attached file.</a></p>

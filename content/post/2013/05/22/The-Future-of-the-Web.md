@@ -14,7 +14,7 @@ I know, I know. The title sounds like SEO-link-bait, I apologize. I want to talk
 <!--more-->
 Last week I had the pleasure of listening to <a href="http://dancallahan.info/">Dan Callahan</a> give the keynote at cfObjective. I didn't get a chance to meet him in person (I basically ran to my presentation and then to the airport), but I greatly enjoyed his talk. His central theme was a simple one - it is time to learn JavaScript. This is a message that I just kind of assume that people already know, but as I still encounter people struggling with client-side development, it is apparent that we (we being the greater web community) still have quite a bit of growing to do.
 
-<img src="http://static.raymondcamden.com/images/keep-calm-and-learn-javascript.png" />
+<img src="https://static.raymondcamden.com/images/keep-calm-and-learn-javascript.png" />
 
 If there was one thing I would have added to Dan's talk it would have been a reminder that web developers are probably also somewhat behind in their HTML knowledge as well. I've been using HTML since 1993 or so. I spent a long time doing just server-side development for a while but even then I was still generating HTML. But at least once a month I'm reminded about some particular tag or attribute that I've forgotten about. Don't get me started about CSS. Every time I remember that you can specify hover stuff in CSS I remember how many times I wrote the same damn code to highlight menu items with JavaScript. 
 

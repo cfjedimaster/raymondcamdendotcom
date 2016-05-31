@@ -9,7 +9,7 @@
 	"guid": "3635"
 }
 
-<img src="http://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px"/> Welcome to the first (of many) "Best of ColdFusion 9" entry reviews. The first entry is spreadEdit by <a href="http://samfarmer.instantspot.com/blog/">Sam Farmer</a>. This entry was reviewed by Paul Hastings. (I've added a few notes as well.) 
+<img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px"/> Welcome to the first (of many) "Best of ColdFusion 9" entry reviews. The first entry is spreadEdit by <a href="http://samfarmer.instantspot.com/blog/">Sam Farmer</a>. This entry was reviewed by Paul Hastings. (I've added a few notes as well.) 
 
 At a basic level, spreadEdit is an Excel spreadsheet editor. However it goes beyond just simple editing. It makes use of ORM and the VFS in a way that I didn't think was possible. Each spreadsheet is parsed into an entity CFC stored in the VFS. These virtual CFCs then become database tables. I'm not sure what's going to happen after my server restarts, but it's a unique approach and it's cool to see it in action. (I literally went back and forth looking at the code and shaking my head in disbelief.) 
 
@@ -32,21 +32,21 @@ Paul listed out what he liked about the application:
 
 So Paul definitely like the setup wizard, and I agree, it's pretty dang cool.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/setup.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/setup.png" />
 
 My only complaint here is that my CF Admin doesn't have a password and the application demanded I enter one. (I put something in bogus and it worked fine.) 
 
 Paul also complimented the "web 2" stuff, and they do look pretty snazzy here. Here is an example of the multi-file uploader:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/mf.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/mf.png" />
 
 and another example of the grid editor:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/edit_data.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/edit_data.png" />
 
 Paul liked the VFS lister, but not the chart, which I thought was fine.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/view vfs.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/view vfs.png" />
 
 As to what Paul <i>didn't</i> like...
 

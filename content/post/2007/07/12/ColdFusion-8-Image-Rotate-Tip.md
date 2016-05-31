@@ -31,7 +31,7 @@ I was playing with image rotation last night (I know, call me Mr. Excitement), a
 
 I create a new blank image and then draw some black text and then rotate. I end up with this:
 
-<img src="http://static.raymondcamden.com/images/brorate1.png">
+<img src="https://static.raymondcamden.com/images/brorate1.png">
 
 Notice the black background? I tried to fix it by using this for my image:
 
@@ -42,11 +42,11 @@ Notice the black background? I tried to fix it by using this for my image:
 But it had no impact. Luckily I got some help from Adobe (thank you Hemant!) and he mentioned that if I switch my image type to ARGB instead of RGB, it will work. With that, I got this:
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/brotate2.PNG">
+<img src="https://static.raymondcamden.com/images/cfjedi/brotate2.PNG">
 
 Not bad - but a bit ugly. The imageRotate function takes a 5th argument: interpolation. This basically sets the quality of the rotation. Adobe defaulted to the quickest method, "nearest." Switching to the highest, "bicubic", makes a real pretty rotation, but the leaves some "crud" on the sides:
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/brotate3.png">
+<img src="https://static.raymondcamden.com/images/cfjedi/brotate3.png">
 
 Of course, I could crop that easily enough, but, still, a bit of a problem. The middle ground interpolation, bilinear, also leaves the same.

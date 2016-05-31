@@ -31,7 +31,7 @@ forward 100
 
 This tells the turtle/pen to move, turn, move, etc. The home command simply returns the turtle to the center of the canvas. This creates the following image:
 
-<img src="http://static.raymondcamden.com/images/turtle1.png">
+<img src="https://static.raymondcamden.com/images/turtle1.png">
 
 The language supports many operations, but my tag supports the following commands:
 

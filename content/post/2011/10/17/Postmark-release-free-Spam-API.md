@@ -112,7 +112,7 @@ The report key in the result is a plain text list of how your score was generate
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/2011/oct/17/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2011/oct/17/test.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

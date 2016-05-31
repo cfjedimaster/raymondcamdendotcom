@@ -18,4 +18,4 @@ Ray Camden, Adobe Creative Cloud Evangelist, talks with us about his sessions at
 
 Thanks to Leif and and Garth for inviting me!
 
-<img src="http://static.raymondcamden.com/images/tumblr_header.png" />
+<img src="https://static.raymondcamden.com/images/tumblr_header.png" />

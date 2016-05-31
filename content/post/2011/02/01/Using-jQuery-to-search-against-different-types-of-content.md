@@ -147,7 +147,7 @@ Moving down we come to the keyup bind on my search field. This will give the 'se
 <p/>
 
 
-<a href="http://www.raymondcamden.com/demos/feb12011/test.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/feb12011/test.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 
 <p/>

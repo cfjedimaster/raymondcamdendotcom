@@ -52,24 +52,24 @@ And that's it! Before I link to the demo, I'll warn you that this is not very to
 
 First up - the application as it looks on loading.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip87.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip87.png" />
 
 Next - I drag a CBZ file over it...
 
-<img src="http://static.raymondcamden.com/images/Untitled-1.png" />
+<img src="https://static.raymondcamden.com/images/Untitled-1.png" />
 
 And then it gets to work. Now - this part can be a bit slow. To be fair, I dragged a 35 megabyte file into the browser and it took about 40 seconds to parse. I think that's fairly decent for JavaScript.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip88.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip88.png" />
 
 I also provide UI feedback as the images are saved.
 
-<img src="http://static.raymondcamden.com/images/ScreenClip89.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip89.png" />
 
 And then finally - the comic is readable. (Whether or not the story is any good is another question.)
 
-<img src="http://static.raymondcamden.com/images/ScreenClip90.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip90.png" />
 
 Want to try it out? Hit the demo link below. Note that you may want to try with the latest Chrome and with a small comic. I've created a simple "comic" out of a zip of pictures that can be downloaded <a href="http://www.raymondcamden.com/demos/2012/may/28/comic.cbz">here</a>.
 
-<a href="http://www.raymondcamden.com/demos/2012/may/28/"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/may/28/"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

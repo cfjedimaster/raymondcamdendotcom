@@ -20,7 +20,7 @@ One of the biggest changes in the new preview is an updated getting started expe
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/er.png" />
+<img src="https://static.raymondcamden.com/images/er.png" />
 </p>
 
 <p>
@@ -39,7 +39,7 @@ Other updates include:
 <b>Form Elements:</b> You can now add form elements to your designs, including text boxes, radio/checkboxes, text areas, and dropdowns.
 </p>
 <p>
-<img src="http://static.raymondcamden.com/images/er2.png" />
+<img src="https://static.raymondcamden.com/images/er2.png" />
 </p>
 
 <p>

@@ -1,5 +1,5 @@
 {
-	"title": "A few examples of \\\"tag as script\\\" in ColdFusion 11",
+	"title": "A few examples of \"tag as script\" in ColdFusion 11",
 	"categories": [
 		"ColdFusion"
 	],

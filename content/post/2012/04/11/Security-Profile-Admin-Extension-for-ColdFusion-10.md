@@ -15,7 +15,7 @@ The Adobe engineers are hard at work fixing bugs and preparing ColdFusion 10 for
 
 This new feature is only available during installation. I thought it might be interesting to create a one page report tool covering those security options set up during installation. I wasn't able to get every single one (a few options are not available yet via the Admin API), but my report covers 17 settings. For each one it tells you your setting and the recommended setting. Good values are marked in green - bad values in red (or a red variant - I had design help by Rachel Lehman). Here's a screen shot:
 
-<a href="http://www.raymondcamden.com/images/ScreenClip69.png"><img src="http://static.raymondcamden.com/images/ScreenClip_small.png" border="0" /></a>
+<a href="http://www.raymondcamden.com/images/ScreenClip69.png"><img src="https://static.raymondcamden.com/images/ScreenClip_small.png" border="0" /></a>
 
 Click the shot to embiggen (it's a word - AICN says so) and I apologize for not having a fancy jQuery-based lightbox setup. 
 

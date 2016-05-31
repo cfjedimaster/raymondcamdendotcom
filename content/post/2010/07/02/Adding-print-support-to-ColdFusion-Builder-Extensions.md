@@ -63,7 +63,7 @@ I've got a very basic JavaScript window.print command along with some simple CSS
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/p1.png" />
+<img src="https://static.raymondcamden.com/images/p1.png" />
 
 <p>
 
@@ -101,7 +101,7 @@ This too worked perfectly. For the heck of it, I quickly modified the <a href="h
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/vsp.PNG" />
+<img src="https://static.raymondcamden.com/images/cfjedi/vsp.PNG" />
 
 <p>
 

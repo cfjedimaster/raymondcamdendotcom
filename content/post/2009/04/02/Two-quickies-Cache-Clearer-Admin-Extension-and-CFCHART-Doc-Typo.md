@@ -30,6 +30,6 @@ I checked the docs and nothing seemed wrong there. Running the code returned thi
 
 I opened up the chart editor and noticed it listed letterx, not letter, as a marker style. Sure enough - adding "x" to the marker style fixed the issue.
 
-<img src="http://static.raymondcamden.com/images//Picture 149.png">
+<img src="https://static.raymondcamden.com/images//Picture 149.png">
 
 I bumped up markerSize on the cfchart tag to make the markers more obvious.

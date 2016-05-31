@@ -23,11 +23,11 @@ You can download the APK I've got attached to this blog entry, or, even better, 
 <p/>
 Here's a few quick screen shots:
 <p/>
-<img src="http://static.raymondcamden.com/images/s11.png" />
+<img src="https://static.raymondcamden.com/images/s11.png" />
 <p/>
-<img src="http://static.raymondcamden.com/images/cfjedi/s22.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/s22.png" />
 <p/>
-<img src="http://static.raymondcamden.com/images/cfjedi/s31.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/s31.png" />
 <p/>
 As I mentioned, the mega demo contains examples of <i>almost</i> all the APIs. The main one I'm missing now is a demo for the File APIs. I've got a basic idea of what I'm going to do there so I'll be adding that soon. I've also added a demo showing how you can call remote resources without worrying about the normal browser restrictions on 'out of domain' XHR calls. In this case, I'm calling a ColdFusion Component on my server.
 <p/>

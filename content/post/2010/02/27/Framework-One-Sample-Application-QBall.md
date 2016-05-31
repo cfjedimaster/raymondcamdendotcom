@@ -31,7 +31,7 @@ So as you can see, there really isn't a lot going on here. The home page shows t
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-27 at 2.33.01 PM.png" title="QBall Shot 1" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-27 at 2.33.01 PM.png" title="QBall Shot 1" />
 
 <p/>
 
@@ -39,7 +39,7 @@ Here is a screen shot of a new question:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-27 at 2.34.14 PM.png" title="QBall Shot 2" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-27 at 2.34.14 PM.png" title="QBall Shot 2" />
 
 <p/>
 
@@ -47,7 +47,7 @@ And finally a shot of a question with a few answers:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-27 at 2.35.06 PM.png" title="QBall Shot 3" />
+<img src="https://static.raymondcamden.com/images/cfjedi/Screen shot 2010-02-27 at 2.35.06 PM.png" title="QBall Shot 3" />
 
 <p/>
 

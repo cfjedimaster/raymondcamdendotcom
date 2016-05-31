@@ -50,7 +50,7 @@ I used onApplicationStart as my event registration place. Technically it doesn't
 
 Setting the task as application specific was as simple as <code>mode="application"</code>. When you do this, the task still shows up in the ColdFusion Administrator, but if another application uses the <code>LIST</code> feature of cfschedule, it won't see your task. And obviously - two different applications can have the same task name. Here is a screen shot showing how the CF Admin differentiates between the different types of tasks.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/shot1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/01/shot1.png" alt="shot1" width="800" height="281" class="alignnone size-full wp-image-5594" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/01/shot1.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/01/shot1.png" alt="shot1" width="800" height="281" class="alignnone size-full wp-image-5594" /></a>
 
 That part was rather simple, but then I found myself fighting the somewhat poorly documented rules for creating tasks. So I wanted a daily task. I forgot, though, that ColdFusion requires a start date for such a task. In my mind it should just start tomorrow if not specified. What's weird is that if you leave off startdate, you don't get an error. Instead, the task was registered as a chained task. I <strong>highly</strong> recommend keeping the CF Admin open as you test creating scheduled tasks from code. If it looks funky in the Admin then you've done something wrong. 
 

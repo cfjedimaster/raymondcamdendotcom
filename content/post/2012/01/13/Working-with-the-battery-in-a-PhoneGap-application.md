@@ -120,7 +120,7 @@ As you can see, I've got listeners for all three events, with the low and critic
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/device-2012-01-13-083400.png" />
+<img src="https://static.raymondcamden.com/images/device-2012-01-13-083400.png" />
 
 <p>
 

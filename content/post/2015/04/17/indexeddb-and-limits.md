@@ -156,7 +156,7 @@ function addData(e) {
 
 I did a lot of testing, and by testing, I mean I just clicked like crazy. It took a while, but I finally got an error in Firefox:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/ff1.png"><img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/04/ff1.png" alt="ff1" width="1678" height="550" class="alignnone size-full wp-image-6019" /></a>
+<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/ff1.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/ff1.png" alt="ff1" width="1678" height="550" class="alignnone size-full wp-image-6019" /></a>
 
 Ben Kelly and I spoke more on Twitter (like, a few seconds) ago, and he added some more information about Firefox:
 

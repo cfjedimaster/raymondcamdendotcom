@@ -13,7 +13,7 @@
 
 I had some time to kill today and I decide to mix cfchart up with some jQuery love. You can see the demo of this <a href="http://www.raymondcamden.com/demos/jquerychart/">here</a>. When the chart loads, click on the bars, and you will see a detail load beneath the graph.
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 326.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 326.png">
 
 The code behind this is fairly trivial. I've got a file I include to generate my chart data. Normally this would be a proper database query. The main template's code consists of:
 

@@ -18,7 +18,7 @@ Let's start with the first question which asked if you were a regular visitor ve
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s15.png" />
+<img src="https://static.raymondcamden.com/images/s15.png" />
 </p>
 
 <p>
@@ -30,7 +30,7 @@ Next I asked what folks wanted to see more and less of.
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s27.png" />
+<img src="https://static.raymondcamden.com/images/s27.png" />
 </p>
 
 <p>
@@ -46,7 +46,7 @@ Next up was my question about your primary role:
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s32.png" />
+<img src="https://static.raymondcamden.com/images/s32.png" />
 </p>
 
 <p>

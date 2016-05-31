@@ -16,7 +16,7 @@ Almost a year ago I <a href="http://www.raymondcamden.com/2014/08/15/Eventbrite-
 
 Turns out, when you create an app on the EventBrite developer portal, you actually get both a regular OAuth token and secret as well as an anonymous oauth token:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot17.png" alt="shot1" width="857" height="563" class="aligncenter size-full wp-image-6450 imgborder" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/shot17.png" alt="shot1" width="857" height="563" class="aligncenter size-full wp-image-6450 imgborder" />
 
 By using the anonymous oath token, you can read <i>any</i> public data you want, all without having to use a secure key. This means you can use the EventBrite API in a JavaScript app (desktop, mobile, hybrid, etc.) without worrying about keeping your key secret. In fact, their API is so easy to use you can actually pass in the anon key right in the URL. 
 
@@ -26,7 +26,7 @@ As an example, given that <code>token</code> represents your anon oath token, th
 
 Obviously you probably want your <i>own</i> events, not the entire worlds. While it is trivial to restrict the results to your own organization, oddly it is still a bit awkward to get your organizer id. As I said in the old post, go to your profile and then your organization settings. You'll see your organizer URL with the ID at the end:
 
-<img src="http://static.raymondcamden.com/images/s215.png" class="aligncenter size-full imgborder" />
+<img src="https://static.raymondcamden.com/images/s215.png" class="aligncenter size-full imgborder" />
 
 You can then pass it to the URL:
 
@@ -208,6 +208,6 @@ getEvents([org1,org2], token).then(function(res) {
 	}			
 });</code></pre>
 
-You can run that demo here: <a href="http://static.raymondcamden.com/demos/2015/jul/22/test7.html">http://static.raymondcamden.com/demos/2015/jul/22/test7.html</a>. 
+You can run that demo here: <a href="https://static.raymondcamden.com/demos/2015/jul/22/test7.html">https://static.raymondcamden.com/demos/2015/jul/22/test7.html</a>. 
 
 Enjoy!

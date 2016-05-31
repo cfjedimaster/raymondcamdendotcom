@@ -18,7 +18,7 @@ Earlier today the Cordova team announced an important update for the iOS platfor
 
 Let's discuss platforms first. In a Cordova project, you can type <code>cordova platforms</code> to get a list of installed and available platforms. Here is an example:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot1.png" alt="shot1" width="750" height="92" class="aligncenter size-full wp-image-7059" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot1.png" alt="shot1" width="750" height="92" class="aligncenter size-full wp-image-7059" />
 
 Notice how at the end of each installed platform the current version is printed. Cool. But given that you aren't following the Cordova blog, how would you know a newer version of the iOS platform existed?
 
@@ -28,23 +28,23 @@ Cool. Unfortunately, in my testing, it was pretty broken. I tested against three
 
 The alternative for now is to use npm. The platform code all exists on npm and all you need to do is figure out the package name of the platform itself. This is rather easy to guess for iOS and Android:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot2.png" alt="shot2" width="750" height="128" class="aligncenter size-full wp-image-7060" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot2.png" alt="shot2" width="750" height="128" class="aligncenter size-full wp-image-7060" />
 
 If you choose to update, you can simply <code>cordova platform update ios</code> and if you decide you made a huge mistake, you can install an earlier version by doing <code>cordova platform update ios@X</code> where X is a version. To be honest, in the past I've also remove and re-added a platform. That's silly, but I've done it.
 
 So - what about plugins? Running <code>cordova plugin ls</code> will report on installed plugins and their versions:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot3.png" alt="shot3" width="750" height="252" class="aligncenter size-full wp-image-7063" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot3.png" alt="shot3" width="750" height="252" class="aligncenter size-full wp-image-7063" />
 
 Unfortunately, there is no "check" command like we have with platforms (broken or not), so you'll need to use npm info again to see if new versions exist:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot4.png" alt="shot4" width="750" height="125" class="aligncenter size-full wp-image-7064" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot4.png" alt="shot4" width="750" height="125" class="aligncenter size-full wp-image-7064" />
 
 There is no upgrade command either, but you can rm and add a plugin in a few seconds so just do that and you're set.
 
 But wait! There's more. Don't forget your CLI also has a version. It is easy to check both your version and the latest release:
 
-<img src="http://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot5.png" alt="shot5" width="750" height="103" class="aligncenter size-full wp-image-7065" />
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/11/shot5.png" alt="shot5" width="750" height="103" class="aligncenter size-full wp-image-7065" />
 
 So now that you've chewed on that a bit - let's hear from Steven Gill, also from the Cordova project:
 

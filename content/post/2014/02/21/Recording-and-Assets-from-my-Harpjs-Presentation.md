@@ -24,7 +24,7 @@ I promised a buddy I'd talk about how the Hangout went. For the most part, it we
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_2_21_14__1_09_PM.jpg" />
+<img src="https://static.raymondcamden.com/images/Screenshot_2_21_14__1_09_PM.jpg" />
 </p>
 
 <p>

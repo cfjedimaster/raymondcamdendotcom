@@ -126,7 +126,7 @@ And since it was Ajax and I couldn't see why, I cried into my beer, shut the lap
 
 Oh wait - I have Firebug! And what do I always say when something goes wrong with Ajax? Check Firebug. And guess what - notice the result:
 
-<img src="http://static.raymondcamden.com/images//Picture 331.png">
+<img src="https://static.raymondcamden.com/images//Picture 331.png">
 
 See the case of the ID and NAME values? They are both upper case. I changed my code to use the more verbose struct creation and set the keys so that my case was maintained:
 

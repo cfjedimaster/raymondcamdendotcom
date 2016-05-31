@@ -12,4 +12,4 @@
 This is too funny to pass up - from way of an <a href="http://appliedliberally.com/blog/">old friend</a> comes this little gem (no known author on it so not sure who to credit):
 
 
-<img src="http://static.raymondcamden.com/images/ihadfriendsonthedeathstar.jpg">
+<img src="https://static.raymondcamden.com/images/ihadfriendsonthedeathstar.jpg">

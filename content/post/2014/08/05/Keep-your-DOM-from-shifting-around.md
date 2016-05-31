@@ -21,7 +21,7 @@ I've built a simple application that lets you view, and like, pictures of cats. 
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s12.jpg" />
+<img src="https://static.raymondcamden.com/images/s12.jpg" />
 </p>
 
 <p>
@@ -29,7 +29,7 @@ As you move your mouse, or finger, over the Like button, all of sudden the UI up
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/s22.jpg" />
+<img src="https://static.raymondcamden.com/images/s22.jpg" />
 </p>
 
 <p>

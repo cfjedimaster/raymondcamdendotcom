@@ -21,7 +21,7 @@ While I encourage you to actually read the <a href="http://dev.w3.org/csswg/css-
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/CSS Regions Marquee1.png" />
+<img src="https://static.raymondcamden.com/images/CSS Regions Marquee1.png" />
 </p>
 
 <p>
@@ -29,7 +29,7 @@ As I said above, regions have landed in iOS7, and they are available now via a f
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screenshot_9_24_13_2_37_PM.jpg" />
+<img src="https://static.raymondcamden.com/images/Screenshot_9_24_13_2_37_PM.jpg" />
 </p>
 
 <p>
@@ -37,7 +37,7 @@ Both Edge Reflow and Edge Code now have support for CSS Regions. In order to see
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/Screen Shot 2013-09-24 at 2.40.13 PM.png" />
+<img src="https://static.raymondcamden.com/images/Screen Shot 2013-09-24 at 2.40.13 PM.png" />
 </p>
 
 <p>

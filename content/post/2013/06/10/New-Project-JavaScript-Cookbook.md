@@ -33,6 +33,6 @@ I'm not entirely sure yet on this one, but this is what I'm considering...
 
 I considered going fancy with Backbone, but frankly, this is an incredibly simple content site, not an "app". I'm using a nice little Bootstrap theme I found and will just do my best to KISS.
 
-<img src="http://static.raymondcamden.com/images/Screenshot_6_10_13_6_58_AM.png" />
+<img src="https://static.raymondcamden.com/images/Screenshot_6_10_13_6_58_AM.png" />
 
 I'll also be putting this into a GitHub repo in case anyone wants to see the work behind the scenes, make improvements, or just criticize my Node-code. ;)

@@ -34,7 +34,7 @@ And the result display is - as you expect - quite large:
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/screen10.png" />
+<img src="https://static.raymondcamden.com/images/screen10.png" />
 
 <p/>
 
@@ -116,7 +116,7 @@ And that is the final block. Note the use of item within the jQuery selector. Th
 
 <p/>
 
-<img src="http://static.raymondcamden.com/images/cfjedi/screen11.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/screen11.png" />
 
 <p/>
 
@@ -140,7 +140,7 @@ But it did not work well with tables at all. Again, I'll come back to it. So - t
 
 <p/>
 
-<a href="http://www.coldfusionjedi.com/demos/oct52010/test3.cfm"><img src="http://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.coldfusionjedi.com/demos/oct52010/test3.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p/>
 

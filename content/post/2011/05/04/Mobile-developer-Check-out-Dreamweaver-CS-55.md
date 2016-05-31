@@ -15,30 +15,30 @@ What got me to install and run DW CS 5.5 was it's jQuery Mobile support. I had s
 
 I began by making a site and then making a new file. If you look at the Page from Sample section you can that <i>all</i> of the mobile support is based on jQuery Mobile:
 
-<img src="http://static.raymondcamden.com/images/ScreenClip83.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip83.png" />
 
 I selected the PhoneGap version. By default Dreamweaver creates a simple 4 page application (4 pages within one html file). That's nice as it gives you a quick way to see page navigation under the jQuery Mobile framework. But what's really nice is the editor support. Start typing a div tag for example, select data, and you get help for jQuery Mobile:
 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip84.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip84.png" />
 
 One of the biggest issues I have with jQuery Mobile now is the lack of a simple reference to the HTML attributes it uses for markup. Don't get me wrong - it's incredibly easy to use. But there's a lot to remember. Having the IDE provide support like this is killer. Even better, you can use an insert menu for common jQuery Mobile items:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip85.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip85.png" />
 
 So as an editor, DW is <b>killer</b> for jQuery Mobile. It's also got HTML5 support which is nice. CFBuilder does not. (Although I'm investigating how to get that working.) Another killer feature is the multiscreen preview. Check it out:
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip86.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip86.png" />
 
 I had to shrink down the screen cap a bit but hopefully you can clearly see the mobile versus tablet versus desktop rendering. That's awesome. The more I use tablets the more a tool like this will be crucial for me. It also supports - kinda - synchronized browsing. This was a bit clunky for me, but as I clicked in one, the others followed along. I'm not sure that particular feature works perfectly, but as it stands now it's going to be very useful I think.
 
 Now for the part that I think is epic. You can now use DW to build Android applications. Under the Site menu is a Mobile Applications section. Before using this you have to configure it. I already had the Android SDK installed, but check it - DW can actually download it for you.
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip87.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip87.png" />
 
 Once configured, you can then make builds right from DW, and you can make builds and run the emulator. I had defined a few Android virtual devices already and DW let me choose which to push to. This can be a bit slow - but as anyone who has used the emulator will tell you - that's an Android issue - not DW. 
 
-<img src="http://static.raymondcamden.com/images/cfjedi/ScreenClip88.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/ScreenClip88.png" />
 
 I was able to take the build and install it to a real device pretty quickly as well. I don't believe DW supports that just yet, but it's pretty easy from the command line. (Basically "adb install soandsofile.apk")
 

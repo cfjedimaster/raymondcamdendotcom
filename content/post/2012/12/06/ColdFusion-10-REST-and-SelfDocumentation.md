@@ -21,7 +21,7 @@ To get the descriptor, I wrote a quick test script:
 
 Which gives:
 
-<img src="http://static.raymondcamden.com/images/screenshot43.png" />
+<img src="https://static.raymondcamden.com/images/screenshot43.png" />
 
 How about a more complex service? This one demonstrates dynamic resources.
 
@@ -29,11 +29,11 @@ How about a more complex service? This one demonstrates dynamic resources.
 
 In the result, which I've cropped a bit due to the size, you can see that the dynamic nature of the sub resources are documented well.
 
-<img src="http://static.raymondcamden.com/images/screenshot44.png" />
+<img src="https://static.raymondcamden.com/images/screenshot44.png" />
 
 And finally - here's an example of how "produces" is represented. Here's a snapshot of a larger REST service. This method is used to return an image of a product.
 
 <script src="https://gist.github.com/4224885.js?file=gistfile1.cfm"></script>
 
 And here is how it is returned:
-<img src="http://static.raymondcamden.com/images/screenshot45.png" />
+<img src="https://static.raymondcamden.com/images/screenshot45.png" />

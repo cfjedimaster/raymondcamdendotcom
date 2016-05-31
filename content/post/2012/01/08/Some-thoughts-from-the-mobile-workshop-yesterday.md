@@ -13,7 +13,7 @@ Yesterday I was honored to speak at the <a href="http://www.meetup.com/creatives
 <!--more-->
 First off - Kevin had to spend time explaining exactly what HTML5 is. I wonder how long we're going to have to do that? I also wonder how important it is? As an example - some folks were surprised to hear that Geolocation is not part of HTML5. Hell, there's even a site for that:<a href="http://isgeolocationpartofhtml5.com/">http://isgeolocationpartofhtml5.com/</a>
 
-<img src="http://static.raymondcamden.com/images/ScreenClip8.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip8.png" />
 
 I have to question though how important this is. If a client came to me asking for a site and said she wanted to go full force HTML5, and then mentioned Geolocation, am I really going to get into a fight with her about Geolocation not being HTML5? She should care about what browsers support it, sure, but I have to wonder if it really is such a bad thing that HTML5 seems to be growing into more than just the <i>precise</i> specification. Yes, folks are adding things into the term that go beyond what it actually is, but at the end of the day, we seem to be turning it into a generic term for "Next Gen" web. Personally I'm ok with that. It's far more important to recognize how individual features work across multiple browsers. 
 

@@ -75,10 +75,10 @@ Now obviously no API is perfect. I've had different levels of results from using
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/s1.png" />
-<img src="http://static.raymondcamden.com/images/s2.png" />
-<img src="http://static.raymondcamden.com/images/s3.png" />
-<img src="http://static.raymondcamden.com/images/s4.png" />
+<img src="https://static.raymondcamden.com/images/s1.png" />
+<img src="https://static.raymondcamden.com/images/s2.png" />
+<img src="https://static.raymondcamden.com/images/s3.png" />
+<img src="https://static.raymondcamden.com/images/s4.png" />
 
 <p>
 
@@ -86,7 +86,7 @@ Ok, ready to test it yourself? Just click the demo button below. For the entire 
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/2012/mar/29/test1.html"><img src="http://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="http://www.raymondcamden.com/demos/2012/mar/29/test1.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 

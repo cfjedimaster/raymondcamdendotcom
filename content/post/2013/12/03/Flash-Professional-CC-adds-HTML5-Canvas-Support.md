@@ -20,7 +20,7 @@ After updating Flash Pro, you will see the option right away in the opening dial
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/createnew copy.jpg" />
+<img src="https://static.raymondcamden.com/images/createnew copy.jpg" />
 </p>
 
 <p>
@@ -28,7 +28,7 @@ As a test, I wrote a quick and simple animation and then published it. The resul
 </p>
 
 <p>
-<img src="http://static.raymondcamden.com/images/iOS Simulator Screen shot Dec 3, 2013, 11.17.35 AM.png" />
+<img src="https://static.raymondcamden.com/images/iOS Simulator Screen shot Dec 3, 2013, 11.17.35 AM.png" />
 </p>
 
 <p>

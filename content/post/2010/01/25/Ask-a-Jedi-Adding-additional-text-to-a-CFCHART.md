@@ -82,7 +82,7 @@ Notice I place the text at "height of canvas - 20". This was purely arbitrary. Y
 
 <p>
 
-<img src="http://static.raymondcamden.com/images/Screen shot 2010-01-25 at 9.07.25 AM.png" title="I've got mad chart skills. Don't hate me for it." />
+<img src="https://static.raymondcamden.com/images/Screen shot 2010-01-25 at 9.07.25 AM.png" title="I've got mad chart skills. Don't hate me for it." />
 
 <p>
 

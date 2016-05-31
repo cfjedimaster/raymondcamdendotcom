@@ -10,5 +10,5 @@
 }
 
 <p>
-<img src="http://static.raymondcamden.com/images/IMAG0505.jpg" />
+<img src="https://static.raymondcamden.com/images/IMAG0505.jpg" />
 </p>

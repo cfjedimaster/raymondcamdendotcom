@@ -152,7 +152,7 @@ And it works! Also - do you see all those local.* variables? I pass in a bunch o
 
 As you can see, I make use of the section name and page title in the title tag. Also note sectionlist. Remember when I said we had an order for sections? This comes into play here as it lets me spit out a simple ordered menu:
 
-<img src="http://static.raymondcamden.com/images/Picture 250.png" />
+<img src="https://static.raymondcamden.com/images/Picture 250.png" />
 
 Of course, letting users write code like that in the admin is something of a security risk. You could use tokens instead (%title% would be a page title), but it's kinda cool how well it works. 
 

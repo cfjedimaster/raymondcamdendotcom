@@ -14,4 +14,4 @@
 
 RIACon 2012 will be held August 6th and 7th in beautiful Rockville, MD at The Legacy Hotel and Conference Centre. The official call for speakers will begin next week, but for more information, check out the web site: <a href="http://www.riacon.com/">http://www.riacon.com</a>. I missed last year but hope to speak at this years conference!
 
-<img src="http://static.raymondcamden.com/images/ScreenClip21.png" />
+<img src="https://static.raymondcamden.com/images/ScreenClip21.png" />

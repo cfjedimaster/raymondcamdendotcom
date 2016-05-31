@@ -57,7 +57,7 @@ function nodeCompare(node1, node2){
 
 And the result:
 
-<img src="http://static.raymondcamden.com/images/cfjedi//Picture 248.png">
+<img src="https://static.raymondcamden.com/images/cfjedi//Picture 248.png">
 
 Ok, so it just plain works. Nice. So I next though - what about arrays of CFCs? I'd assume that would work as well, but I thought I'd give it a try and use it as another excuse to write a script-based CFC in ColdFusion 9.
 
