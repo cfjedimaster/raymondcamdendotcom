@@ -1,6 +1,6 @@
 <section id="main">
-
- 	{{ range first 10 (where .Site.Pages "Type" "post") }}
+    {{ $paginator := .Paginate ((first 50 (where .Site.Pages "Type" "post"))) }}
+    {{ range $paginator.Pages }}
     <article class="article article-type-post" itemscope="" itemprop="blogPost">
         <div class="article-inner">
             {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
