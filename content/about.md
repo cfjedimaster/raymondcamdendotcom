@@ -2,7 +2,7 @@
 title = "About Me"
 +++
 
-<img src="http://static.raymondcamden.com/images/ray.jpg" style="float:left;margin-right: 10px"> 
+<img src="https://static.raymondcamden.com/images/ray.jpg" style="float:left;margin-right: 10px"> 
 
 My name is Raymond Camden. I'm a 42 year old married father of six living in beautiful Lafayette, Louisiana. I am a developer advocate for IBM. My primary technical focus is on the MobileFirst platform, web standards and client-side development. Most of my time is spent writing, researching, or presenting. When I'm not behind a computer, I'm an avid XBox/PS4 player, enjoy movies, and read like crazy. 
 
@@ -62,7 +62,7 @@ I have not done a great job of tracking my various articles on other web sites, 
 
 <iframe style="width:120px;height:240px;float:left;margin-right:10px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=raymondcamden-20&marketplace=amazon&region=US&placement=1633430065&asins=1633430065&linkId=FOJFKR7OPMALMZUB&show_border=true&link_opens_in_new_window=false"></iframe>
 
-<a href="https://www.packtpub.com/application-development/jquery-mobile-web-development-essentials-third-edition"><img src="http://static.raymondcamden.com/images/2016/03/jqm3small.jpg" style="float:left"></a>
+<a href="https://www.packtpub.com/application-development/jquery-mobile-web-development-essentials-third-edition"><img src="https://static.raymondcamden.com/images/2016/03/jqm3small.jpg" style="float:left"></a>
 
 <br clear="left">
 

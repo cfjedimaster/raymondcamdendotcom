@@ -9,6 +9,10 @@ Also note that I do *not* accept guest blog entries or paid blog entries.
 
 Also note that I speak English, and just English. I know a few words of Spanish and French, but I don't *really* speak it. Please do not email me in a foreign (to me) language as I will not be able to help you.
 
+Another note - I cannot (and will not!) provide support for ColdFusion UI controls like cfgrid, cfinput, etc. I've discussed why multiple times and have even provided [direction](https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way) about how to move away from them.
+
+Finally - I do not accept paid article submissions or infographics.
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
 

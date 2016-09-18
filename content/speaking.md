@@ -6,14 +6,18 @@ As much as I love to write code, I enjoy teaching even more. That's part of the 
 
 <h3>My Next Events</h3>
 
-<a href="http://www.meetup.com/Mobile-Monday-New-York-City/events/231130196/">DevLab and Startup Demo Night - Rapid API Development w/ Node.js and LoopBack</a><br/>
-Mobile Monday, June 27, NYC, NY
+<a href="http://ncdevcon.com/post.cfm/ncdevcon-2016-session-everything-they-didn-t-tell-you-about-hybrid-development">NCDevCon 2016 Session-Everything they didn't tell you about hybrid development</a><br/>
+NCDevCon, Raleigh, NC, September 17, 2016
 
-<a href="http://www.meetup.com/Ionic-NYC-Meetup/events/231217932/">LoopBack Presentation</a><br/>
-Ionic NYC, June 29, NYC, NY
+Building APIs in LoopBack<br/>
+NCDevCon, Raleigh, NC, September 18, 2016
 
+<a href="http://developerday.nativescript.org/">Closing Keynote</a><br/>
+NativeScript Developer Day, Boston MA, September 20, 2016
+
+<a href="http://connect.tech/">Introduction to LoopBack</a><br/>
+connect.tech, Atlanta, GA, October 20-22, 2016
 <p>
-
 
 <h3>My Past Events</h3>
 
@@ -63,4 +67,35 @@ Online, March 17, 2016
 Online, March 31, 2016
 
 <a href="http://gluecon.com/">LoopBack Presentation</a><br/>
-Gluecon, May 25, Broomfield, CO
+Gluecon, May 25 2016, Broomfield, CO
+
+<a href="https://strongloop.com/strongblog/webcast-introduction-to-ibm-api-connect/">Introduction to API Connect</a><br/>
+Online, June 7 2016
+
+<a href="http://www.devobjective.com/schedule/javascript-templating-ftw/">JavaScript Templating FTW</a><br/>
+devObjective, June 16 2016, Minneapolis, MN
+
+<a href="http://www.devobjective.com/schedule/rapid-api-prototyping-in-node-js/">Rapid API Prototyping in Node.js</a><br/>
+devObjective, June 16 2016, Minneapolis, MN
+
+<a href="http://www.meetup.com/Mobile-Monday-New-York-City/events/231130196/">DevLab and Startup Demo Night - Rapid API Development w/ Node.js and LoopBack</a><br/>
+Mobile Monday, June 27 2016, NYC, NY
+
+<a href="http://www.meetup.com/Ionic-NYC-Meetup/events/231217932/">LoopBack Presentation</a><br/>
+Ionic NYC, June 29 2016, NYC, NY
+
+<a href="http://nodesummit.com/">Building APIs with LoopBack</a><br/>
+Node Summit<br/>
+San Francisco, CA<br/>
+July 27-28 2016
+
+<a href="https://forwardjs.com/">Bringing Dynamic Back to Static Sites</a><br/>
+ForwardJS<br/>
+San Francisco, CA<br/>
+July 29, 2016
+
+<a href="http://midwestjs.com/">Rapidly developing APIs with StrongLoop, What they don't tell you about Cordova</a><br/>
+MidwestJS<br/>
+Minneapolis, MN<br/>
+August 10-12, 2016
+
