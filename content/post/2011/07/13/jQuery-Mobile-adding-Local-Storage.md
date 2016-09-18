@@ -24,7 +24,7 @@ My application consists of three HTML files, all powered by ColdFusion. The home
 
 <p/>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfset categories = application.artservice.getMediaTypes()&gt;
 
 &lt;!DOCTYPE html&gt; 
@@ -55,7 +55,7 @@ My application consists of three HTML files, all powered by ColdFusion. The home
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p/>
 
@@ -63,15 +63,11 @@ Note that I begin by asking for media types. Our database categories art by a me
 
 <p/>
 
-<img src="https://static.raymondcamden.com/images/ScreenClip139.png" />
-
-<p/>
-
 Next up we have the category page - which is really just a slightly different version of the last one. Note though the use of the Home icon.
 
 <p/>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfparam name="url.media" default=""&gt;
 &lt;cfparam name="url.id" default=""&gt;
 &lt;cfset art = application.artservice.getArt(mediatype=url.id)&gt;
@@ -112,7 +108,7 @@ Next up we have the category page - which is really just a slightly different ve
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p/>
 
@@ -124,7 +120,7 @@ And finally, let's look at our detail page.
 
 <p/>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfparam name="url.id"&gt;
 &lt;cfset art = application.artservice.getArtPiece(url.id)&gt;
 
@@ -161,7 +157,7 @@ And finally, let's look at our detail page.
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p/>
 
@@ -173,7 +169,9 @@ This page is even simpler. We just get the art detail and render it within the p
 
 <p/>
 
-You can demo this here: <a href="http://www.coldfusionjedi.com/demos/artbrowser/v1/">http://www.coldfusionjedi.com/demos/artbrowser/v1/</a>
+<strike>
+You can demo this here: http://www.coldfusionjedi.com/demos/artbrowser/v1/
+</strike>
 
 <p/>
 
@@ -185,7 +183,7 @@ On the home page, I had, what I thought, was a simple thing to do. When the page
 
 <p/>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfset categories = application.artservice.getMediaTypes()&gt;
 
 &lt;!DOCTYPE html&gt; 
@@ -357,7 +355,7 @@ On the home page, I had, what I thought, was a simple thing to do. When the page
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p/>
 
@@ -385,10 +383,10 @@ Moving down - you can now see my functions for working with local storage. To be
 
 <p/>
 
-<code>
+<pre><code class="language-markup">
 &lt;div class="addToFavoritesDiv" style="display:none"&gt;&lt;a href="" data-role="button" data-artid="#art.id#"&gt;Add to Favorites&lt;/a&gt;&lt;/div&gt;
 &lt;div class="removeFromFavoritesDiv" style="display:none"&gt;&lt;a href="" data-role="button" data-artid="#art.id#"&gt;Remove from Favorites&lt;/a&gt;&lt;/div&gt;
-</code>
+</code></pre>
 
 <p/>
 
@@ -396,7 +394,7 @@ That's the two buttons. Notice they are both hidden by default. Also note the us
 
 <p/>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfparam name="url.id"&gt;
 &lt;cfset art = application.artservice.getArtPiece(url.id)&gt;
 
@@ -429,7 +427,7 @@ That's the two buttons. Notice they are both hidden by default. Also note the us
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p/>
 
@@ -461,9 +459,9 @@ Whew! Done. By the way, I'll also point out another issue I had. When I first te
 
 <p/>
 
-<code>
+<pre><code class="language-markup">
 &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt; 	
-</code>
+</code></pre>
 
 <p/>
 
@@ -471,4 +469,4 @@ Adding that helped right away. Ok - that's it. I've included a zip below and you
 
 <p/>
 
-<a href="http://www.coldfusionjedi.com/demos/artbrowser/v4"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fartbrowser%2Ezip'>Download attached file.</a></p>
+<p><a href='https://static.raymondcamden.com/enclosures/artbrowser.zip'>Download attached file.</a></p>

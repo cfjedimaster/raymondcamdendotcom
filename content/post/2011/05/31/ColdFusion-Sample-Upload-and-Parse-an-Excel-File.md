@@ -13,7 +13,7 @@ In this ColdFusion sample I'm going to demonstrate how to allow users to upload 
 <!--more-->
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfif structKeyExists(variables, "errors")&gt;
 	&lt;cfoutput&gt;
 	&lt;p&gt;
@@ -28,7 +28,7 @@ In this ColdFusion sample I'm going to demonstrate how to allow users to upload 
 	  &lt;input type="submit" value="Upload XLS File"&gt;
 		  
 &lt;/form&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -36,8 +36,7 @@ Nothing too complex here. The form has a grand total of one field - the file fie
 
 <p>
 
-<code>
-
+<pre><code class="language-markup">
 &lt;cfif structKeyExists(form, "xlsfile") and len(form.xlsfile)&gt;
 
 	&lt;!--- Destination outside of web root ---&gt;
@@ -60,7 +59,7 @@ Nothing too complex here. The form has a grand total of one field - the file fie
 	&lt;/cfif&gt;
 		
 &lt;/cfif&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -80,8 +79,7 @@ The rest of that block simply handles errors and specifying if we should show th
 
 <p>
 
-<code>
-
+<pre><code class="language-markup">
 &lt;style&gt;
 .ssTable { width: 100%; 
 		   border-style:solid;
@@ -125,7 +123,7 @@ Here is the data in your Excel sheet (assuming first row as headers):
 		&lt;/cfoutput&gt;
 	&lt;/table&gt;
 &lt;/cfif&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -149,8 +147,7 @@ And below is the complete template. Read on though for more...
 
 <p>
 
-<code>
-
+<pre><code class="language-markup">
 &lt;cfset showForm = true&gt;
 &lt;cfif structKeyExists(form, "xlsfile") and len(form.xlsfile)&gt;
 
@@ -237,7 +234,7 @@ And below is the complete template. Read on though for more...
 	&lt;/cfif&gt;
 	
 &lt;/cfif&gt;	
-</code>
+</code></pre>
 
 <p>
 

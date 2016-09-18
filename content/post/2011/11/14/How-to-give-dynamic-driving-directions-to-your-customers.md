@@ -24,7 +24,7 @@ Let's begin with the HTML markup.
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 &lt;!-- Office location --&gt;
 &lt;p&gt;
 You can find our office at:&lt;br/&gt;
@@ -36,7 +36,7 @@ Lafayette, LA 70508-3225
 &lt;button id="getMeThereButton"&gt;Get Directions Here&lt;/button&gt;
 &lt;div id="directionsPanel"&gt;&lt;/div&gt;
 &lt;/p&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -44,7 +44,7 @@ I've got the address first, since, obviously, you want people to know where you 
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 &lt;script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"&gt;&lt;/script&gt;
 &lt;script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -90,7 +90,7 @@ $(document).ready(function() {
 	
 });
 &lt;/script&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -102,7 +102,7 @@ So - what happens when I click and the geolocation works? Basically I start sett
 
 <p>
 
-Here comes the cool part - and it's something I discovered when I was working on my <a href="http://www.raymondcamden.com/index.cfm/2011/11/4/Latest-Mobile-app--WTFRU">last mobile application</a>. While Google provides a very detailed driving direction response, if you just want to not worry about the data and just display it, Google can do it for you. The result is great:
+Here comes the cool part - and it's something I discovered when I was working on my <a href="http://www.raymondcamden.com/2011/11/4/Latest-Mobile-app--WTFRU">last mobile application</a>. While Google provides a very detailed driving direction response, if you just want to not worry about the data and just display it, Google can do it for you. The result is great:
 
 <p>
 
@@ -114,12 +114,11 @@ And that's it. You can demo this yourself by clicking the demo button below. In 
 
 <p>
 
-<a href="http://coldfusionjedi.com/demos/2011/nov/14/test.html"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="https://static.raymondcamden.com/demos/2011/nov/14/test.html"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
 
 <p>
 
-<code>
-
+<pre><code class="language-javascript">
 &lt;html&gt;
 &lt;head&gt;
 &lt;script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"&gt;&lt;/script&gt;
@@ -183,4 +182,4 @@ Lafayette, LA 70508-3225
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>

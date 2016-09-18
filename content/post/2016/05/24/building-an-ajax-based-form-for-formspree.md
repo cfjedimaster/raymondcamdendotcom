@@ -93,7 +93,7 @@ $(document).ready(function() {
 });	
 </code></pre>
 
-So I assume this is pretty vanilla jQuery, and of course, you don't have to use jQuery. I get my data, validate it (well, I wrote a comment saying I would), and then simply POST to Formspree. I do manipulate the data a bit. First, I pass the email value twice. Why? By passing it as `_replyto`, I can actually reply to the email Formspree sends me with the form contents. I still want to see the address so I include it again. `_subject` doesn't come from the form at all, but is used by Formspree to set the subject line of the email sent.
+So I assume this is pretty vanilla jQuery, and of course, you don't have to use jQuery. I get my data, validate it (well, I wrote a comment saying I would), and then simply POST to Formspree. I do manipulate the data a bit. First, I pass the email value twice. Why? By passing it as `_replyto`, I can actually reply to the email Formspree sends me with the form contents. <strong>(As an FYI, I completely missed the fact that Formspree will treat a field named "email" as the replyto as well. So my code there was unnecessary. This is definitely documented, but I missed it.)</strong> I still want to see the address so I include it again. `_subject` doesn't come from the form at all, but is used by Formspree to set the subject line of the email sent.
 
 While that's it - let's quickly look at what happens when you use this code. First off, don't forget the Formspree requires you to validate a form before it will email you. If you actually look at the result of the POST in your form tools, you'll see this the first time you run it.
 

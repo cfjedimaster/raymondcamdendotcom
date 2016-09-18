@@ -6,7 +6,8 @@
 		"Development"
 	],
 	"tags": [],
-	"url": "/2016/05/31/adding-limited-pagination-to-hugo"
+	"url": "/2016/05/31/adding-limited-pagination-to-hugo",
+	"banner":"/images/banners/limitedpages.jpg"
 }
 
 This is probably only going to be useful to a limit audience but I thought I'd share. When converting my site from WordPress to [Hugo](http://gohugo.io/) I discovered that the built-in [pagination support](http://gohugo.io/extras/pagination/) was a bit problematic for my site. Why? I have a large amount of content and at the default page size, I ended up with over five hundred pages of - well - pages. 

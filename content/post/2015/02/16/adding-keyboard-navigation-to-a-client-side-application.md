@@ -140,5 +140,5 @@ $(document).on(&quot;keyup&quot;, function(e) {
 
 });</code></pre>
 
-This <i>seems</i> to work well, and is relatively simple, but I haven't tested with Internet Explorer yet. Want to take it for a spin? Hit up the demo here: <a href="http://www.raymondcamden.com/demos/2015/feb/16/test2.html">http://www.raymondcamden.com/demos/2015/feb/16/test2.html</a>. 
+This <i>seems</i> to work well, and is relatively simple, but I haven't tested with Internet Explorer yet. Want to take it for a spin? Hit up the demo here: <a href="https://static.raymondcamden.com/demos/2015/feb/16/test2.html">https://static.raymondcamden.com/demos/2015/feb/16/test2.html</a>. 
 

@@ -47,4 +47,4 @@ I want to give <strong>huge</strong> thanks to Matt Robenolt of Disqus. As I sai
 
 <p>
 For those of you on ColdFusion and running BlogCFC, I've attached my script. It was written for ColdFusion 11 but you can backport it easily enough to earlier versions. If you use it and it works for you, please let me know in the comments below.
-</p><p><a href='/enclosures/exporter.zip'>Download attached file.</a></p>
+</p><p><a href='https://static.raymondcamden.com/enclosures/exporter.zip'>Download attached file.</a></p>

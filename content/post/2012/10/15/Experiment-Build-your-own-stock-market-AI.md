@@ -15,7 +15,7 @@ Did you know that you could create functions in JavaScript by passing in a strin
 <!--more-->
 <script src="https://gist.github.com/3892357.js?file=gistfile1.js"></script>
 
-This got me thinking about what kind of code would make use of this form of defining functions. About four years ago I asked my readers to participate in a <a href="http://www.raymondcamden.com/index.cfm/2008/7/7/Friday-Puzzler-a-bit-early">coding contest</a> that required you to write the logic to handle a lemonade stand. The contest had you writing a UDF that responded to daily weather reports. It passed you information about your assets and you simply responded with an action. The idea was that you were building an "intelligent agent" to handle the business.
+This got me thinking about what kind of code would make use of this form of defining functions. About four years ago I asked my readers to participate in a <a href="https://www.raymondcamden.com/2008/07/07/Friday-Puzzler-a-bit-early">coding contest</a> that required you to write the logic to handle a lemonade stand. The contest had you writing a UDF that responded to daily weather reports. It passed you information about your assets and you simply responded with an action. The idea was that you were building an "intelligent agent" to handle the business.
 
 With this in mind, I decided to build something similar in JavaScript. In my simulation, you are writing an agent that monitors a stock and decides when to buy or sell stock. Your code will be a function that is passed basic data like the stock price, the change, etc. You then handle returning an action: Buy stock, Sell stock, do nothing.
 
@@ -35,6 +35,6 @@ It could use a bit more hardening, but you can see the basics of what I'm doing 
 
 <img src="https://static.raymondcamden.com/images/screenshot33.png" />
 
-So - want to give it a shot? <a href="http://www.raymondcamden.com/demos/2012/oct/15/test1.html">Stock Market AI Simulator</a>
+So - want to give it a shot? <a href="https://static.raymondcamden.com/demos/2012/oct/15/test1.html">Stock Market AI Simulator</a>
 
 In case you are curious - you can absolutely cheat with this. I don't look for sneaky things like selling negative amounts of stock. Nor do I block you from reaching out into the global scope and manipulating your values. I'd love to see what people try in the demo. Post your examples as comments below.

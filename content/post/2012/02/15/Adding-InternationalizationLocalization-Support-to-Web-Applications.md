@@ -66,7 +66,8 @@ So given the targets above, let's talk about a simple web application we can use
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/2012/feb/15/v1">http://www.raymondcamden.com/demos/2012/feb/15/v1/</a>
+<strike>
+http://www.raymondcamden.com/demos/2012/feb/15/v1/</strike> - <em>Old ColdFusion demo removed - sorry!</em>
 
 <p>
 
@@ -82,7 +83,7 @@ The first thing we want to look at is how we could localize some of the static c
 
 <p>
 
-<img src="https://static.raymondcamden.com/images/shot11.png" />
+<img src="https://static.raymondcamden.com/images/shot11.png" class="imgborder" />
 
 <p>
 
@@ -90,7 +91,7 @@ In this screen capture, the "Product Search" is a title and would - most likely 
 
 <p>
 
-<img src="https://static.raymondcamden.com/images/shot2.png" />
+<img src="https://static.raymondcamden.com/images/shot2.png" class="imgborder"/>
 
 <p>
 
@@ -117,7 +118,7 @@ Here is an example:
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 $.i18n.properties({
 	name:'terms',
 	path:'bundles/',
@@ -127,7 +128,7 @@ $.i18n.properties({
 		$("#searchText").attr("placeholder", $.i18n.prop("search"));
 	}
 });
-</code>
+</code></pre>
 
 <p>
 
@@ -135,7 +136,7 @@ This code calls the plugin and uses the browser's settings to determine the curr
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 function loadAndDisplayLanguages(lang) {
 
 	$.i18n.properties({
@@ -150,7 +151,7 @@ function loadAndDisplayLanguages(lang) {
 	});
 
 }
-</code>
+</code></pre>
 
 <p>
 
@@ -158,9 +159,9 @@ And within my jQuery document.ready block, I fired off the request defaulting to
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 loadAndDisplayLanguages('en');
-</code>
+</code></pre>
 
 <p>
 
@@ -168,11 +169,11 @@ Finally, I added a simple click handler for my drop down menu:
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 $(".langpick").on("click",function(e) {
 	loadAndDisplayLanguages($(this).data("lang"));
 });
-</code>
+</code></pre>
 
 <p>
 
@@ -180,11 +181,11 @@ What's the data call there? I used a data attribute to store the language code f
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 &lt;li&gt;&lt;a href="#" class="langpick" data-lang="en"&gt;English&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#" class="langpick" data-lang="fr"&gt;French&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#" class="langpick" data-lang="ja"&gt;Japanese&lt;/a&gt;&lt;/li&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -200,13 +201,13 @@ In order to update these values, we need to ensure we have them in our propertie
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 intromsg = To display products, use the search form above.
 search = Search
 price = Price
 available = Available
 quantity = Quantity
-</code>
+</code></pre>
 
 <p>
 
@@ -214,7 +215,7 @@ I then edited my result handler to wrap the values in spans:
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 $.post("service.cfc?method=searchproducts", {search:s}, function(res,code) {
                 var dsp = "";
                 for(var i=0; i&lt;res.length; i++) {
@@ -226,7 +227,7 @@ $.post("service.cfc?method=searchproducts", {search:s}, function(res,code) {
                 }
                 $("#results").html(dsp);
             },"json");
-</code>
+</code></pre>
 
 <p>
 
@@ -234,7 +235,7 @@ Note the use of 3 variables, PRICE_STR, AVAILABLE_STR, QUANTITY_STR. My JavaScri
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 //store strings for price, available, and quantity
 var PRICE_STR = "";
 var AVAILABLE_STR = "";
@@ -260,7 +261,7 @@ function loadAndDisplayLanguages(lang) {
 	});
 
 }
-</code>
+</code></pre>
 
 <p>
 
@@ -268,7 +269,7 @@ Woot! To test this version out, hit this url:
 
 <p>
 
-<a href="http://www.raymondcamden.com/demos/2012/feb/15/v2/">http://www.raymondcamden.com/demos/2012/feb/15/v2</a>
+<strike>http://www.raymondcamden.com/demos/2012/feb/15/v2</strike> <em>Another old demo removed</em>
 
 <p>
 
@@ -288,9 +289,9 @@ To work with the numbers and dates, I'm going to use another jQuery Plugin - glo
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 &lt;script type="text/javascript" src="js/cultures/globalize.culture.fr.js"&gt;&lt;/script&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -298,9 +299,9 @@ But my results were garbage. Turns out, I forgot about the chartset attribute. A
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 &lt;script type="text/javascript" src="js/cultures/globalize.culture.fr.js" charset="utf-8"&gt;&lt;/script&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -312,9 +313,9 @@ So, how about an example? Given our quantity values are numbers, we can use the 
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 Globalize.format(res[i].quantity,"n0")
-</code>
+</code></pre>
 
 <p>
 
@@ -322,10 +323,10 @@ Dates are a bit more trickier. You want to parse your original value first, then
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 var dateStr = Globalize.parseDate(res[i].available,"MMMM, dd yyyy hh:mm:ss","en");
 ... Globalize.format(dateStr,"d") ...
-</code>
+</code></pre>
 
 <p>
 
@@ -333,27 +334,27 @@ Notice I explicitly set the language to English. Since my data is coming in with
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 Globalize.culture("en");
-</code>
+</code></pre>
 
 <p>
 Ok... so in general, easy enough to use, right? However, we have two things to consider here. First, we need to use these formatting functions when displaying our search results. Second, we need to ensure we can update them dynamically. But - we are taking original values and converting them into a language specific value. I assumed (and note, I could be wrong!) that once localized, the plugin may have an issue converting it back into something else. So I decided to once again make use of data values. This time I'm going to store my original values so I can fetch em later:
 
 <p>
 
-<code>
-            $.post("service.cfc?method=searchproducts", {search:s}, function(res,code) {
-                var dsp = "";
-                for(var i=0; i&lt;res.length; i++) {
-                    dsp += "&lt;div class='productResult'&gt;&lt;h3&gt;"+res[i].name+"&lt;/h3&gt;";
-                    dsp += "&lt;p&gt;&lt;span class='pricelabel'&gt;"+PRICE_STR+"&lt;/span&gt;: &lt;span class='priceval' data-price='"+res[i].price+"'&gt;"+Globalize.format(res[i].price,"c")+"&lt;/span&gt;&lt;br/&gt;";
-					var dateStr = Globalize.parseDate(res[i].available,"MMMM, dd yyyy hh:mm:ss","en");
-					dsp += "&lt;span class='availlabel'&gt;"+AVAILABLE_STR+"&lt;/span&gt;: &lt;span class='dateval' data-date='"+res[i].available+"'&gt;"+Globalize.format(dateStr,"d")+"&lt;/span&gt;&lt;br/&gt;";
-					dsp += "&lt;span class='quantlabel'&gt;"+QUANTITY_STR+"&lt;/span&gt;: &lt;span class='quantval' data-quant='"+res[i].quantity+"'&gt;"+Globalize.format(res[i].quantity,"n0")+"&lt;/span&gt;&lt;br/&gt;";
-                    dsp += "&lt;/p&gt;&lt;/div&gt;";
-                }
-</code>
+<pre><code class="language-javascript">
+$.post("service.cfc?method=searchproducts", {search:s}, function(res,code) {
+	var dsp = "";
+	for(var i=0; i&lt;res.length; i++) {
+		dsp += "&lt;div class='productResult'&gt;&lt;h3&gt;"+res[i].name+"&lt;/h3&gt;";
+		dsp += "&lt;p&gt;&lt;span class='pricelabel'&gt;"+PRICE_STR+"&lt;/span&gt;: &lt;span class='priceval' data-price='"+res[i].price+"'&gt;"+Globalize.format(res[i].price,"c")+"&lt;/span&gt;&lt;br/&gt;";
+		var dateStr = Globalize.parseDate(res[i].available,"MMMM, dd yyyy hh:mm:ss","en");
+		dsp += "&lt;span class='availlabel'&gt;"+AVAILABLE_STR+"&lt;/span&gt;: &lt;span class='dateval' data-date='"+res[i].available+"'&gt;"+Globalize.format(dateStr,"d")+"&lt;/span&gt;&lt;br/&gt;";
+		dsp += "&lt;span class='quantlabel'&gt;"+QUANTITY_STR+"&lt;/span&gt;: &lt;span class='quantval' data-quant='"+res[i].quantity+"'&gt;"+Globalize.format(res[i].quantity,"n0")+"&lt;/span&gt;&lt;br/&gt;";
+		dsp += "&lt;/p&gt;&lt;/div&gt;";
+	}
+</code></pre>
 
 <p>
 
@@ -361,56 +362,54 @@ That handles the display, now let's go back to loadAndDisplayLanguages. I've upd
 
 <p>
 
-<code>
-	function loadAndDisplayLanguages(lang) {
+<pre><code class="language-javascript">
+function loadAndDisplayLanguages(lang) {
 
-		$.i18n.properties({
-			name:'terms',
-			path:'bundles/',
-			mode:'map',
-			language:lang,
-			callback:function() {
-				$("#intromsg").text($.i18n.prop("intromsg"));
-				$("#searchText").attr("placeholder", $.i18n.prop("search"));
-				PRICE_STR = $.i18n.prop("price");
-				AVAILABLE_STR = $.i18n.prop("available");
-				QUANTITY_STR = $.i18n.prop("quantity");
-				$(".pricelabel").text(PRICE_STR);
-				$(".availlabel").text(AVAILABLE_STR);
-				$(".quantlabel").text(QUANTITY_STR);
+	$.i18n.properties({
+		name:'terms',
+		path:'bundles/',
+		mode:'map',
+		language:lang,
+		callback:function() {
+			$("#intromsg").text($.i18n.prop("intromsg"));
+			$("#searchText").attr("placeholder", $.i18n.prop("search"));
+			PRICE_STR = $.i18n.prop("price");
+			AVAILABLE_STR = $.i18n.prop("available");
+			QUANTITY_STR = $.i18n.prop("quantity");
+			$(".pricelabel").text(PRICE_STR);
+			$(".availlabel").text(AVAILABLE_STR);
+			$(".quantlabel").text(QUANTITY_STR);
 
-				$(".priceval").each(function(i,el) {
-					var thisPrice = $(this).data("price");
-					var newPrice = Globalize.format(thisPrice, "c",lang);
-					$(this).text(newPrice);
-				});
+			$(".priceval").each(function(i,el) {
+				var thisPrice = $(this).data("price");
+				var newPrice = Globalize.format(thisPrice, "c",lang);
+				$(this).text(newPrice);
+			});
 
-				$(".dateval").each(function(i,el) {
-					var thisDate = $(this).data("date");
-					var dateP = Globalize.parseDate(thisDate,"MMMM, dd yyyy hh:mm:ss","en");
-					var newDate = Globalize.format(dateP, "d",lang);
-					$(this).text(newDate);
-				});
+			$(".dateval").each(function(i,el) {
+				var thisDate = $(this).data("date");
+				var dateP = Globalize.parseDate(thisDate,"MMMM, dd yyyy hh:mm:ss","en");
+				var newDate = Globalize.format(dateP, "d",lang);
+				$(this).text(newDate);
+			});
 
-				$(".quantval").each(function(i,el) {
-					var thisQuant = $(this).data("quant");
-					var newQuant = Globalize.format(thisQuant, "n0",lang);
-					$(this).text(newQuant);
-				});
+			$(".quantval").each(function(i,el) {
+				var thisQuant = $(this).data("quant");
+				var newQuant = Globalize.format(thisQuant, "n0",lang);
+				$(this).text(newQuant);
+			});
 
-			}
-		});
+		}
+	});
 
-	}
-</code>
+}
+</code></pre>
 
 <p>
 
+<strike>
 You can demo this here...
-
-<p>
-
-<a href="http://www.raymondcamden.com/demos/2012/feb/15/v3/"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+</strike> <em>Another old demo removed...</em>
 
 <p>
 

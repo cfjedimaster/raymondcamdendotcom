@@ -1,5 +1,5 @@
 {
-	"title": "Review: \\\"Build an HTML5 Game\\\"",
+	"title": "Review: \"Build an HTML5 Game\"",
 	"categories": [
 		"Development",
 		"Games"

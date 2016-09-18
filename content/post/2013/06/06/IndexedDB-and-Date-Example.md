@@ -38,4 +38,4 @@ The only conversion required here was to take the user input and turn it into "r
 
 You can run the full demo below.
 
-<a href="http://www.raymondcamden.com/demos/2013/jun/6/test1.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="https://static.raymondcamden.com/demos/2013/jun/6/test1.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

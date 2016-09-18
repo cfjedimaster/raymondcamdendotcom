@@ -15,9 +15,9 @@ What is the point of this guide? Unless you are a perfect code, there is a chanc
 
 The first thing I want you to do is to create an error. Create a new CFM file named errortest.cfm. Insert one line into it:
 
-<code>
+<pre><code class="language-markup">
 &lt;cfoutput&gt;#xfhdshsdhj#&lt;/cfoutput&gt;
-</code>
+</code></pre>
 
 The point of this template is to create an error. Unless you actually have a variable defined with that ugly name, the template will error out. Upload it to your server and run it with your browser.
 
@@ -45,12 +45,12 @@ Your second option - and what I recommend - is to the handle the errors specific
 
 A full description of cferror may be found in the <a href="http://www.cfquickdocs.com/cf8/?getDoc=cferror">docs</a>. I'm going to give you the Ray Camden quickie guide to it. The cferror basically lets you specify an template to run when a type of error occurs. There are 3 main types of errors it monitors: Exception, Request, and Validation. Forget about validation. Don't use it. Exception is the type of error we are most familiar with. It is what I call the 'basic' error. Request is the more serious error. It can occur when your error handler itself screws up. I call this the "Oh S***" error (seriously). It has special restrictions on it I'll discuss in a second. First though, let's look at the syntax you would use in your Application.cfm file:
 
-<code>
+<pre><code class="language-markup">
 &lt;cfapplication name="rayrules"&gt;
 
 &lt;cferror type="exception" template="error.cfm"&gt;
 &lt;cferror type="request" template="error_request.cfm"&gt;
-</code>
+</code></pre>
 
 As you can see - it's pretty simple stuff. I basically said - for the Exception (again, think 'normal' error), run error.cfm. For the Oh Crap error, run error_request.cfm.
 
@@ -58,9 +58,9 @@ If you run any CFM again - you will immediately get an error stating that these 
 
 Now for the details. The error.cfm template is a normal CFM page. But it has access to a special variable: ERROR. This variable is a structure that contains a lot of information about the error. What you get there will also depend on the error. SQL errors for example will have different values in the structure than a simple runtime error. Let's just do a quick dump. 
 
-<code>
+<pre><code class="language-markup">
 &lt;cfdump var="#error#"&gt;
-</code>
+</code></pre>
 
 If you run your error test again (you may have to reupload it if you deleted it like I suggested, just don't forget to remove it later!), you will see something like this:
 
@@ -70,23 +70,23 @@ I'm not going to list every field - again, check the <a href="http://www.cfquick
 
 So what now? Well first off - you probably don't want your public site showing a dump. Let's begin by outputting a nice message to the user. Here is the new version of error.cfm:
 
-<code>
+<pre><code class="language-markup">
 We are so sorry. Something went wrong. We are working on it now.
-</code>
+</code></pre>
 
 Obviously you can mark that up with nice HTML, use your custom tag layout wrapper, etc. This handles letting the user know something bad happened. At bare minimum, this is better than showing naked errors to the user, but we should do something with the error. I recommend two things.
 
 <b>Log the error.</b> For some odd reason, ColdFusion will nicely log an unhandled error, but will not log a handled error. I believe Blue Dragon logs the error anyway. Since ColdFusion won't log it, we should:
 
-<code>
+<pre><code class="language-markup">
 &lt;cflog file="myapperrorlog" text="#error.message# - #error.diagnostics#"&gt;
-</code>
+</code></pre>
 
 Note that I've specified the message and diagnostics variable. This is a bit of a duplication since diagnostics information will have the same information as message, but I like the shortness of the message value. You could log more than this obviously, but since this is a log file, we don't want to overdue it here. 
 
-THe next thing we should do is email the error. This is something I've covered before on the blog, so some of you may know my feelings on this already, but what I typically do is email me the entire error structure. I also include other structures so I can see what else was going on:
+The next thing we should do is email the error. This is something I've covered before on the blog, so some of you may know my feelings on this already, but what I typically do is email me the entire error structure. I also include other structures so I can see what else was going on:
 
-<code>
+<pre><code class="language-markup">
 &lt;cfsavecontent variable="errortext"&gt;
 &lt;cfoutput&gt;
 An error occurred: http://#cgi.server_name##cgi.script_name#?#cgi.query_string#&lt;br /&gt;
@@ -103,7 +103,7 @@ Time: #dateFormat(now(), "short")# #timeFormat(now(), "short")#&lt;br /&gt;
 &lt;cfmail to="bugs@myproject.com" from="root@myproject.com" subject="Error: #error.message#" type="html"&gt;
 	#errortext#
 &lt;/cfmail&gt;
-</code>
+</code></pre>
 
 I create my message within a cfsavecontent (more on why in a second), and then mail it. Don't forget the type=html. Now as you can guess, this creates a pretty big email. If you get a 1000 of these, you will be suffering, but consider it incentive to fix the darn bug ASAP. You could also add a dump of the session scope if you wanted, or CGI. Basically, it is better to send more information then you need then to be wanting for more. Having all this detail gives you a better idea of what is going on when the error occurred.
 
@@ -111,7 +111,7 @@ So why the cfsavecontent? One trick I'll often do is to skip the email if I'm cu
 
 So all together now, here is the error.cfm file:
 
-<code>
+<pre><code class="language-markup">
 We are so sorry. Something went wrong. We are working on it now.
 
 &lt;cflog file="myapperrorlog" text="#error.message# - #error.diagnostics#"&gt;
@@ -132,13 +132,13 @@ Time: #dateFormat(now(), "short")# #timeFormat(now(), "short")#&lt;br /&gt;
 &lt;cfmail to="bugs@myproject.com" from="root@myproject.com" subject="Error: #error.message#" type="html"&gt;
 	#errortext#
 &lt;/cfmail&gt;
-</code>
+</code></pre>
 
 Now for fun, try modifying your error.cfm. Change the first cfdump tag to a cfpoo tag. If you rerun your template, you will see a blank page. Remember that we created a blank error_request.cfm file earlier? This is what is running now. Basically, ColdFusion has noticed that we had an error, and then our error management had an error, and it's thrown it's hands up in the air and given up. We are now in the request template. The request template has special rules - the most important being - no CFML. That's right - you can't cflog. You can't email the error. You can - however - output error variables. You don't use cfoutput, you just include them. Consider this sample:
 
-<code>
+<pre><code class="language-markup">
 This went wrong: #error.diagnostics#
-</code>
+</code></pre>
 
 This will display:
 
@@ -159,20 +159,20 @@ In general - a lot of what I said about the Exception type for CFERROR applies h
 
 Consider this very simple onError:
 
-<code>
+<pre><code class="language-markup">
 &lt;cffunction name="onError" returnType="void" output="true"&gt;
 	&lt;cfargument name="exception" required="true"&gt;
 	&lt;cfargument name="eventname" type="string" required="true"&gt;
 	&lt;cfdump var="#arguments#"&gt;&lt;cfabort&gt;
 &lt;/cffunction&gt;
-</code>
+</code></pre>
 
 All I've done here is dump all the arguments sent in. Now go back to your error file (the one you made to throw errors) and change it to this:
 
-<code>
+<pre><code class="language-markup">
 &lt;h1&gt;Hellow World&lt;/h1&gt;
 &lt;cfoutput&gt;#xfhdshsdhj#&lt;/cfoutput&gt;
-</code>
+</code></pre>
 
 Run it in your browser, and you will see this:
 
@@ -180,7 +180,7 @@ Run it in your browser, and you will see this:
 
 Notice that the HTML before the error is displayed in the browser. If we had used a nice error message instead of the dump, the user would see both. This can result in oddly formatted pages. What you can do instead is simply handle the error and cflocate to the a nicer page:
 
-<code>
+<pre><code class="language-markup">
 &lt;cffunction name="onError" returnType="void" output="true"&gt;
 	&lt;cfargument name="exception" required="true"&gt;
 	&lt;cfargument name="eventname" type="string" required="true"&gt;
@@ -207,13 +207,13 @@ Notice that the HTML before the error is displayed in the browser. If we had use
 	&lt;cflocation url="error.cfm"&gt;
 	
 &lt;/cffunction&gt;
-</code>
+</code></pre>
 
 All I did was take the code from my original error.cfm file and place it in here. The Exception argument here looks a bit different. No diagnostics key. So I just logged the message for now. My error.cfm file now only contains the message:
 
-<code>
+<pre><code class="language-markup">
 We are so sorry. Something went wrong. We are working on it now.
-</code>
+</code></pre>
 
 Lets recap:
 
@@ -224,4 +224,4 @@ Lets recap:
 <li>Do your own logging, and email yourself a detailed report.
 </ul>
 
-I hope you find this guide useful, and please let me know how I can improve it.<p><a href='/enclosures/print.pdf'>Download attached file.</a></p>
+I hope you find this guide useful, and please let me know how I can improve it.

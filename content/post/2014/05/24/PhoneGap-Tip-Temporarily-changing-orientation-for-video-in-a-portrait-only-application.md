@@ -7,7 +7,7 @@
 	],
 	"tags": [],
 	"date": "2014-05-24T17:05:00+06:00",
-	"url": "/2014/05/24/PhoneGap-Tip-Temporarily-changing-orientation-for-video-in-a-portrait-only-application",
+	"url": "/2014/05/24/phonegap-tip-temporarily-changing-orientation-for-video-in-a-portrait-only-application",
 	"guid": "5230"
 }
 

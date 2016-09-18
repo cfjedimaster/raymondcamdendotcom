@@ -9,7 +9,7 @@
 	"guid": "4795"
 }
 
-This isn't anything special, but a reader today asked if I could modify some code I did for an earlier blog post: <a href="http://www.raymondcamden.com/index.cfm/2011/4/13/Simple-introduction-to-Google-Maps-Part-2--Markers">Simple introduction to Google Maps - Part 2 - Markers</a>. This was a blog post I had done as part of a series introducing folks to using the Google Maps SDK. While partially focused on ColdFusion (and replacing &lt;cfmap&gt;), it was applicable to anyone who wanted to try out the SDK on their web site.
+This isn't anything special, but a reader today asked if I could modify some code I did for an earlier blog post: <a href="https://www.raymondcamden.com/2011/04/13/Simple-introduction-to-Google-Maps-Part-2-Markers/">Simple introduction to Google Maps - Part 2 - Markers</a>. This was a blog post I had done as part of a series introducing folks to using the Google Maps SDK. While partially focused on ColdFusion (and replacing &lt;cfmap&gt;), it was applicable to anyone who wanted to try out the SDK on their web site.
 <!--more-->
 The final demo in that blog post (available <a href="http://www.raymondcamden.com/demos/april132011/test4.cfm">here</a>) showed how to add dynamic markers to a map and provided a simple UI to select and focus on each marker. 
 
@@ -43,4 +43,4 @@ And that's it. A good modification to this would be to use the Google API that '
 
 You can view the full demo below. 
 
-<a href="http://www.raymondcamden.com/demos/2012/dec/1/new4.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="https://static.raymondcamden.com/demos/2012/dec/1/new4.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

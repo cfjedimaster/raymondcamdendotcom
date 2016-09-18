@@ -117,7 +117,7 @@ The file object gives us a few properties, but the one we care about is the name
 &lt;/html&gt;</code></pre>
 
 <p>
-Pretty simple, right? You can view an example of this here: <a href="http://www.raymondcamden.com/demos/2013/sep/10/test0A.html">http://www.raymondcamden.com/demos/2013/sep/10/test0A.html</a>. And here is a quick screen shot in case you are viewing this in a non-compliant browser.
+Pretty simple, right? You can view an example of this here: <a href="https://static.raymondcamden.com/demos/2013/sep/10/test0A.html">https://static.raymondcamden.com/demos/2013/sep/10/test0A.html</a>. And here is a quick screen shot in case you are viewing this in a non-compliant browser.
 </p>
 
 <p>
@@ -128,7 +128,7 @@ Pretty simple, right? You can view an example of this here: <a href="http://www.
 Pretty simple, right? Let's kick it up a notch. Some browsers support FileReader (<a href="https://developer.mozilla.org/en-US/docs/Web/API/FileReader">MDN Reference</a>), a basic way of reading files on the user system. We could check for FileReader support and use it to provide image previews. I'll share the code first and then explain how it works.
 </p>
 
-<p><strong>Edit on September 11:</strong> A big thank you to Sime Vidas for <a href="http://www.raymondcamden.com/index.cfm/2013/9/10/Adding-a-file-display-list-to-a-multifile-upload-HTML-control#c6E612D19-BAD9-A665-957DCD4546E53F41">pointing out</a> a stupid little bug in my code I missed on first pass around. I made a classic array/callback bug and didn't notice it. I fixed the code and the screen shot, but if you want to see the broken code, view source on http://www.raymondcamden.com/demos/2013/sep/10/test0orig.html.</p>
+<p><strong>Edit on September 11:</strong> A big thank you to Sime Vidas for <a href="https://www.raymondcamden.com/2013/09/10/Adding-a-file-display-list-to-a-multifile-upload-HTML-control#c6E612D19-BAD9-A665-957DCD4546E53F41">pointing out</a> a stupid little bug in my code I missed on first pass around. I made a classic array/callback bug and didn't notice it. I fixed the code and the screen shot, but if you want to see the broken code, view source on https://static.raymondcamden.com/demos/2013/sep/10/test0orig.html.</p>
 
 <pre><code class="language-markup">&lt;!doctype html&gt;
 &lt;html&gt;
@@ -197,7 +197,7 @@ Pretty simple, right? Let's kick it up a notch. Some browsers support FileReader
 I've modified the handleFileSelect code to check for both the files array as well as FileReader. (Note - I should do this <i>before</i> I even attach the event handler. I just thought of that.) I've updated my input field to say it accepts only images and added a second check within the event handler. Once we are sure we have an image, I use the FileReader API to create a DataURL (string) version of the image. With that I can actually draw the image as a preview.</p>
 
 <p>
-You can view a demo of this here: <a href="http://www.raymondcamden.com/demos/2013/sep/10/test0.html">http://www.raymondcamden.com/demos/2013/sep/10/test0.html</a>. And again, a screen shot:
+You can view a demo of this here: <a href="https://static.raymondcamden.com/demos/2013/sep/10/test0.html">https://static.raymondcamden.com/demos/2013/sep/10/test0.html</a>. And again, a screen shot:
 </p>
 
 <p>

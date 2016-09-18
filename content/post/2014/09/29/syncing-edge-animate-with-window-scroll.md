@@ -128,10 +128,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; &#x2F;&#x2F; aliases f
 })(jQuery, AdobeEdge, &quot;EDGE-257179350&quot;);</code></pre>
 
 <p>
-And it works awesome! Well, to me anyway. Check it out here: <a href="http://www.raymondcamden.com/demos/2014/sep/29/stickandscroll/Untitled-2.html">http://www.raymondcamden.com/demos/2014/sep/29/stickandscroll/Untitled-2.html</a>.
+And it works awesome! Well, to me anyway. Check it out here: <a href="https://static.raymondcamden.com/demos/2014/sep/29/stickandscroll/Untitled-2.html">https://static.raymondcamden.com/demos/2014/sep/29/stickandscroll/Untitled-2.html</a>.
 </p>
 
 <p>
 Of course, that's my ugly version. Imagine if someone with some decent design skills tried it. Elaine did so - and with help from other Adobians (<a href="https://twitter.com/mvujovic">Max Vujovic</a> and
- <a href="https://twitter.com/bemjb">Bem Jones-Bey</a>) came up with this <i>much</i> cooler version: <a href="http://www.raymondcamden.com/demos/2014/sep/29/elainesample/scroll.html">http://www.raymondcamden.com/demos/2014/sep/29/elainesample/scroll.html</a>. Check it out!
+ <a href="https://twitter.com/bemjb">Bem Jones-Bey</a>) came up with this <i>much</i> cooler version: <a href="https://static.raymondcamden.com/demos/2014/sep/29/elainesample/scroll.html">https://static.raymondcamden.com/demos/2014/sep/29/elainesample/scroll.html</a>. Check it out!
 </p>
