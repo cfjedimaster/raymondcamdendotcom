@@ -52,3 +52,7 @@ div.note {
 	padding: 10px;
 	font-size: 2em;
 }
+
+#recentContent {
+	height: 596px;
+}

@@ -10,8 +10,12 @@
 	</div>
 
   	{{ if not .Site.BuildDrafts }}
+	<!--
     {{ partial "widgets/recent_articles" . }}
-    {{ partial "widgets/categories" . }}
+	-->
+    <div id="recentContent"></div>
+	
+	{{ partial "widgets/categories" . }}
     {{ partial "widgets/tags" . }}
 	{{ end }}
 

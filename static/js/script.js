@@ -82,4 +82,8 @@
     $(document).scrollTop(0);
   });
 
+  $.get('/recent/', function(html) {
+    $('#recentContent').html(html);
+  });
+
 })(jQuery);
