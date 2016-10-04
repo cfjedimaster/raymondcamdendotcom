@@ -15,6 +15,9 @@ NCDevCon, Raleigh, NC, September 18, 2016
 <a href="http://developerday.nativescript.org/">Closing Keynote</a><br/>
 NativeScript Developer Day, Boston MA, September 20, 2016
 
+<a href="http://www.meetup.com/mobiletea/events/233772912/">LoopBack</a><br/>
+Mobile Tea, Boston MA, September 20, 2016
+
 <a href="http://connect.tech/">Introduction to LoopBack</a><br/>
 connect.tech, Atlanta, GA, October 20-22, 2016
 <p>

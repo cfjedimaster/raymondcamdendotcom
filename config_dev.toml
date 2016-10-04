@@ -11,7 +11,7 @@ footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus-theme"
 disablePathToLower = true
 metaDataFormat = "json"
-ignoreFiles = ["post/200","post/2010","post/2011","post/2012","post/2013","post/2014"]
+ignoreFiles = ["post/2003","post/2004","post/2005","post/2006","post/2007","post/2008","post/2009","post/2010","post/2011","post/2012","post/2013","post/2014"]
 
 [permalinks]
     post = "/:year/:month/:day/:slug"

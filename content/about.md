@@ -4,13 +4,13 @@ title = "About Me"
 
 <img src="https://static.raymondcamden.com/images/ray.jpg" style="float:left;margin-right: 10px"> 
 
-My name is Raymond Camden. I'm a 42 year old married father of six living in beautiful Lafayette, Louisiana. I am a developer advocate for IBM. My primary technical focus is on the MobileFirst platform, web standards and client-side development. Most of my time is spent writing, researching, or presenting. When I'm not behind a computer, I'm an avid XBox/PS4 player, enjoy movies, and read like crazy. 
+My name is Raymond Camden. I'm a 43 year old married father of six living in beautiful Lafayette, Louisiana. I am a developer advocate for IBM. My primary technical focus is on LoopBack, Node.js, web standards and client-side development. Most of my time is spent writing, researching, or presenting. When I'm not behind a computer, I'm an avid XBox/PS4 player, enjoy movies, and read like crazy. 
 
 I've been lucky to have been invited to speak at many conferences over the years. If you would like me to speak at your conference or organization, please <a href="/contact">contact</a> me. I can cover pretty much any topic you see my blog about, but feel free to request just about anything. I love presenting on topics I'm not yet familiar with as it gives me a chance to learn something new.
 
 I'm somewhat of a Star Wars nerd - but don't tell anyone else I told you that.
 
-If you find this information useful, please consider visiting my <a href="http://www.amazon.com/gp/registry/wishlist/2TCL1D08EZEYE/ref=cm_wl_rlist_go_v?">Amazon Wishlist</a> to show your appreciation. Since Amazon will often not tell me who purchased a gift for me, drop me a line too to let me know.
+If you find this information useful (currently at {{% numposts %}} posts), please consider visiting my <a href="http://www.amazon.com/gp/registry/wishlist/2TCL1D08EZEYE/ref=cm_wl_rlist_go_v?">Amazon Wishlist</a> to show your appreciation. Since Amazon will often not tell me who purchased a gift for me, drop me a line too to let me know!
 
 <h3>Articles</h3>
 
