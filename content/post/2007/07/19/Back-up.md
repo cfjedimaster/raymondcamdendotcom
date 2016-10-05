@@ -1,0 +1,12 @@
+{
+	"title": "Back up...",
+	"categories": [
+		"Misc"
+	],
+	"tags": [],
+	"date": "2007-07-19T10:07:00+06:00",
+	"url": "/2007/07/19/Back-up",
+	"guid": "2201"
+}
+
+Sorry for the downtime folks. It looks like my little (secret) project went a bit crazy last night and brought down the blog. Bad, Ray, bad! I think I'm almost ready to show off what I've been working with, so I may do so today from the airport. It isn't <i>that</i> terribly exciting, but I promise it will be more entertaining then an interview with Paris Hilton.

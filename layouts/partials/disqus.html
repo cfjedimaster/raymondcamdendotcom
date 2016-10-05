@@ -1,0 +1,30 @@
+<!--
+var disqus_url = 'http://www.raymondcamden.com/2016/01/06/my-first-oreilly-book-client-side-data-storage';
+var disqus_identifier = '/?p=7361';
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = 'raymondcamden';
+var disqus_title = "My first O&#8217;Reilly Book: Client-Side Data Storage";
+		-->
+<script>
+var disqus_config = function () {
+{{ if isset .Params "guid" }}
+this.page.url = 'http://www.raymondcamden.com{{ .URL | safeURL }}'; 
+this.page.identifier = '/?p={{ .Params.guid }}'; 
+{{ else if isset .Params "oldurl" }}
+this.page.url = '{{ .Params.oldurl | safeURL }}'; 
+{{ else }}
+this.page.url = 'http://www.raymondcamden.com{{ .URL | safeURL }}'; 
+{{ end }}
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//raymondcamden.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
