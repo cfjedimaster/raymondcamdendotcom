@@ -82,8 +82,8 @@
     $(document).scrollTop(0);
   });
 
-  $.get('/recent/', function(html) {
-    $('#recentContent').html(html);
+  $.get('/sidebar/', function(html) {
+    $('#sideBarDyn').html(html);
   });
 
 })(jQuery);

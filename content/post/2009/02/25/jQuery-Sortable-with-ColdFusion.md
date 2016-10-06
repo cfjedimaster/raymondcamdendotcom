@@ -16,7 +16,7 @@ If you follow the link to the demo (and please do, it's rather slick!) you will 
 
 First, let's look at a simple version that just does the sorting:
 
-<code>
+<pre><code class="language-markup">
 &lt;html&gt;
 
 &lt;head&gt;
@@ -42,53 +42,53 @@ $(document).ready(function(){
 &lt;/body&gt;
 
 &lt;/html&gt;
-</code>
+</code></pre>
 
-I absolutely love this. Seriously. I want to form a domestic partnership with jQuery and never look at another framework again. You can see a demo of this <a href="http://www.raymondcamden.com/demos/jquerysortable/test1.html">here</a>. But this is just a front end demo. Simple and sexy, but we need something real, and a lot of times that is where things can break down. I began by making the data dynamic.
+I absolutely love this. Seriously. I want to form a domestic partnership with jQuery and never look at another framework again. <strike>You can see a demo of this <a href="http://www.raymondcamden.com/demos/jquerysortable/test1.html">here</a>.</strike> But this is just a front end demo. Simple and sexy, but we need something real, and a lot of times that is where things can break down. I began by making the data dynamic.
 
-<code>
+<pre><code class="language-markup">
 &lt;cfset data = queryNew("id,title","integer,varchar")&gt;
 &lt;cfloop index="x" from="1" to="5"&gt;
 	&lt;cfset queryAddRow(data)&gt;
 	&lt;cfset querySetCell(data, "id", x)&gt;
 	&lt;cfset querySetCell(data, "title", "Title #x#")&gt;
 &lt;/cfloop&gt;
-</code>
+</code></pre>
 
 Normally that would be set in my controller code or a CFC at least, but you get the idea. I then changed my UL/LI:
 
-<code>
+<pre><code class="language-markup">
 &lt;ul id="sortable"&gt;
 	&lt;cfoutput query="data"&gt;
 		&lt;li id="item_#id#"&gt;#title#&lt;/li&gt;
 	&lt;/cfoutput&gt;
 &lt;/ul&gt;
-</code>
+</code></pre>
 
 Ok, not rocket science, but you get the idea. I then added a button:
 
-<code>
+<pre><code class="language-markup">
 &lt;input type="button" id="saveBtn" value="Persist"&gt;
-</code>
+</code></pre>
 
 and modified my document.ready:
 
-<code>
+<pre><code class="language-javascript">
 $(document).ready(function(){
     $("#sortable").sortable();
     $("#saveBtn").click(persist)
   });
-</code>
+</code></pre>
 
 My persist function will take care of saving the data. The <a href="http://docs.jquery.com/UI/Sortable">docs</a> for Sortable are pretty extensive. What we want is the serialize function. As you can guess, it will serialize the sortable data. It does this by grabbing the id values from the items you had marked as sortable. My persist function looks like so:
 
-<code>
+<pre><code class="language-javascript">
 function persist() {
 	console.log('running persist....')
 	var data = $("#sortable").sortable('serialize')
 	console.log(data)
 }
-</code>
+</code></pre>
 
 When run, the console reports:
 
@@ -98,21 +98,21 @@ item[]=3&item[]=2&item[]=1&item[]=4&item[]=5
 </p>
 </blockquote>
 
-Kind of an odd format. You can change it up a bit by passing additional parameters to the sortable call, but you get the basic idea. A demo of this version may be found <a href="http://www.coldfusionjedi.com/demos/jquerysortable/test.cfm">here</a>. Obviously you need Firebug installed and open to see the console messages.
+Kind of an odd format. You can change it up a bit by passing additional parameters to the sortable call, but you get the basic idea. <strike>A demo of this version may be found <a href="http://www.coldfusionjedi.com/demos/jquerysortable/test.cfm">here</a>.</strike> Obviously you need Firebug installed and open to see the console messages.
 
 Alright, so let's take it a step further. As I said, I thought that format was a bit odd. Sortable supports serializing to arrays as well:
 
-<code>
+<pre><code class="language-javascript">
 var data = $("#sortable").sortable('toArray')
-</code>
+</code></pre>
 
 and we can tie this to an Ajax call
 
-<code>
+<pre><code class="language-javascript">
 $.post('data.cfc?method=saveData',{order:data},function(res,txtStatus) {
 		console.log(txtStatus)
 	})
-</code>
+</code></pre>
 
 At this point I ran into a bit of trouble. I forgot that you can't send a complex data structure 'as is' over the wire. jQuery was smarter than me in this case and simply converted the data back into a list, much like the first serialize example. This time though it was just a list of values:
 
@@ -124,7 +124,7 @@ item_N,item_X,item_Z
 
 My CFC would have to parse the list and note both the position and the ID value from each item:
 
-<code>
+<pre><code class="language-markup">
 &lt;cffunction name="saveData" access="remote" returnType="void" output="false"&gt;
 	&lt;cfargument name="order" type="any" required="true"&gt;
 	&lt;cfset var x = ""&gt;
@@ -139,8 +139,11 @@ My CFC would have to parse the list and note both the position and the ID value 
 	&lt;/cfloop&gt;
 
 &lt;/cffunction&gt;
-</code>
+</code></pre>
 
 Normally this would actually run a query, but I think you get the idea. I've included my sample code as an attachment. 
 
-I have to admit - I thought the 'interactions' section of jQuery UI wasn't that exciting, but I'm beginning to see some real benefit here.<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fjquerysortable%2Ezip'>Download attached file.</a></p>
+I have to admit - I thought the 'interactions' section of jQuery UI wasn't that exciting, but I'm beginning to see some real benefit here.
+<p>
+
+<a href='https://static.raymondcamden.com/enclosures/jquerysortable%2Ezip'>Download attached file.</a></p>
