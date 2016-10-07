@@ -10,7 +10,7 @@ I've been lucky to have been invited to speak at many conferences over the years
 
 I'm somewhat of a Star Wars nerd - but don't tell anyone else I told you that.
 
-If you find this information useful (currently at {{% numposts %}} posts), please consider visiting my <a href="http://www.amazon.com/gp/registry/wishlist/2TCL1D08EZEYE/ref=cm_wl_rlist_go_v?">Amazon Wishlist</a> to show your appreciation. Since Amazon will often not tell me who purchased a gift for me, drop me a line too to let me know!
+If you find this information useful (currently at {{% numposts %}} posts), please consider visiting my <a href="http://www.amazon.com/gp/registry/wishlist/2TCL1D08EZEYE/ref=cm_wl_rlist_go_v?">Amazon Wishlist</a> to show your appreciation. Since Amazon will often not tell me who purchased a gift for me, drop me a line to to let me know!
 
 <h3>Articles</h3>
 
