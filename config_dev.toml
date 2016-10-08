@@ -23,7 +23,7 @@ ignoreFiles = [".*2003.*",".*2004.*",".*2005.*",".*2006",".*2007.*",".*2008.*","
     bio = "Developer Advocate for IBM"
     location = "Earth"
     site_description = ""
-    copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
+    copyright  = "Powered by [Hugo](//gohugo.io) and Kittens. Theme by [PPOffice](http://github.com/ppoffice)."
     avatar = "/images/avatar.jpg"
 
     # Format dates with Go's time formatting
