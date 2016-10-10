@@ -20,7 +20,7 @@ That being said, I've decided to move to [Netlify](https://www.netlify.com/). I 
 * Form handling. I'm not using that feature because right now it isn't as robust as Formspree, but once they add a few features, I'll switch.
 * DNS management on the site itself. So when I moved my site over, I also choose to let them handle my DNS, which means I can also handle stuff like foo.raymondcamden.com at Netlify and skip going to GoDaddy.
 
-There's more, and I go a bit deeper in the book, but you read for yourself on their [features](https://www.netlify.com/features/) page. You can find [pricing](https://www.netlify.com/pricing/) information as well. For folks curious, I'm on the "Pro" level but I've been granted a free open source license. 
+There's more, and I go a bit deeper in the book, but you can read for yourself on their [features](https://www.netlify.com/features/) page. You can find [pricing](https://www.netlify.com/pricing/) information as well. For folks curious, I'm on the "Pro" level but I've been granted a free open source license. 
 
 So how am I using Netlify? I've set up my site such that it is connected to my GitHub repo at [https://github.com/cfjedimaster/raymondcamdendotcom](https://github.com/cfjedimaster/raymondcamdendotcom). You can integrate with a Git repo two ways - either to just use the files as is - or to have Netlify actually build it for you. So basically - I write my post (like this one), update my Git repo, and in two to three minutes, my update is live. It was taking about ten minutes for Surge so that's a great speed improvement. 
 
