@@ -27,3 +27,4 @@ In case you didn't know it, that filter field supports both name matches as well
 
 You should scan that page a bit as I found two interesting tidbits. On Mac/Unix (not sure why not Windows), you can add multiple filters. Also, you can filter by requests larger than a set value. That's a great way to check for fat requests.
 
+I looked for something similar in Firefox, Edge, and Safari, but didn't see anything that would support the same result. 
