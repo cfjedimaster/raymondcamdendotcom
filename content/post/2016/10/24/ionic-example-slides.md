@@ -43,7 +43,7 @@ I'm beginning to think it is physically impossible for me to do a demo that does
 &lt;&#x2F;ion-content&gt;
 </code></pre>
 
-In form, it's similar to the V1 version of app, but while V1 still had a mix of HTML and Ionic components, this is *nearly* 100% Ionic tag-based. The only non-Ionic component there is the button tag and even it uses an argument to flag it as being Ionic-controlled anyway. If you're still new to Angular 2 (like me!), you should pay special attention to the new syntax used to for event handling: `(click)="doSearch()"` and two way binding: `[(ngModel)]="search"`.  Another tweak is to iteration. While V1 I had `ng-repeat`, I'm using `*ngFor` in V2. All in all, the view here is simpler than my previous version. (But to be clear, the previous version did everything in one HTML file as it was so simple. I could have seperated out the view into it's own file.) Now let's take a look at the code. First, the code for the view:
+In form, it's similar to the V1 version of app, but while V1 still had a mix of HTML and Ionic components, this is *nearly* 100% Ionic tag-based. The only non-Ionic component there is the button tag and even it uses an argument to flag it as being Ionic-controlled anyway. If you're still new to Angular 2 (like me!), you should pay special attention to the new syntax used for event handling: `(click)="doSearch()"` and two way binding: `[(ngModel)]="search"`.  Another tweak is to iteration. While V1 had `ng-repeat`, I'm using `*ngFor` in V2. All in all, the view here is simpler than my previous version. (But to be clear, the previous version did everything in one HTML file as it was so simple. I could have seperated out the view into its own file.) Now let's take a look at the code. First, the code for the view:
 
 <pre><code class="language-javascript">
 import { Component } from &#x27;@angular&#x2F;core&#x27;;
@@ -145,7 +145,7 @@ Boom. Right away I see the same bug... and I notice the scrollbar. I scroll down
 
 <img src="https://static.raymondcamden.com/images/2016/10/islide4.png" class="imgborder" title="pager">
 
-Yep, my slides portion is just too big. On my iOS simulator I scrolled down and confirmed. Sigh. So (and again, with help from smart folks on the Slack channel!), I ended up stylying the `ion-slides` components:
+Yep, my slides portion is just too big. On my iOS simulator I scrolled down and confirmed. Sigh. So (and again, with help from smart folks on the Slack channel!), I ended up styling the `ion-slides` components:
 
 <pre><code class="language-markup">&lt;ion-slides [options]="{pager:true}" style="max-height:400px"&gt;</code></pre>
 
