@@ -17,7 +17,7 @@ To use KML with Google Maps, you simply need to follow the previous examples I'v
 
 <p/>
 
-<code>
+<pre><code class="language-javascript">
 function AddKMLOverlay() {
 	
 	var map = ColdFusion.Map.getMapObject("mainMap");
@@ -34,15 +34,15 @@ function AddKMLOverlay() {
 	map.addOverlay(CountyKML);
  
 }
-</code>
+</code></pre>
 
 <p/>
 
-You can see a demo of what he came up with <a href="http://www.raymondcamden.com/demos/kmldemo/kmloverlay2.cfm">here</a>. I've included the complete code below. (And once again - I'm <i>really</i> impressed with everything that can be done with Google Maps!) (Note - I forgot to mention this when I first posted, but Richard asked that I also credit Steve Gongage, his coworker, for working on this as well.)
+<strike>You can see a demo of what he came up with here.</strike> (You can download the old code here: https://static.raymondcamden.com/enclosures/kmldemo.zip) I've included the complete code below. (And once again - I'm <i>really</i> impressed with everything that can be done with Google Maps!) (Note - I forgot to mention this when I first posted, but Richard asked that I also credit Steve Gongage, his coworker, for working on this as well.)
 
 <p/>
 
-<code>
+<pre><code class="language-javascript">
 &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
 &lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
 &lt;head&gt;
@@ -103,4 +103,4 @@ function init() {
 &lt;/body&gt;
 &lt;/html&gt;
 &lt;cfset ajaxOnLoad("init")&gt;
-</code>
+</code></pre>
