@@ -19,7 +19,7 @@ Should you buy it?
 
 Still here? Cool. So the big question is - should you buy a Surface Book? I think if you are a Windows user, then hell yes. It is an amazing piece of hardware. I'm kinda iffy on if I'm ok with the 13 inch form factor, especially since my eyes are kinda crap. I do like the smaller size, but if Microsoft were to offer a 15 inch version I'd probably switch to that.
 
-If you're a Mac user, or like me, someone who switched to Mac years ago, then I think you need to seriously consider it. I'm not going to say you will be more (or less) productive. The hardware is easily as good as the MacBook Pro, more versatile, and just generally more impressive. Obviously that's a personal opinion. Do like I did though - the next time you see a Microsoft store, or if you're at a conference and they have a booth with the hardware, spend five minutes with it. Windows has it's faults of course. Just like OSX. But if you left the ecosystem I think you really owe it to yourself to check it out and give it a fair shake.
+If you're a Mac user, or like me, someone who switched to Mac years ago, then I think you need to seriously consider it. I'm not going to say you will be more (or less) productive. The hardware is easily as good as the MacBook Pro, more versatile, and just generally more impressive. Obviously that's a personal opinion. Do like I did though - the next time you see a Microsoft store, or if you're at a conference and they have a booth with the hardware, spend five minutes with it. Windows has it's faults of course. Just like OSX. But if you left the Windows ecosystem in the past I think you really owe it to yourself to check it out and give it a fair shake.
 
 So yeah, that's what I think. But let's go a bit deeper, eh?
 
@@ -45,7 +45,7 @@ But here's the thing - and it's something that really bugs me. Apple acts as if 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BzMLA8YIgG0" frameborder="0" allowfullscreen></iframe>
 
-Damn. Like, *damn*. 
+Damn. Like, *daaaaaaaamn*. 
 
 * And speaking of open source, they've also done some incredible contributions to Apache Cordova as well. ALong with probably a crap ton of other things I'm forgetting.
 
