@@ -77,5 +77,5 @@ Note that this does <i>not</i> properly handle errors, but you get the basic ide
 </p>
 
 <p>
-You can test this yourself <a href="http://www.raymondcamden.com/demos/2014/feb/24/test3.html">here</a>, but please remember it will only work in browsers that support WebSQL.
+You can test this yourself <a href="https://static.raymondcamden.com/demos/2014/feb/24/test3.html">here</a>, but please remember it will only work in browsers that support WebSQL.
 </p>

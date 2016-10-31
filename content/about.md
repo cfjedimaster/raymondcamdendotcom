@@ -19,6 +19,7 @@ If you find this information useful (currently at {{% numposts %}} posts), pleas
 I have not done a great job of tracking my various articles on other web sites, but I hope to correct that now. Consider the list below a beginning (as of July 2013) and certainly <i>not</i> a complete list.
 
 <ul>
+<li><a href="http://developer.telerik.com/featured/building-node-based-apis-loopback-framework">Building Node-based APIs with the LoopBack Framework</a> for Telerik Developer Network</li>
 <li><a href="http://blog.ionic.io/a-baseline-for-hybrid-mobile-developers/">A Baseline for Hybrid Mobile Developers</a> for Ionic</li>
 <li><a href="http://developer.telerik.com/featured/tools-learn-javascript/">Tools to Learn JavaScript by Doing</a> for the Telerik Developer Network</li>
 <li><a href="http://developer.telerik.com/featured/leveling-up-your-javascript/">Leveling Up Your JavaScript</a> for the Telerik Developer Network</li>

@@ -6,7 +6,8 @@
 		"Development"
 	],
 	"tags": ["nodejs"],
-	"url": "/2016/10/31/building-a-simple-form-handler-service-in-node"
+	"url": "/2016/10/31/building-a-simple-form-handler-service-in-node",
+    "banner":"/images/banners/form_handler.jpg"
 }
 
 From time to time, I'll re-build an app or service I think is cool just to give me a bit more practice in the language I'm learning. Today, I decided to build a simple version of the form handling service from [Formspree](https://formspree.io/). Just to be clear, what I'm sharing is *not* meant to be as good as Formspree. I'm a huge fan of their service (my [contact](/contact/) form uses it!) and I strongly recommend it. What follows is just a simple Node app having some of the same features.
