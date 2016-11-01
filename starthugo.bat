@@ -1,0 +1,1 @@
+hugo server --config="config_dev.toml"

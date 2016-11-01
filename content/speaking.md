@@ -9,6 +9,9 @@ As much as I love to write code, I enjoy teaching even more. That's part of the 
 <a href="https://acadianasoftwaregroup.org/#/">Introduction to LoopBack</a><br/>
 Acadiana Software Group, Lafayette, LA, November 9, 2016
 
+<a href="https://www.ortussolutions.com/odw/sessions/77">Going Static</a><br/>
+Ortus Developer Week, Online, November 14, 2016
+
 <h3>My Past Events</h3>
 
 <a href="https://plus.google.com/u/0/events/cj9gq79q1nei2fmksdmhbjkkt1o">Working with Static Sites</a><br/>Online, July 1, 2015
