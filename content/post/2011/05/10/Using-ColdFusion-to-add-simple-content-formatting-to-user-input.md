@@ -17,7 +17,7 @@ First, I'll create a simple form that renders a textarea.
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfparam name="form.comments" default=""&gt;
 
 &lt;form method="post"&gt;
@@ -30,7 +30,7 @@ First, I'll create a simple form that renders a textarea.
 	&lt;p&gt;
 	&lt;cfoutput&gt;#htmlEditFormat(markupRender(form.comments))#&lt;/cfoutput&gt;
 &lt;/cfif&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -38,7 +38,7 @@ The UDF, markupRender, doesn't exist yet, but notice how for this test I render 
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfscript&gt;
 function markupRender(required string text) {
 	text = htmlEditFormat(text);
@@ -47,7 +47,7 @@ function markupRender(required string text) {
 	return text;
 }
 &lt;/cfscript&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -55,7 +55,8 @@ Not much at all to it, is there? I first perform a quick htmlEditFormat on the t
 
 <p>
 
-Want to test it? Give it a run here: <a href="http://www.raymondcamden.com/demos/may102011/test0.cfm">http://www.coldfusionjedi.com/demos/may102011/test0.cfm</a>
+<strike>
+Want to test it? Give it a run here: http://www.coldfusionjedi.com/demos/may102011/test0.cfm</strike> <i>Sorry - online demo no longer available.</i>
 
 <p>
 
@@ -63,14 +64,14 @@ How about we take it one step further? Imagine if the user enters something like
 
 <p>
 
-<blockquote>
+<pre>
 This *is* a *test*. I feel _strongly_ about this, I really do.
 
 And I live at:
 
 900 Elm Street
 Lafayette, LA
-</blockquote>
+</pre>
 
 <p>
 
@@ -82,7 +83,7 @@ Now in general, I think it's a good idea to keep your methods as simple and dire
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 &lt;cfscript&gt;
 function markupRender(required string text) {
 	text = htmlEditFormat(text);
@@ -99,24 +100,16 @@ function markupRender(required string text) {
 	return replace(text,chr(10),"&lt;br /&gt;","ALL");
 }
 &lt;/cfscript&gt;
-</code>
+</code></pre>
 
 <p>
 
-That's barely over 10 lines and it now correctly handles paragraphs, line breaks, and tabs too. You can try out this version below:
-
-<p>
-
-
-<a href="http://www.coldfusionjedi.com/demos/may102011/test.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
-
-<p>
+That's barely over 10 lines and it now correctly handles paragraphs, line breaks, and tabs too. 
 
 Here is a complete copy of the template.
 
-<p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfparam name="form.comments" default=""&gt;
 
 &lt;form method="post"&gt;
@@ -146,4 +139,4 @@ function markupRender(required string text) {
 	return replace(text,chr(10),"&lt;br /&gt;","ALL");
 }
 &lt;/cfscript&gt;
-</code>
+</code></pre>
