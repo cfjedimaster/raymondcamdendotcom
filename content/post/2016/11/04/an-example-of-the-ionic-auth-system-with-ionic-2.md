@@ -60,9 +60,14 @@ I don't know if I need that <code>rootPage</code> declaration there. I kind of t
 
 In case you're curious about that - the Auth system uses LocalStorage when testing in the browser:
 
-![Credentials](https://static.raymondcamden.com/images/2016/11/iu1.png)
+<em>Screenshot removed</em>
 
+<strike>
 You'll notice the password is in plain text and they are also storing a third value as well. Outside of the other one, I feel like it's a mistake to use email and password as those are values I could see using myself. (I filed an [issue](https://github.com/driftyco/ionic-cloud-angular/issues/30)). 
+</strike>
+
+<em>Sorry folks! I was totally wrong about this. I had written my own code to store auth info in LocalStorage but removed that code when I saw that Ionic was handling for me. However, I forgot that fact when I used devtools to look at my localstorage. Ionic does store a JWT token - but definitely not the password!</em>
+
 
 For my login, I decided to use a simple UI that defaults to login:
 
