@@ -26,3 +26,7 @@ And just tweak it to:
 }</code></pre>
 
 And that's it. Now when you run your LoopBack app, files under the <code>client</code> folder that don't match routes will be loaded as static resources, including your HTML, JavaScript, and CSS.
+
+Oh - one more thing. Most likely you'll add an index.html to your <code>client</code> folder. Don't forget that the default LoopBack app has a route for <code>/</code>. You can remove that in <code>server/boot/root.js</code>:
+
+<pre><code class="language-javascript">router.get('/', server.loopback.status());</code></pre>
