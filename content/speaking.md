@@ -6,8 +6,6 @@ As much as I love to write code, I enjoy teaching even more. That's part of the 
 
 <h3>My Next Events</h3>
 
-<a href="https://acadianasoftwaregroup.org/#/">Introduction to LoopBack</a><br/>
-Acadiana Software Group, Lafayette, LA, November 9, 2016
 
 <a href="https://www.ortussolutions.com/odw/sessions/77">Going Static</a><br/>
 Ortus Developer Week, Online, November 14, 2016
@@ -106,5 +104,8 @@ Mobile Tea, Boston MA, September 20, 2016
 
 <a href="http://connect.tech/">Introduction to LoopBack</a><br/>
 connect.tech, Atlanta, GA, October 20-22, 2016
+
+<a href="https://acadianasoftwaregroup.org/#/">Introduction to LoopBack</a><br/>
+Acadiana Software Group, Lafayette, LA, November 9, 2016
 
 
