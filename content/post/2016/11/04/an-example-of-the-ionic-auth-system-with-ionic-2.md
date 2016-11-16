@@ -178,6 +178,8 @@ export class LoginPage {
       
       this.auth.login(&#x27;basic&#x27;, {&#x27;email&#x27;:this.email, &#x27;password&#x27;:this.password}).then(() =&gt; {
         console.log(&#x27;ok i guess?&#x27;);
+        loader.dismissAll();
+        this.navCtrl.setRoot(HomePage);        
       }, (err) =&gt; {
         loader.dismissAll();
         console.log(err.message);
