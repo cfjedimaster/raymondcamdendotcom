@@ -13,7 +13,7 @@ A few months ago I wrote up a quick article about titles not correctly updating 
 <!--more-->
 Everything was working fine, but then I noticed I didn't have a back button when looking at the detail view. As far as I could tell, my code was fine. Here's what I had in the index.html file:
 
-<pre><code class="language-javascript">
+<pre><code class="language-markup">
 &lt;ion-nav-bar&gt;
 		&lt;ion-nav-back-button&gt;Back&lt;/ion-nav-back-button&gt;
 &lt;/ion-nav-bar&gt;
@@ -25,7 +25,7 @@ And each view was pretty simple as well. You can see the problem in action at th
 
 I brought it up in the Slack chat and Mike Hartington came to the rescue rather quickly. Turns out the fix was... applying a class. Seriously. Even though the header has a class by default, if you don't explicitly specify one, then the back button won't show up. Literally - the fix is just this:
 
-<pre><code class="language-javascript">
+<pre><code class="language-markup">
 &lt;ion-nav-bar class="bar-royal"&gt;
 		&lt;ion-nav-back-button&gt;Back&lt;/ion-nav-back-button&gt;
 &lt;/ion-nav-bar&gt;
