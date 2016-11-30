@@ -163,7 +163,14 @@ data = { years:
 
     }
 
-    var formatter = new Intl.NumberFormat();
+    var formatter;
+    if(window.Intl) {
+        formatter = new Intl.NumberFormat();
+    } else {
+        formatter = {
+            format:function(x) { return x; }
+        };
+    }
 
     //sort categories
     var sortedCats = Object.keys(data.categories).sort(function(a, b) {
