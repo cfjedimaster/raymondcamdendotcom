@@ -7,6 +7,7 @@ This is a simple report of my blog content. It is not dynamic (I generated the d
 <div id="chart_div"></div>
 <div id="chart_month"></div>
 
+<h2>Category Data</h2>
 <table>
     <thead>
     <tr>
@@ -16,6 +17,8 @@ This is a simple report of my blog content. It is not dynamic (I generated the d
     <tbody id="categoryData"></tbody>    
 </table>
 
+<h2>Tag Data</h2>
+
 <table>
     <thead>
     <tr>
@@ -23,6 +26,13 @@ This is a simple report of my blog content. It is not dynamic (I generated the d
         <th>Count</th>
     </thead>
     <tbody id="tagData"></tbody>    
+</table>
+
+<h2>Misc Data</h2>
+
+<table>
+    <thead>
+    <tbody id="miscData"></tbody>    
 </table>
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -179,4 +189,10 @@ data = { years:
         tagDiv.innerHTML += html;
     });
 
+    var misc = `
+    <tr><td>Total Posts:</td><td>${data.posts}</td></tr>
+    <tr><td>Total Words:</td><td>${data.wordCount}</td></tr>
+    <tr><td>Average Words Per Post:</td><td>${data.avgWordCount}</td></tr>
+    `;
+    document.querySelector('#miscData').innerHTML = misc;
 </script>
