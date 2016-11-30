@@ -163,6 +163,8 @@ data = { years:
 
     }
 
+    var formatter = new Intl.NumberFormat();
+
     //sort categories
     var sortedCats = Object.keys(data.categories).sort(function(a, b) {
         if(data.categories[a] < data.categories[b]) return 1;
@@ -172,7 +174,7 @@ data = { years:
 
     var catDiv = document.querySelector('#categoryData');
     sortedCats.forEach(function(cat) {
-        var html = '<tr><td>'+cat+'</td><td>'+data.categories[cat]+'</td></tr>';
+        var html = '<tr><td>'+cat+'</td><td>'+formatter.format(data.categories[cat])+'</td></tr>';
         catDiv.innerHTML += html;
     });
 
@@ -185,14 +187,15 @@ data = { years:
 
     var tagDiv = document.querySelector('#tagData');
     sortedTags.forEach(function(tag) {
-        var html = '<tr><td>'+tag+'</td><td>'+data.tags[tag]+'</td></tr>';
+        var html = '<tr><td>'+tag+'</td><td>'+formatter.format(data.tags[tag])+'</td></tr>';
         tagDiv.innerHTML += html;
     });
 
+
     var misc = `
-    <tr><td>Total Posts:</td><td>${data.posts}</td></tr>
-    <tr><td>Total Words:</td><td>${data.wordCount}</td></tr>
-    <tr><td>Average Words Per Post:</td><td>${data.avgWordCount}</td></tr>
+    <tr><td>Total Posts:</td><td>${formatter.format(data.posts)}</td></tr>
+    <tr><td>Total Words:</td><td>${formatter.format(data.wordCount)}</td></tr>
+    <tr><td>Average Words Per Post:</td><td>${formatter.format(data.avgWordCount)}</td></tr>
     `;
     document.querySelector('#miscData').innerHTML = misc;
 </script>
