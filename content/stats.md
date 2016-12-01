@@ -2,7 +2,8 @@
 title = "Stats"
 +++
 
-This is a simple report of my blog content. It is not dynamic (I generated the data on November 11th, 2016). Do not view source - the code is crap.
+This is a simple report of my blog content. It is not dynamic (I generated the 
+data on November 30th, 2016). Do not view source - the code is crap.
 
 <div id="chart_div"></div>
 <div id="chart_month"></div>
