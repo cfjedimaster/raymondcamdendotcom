@@ -15,4 +15,6 @@ Last night at our local <a href="http://www.acadiana-aug.org">user group</a> I w
 
 Warning - this video is PG13 and a bit on the edge of work safe. But it's funny as heck. Any video with zombies and a storm of blue jeans has to be cool.
 
-Anyway - Vimeo has a few APIs you can use as a developer. Anything involving updating data requires you to send the user to their site, but for generic 'read' support, their API is rather simple. I've worked up a quick CFC that will let you get user and group information as well as generate embed code. It is attached to this blog entry. The API is so simple there really isn't anything cool in my code at all.<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fvimeo%2Ezip'>Download attached file.</a></p>
+Anyway - Vimeo has a few APIs you can use as a developer. Anything involving updating data requires you to send the user to their site, but for generic 'read' support, their API is rather simple. I've worked up a quick CFC that will let you get user and group information as well as generate embed code. It is attached to this blog entry. The API is so simple there really isn't anything cool in my code at all.
+
+<a href='https://static.raymondcamden.com/enclosures/vimeo.zip'>Download attached file.</a>
