@@ -27,7 +27,7 @@ The form consists of 6 fields: username, password, the password confirmation, yo
 
 Pretty simple, right? Without any validation at all, you can take this for a spin here:
 
-<a href="http://www.raymondcamden.com/demos/2012/jul/30/round1/">Round 1</a>
+<a href="https://static.raymondcamden.com/demos/2012/jul/30/round1/">Round 1</a>
 
 And if you don't want to bother with that - a quick screen shot (which I generated from <a href="http://labs.adobe.com/technologies/shadow/">Adobe Shadow</a> thank you very much):
 
@@ -65,7 +65,7 @@ Which results in:
 
 <img src="https://static.raymondcamden.com/images/2012-07-30_08.35.56_HTC HTC ONE X.png" />
 
-Nice. About halfway there. You can demo this version here: <a href="http://www.raymondcamden.com/demos/2012/jul/30/round2/">Round 2</a> 
+Nice. About halfway there. You can demo this version here: <a href="https://static.raymondcamden.com/demos/2012/jul/30/round2/">Round 2</a> 
 
 So what about the weird drop down behavior? We can use another feature of the plugin to handle that. You can use a property, errorPlacement, that allows you to dynamically determine where errors should be written out. While we're at it, we can also go ahead and create the custom rule for password matching.
 
@@ -75,6 +75,6 @@ To be honest, the use of .parent() there was a bit of a guess, but it worked on 
 
 <img src="https://static.raymondcamden.com/images/2012-07-30_08.36.36_HTC HTC ONE X.png" />
 
-You can demo this version here: <a href="http://www.raymondcamden.com/demos/2012/jul/30/round3/">Round 3</a>
+You can demo this version here: <a href="https://static.raymondcamden.com/demos/2012/jul/30/round3/">Round 3</a>
 
 So, what do you think? I'd like to work on this a bit more. On the iPad, the errors are left aligned under the labels, which is kinda cool, but I could also see them being aligned with the fields instead. On desktop it is <i>way</i> off but I kinda figure that is an edge case and not something I'd have to worry about. As always, comments and critiques are welcome.
