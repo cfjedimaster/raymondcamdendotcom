@@ -6,7 +6,8 @@
 		"Development"
 	],
 	"tags": ["JavaScript"],
-	"url": "/2016/12/08/updates-to-client-storage-for-the-browser"
+	"url": "/2016/12/08/updates-to-client-storage-for-the-browser",
+	"banner":"/images/banners/storage1.jpg"
 }
 
 I've been interested in client-side storage for a few years now. (And in fact, last year I wrote a [book](https://www.amazon.com/Client-Side-Data-Storage-Keeping-Local/dp/1491935111/ref=as_sl_pc_qf_sp_asin_til?tag=raymondcamden-20&linkCode=w00&linkId=URSVDLKI2FLVLMFM&creativeASIN=1491935111) on it as well.) When I first began to dig into the topic, my focus was on the various APIs themselves. In other words, what were the mechanics of actually storing
