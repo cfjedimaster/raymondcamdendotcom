@@ -10,10 +10,13 @@
 	"banner":"/images/banners/storage1.jpg"
 }
 
+**I made some edits to this post after some feedback from Dru Knox, a Chrome PM. I've marked them with "Edit:", so 
+please be sure to note those changes!**
+
 I've been interested in client-side storage for a few years now. (And in fact, last year I wrote a [book](https://www.amazon.com/Client-Side-Data-Storage-Keeping-Local/dp/1491935111/ref=as_sl_pc_qf_sp_asin_til?tag=raymondcamden-20&linkCode=w00&linkId=URSVDLKI2FLVLMFM&creativeASIN=1491935111) on it as well.) When I first began to dig into the topic, my focus was on the various APIs themselves. In other words, what were the mechanics of actually storing
 and retrieving data. What I found is that we had multiple options, some easier than others, but in general, it was pretty cool to have a way 
 to store data on the client for both performance and offline support. 
-
+<!--more-->
 However... where things began to fall apart, and rather quickly, was on the higher level concept of how this storage was managed on the device itself. Specifically, how
 do you know your data will actually persist when you store it and what will the browser do when, and if, it determines you've stored too much. I played around with this
 a bit last year:
@@ -68,12 +71,14 @@ so important that they deserve the right to bother me at any point in time. Ok, 
 with support in the web browser, but I wish it was a feature people would use *less* of. It's one of those "With great power..." type things that
 people just seem to want to abuse. 
 
+**Edit: To be clear, the list above is a list of options and you only need to satisfy ONE of them!**
+
 That being said, I did some testing (and I'll be sharing some code below), and it looks like you can't test this feature locally. To be clear, 
 it doesn't really break anything per se, even when the API tells you no, you can still store data in your various buckets, but if I want to *really*
 test this out I'd have to test on mobile. And I guess delete my bookmarks to if I have too many. 
 
-Notice that the third requirement essentially means this is a non-starter for desktop. Maybe the thinking is that it won't be necessary 
-since desktops typically have lots of free space? But I can tell you right now that my iPhone has more free space than my MacBook Pro.
+<strike>Notice that the third requirement essentially means this is a non-starter for desktop. Maybe the thinking is that it won't be necessary 
+since desktops typically have lots of free space? But I can tell you right now that my iPhone has more free space than my MacBook Pro.</strike> **Edit: Again, I was wrong. :)**
 
 And finally - here's a cool part. You can ask the browser to persist even after you've already stored data. So if you've been using
 IDB for a while (first off - congrats!), you can ask for this permission now and it applies to the data you've already stored. Again, assuming you can pass 
