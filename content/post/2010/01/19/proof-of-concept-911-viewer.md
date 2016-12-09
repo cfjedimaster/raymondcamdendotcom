@@ -19,7 +19,7 @@ First I needed a way to parse the data on the page. It seemed to follow a pretty
 <p>
 
 <code>
-select * from html where (url="http://67.32.159.27/webcad/webcad.asp" and xpath='//table[@border="0"]/tr[@bgcolor="#FFFF99"]') or (url="http://67.32.159.27/webcad/webcad.asp" and xpath='//table[@border="0"]/tr[@bgcolor="#99FF99"]'
+	select * from html where (url="http://67.32.159.27/webcad/webcad.asp" and xpath='//table[@border="0"]/tr[@bgcolor="#FFFF99"]') or (url="http://67.32.159.27/webcad/webcad.asp" and xpath='//table[@border="0"]/tr[@bgcolor="#99FF99"]'
 </code>
 
 <p>
@@ -44,7 +44,7 @@ As you would expect, everything occurs over a street, and occur over streets I c
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 &lt;cfquery name="getdata"&gt;
 select	longitude, latitude, type, incidenttime
 from data
@@ -80,7 +80,7 @@ where
 	&lt;/cfloop&gt;
 
 &lt;/cfmap&gt;
-</code>
+</code></pre>
 
 <p>
 
