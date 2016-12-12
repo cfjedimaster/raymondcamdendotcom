@@ -196,3 +196,7 @@ Finally, I report what I did to the user using the [Alert component](https://ion
 And here is Alex, who did not have a picture, but who now does, and is much improved:
 
 ![Alex](https://static.raymondcamden.com/images/2016/12/alex.png)
+
+You can find the complete source code here: https://github.com/cfjedimaster/Cordova-Examples/tree/master/fixcontacts
+
+So - who would pay 99 cents for this?
