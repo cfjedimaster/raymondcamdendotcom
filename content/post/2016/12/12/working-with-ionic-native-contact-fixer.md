@@ -6,7 +6,8 @@
 		"JavaScript","Mobile"
 	],
 	"tags": ["ionic"],
-	"url": "/2016/12/12/working-with-ionic-native-contact-fixer"
+	"url": "/2016/12/12/working-with-ionic-native-contact-fixer",
+	"banner":"/images/banners/contactfixer.jpg"
 }
 
 I've blogged a few times now about [Ionic Native](https://ionicframework.com/docs/v2/native/), but if you're new to it, you can think of "Angular2/Ionic2 Friendly Wrappers" for many different Cordova plugins. Today I'm sharing what may be my coolest demo yet. No, wait, seriously, it is, honest! This demo does something I think every phone should have built in, and if I can get off my lazy butt, I'll be submitting this to the App Store this week. So what did I build?
