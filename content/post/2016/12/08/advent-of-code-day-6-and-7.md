@@ -9,7 +9,7 @@
 	"url": "/2016/12/08/advent-of-code-day-6-and-7"
 }
 
-And so it begins - the  [Advent of Code](http://adventofcode.com/) has begun to royally kick my butt. While these two challenges
+And so it begins - the [Advent of Code](http://adventofcode.com/) has begun to royally kick my butt. While these two challenges
 weren't necessarily killers, the amount of time I need to solve them is slowly growing. Let's start with day 6.
 
 Day 6
