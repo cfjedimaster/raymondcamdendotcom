@@ -11,9 +11,12 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 
 <h3>My Next Events</h3>
 
-
-<a href="https://www.ortussolutions.com/odw/sessions/77">Going Static</a><br/>
-Ortus Developer Week, Online, November 14, 2016
+<p>
+<a href="https://www.devnexus.com/s/index">Adding Dynamic Back to Static Site Generators</a><br/>
+DevNexus<br/>
+Atlanta, GA<br/>
+February 22-24, 2017
+</p>
 
 <h3>My Past Events</h3>
 
@@ -112,5 +115,8 @@ connect.tech, Atlanta, GA, October 20-22, 2016
 
 <a href="https://acadianasoftwaregroup.org/#/">Introduction to LoopBack</a><br/>
 Acadiana Software Group, Lafayette, LA, November 9, 2016
+
+<a href="https://www.ortussolutions.com/odw/sessions/77">Going Static</a><br/>
+Ortus Developer Week, Online, November 14, 2016
 
 
