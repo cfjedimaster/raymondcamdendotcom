@@ -110,5 +110,7 @@ Of course, there are a few disadvantages to this approach. First, you lose the a
 </p>
 
 <p>
-On the off chance you want to try this, here is the <a href="http://www.raymondcamden.com/demos/2014/aug/27/test2.html">giant dropdown version</a> and here is the <a href="http://www.raymondcamden.com/demos/2014/aug/27/test7.html">datalist version</a>.
+On the off chance you want to try this, here is the 
+<a href="https://static.raymondcamden.com/demos/2014/aug/27/test2.html">giant dropdown version</a> 
+and here is the <a href="https://static.raymondcamden.com/demos/2014/aug/27/test7.html">datalist version</a>.
 </p>
