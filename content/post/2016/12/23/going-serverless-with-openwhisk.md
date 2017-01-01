@@ -55,7 +55,7 @@ app.listen(app.get('port'), function() {
 That's fairly simple, but of course, there's a lot going on behind the scenes. That very first line which loads
 in Express is doing a lot behind the scenes. I don't necessarily have to worry about it, and this is why Express was
 my gateway drug to Node, but it's still there of course. Also, the actual setup of running a server and specifying
-the route isn't much work either - just a fine lines. But here's where serverless can make things more interesting. Imagine
+the route isn't much work either - just a few lines. But here's where serverless can make things more interesting. Imagine
 if my code was just this:
 
 <pre><code class="language-javascript">
