@@ -12,7 +12,7 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
-<a href="http://opensource101.com/">FOo</a><br/>
+<a href="http://opensource101.com/talks/critiquing-open-source-alternatives/">Critiquing Open Source Alternatives</a><br/>
 OpenSource 101<br/>
 Raleigh, NC<br/>
 February 4, 2017
