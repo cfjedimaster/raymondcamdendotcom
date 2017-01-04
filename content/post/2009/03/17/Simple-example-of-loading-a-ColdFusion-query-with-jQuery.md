@@ -20,7 +20,7 @@ The alternative is to load pure data. This can be XML or JSON (typically JSON) w
 
 So which should you use? Whichever works best for you! (Yes, I know, a non-answer. Sorry.) Here are two demos of both in action.
 
-<code>
+<pre><code class="language-javascript">
 &lt;html&gt;
 
 &lt;head&gt;
@@ -53,11 +53,11 @@ $(document).ready(function() {
 &lt;/body&gt;
 
 &lt;/html&gt;
-</code>
+</code></pre>
 
 In my first example, I have a simple page that consists of one link and one empty div. Notice then loadQuery handles making the Ajax request and publishing it to the empty div. The ColdFusion file handles both creating the query and rendering it (although normally I'd get the query elsewhere, from a CFC for example):
 
-<code>
+<pre><code class="language-javascript">
 &lt;cfset q = queryNew("person,coolness")&gt;
 
 &lt;cfset queryAddRow(q)&gt;
@@ -85,25 +85,25 @@ In my first example, I have a simple page that consists of one link and one empt
 &lt;cfoutput query="q"&gt;
 &lt;b&gt;#person#&lt;/b&gt; has a cool score of #coolness#.&lt;br/&gt;
 &lt;/cfoutput&gt;
-</code>
+</code></pre>
 
 There isn't anything special about the query, except for a shout out to Scott Slone for feeding my Star Wars addiction via woot.com today!
 
-You can see this in action here: <a href="http://www.raymondcamden.com/demos/jquerycfquery/test1.html">http://www.coldfusionjedi.com/demos/jquerycfquery/test1.html</a>. 
+You can see this in action here: (Removed demo link, see note at bottom) 
 
 Now let's look at the alternative. I'll start on the server side first. Here is data2.cfm. Same query, but now we serve it up as JSON and don't perform any formatting:
 
-<code>
+<pre><code class="language-javascript">
 &lt;cfset q = queryNew("person,coolness")&gt;
 ... querySetCells cut from code to make it shorter ...
 
 &lt;cfset data = serializeJSON(q)&gt;
 &lt;cfcontent type="application/json" reset="true"&gt;&lt;cfoutput&gt;#data#&lt;/cfoutput&gt;
-</code>
+</code></pre>
 
 The front end now needs to get a bit more complex. I've only modified the loadQuery function so I'll just paste in that:
 
-<code>
+<pre><code class="language-javascript">
 function loadQuery() {
 	$.getJSON('data2.cfm',{},function(data){
 		
@@ -127,18 +127,18 @@ function loadQuery() {
 	})
 	return false
 }
-</code>
+</code></pre>
 
 Ok, so the first change is the switch from get to getJSON. This just tells jQuery to go ahead and expect JSON and turn it into a native JavaScript object for me. At that point I wasn't sure what to do. Where do I turn when I want to just... play/test/etc with JavaScript? Firebug. I ran this:
 
-<code>
-console.dir(data)
-</code>
+	console.dir(data)
 
 So I could look at the result. The result had 2 keys: COLUMNS and DATA. COLUMNS was an array of column names. DATA was an array of data (big surprise there). I realized that the first column in the COLUMNS array matched the first column of data. So if I wanted the person column, I could either hard code the value 0, or, do what I did here, which is to create an object that stored the column name and the corresponding position. 
 
 I then create my string. Notice how I make use of columnMap to address the data in the array. Once done, I then simply place the HTML in the div. 
 
-You can see this in action here: <a href="http://www.coldfusionjedi.com/demos/jquerycfquery/test2.html">http://www.coldfusionjedi.com/demos/jquerycfquery/test2.html</a>
+You can see this in action here: (Removed demo link, see note at bottom)
 
 Enjoy!
+
+For folks looking for the old code for this, you can download a zip of it here: https://static.raymondcamden.com/enclosures/jquerycfquery.zip
