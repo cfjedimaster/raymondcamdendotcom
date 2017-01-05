@@ -106,7 +106,7 @@ There are a couple of very important things here to note. First let's start on l
 </code></pre>
 
 The <code>[content]="mycontent"</code> aspect confused the heck out of me. All it really means though is this: "When I load crap, I want you to load it in this container." 
-You'll notice at the bottom I've got an <code>ion-nav</code> component that uses the <code>#mycontent#</code> identifier there. 
+You'll notice at the bottom I've got an <code>ion-nav</code> component that uses the <code>#mycontent</code> identifier there. 
 
 Now look at the menu code. Most of it is self-explanatory but I want to call out two things.
 
