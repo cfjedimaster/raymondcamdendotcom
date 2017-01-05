@@ -21,7 +21,7 @@ I began by creating a new PhoneGap application in Eclipse and included jQuery Mo
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;!DOCTYPE HTML&gt;
 &lt;html&gt;
 
@@ -70,7 +70,7 @@ I began by creating a new PhoneGap application in Eclipse and included jQuery Mo
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -78,7 +78,7 @@ I assume most of my readers are familiar with jQuery Mobile now so I won't discu
 
 <p>
 
-<img src="https://static.raymondcamden.com/images/device-2011-11-10-090005.png" />
+<img src="https://static.raymondcamden.com/images/cfjedi/device-2011-11-10-090005.png" />
 
 <p>
 
@@ -86,9 +86,7 @@ Ok, now let's switch over to the code.
 
 <p>
 
-<code>
-
-
+<pre><code class="language-javascript">
 function init() {
     document.addEventListener("deviceready", deviceReady, true);
     delete init;
@@ -115,7 +113,7 @@ function deviceReady() {
     });
 
 }
-</code>
+</code></pre>
 
 <p>
 
@@ -138,7 +136,7 @@ So, my first change was just to store the values. HTML5 local storage to the res
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 function handleLogin() {
 	var form = $("#loginForm");	
 	//disable the button so we can't resubmit while we wait
@@ -161,7 +159,7 @@ function handleLogin() {
 	}
 	return false;
 }
-</code>
+</code></pre>
 
 <p>
 
@@ -169,8 +167,7 @@ Handling the check on startup was a bit more difficult. I'm still trying to wrap
 
 <p>
 
-<code>
-
+<pre><code class="language-markup">
 &lt;!DOCTYPE HTML&gt;
 &lt;html&gt;
 
@@ -225,7 +222,7 @@ Handling the check on startup was a bit more difficult. I'm still trying to wrap
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -233,7 +230,7 @@ And here is my re-engineered main.js file:
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 function init() {
     document.addEventListener("deviceready", deviceReady, true);
     delete init;
@@ -281,7 +278,7 @@ function deviceReady() {
     $("#loginForm").on("submit",handleLogin);
 
 }
-</code>
+</code></pre>
 
 <p>
 
