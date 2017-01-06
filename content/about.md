@@ -59,71 +59,25 @@ I have not done a great job of tracking my various articles on other web sites, 
 
 <h3>My Books</h3>
 
+<p>
+<a href="http://shop.oreilly.com/product/0636920043676.do"><img src="https://static.raymondcamden.com/images/books/clientsidedatastorage.jpg" title="Client-Side Data Storage" border="0" style="float:left;margin-right:10px;"></a>
 
-<iframe style="width:120px;height:240px;float:left;margin-right:10px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=raymondcamden-20&marketplace=amazon&region=US&placement=1491935111&asins=1491935111&linkId=URSVDLKI2FLVLMFM&show_border=true&link_opens_in_new_window=false">
-</iframe>
-
-
-<iframe style="width:120px;height:240px;float:left;margin-right:10px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=raymondcamden-20&marketplace=amazon&region=US&placement=1633430065&asins=1633430065&linkId=FOJFKR7OPMALMZUB&show_border=true&link_opens_in_new_window=false"></iframe>
+<a href="https://www.manning.com/books/apache-cordova-in-action"><img src="https://static.raymondcamden.com/images/books/cordova.png" title="Apache Cordova in Action" border="0" style="float:left;margin-right:10px;"></a>
 
 <a href="https://www.packtpub.com/application-development/jquery-mobile-web-development-essentials-third-edition"><img src="https://static.raymondcamden.com/images/2016/03/jqm3small.jpg" style="float:left"></a>
 
 <br clear="left">
 
-My latest book on ColdFusion:
+Here are my older books - all related to ColdFusion:
 
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=0321890965&nou=1&ref=qf_sp_asin_til&fc1=000000&IS2=1&lt1=_top&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-ColdFusion 9 Books:
-
-<table>
-<tr valign="top">
-<td>
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?lt1=_top&bc1=000000&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=raymondcamden-20&o=1&p=8&l=as1&m=amazon&f=ifr&asins=032166034X" style="width:120px;height:240px;float:left;margin-right:5px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe> 
- </td><td>
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?lt1=_top&bc1=000000&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=raymondcamden-20&o=1&p=8&l=as1&m=amazon&f=ifr&asins=0321679199" style="width:120px;height:240px;float:left;margin-right:5px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe> 
- </td><td>
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?lt1=_top&bc1=000000&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=raymondcamden-20&o=1&p=8&l=as1&m=amazon&f=ifr&asins=0321679202" style="width:120px;height:240px;float:left;margin-right:5px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe> 
-</td></tr></table>
-
-Here are the older versions for ColdFusion 8:<br/>
-
-<table>
-<tr valign="top">
-<td>
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=032151548X&fc1=000000&IS2=1&lt1=_top&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr&npa=1" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-</td>
-<td>
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=0321515463&fc1=000000&IS2=1&lt1=_top&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr&npa=1" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-
-</td>
-<td>
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=0321515471&fc1=000000&IS2=1&lt1=_top&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr&npa=1" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-</td>
-</tr>
-</table>
-
-<p/>
-
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=0321223675&fc1=000000&IS2=1&lt1=_top&lc1=0000ff&bc1=000000&bg1=ffffff&npa=1&f=ifr" style="width:120px;height:240px;margin-right: 10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe>
-The ColdFusion 7 Web Application Construction Kit. I was a co-author to the first book and a contributing author to the second book.
-
-<br clear="left">
-<p/>
-
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=0782141242&fc1=000000&IS2=1&lt1=_top&lc1=0000ff&bc1=000000&bg1=ffffff&npa=1&f=ifr" style="width:120px;height:240px;margin-right: 10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe>
-The first set of books I was involved with was the "Mastering ColdFusion" series by Sybex. I was both a contributing author for the first few books and then a co-author for the last set. 
-
-<br clear="left">
-<p/>
-
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=0782140297&fc1=000000&IS2=1&lt1=_top&lc1=0000ff&bc1=000000&bg1=ffffff&npa=1&f=ifr" style="width:120px;height:240px;margin-right: 10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe>
-
-I was the lead author for the ColdFusion Developer's Handbook. This is one of the books I'm most proud of. It was a book for folks who already know ColdFusion and wanted to cover topics to help them develop more advanced, feature-rich sites. 
-
-<br clear="left">
-<p/>
-
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=0789723654&nou=1&ref=tf_til&fc1=000000&IS2=1&lt1=_top&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;margin-right:10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe>
-
-Spectra was a CMS created by Allaire/Macromedia. I used to be on the product team and was one of the main authors of this book.
+* <a href="https://www.amazon.com/dp/0321890965?tag=raymondcamden-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0321890965&adid=16B4PBXRWXZN17W0B6WJ&">Adobe ColdFusion Web Application Construction Kit: ColdFusion 10 Enhancements and Improvements</a>
+* <a href="https://www.amazon.com/Adobe-ColdFusion-Web-Application-Construction/dp/032166034X/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=032166034X&pd_rd_r=5520TTRMZQCQJ71EWDED&pd_rd_w=AAxV1&pd_rd_wg=f1w3W&psc=1&refRID=5520TTRMZQCQJ71EWDED">Adobe ColdFusion 9 Web Application Construction Kit, Volume 1</a>
+* <a href="https://www.amazon.com/dp/0321679199?tag=raymondcamden-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0321679199&adid=04ZV529JDG6S4P5SZ5MR&">Adobe ColdFusion 9 Web Application Construction Kit, Volume 2</a>
+* <a href="https://www.amazon.com/Adobe-ColdFusion-Web-Application-Construction/dp/0321679202/ref=pd_bxgy_14_2?_encoding=UTF8&pd_rd_i=0321679202&pd_rd_r=P4K188FBB2SGNYGFFZCQ&pd_rd_w=ScYXo&pd_rd_wg=EvvwP&psc=1&refRID=P4K188FBB2SGNYGFFZCQ">Adobe ColdFusion 9 Web Application Construction Kit, Volume 3</a>
+* <a href="https://www.amazon.com/Adobe-ColdFusion-Web-Application-Construction/dp/032151548X/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=032151548X&pd_rd_r=FMPTKWNZBEYMQTFTVE02&pd_rd_w=SWQY2&pd_rd_wg=RebJX&psc=1&refRID=FMPTKWNZBEYMQTFTVE02">Adobe ColdFusion 8 Web Application Construction Kit, Volume 1</a>
+* <a href="https://www.amazon.com/dp/0321515463?tag=raymondcamden-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0321515463&adid=0WHKCS86JPVDVR9N8CXH&">Adobe ColdFusion 8 Web Application Construction Kit, Volume 2</a>
+* <a href="https://www.amazon.com/Adobe-ColdFusion-Web-Application-Construction/dp/0321515471/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0321515471&pd_rd_r=FMPTKWNZBEYMQTFTVE02&pd_rd_w=SWQY2&pd_rd_wg=RebJX&psc=1&refRID=FMPTKWNZBEYMQTFTVE02">Adobe ColdFusion 8 Web Application Construction Kit, Volume 2</a>
+* <a href="https://www.amazon.com/dp/0321223675?tag=raymondcamden-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0321223675&adid=0MBYWXV24ZE426NSEKMR&">Macromedia ColdFusion MX 7 Web Application Construction Kit</a>
+* <a href="https://www.amazon.com/dp/0782141242?tag=raymondcamden-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0782141242&adid=1BD7HCTKJKJ8ADDWJJX6&">Mastering ColdFusion MX</a<
+* <a href="https://www.amazon.com/dp/0782141242?tag=raymondcamden-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0782141242&adid=1BD7HCTKJKJ8ADDWJJX6&">ColdFusion MX Developer's Handbook</a>
+* <a href="https://www.amazon.com/dp/0789723654?tag=raymondcamden-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0789723654&adid=01EA7WVK43ZQHYFQKKDH&">Allaire Spectra e-Business Construction Kit</a>
