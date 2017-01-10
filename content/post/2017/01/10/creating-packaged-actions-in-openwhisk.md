@@ -1,6 +1,6 @@
 
 {
-	"title": "Creating Packaged Actions in OpenWhisk",
+	"title": "Creating Zipped Actions in OpenWhisk",
 	"date": "2017-01-10T13:12:00-07:00",
 	"categories": [
 		"Serverless"
@@ -10,11 +10,11 @@
 }
 
 As I continue my journey of learning serverless and [OpenWhisk](https://developer.ibm.com/openwhisk/), today I'm going to talk about
-another way to deploy your code - packaged actions. So what do we mean by packaged actions?
+another way to deploy your code - zipped actions. So what do we mean by zipped actions?
 
 Previously I demonstrated creating actions based on single files. So action Cat was based on the file cat.js. You can also 
 create actions as a [sequence](https://www.raymondcamden.com/2017/01/06/an-example-of-an-openwhisk-sequence) of other actions. 
-[Packaged actions](https://console.ng.bluemix.net/docs/openwhisk/openwhisk_actions.html#openwhisk_js_packaged_action) are
+[Zipped actions](https://console.ng.bluemix.net/docs/openwhisk/openwhisk_actions.html#openwhisk_js_packaged_action) are
 basically JavaScript files packed up as a npm module. Why would you want to do this?
 
 First - OpenWhisk provides a set of npm modules you can require in your code. And while that last is nice, you may want something *not* on that list. By
