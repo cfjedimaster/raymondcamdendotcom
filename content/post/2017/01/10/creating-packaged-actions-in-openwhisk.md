@@ -129,3 +129,5 @@ on every feed item. So I take it out of the first item and delete it from every 
 RSS entries and the metadata as well.
 
 And that's it! The output is pretty verbose so I won't share a screen shot, but I've included a video about this topic below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CrnQu9tUTFM" frameborder="0" allowfullscreen></iframe>
