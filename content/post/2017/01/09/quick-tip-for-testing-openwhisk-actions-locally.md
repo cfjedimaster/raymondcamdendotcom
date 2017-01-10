@@ -34,7 +34,7 @@ Next, use this script. I have all my OpenWhisk stuff in one folder where I'm tes
 const actionToRun = process.argv[2];
 
 let params = {};
-for(var i=3;i<process.argv.length;i++) {
+for(var i=3;i&lt;process.argv.length;i++) {
 	let [name,value] = process.argv[i].split('=');
 	params[name] = value;
 }
