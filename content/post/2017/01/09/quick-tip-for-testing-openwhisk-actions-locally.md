@@ -42,7 +42,8 @@ for(var i=3;i&lt;process.argv.length;i++) {
 const action = require(actionToRun).main;
 
 let result = action(params);
-Promise.resolve(result).then(result => console.log(result))
+Promise.resolve(result)
+.then(result => console.log(result))
 .catch(error => console.error(error));
 </code></pre>
 
