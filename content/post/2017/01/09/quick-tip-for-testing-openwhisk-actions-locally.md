@@ -9,41 +9,40 @@
 	"url": "/2017/01/09/quick-tip-for-testing-openwhisk-actions-locally"
 }
 
+<strong>January 10: So after posting this yesterday, Carlos and I found some issues with both the 'hack' recommendation you add to your
+code as well as the test script. I've rewritten the post to reflect those updates. If you read this article already, be sure to read it
+again for the latest version.</strong>
+
 I'd like to share a quick tip for working with [OpenWhisk](https://developer.ibm.com/openwhisk/). Credit for this goes to my coworker
 [Carlos Santana](https://twitter.com/csantanapr?lang=en). When working with OpenWhisk, you need to deploy your code to the cloud
 in order to test it. This is a very quick operation (and can be even quicker with the [Visual Studio Code extension](https://github.com/openwhisk/openwhisk-vscode) but it
 can be a bit annoying if you are working on something complex. It would be cool if you could test directly on your machine without the 
 'copy to OpenWhisk' command, right?
 
-You can do this with two quick changes. First, modify your action to add the following code at the end:
+You can do this with two quick changes. First, *possibly* modify your action to add the following code at the end:
 
 <pre><code class="language-javascript">
-/*
-Only required for testing locally, running in OpenWhisk this get's ignored
-Export main function only if its being use as a module (i.e. require(./sendEmail.js))
-*/
-if (require.main !== module) {
-  module.exports = main;
-}
-
+exports.main = main;
 </code></pre>
 
-This is taken directly from Carlos' code. The comment makes it very clear what's happening - basically setting your main function as 
-an export when run locally. Then, use this script. I have all my OpenWhisk stuff in one folder where I'm testing, so I called this test.js:
+Why do I say *possibly*? Because if you are using a 'zip file as an action' feature (which I'm blogging about in a few minutes), you will already have this
+line of code. 
+
+Next, use this script. I have all my OpenWhisk stuff in one folder where I'm testing, so I called this test.js:
 
 <pre><code class="language-javascript">
 const actionToRun = process.argv[2];
 
 let params = {};
-for(var i=3;i&lt;process.argv.length;i++) {
+for(var i=3;i<process.argv.length;i++) {
 	let [name,value] = process.argv[i].split('=');
 	params[name] = value;
 }
 
-const action = require(actionToRun);
+const action = require(actionToRun).main;
 
-action(params)
-.then(result => console.log(result))
+let result = action(params);
+Promise.resolve(result).then(result => console.log(result))
 .catch(error => console.error(error));
 </code></pre>
 
