@@ -32,7 +32,31 @@
 			<a href="https://feedburner.google.com/fb/a/mailverify?uri=RaymondCamdensBlog">subscribe to the email feed</a> 
 			to get notified of new posts.
 		</p>
+
+<h2>Want to read more like this?</h2>
+	<ul>
+	{{ range first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
+		<li class="relatedPost">
+		<a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a><br />
+		{{ .Description | markdownify }}
+		</li>
+	{{ end }}
+	</ul>	
 	</section>
+<!--
+	<section id="relatedPosts">
+	<h2>Related Articles</h2>
+	<ul>
+	{{ range first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
+		<li class="relatedPost">
+		<a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a><br />
+		{{ .Description | markdownify }}
+		</li>
+	{{ end }}
+	</ul>	
+	</section>
+-->
+
 	{{ end }}
 	
 	{{ if and (eq .Type "post") (not (isset .Params "nodisqus"))}}	

@@ -47,6 +47,15 @@ div.note {
   margin-bottom:10px;
 }
 
+#authorPlead p {
+	margin-bottom: 10px;
+}
+
+#authorPlead li {
+	list-style-type: disc;
+	list-style-position: inside;
+}
+
 #contactSubmit {
 	width: 150px;
 	padding: 10px;
