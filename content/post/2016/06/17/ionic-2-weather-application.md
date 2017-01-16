@@ -9,6 +9,10 @@
 	"url": "/2016/06/17/ionic-2-weather-application"
 }
 
+<strong> Edited on January 16, 2017: I received reports that the app was not working with the
+most recent versions of Ionic 2. I've built an updated version that seems to work well, but
+I did not test it heavily. You can find that version here: https://github.com/cfjedimaster/Cordova-Examples/tree/master/ionicweatherv3 </strong>
+
 Before I begin, a quick reminder that I am still *way* new to Angular 2 and Ionic 2. I'm trying to learn, but you should treat what follows as the ramblings of a semi-intelligent monkey doing his best to learn something new. So with that disclaimer out of the way, I'd love to share an application I built this week - Ionic Weather.
 
 <!--more-->

@@ -247,5 +247,5 @@ All in all this was fun to write, but as I said, feels very much like a first dr
 </p>
 
 <p>
-<a href="https://static.raymondcamden.com/demos/2013/dec/5/"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>  
+<a href="https://static.raymondcamden.com/demos/2013/dec/5/index.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>  
 </p>

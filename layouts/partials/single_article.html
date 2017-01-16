@@ -40,6 +40,8 @@
 		<a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a><br />
 		{{ .Description | markdownify }}
 		</li>
+	{{ else }}
+	Sorry, nothing recent related to this content is available.
 	{{ end }}
 	</ul>	
 	</section>
