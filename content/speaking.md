@@ -25,6 +25,13 @@ Atlanta, GA<br/>
 February 22-24, 2017
 </p>
 
+<p>
+<a href="http://mobilewebdevconference.com/san-francisco-2017/agenda/day-three-general-conference/1115-am">Best Practices for Apache Cordova/PhoneGap Development</a>
+Mobile+Web DevCon<br/>
+San Diego, CA
+March 1-3, 2017
+</p>
+
 <h3>My Past Events</h3>
 
 <a href="https://plus.google.com/u/0/events/cj9gq79q1nei2fmksdmhbjkkt1o">Working with Static Sites</a><br/>Online, July 1, 2015
