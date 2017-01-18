@@ -6,7 +6,8 @@
 		"Serverless", "Mobile"
 	],
 	"tags": ["openwhisk","ionic"],
-	"url": "/2017/01/18/all-my-friends-are-superheroes"
+	"url": "/2017/01/18/all-my-friends-are-superheroes",
+	"banner":"/images/banners/marvelow2.jpg"
 }
 
 A few weeks back I created an [incredibly practical and not silly at all](https://www.raymondcamden.com/2016/12/12/working-with-ionic-native-contact-fixer) application
@@ -198,4 +199,8 @@ And the result?
 
 ![Awesome](https://static.raymondcamden.com/images/2017/1/marvelow2.png)
 
-Pure awesomeness. (Ok, maybe just to me.)
+Pure awesomeness. (Ok, maybe just to me.) If your curious about my other uses of the Marvel API, here are a few links:
+
+* [Examples of the Marvel API](https://www.raymondcamden.com/2014/02/02/Examples-of-the-Marvel-API/)
+* [Using the Marvel API with IBM Watson](https://www.raymondcamden.com/2015/05/26/using-the-marvel-api-with-ibm-watson)
+* [Building a Twitter bot to display random comic book covers](https://www.raymondcamden.com/2016/02/22/building-a-twitter-bot-to-display-random-comic-book-covers/)
