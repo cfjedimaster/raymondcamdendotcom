@@ -17,7 +17,7 @@ ties nicely with the [Ionic Auth](http://docs.ionic.io/services/auth/) system an
 in real time.
 
 As always - the [docs](http://docs.ionic.io/services/database/) should be the first place you go, but I've been playing
-with this service for a little while now and have some demos that may help gt you started. Everything I'm going to show below
+with this service for a little while now and have some demos that may help get you started. Everything I'm going to show below
 may be found in my GitHub repo of Cordova examples so you'll be able to get the full source.
 
 A Simple Example
