@@ -297,7 +297,7 @@ enabling the user to create content. In my dashboard, under permissions, I'll ad
 ![DB](https://static.raymondcamden.com/images/2017/1/db7a.png )
 
 I gave it a name of 'create', told it the collection, and then defined the permission rule. Basically - "when we run
-a store call, tect and created can be anything, but the creator must be me."
+a store call, text and created can be anything, but the creator must be me."
 
 Next I need to allow myself the ability to read my content:
 
