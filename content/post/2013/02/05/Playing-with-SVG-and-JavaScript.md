@@ -25,7 +25,8 @@ Having never seen SVG before you can take a good guess as to what each part does
 
 <script src="https://gist.github.com/cfjedimaster/4717750.js"></script>
 
-Not terribly exciting, but also pretty darn simple. You can run the demo <a href="http://www.raymondcamden.com/demos/2013/feb/2/test1.html">here</a>, or look at  the screen shot below. 
+Not terribly exciting, but also pretty darn simple. You can run the demo 
+<a href="https://static.raymondcamden.com/demos/2013/feb/2/test1.html">here</a>, or look at  the screen shot below. 
 
 <img src="https://static.raymondcamden.com/images/ScreenClip169.png" />
 
@@ -64,7 +65,8 @@ All this does is draw out the SVG into the DOM and add listeners to a few button
 
 loadYear is a relatively simple Ajax call to our JSON file. Once we have the data, I loop over each county, get the value, and translate the 1-10 value to a color from red to green. Thanks to Cliff Johnston (@iClifDotMe) for the RGB values. 
 
-The end result is pretty cool I think. The JSON files clock in at about 70K each so they aren't too bad to load. You can see the full demo here: <a href="http://www.raymondcamden.com/demos/2013/feb/2/test3.html">http://www.raymondcamden.com/demos/2013/feb/2/test3.html</a>
+The end result is pretty cool I think. The JSON files clock in at about 70K each so they aren't too bad to load. You can see the full demo here: 
+<a href="https://static.raymondcamden.com/demos/2013/feb/2/test3.html">https://static.raymondcamden.com/demos/2013/feb/2/test3.html</a>
 
 For me, it took about 5 seconds to load initially, and each Ajax call "feels" about a second or so. Considering the amount of data being pushed around I feel like it performs adequately. 
 
@@ -72,4 +74,5 @@ But then I decided that wasn't enough. I figured if we are caching the county sh
 
 <script src="https://gist.github.com/cfjedimaster/4717961.js"></script>
 
-A trivial modification, but if you click around a bit it should be a bit snappier. You can find that demo here: <a href="http://www.raymondcamden.com/demos/2013/feb/2/test4.html">http://www.raymondcamden.com/demos/2013/feb/2/test4.html</a>
+A trivial modification, but if you click around a bit it should be a bit snappier. You can find that demo here: 
+<a href="https://static.raymondcamden.com/demos/2013/feb/2/test4.html">https://static.raymondcamden.com/demos/2013/feb/2/test4.html</a>
