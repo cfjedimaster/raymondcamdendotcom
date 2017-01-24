@@ -6,7 +6,8 @@
 		"JavaScript"
 	],
 	"tags": [],
-	"url": "/2017/01/24/new-camera-hotness-from-chrome"
+	"url": "/2017/01/24/new-camera-hotness-from-chrome",
+	"banner":"/images/banners/canary_cam0.jpg"
 }
 
 First off - I apologize for the somewhat lame title. It occurred to me today that it's been a while since I played with new and 
