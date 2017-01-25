@@ -27,7 +27,7 @@ I did a generic GET call on the API to get the first page of results. In that te
 ![Interactive tester](https://static.raymondcamden.com/images/2017/1/marvelow1.jpg)
 
 Given that I assume, but certainly can't verify, that they have IDs from 1 to 1485, I decided to simply select a random number between them. (I ended up going a bit
-below 1485 just to feel a bit safer.) I figured this would be an excellent use of [OpenWhisk]([OpenWhisk](https://developer.ibm.com/openwhisk/)), so I wrote up a quick, and simple, action:
+below 1485 just to feel a bit safer.) I figured this would be an excellent use of [OpenWhisk](https://developer.ibm.com/openwhisk/), so I wrote up a quick, and simple, action:
 
 <pre><code class="language-javascript">
 var request = require(&#x27;request&#x27;);
