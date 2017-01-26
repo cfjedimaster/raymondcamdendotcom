@@ -6,7 +6,8 @@
 		"Serverless"
 	],
 	"tags": ["openwhisk"],
-	"url": "/2017/01/26/talking-to-your-bot-on-openwhisk"
+	"url": "/2017/01/26/talking-to-your-bot-on-openwhisk",
+	"banner":"/images/banners/owbot.jpg"
 }
 
 As I continue my look into serverless with [OpenWhisk](https://developer.ibm.com/openwhisk/), today I thought
