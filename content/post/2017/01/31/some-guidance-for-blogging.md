@@ -78,7 +78,7 @@ have to keep going back to your blog post to see if you (or anyone else) respond
 Don't do popup modals begging me to "Like" your content or subscribe to your newsletter. Yes, I know they work. But I feel very strongly
 that they are incredibly rude and offputting to your readers. I've come to your blog to read your content and you decide to *stop* me from doing 
 the one thing I came there for to ask me to like your shit? I mean seriously, does that make sense to you?  I know Google is beginning to 
-punish sites on mobile that do that and I truly hope they do so for desktop as well. I will flatout refuse to read most sites that do this and
+punish sites on mobile that do that and I truly hope they do so for desktop as well. I will flat out refuse to read most sites that do this and
 I *never* promote, via Twitter or any other form, a URL that has one of these dialogs.
 
 Lastly - provide some way to contact you. That can be a simple email address, a contact form, or a Twitter post. I can't tell
