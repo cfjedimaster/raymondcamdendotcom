@@ -102,8 +102,8 @@ Whew. So I said this was simple, right? It is - but I like to be complete and sh
 * Packages, like actions, can have default parameters. This allows you to specify a default for every action 
 in the package. In case you're curious, an action's default parameter takes precedence over a package's 
 default parameter. (Thank you to Stephen Fink@IBM for clarifying that for me.)
-* The other big change is that packages can be shared with the wider world. You can specify a "public" 
-setting (true or false) when creating or updating a package. By making it public, anyone can use it. 
+* The other big change is that packages can be shared with the wider world. You can specify a "shared" 
+setting (true or false) when creating or updating a package. By making it shared, anyone can use it. 
 To me, this is the biggest use case for packages - providing a way for you to collect related actions and 
 then share them with others.
 * And then finally, OpenWhisk has a large set of shared packages called <code>whisk.system</code>. They 
