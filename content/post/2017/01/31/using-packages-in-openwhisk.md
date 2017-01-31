@@ -112,3 +112,4 @@ browse the [docs](https://console.ng.bluemix.net/docs/openwhisk/openwhisk_catalo
 the CLI, but I'd check the docs as they are much easier to read.
 * Ok, so *really* finally - I'll point out you can also put [feeds](https://console.ng.bluemix.net/docs/openwhisk/openwhisk_packages.html#openwhisk_package_trigger) in packages. I haven't yet blogged about triggers, feeds, and rules, because
 it's a bit complex and I'm still wrapping my head around it. They will be the subject of my next OpenWhisk article.
+
