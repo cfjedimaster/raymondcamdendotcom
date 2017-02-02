@@ -6,7 +6,8 @@
 		"Serverless"
 	],
 	"tags": ["OpenWhisk"],
-	"url": "/2017/02/02/working-with-openwhisk-triggers"
+	"url": "/2017/02/02/working-with-openwhisk-triggers",
+	"banner":"/images/banners/openwhisk_triggers.jpg"
 }
 
 Today I'm covering one of the last major features of OpenWhisk, Triggers. To be clear, there is a lot more
