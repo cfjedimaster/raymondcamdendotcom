@@ -71,7 +71,8 @@ something I had not noticed before. The general URL to run a trigger is to send 
 <pre><code class="language-javascript">https://{BASE URL}/api/v1/namespaces/{namespace}/triggers/{triggerName}
 </code></pre>
 
-<code>{BASE_URL}</code> should be openwhisk.ng.bluemix.net and <code>{namespace}</code> can be <code>_</code> to use your default
+<code>{BASE_URL}</code> should be <code>openwhisk.ng.bluemix.net</code> and 
+<code>{namespace}</code> can be <code>\_</code> to use your default
 space. Authentication is tricky. You do <strong>not</strong> use your Bluemix login. Rather you use the authentication credentials
 created when you first started using the OpenWhisk CLI. 
 
