@@ -17,7 +17,7 @@ that the docs are bad ([Creating Triggers and Rules](https://console.ng.bluemix.
 that I struggled to understand how all the parts come together. I finally got things working today (with a lot of help!) and I thought
 I'd share my thoughts, and a demo, but please remember I'm new at this!
 
-Before I begin, I want to thank folks in the OpenWhisk Slack for helping me out, especially fellow IBMer
+Before I begin, I want to thank folks in the [OpenWhisk Slack](https://openwhisk-team.slack.com) (sign up here: http://slack.openwhisk.org) for helping me out, especially fellow IBMer
 Justin Berstler.
 
 Ok, so what in the heck is a trigger? A trigger is an event of some sort. 
