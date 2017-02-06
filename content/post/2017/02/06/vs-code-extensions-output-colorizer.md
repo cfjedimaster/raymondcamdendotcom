@@ -6,7 +6,8 @@
 		"Development"
 	],
 	"tags": ["visual studio code"],
-	"url": "/2017/02/06/vs-code-extensions-output-colorizer"
+	"url": "/2017/02/06/vs-code-extensions-output-colorizer",
+	"banner":"/images/banners/vsc_ext.jpg"
 }
 
 Back when I was a [Brackets](http://brackets.io/) user and an Adobe employee, I used to do a review of interesting and useful
