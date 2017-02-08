@@ -34,7 +34,7 @@ I've got a simple form with a button bound to a simple click listener. Looking a
 
 My form has a simple click handler. When you hit the button, I pass the values to my template and grab the HTML out of it. You can run this demo here: 
 
-<a href="http://raymondcamden.com/demos/2012/apr/19/test1.html">http://raymondcamden.com/demos/2012/apr/19/test1.html</a>
+<a href="https://static.raymondcamden.com/demos/2012/apr/19/test1.html">https://staticraymondcamden.com/demos/2012/apr/19/test1.html</a>
 
 Of course, not every template will be a simple set of keys and values. Your template may also need to be dynamic based on the values passed in. Let's look at another example that makes use of both lists and conditionals.
 
@@ -44,7 +44,7 @@ In our template, we've got two things going on here. First is a conditional that
 
 If you scroll down to the HTML/JavaScript, you can see I'm just asking for you to enter a list of things you like. That value is split into an array and passed (if there were values) to the template. Demo this below..
 
-<a href="http://raymondcamden.com/demos/2012/apr/19/test2.html">http://raymondcamden.com/demos/2012/apr/19/test2.html</a>
+<a href="https://static.raymondcamden.com/demos/2012/apr/19/test2.html">https://static.raymondcamden.com/demos/2012/apr/19/test2.html</a>
 
 Let's look at one more example. One of the cooler aspects of Handlebars is that you can add custom functions to the engine. For example, you could write a cowbell function that wraps your results in the beautiful rocking sounds of the cowbell. Ok, maybe not that. But what about something a bit complex - like converting an email address into a MD5 hash that could be used for Gravatar? Yeah - no way that would work...
 
@@ -52,7 +52,7 @@ Let's look at one more example. One of the cooler aspects of Handlebars is that 
 
 Notice in the template we have one simple value, email, and then this: gravatar email. This isn't something built into Handlebars, but rather, injected via the registerHelper function you see in the main script block of the page. You can demo this here: 
 
-<a href="http://raymondcamden.com/demos/2012/apr/19/test3.html">http://raymondcamden.com/demos/2012/apr/19/test3.html</a>
+<a href="https://static.raymondcamden.com/demos/2012/apr/19/test3.html">https://static.raymondcamden.com/demos/2012/apr/19/test3.html</a>
  
 Ok. Time to kick it up a notch. Many moons ago <a href="http://www.12robots.com/">Jason Dean</a> introduced me to the <a href="http://api.comicvine.com">ComicVine</a> API. This is a free API that provides access to their pretty deep database of comic book data. Unfortunately their API isn't very well supported and the documentation is missing a few important details. But I was able to take their service and build the following.
 
@@ -60,4 +60,4 @@ Ok. Time to kick it up a notch. Many moons ago <a href="http://www.12robots.com/
 
 This application uses JSON/P and the ComicVine API to let you search against their character database. A good search string is "spider". Obviously it doesn't have <i>everything</i> in there, but it's fun to see what's there. Oh yeah - be sure to search for "Beyonder" - the best thing to come out of Marvel in the 80s. You can demo this here:
 
-<a href="http://raymondcamden.com/demos/2012/apr/19/"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="https://static.raymondcamden.com/demos/2012/apr/19/"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
