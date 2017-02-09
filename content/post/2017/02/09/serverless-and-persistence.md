@@ -29,7 +29,7 @@ So the practical side effect of this is that you can't use non-database persiste
 
 Except you can. 
 
-First off - when your action is fired up, OpenWhisk does *not* kill it immediately when done. Rather, it waits a bit to see if the action will be fired again soon. You can see this yourself with a simple action:
+First off - when your action is fired up, OpenWhisk does *not* kill it immediately when done. Rather, it keeps the container used for your code around to see if the action will be fired again soon. You can see this yourself with a simple action:
 
 <pre><code class="language-javascript">
 var x = 0;
