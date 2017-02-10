@@ -19,6 +19,13 @@
             <div class="article-entry" itemprop="articleBody" style="padding-bottom:10px">
                 {{ .Content }}
             </div>
+
+			<footer class="article-footer">
+				<a data-url="{{ .Permalink }}" data-id="{{ .UniqueID }}" class="article-share-link">
+					{{with .Site.Data.l10n.articles.share}}{{.}}{{end}}
+				</a>
+			</footer>
+
         </div>
 
     </article>
