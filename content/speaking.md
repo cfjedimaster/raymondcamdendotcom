@@ -28,7 +28,7 @@ March 1, 2017
 <p>
 <a href="http://mobilewebdevconference.com/san-francisco-2017/agenda/day-three-general-conference/1115-am">Best Practices for Apache Cordova/PhoneGap Development</a>
 Mobile+Web DevCon<br/>
-San Diego, CA
+San Diego, CA<br/>
 March 1-3, 2017
 </p>
 
