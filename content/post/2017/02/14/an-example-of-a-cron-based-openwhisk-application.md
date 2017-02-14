@@ -318,13 +318,16 @@ Connecting the Dots
 
 Let's recap. I've got an action that can suck down the HTML string and turn it into data. I've got a second action that can take that input and store it, if it is new. Now we need to get this together, scheduled, and run with it.
 
-First, connecting them is trivial - just use a sequence! I called mine handleTraffic and I simply passed it the name of my two actions - getTraffic and addTraffic. 
+First, connecting them is trivial - just use a sequence! I called mine handleTraffic and I simply passed it the name of my two actions - getTraffic and addTraffic. The command looks like so:
+
+	wsk action create handleTraffic --sequence getTraffic,addTrafic
+
 
 I then fired off a call to the sequence to make sure that was working. Remember, baby steps.
 
 Alright - here is where things get a bit tricky. I began by creating an [Alarm-based](https://console.ng.bluemix.net/docs/openwhisk/openwhisk_catalog.html#openwhisk_catalog_alarm_fire) trigger. This is a trigger available on the Bluemix OpenWhisk platform that lets you define a Cron-based time to fire. I created mine like so:
 
-wsk trigger create checkTraffic --feed /whisk.system/alarms/alarm --param cron "5 * * * *" 
+	wsk trigger create checkTraffic --feed /whisk.system/alarms/alarm --param cron "5 * * * *" 
 
 I always find Cron to be an incomprehensible syntax, so I used http://crontab-generator.org to generate the string for me.
 
