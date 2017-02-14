@@ -1,5 +1,5 @@
 {
-	"title": "Sunday Quickie - Bookmarklet to \\\"Fix\\\" forms that disable autocomplete",
+	"title": "Sunday Quickie - Bookmarklet to Fix Forms that Disable autocomplete",
 	"categories": [
 		"Misc"
 	],
@@ -8,6 +8,10 @@
 	"url": "/2014/03/23/Sunday-Quickie-Bookmarklet-to-Fix-forms-that-disable-autocomplete",
 	"guid": "5182"
 }
+
+<p>
+<b>Edit on February 14, 2017:</b> I modified the code to handle autocomplete being set in input fields as well.
+</p>
 
 <p>
 I don't know about you, but when I see a form that has disabled autocomplete, I get pretty upset:
@@ -26,7 +30,7 @@ For the heck of it, I wrote a quick bookmarklet to fix this problem. A bookmarkl
 </p>
 
 
-<pre><code class="language-javascript">javascript:forms = document.querySelectorAll("form");for(var i=0;i&lt;forms.length;i++) { forms[i].removeAttribute("autocomplete"); }</code></pre>
+<pre><code class="language-javascript">javascript:forms = document.querySelectorAll("form, input");for(var i=0;i&lt;forms.length;i++) { forms[i].removeAttribute("autocomplete"); }</code></pre>
 
 <p>
 I'm sure this could be written better (maybe instead of always removing the attribute it could always <i>enable</i> it), but on my limited testing (the form that ticked me off) it worked perfectly.
