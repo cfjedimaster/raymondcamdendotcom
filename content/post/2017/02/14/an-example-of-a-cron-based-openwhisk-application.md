@@ -23,7 +23,8 @@ That demo was on my mind recently and I thought it would be an excellent thing t
 * A sequence to connect the two.
 * A Cron-based schedule to periodically check the data.
 
-Simple, right? Heh, not really. But breaking it down into component parts/features turned out to be rather interesting, and let me try some parts of OpenWhisk that I had not played with yet, specifically the Cron-trigger aspect. But let's take it step by step.
+That sounds like a lot, and pretty complex, but breaking it down into component parts/features 
+made it simpler to work with and let me try some parts of OpenWhisk that I had not played with yet, specifically the Cron-trigger aspect. Let's take it step by step.
 
 Parsing Raw HTML Data
 ---
