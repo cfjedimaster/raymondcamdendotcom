@@ -15,7 +15,7 @@ Turns out that support is now available in OpenWhisk as a new feature, "web acti
 
 I won't repeat the instructions, but essentially it comes down to a few changes:
 
-* First, when creating (or updating) your action, add <code>--annotation web-export true</code>
+* First, when creating (or updating) your action, add <code>\-\-annotation web-export true</code>
 * Second, figure out the URL. Your URL will be https://openwhisk.ng.bluemix.net/api/v1/experimental/web/NAMESPACE/PACKAGE/ACTION.TYPE. If you aren't using a package for your action, use <code>default</code>. The TYPE value is one of json, html, text, or http. 
 
 Basically, that's it. (There's more, but again, see Rodric's [post](https://medium.com/openwhisk/serverless-http-handlers-with-openwhisk-90a986cc7cdd#.oifkk4uxz)). Given that my action was already mostly done, the modifications were pretty simple. I'll share the entire action at the end, but here are the mods I added.
