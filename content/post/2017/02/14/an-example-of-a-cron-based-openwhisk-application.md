@@ -41,7 +41,7 @@ I began by doing a quick view source to see how the HTML was created. Turned out
 
 *Sigh*
 
-Ok, so luckily, I knew how to work with this. I did a demo last year involving web scraping with Cheerio ((Scraping a web page in Node with Cheerio)[https://www.raymondcamden.com/2016/11/30/scraping-a-web-page-in-node-with-cheerio]) and I knew that worked well, so my action focused around working with that. Remember, to include random npm packaged with OpenWhisk, you have to use a zipped action that includes the package.json and node_modules directory. It's a bit more work, but marginally so.
+Ok, so luckily, I knew how to work with this. I did a demo last year involving web scraping with Cheerio ([Scraping a web page in Node with Cheerio](https://www.raymondcamden.com/2016/11/30/scraping-a-web-page-in-node-with-cheerio)) and I knew that worked well, so my action focused around working with that. Remember, to include random npm packaged with OpenWhisk, you have to use a zipped action that includes the package.json and node_modules directory. It's a bit more work, but marginally so.
 
 The other slightly complex aspect was that I wanted to geocode the addresses. For that I used Google's excellent [Geocode](https://developers.google.com/maps/documentation/geocoding/start) API that is part of the Maps SDK. Here is the entire action.
 
@@ -202,7 +202,7 @@ Not bad! Ok, on to step two - storing the data.
 Persisting the Data with Cloudant
 ---
 
-To store the data, I provisioned a new [Cloudant](https://console.ng.bluemix.net/catalog/cloudant-nosql-db) with Bluemix. OpenWhisk can automatically pick up new Cloudant services and add a package to your account with actions/triggers to interact with that service. To work with those actions, I built my own action tasked with handling an input of data, checking to see if it's new, and then adding it. Here is that action.
+To store the data, I provisioned a new [Cloudant](https://console.ng.bluemix.net/catalog/cloudant-nosql-db) service with Bluemix. OpenWhisk can automatically pick up new Cloudant services and add a package to your account with actions/triggers to interact with that service. To work with those actions, I built my own action tasked with handling an input of data, checking to see if it's new, and then adding it. Here is that action.
 
 <pre><code class="language-javascript">
 var openWhisk = require(&#x27;openwhisk&#x27;);
