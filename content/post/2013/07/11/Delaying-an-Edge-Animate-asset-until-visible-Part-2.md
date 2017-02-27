@@ -19,6 +19,6 @@ The next step was easy. I used the code from my previous demo in a slightly modi
 
 Yeah, not exactly rocket science, but it seems to work well. You can view a complete working demo below. I use a large amount of text to push the asset down, but I recommend making your browser a bit skinnier before you load it.
 
-<a href="http://www.raymondcamden.com/demos/2013/jul/11/delaywhileinvisible/Untitled-1.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="https://static.raymondcamden.com/demos/2013/jul/11/delaywhileinvisible/Untitled-1.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
 
 p.s. On a quick note - I <i>seem</i> to remember that Edge Animate would sometimes blow away your modifications. When I used it to load my previous demo and worked on it, it didn't touch my code at all. I don't know if that's new with CC or not, but, that's cool!

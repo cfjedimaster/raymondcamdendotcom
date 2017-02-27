@@ -74,4 +74,4 @@ $(document).ready(function() {
 
 I created a simple recursive function, fetchGroups, that lets me pass the initial signed URL in and deal with aggregating multiple pages of results. When finished, it then calls a callback function with the results. I should have used Promises perhaps, but, I was being lazy. The results are rendered out somewhat simply, but that could be improved of course.
 
-You can view a live demo of this here: <a href="https://static.raymondcamden.com/demos/2015/nov/20/">https://static.raymondcamden.com/demos/2015/nov/20/</a>. Let me know what you think!
+You can view a live demo of this here: <a href="https://static.raymondcamden.com/demos/2015/nov/20/index.html">https://static.raymondcamden.com/demos/2015/nov/20/</a>. Let me know what you think!
