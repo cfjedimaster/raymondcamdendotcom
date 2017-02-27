@@ -45,7 +45,7 @@ I didn't spend a lot of time on the template, but it works, so I'm down with it.
 
 Now came the interesting part. How do I get these random event pages available in FullCalendar? Here is where some static site generators shine - and some drop the ball. The SSG I used for my blog, Hugo, makes it *incredibly* difficult (imo) to add ad hoq pages with custom logic. You have to make a page with next to no input, tell it to use a layout that has the code, and then work over there instead of the page itself. I've seen multiple SSGs do this whereas both Jekyll and Harp are much more open in this regard.
 
-I created my JSON data by adding a new file, calendar.data.html, which this code:
+I created my JSON data by adding a new file, calendar.data.html, with this code:
 
 <pre><code class="language-markup">---
 layout: 
