@@ -331,7 +331,7 @@ Alright - here is where things get a bit tricky. I began by creating an [Alarm-b
 
 I always find Cron to be an incomprehensible syntax, so I used http://crontab-generator.org to generate the string for me.
 
-ALl this does is make an alarm clock - even 5 minutes the trigger will fire. But by itself, that does nothing. In order to make it do something, I then made a rule. The rule simply said, when checkTraffic fires, run my sequence. I called my rule newTrafficRule because I have no imagination. 
+All this does is make an alarm clock - even 5 minutes the trigger will fire. But by itself, that does nothing. In order to make it do something, I then made a rule. The rule simply said, when checkTraffic fires, run my sequence. I called my rule newTrafficRule because I have no imagination. 
 
 The OpenWhisk UI does a nice job of representing this - although for the life of me I can't figure out how to get the original Cron setting out. I guess it's something you want to make sure you don't forget. 
 
