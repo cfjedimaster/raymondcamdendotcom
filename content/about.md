@@ -61,11 +61,15 @@ I have not done a great job of tracking my various articles on other web sites, 
 <h3>My Books</h3>
 
 <p>
+<a href="http://shop.oreilly.com/product/0636920051879.do"><img src="https://static.raymondcamden.com/images/2017/3/ssglrg.jpg" style="float:left;max-width:175px;margin-right:10px" title="The Book!"></a>
 <a href="http://shop.oreilly.com/product/0636920043676.do"><img src="https://static.raymondcamden.com/images/books/clientsidedatastorage.jpg" title="Client-Side Data Storage" border="0" style="float:left;margin-right:10px;"></a>
+</p>
+<br clear="left">
 
+<p>
 <a href="https://www.manning.com/books/apache-cordova-in-action"><img src="https://static.raymondcamden.com/images/books/cordova.png" title="Apache Cordova in Action" border="0" style="float:left;margin-right:10px;"></a>
-
 <a href="https://www.packtpub.com/application-development/jquery-mobile-web-development-essentials-third-edition"><img src="https://static.raymondcamden.com/images/2016/03/jqm3small.jpg" style="float:left"></a>
+</p>
 
 <br clear="left">
 
