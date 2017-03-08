@@ -34,4 +34,4 @@ For the life of me, I can't imagine why this level of information isn't availabl
 
 As I said, I'll share more details about doing this with OpenWhisk once I get a better demo done.
 
-<blockquote>* For folks curious about the issue, I'll document this in my larger post later, but the issue was that I needed to select "My development endpoint is a sub-domain of a domain that has a wildcard certificate from a certificate authority" on the SSL setting. Thanks to [Carlos Santana](https://twitter.com/csantanapr) for helping me with that.</blockquote>
+<blockquote>* For folks curious about the issue, I'll document this in my larger post later, but the issue was that I needed to select "My development endpoint is a sub-domain of a domain that has a wildcard certificate from a certificate authority" on the SSL setting. Thanks to <a href="https://twitter.com/csantanapr">Carlos Santana</a> for helping me with that.</blockquote>
