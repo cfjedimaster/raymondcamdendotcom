@@ -31,7 +31,7 @@ Next comes up a rather large, complex form that can be a bit scary. (Ok, maybe t
 
 <img src="https://static.raymondcamden.com/images/2017/3/alexaow3a.png" title="Name" class="imgborder">
 
-This first page just needs the name and the invocation name. As the form says, the differnece is that invocation name is how you actually address it when speaking to an Echo device. I named my "Cat Namer" for reasons that will become clear later. (Spoiler - it involves cats.)
+This first page just needs the name and the invocation name. As the form says, the difference is that invocation name is how you actually address it when speaking to an Echo device. I named my "Cat Namer" for reasons that will become clear later. (Spoiler - it involves cats.)
 
 Now things get serious...
 
