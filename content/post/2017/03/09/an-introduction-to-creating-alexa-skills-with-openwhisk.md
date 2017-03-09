@@ -6,7 +6,8 @@
 		"Serverless"
 	],
 	"tags": ["openwhisk"],
-	"url": "/2017/03/09/an-introduction-to-creating-alexa-skills-with-openwhisk"
+	"url": "/2017/03/09/an-introduction-to-creating-alexa-skills-with-openwhisk",
+	"banner":"/images/banners/alexaow.jpg"
 }
 
 As I mentioned in my post earlier this week ([A Tip for Testing Alexa Skills](https://www.raymondcamden.com/2017/03/08/a-tip-for-testing-alexa-skills)), I'm a huge new fan of the Amazon Echo device and I've begun looking at how to build my own integrations with it. This week I've done some investigations into how to use Alexa with [OpenWhisk](https://developer.ibm.com/openwhisk/) and I have to say I'm impressed by how easy it is. To be clear, I've only played with the most basic of skills, but it is easy and quite a bit of fun too!
