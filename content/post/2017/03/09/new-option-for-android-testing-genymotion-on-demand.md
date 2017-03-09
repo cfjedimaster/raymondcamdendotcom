@@ -17,7 +17,7 @@ The folks behind this cool tool have just recently released another new service,
 
 If you've never seen Genymotion Desktop before, I'll point out that the icons all on the right all help you work with the virtualized Android device and support cool things like specifying GPS and battery values. 
 
-Getting my Android build up there was a simple matter of asking Cordova to generate a build and then dragging and dropping the ADB onto the browser. 
+Getting my Android build up there was a simple matter of asking Cordova to generate a build and then dragging and dropping the APK onto the browser. 
 
 ![Snazzy upload](https://static.raymondcamden.com/images/2017/3/geny2.png)
 
