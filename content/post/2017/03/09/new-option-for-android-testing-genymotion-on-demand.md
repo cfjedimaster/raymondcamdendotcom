@@ -23,4 +23,6 @@ Getting my Android build up there was a simple matter of asking Cordova to gener
 
 While a developer could use this instead of managing SDKs locally, the fact that it's available in the browser really opens things up, especially for testing. You just pay by the hour for when your running the instance so you can ramp up just as quickly as you need. I think this will be especially useful in larger companies. 
 
+For some more examples, check out the [tutorial videos](https://www.genymotion.com/help/on-demand/tutorial/).
+
 I only played with it a bit, but it worked rather well, and as a fan of the desktop solution, I feel confident recommending folks at least give it a try. (Or if you think it is too much and you've never tried the desktop version, it's definitely time to try that!)
