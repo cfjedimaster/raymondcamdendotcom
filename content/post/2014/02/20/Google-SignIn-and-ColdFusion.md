@@ -50,7 +50,8 @@ Unfortunately I was never able to find the docs for the library. You have access
 </p>
 
 <p>
-<a href="http://www.raymondcamden.com/demos/2014/feb/20/test1.html">http://www.raymondcamden.com/demos/2014/feb/20/test1.html</a>
+<strike>
+http://www.raymondcamden.com/demos/2014/feb/20/test1.html</strike> <i>(Demo no longer available.)</i>
 </p>
 
 <p>
@@ -121,9 +122,10 @@ Note that my CFC returns the entire auth object, which is probably unnecessary. 
 </p>
 
 <p>
-You can run this demo here: <a href="http://www.raymondcamden.com/demos/2014/feb/20/test2.cfm">http://www.raymondcamden.com/demos/2014/feb/20/test2.cfm</a>
+You can run this demo here:
+<strike>http://www.raymondcamden.com/demos/2014/feb/20/test2.cfm</strike> <i>(Demo no longer available.)</i>
 </p>
 
 <p>
 I've included a full zip of the demo code below. As I said, the code isn't pretty but hopefully it can help others build something decent with Google+ Sign-In.
-</p><p><a href='enclosures/C%3A%5Chosts%5C2013%2Eraymondcamden%2Ecom%5Cenclosures%2Fgoogleplus1%2Ezip'>Download attached file.</a></p>
+</p><p><a href='https://static.raymondcamden.com/enclosures/googleplus1.zip'>Download attached file.</a></p>
