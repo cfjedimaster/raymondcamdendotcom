@@ -25,13 +25,13 @@ In my first post on building an Alexa skill, I talked a bit about the verificati
 * Compare the hash in the signature to a SHA-1 hash of entire raw request body.
 * Check the timestamp of request and reject it if older than 150 seconds.
 
-Yes - that is a bit batshit crazy. Luckily though there is a simple library you can use, [alexa-verifier](https://github.com/mreinstein/alexa-verifier). Jordan makes use of this in his post as part of an Express middleware, but obviously are OpenWhisk action is a bit different. 
+Yes - that is a bit batshit crazy. Luckily though there is a simple library you can use, [alexa-verifier](https://github.com/mreinstein/alexa-verifier). Jordan makes use of this in his post as part of an Express middleware, but obviously our OpenWhisk action is a bit different. 
 
 The verifier function requires three things:
 
-* A header called signaturecertchainurl.
-* A header called signature.
-* And the raw body of the post.
+* A header called signaturecertchainurl
+* A header called signature
+* The raw body of the post
 
 The last bit is the crucial bit. When using a web action, a JSON body is automatically parsed and available to your action as arguments. However, Amazon requires the original string as part of the verification process.
 
@@ -130,7 +130,7 @@ I'll skip over the bits that didn't change from before and focus on the updates.
 
 Going down, you can see I fetch the headers as well as the raw body. I convert it to ascii, JSON parse it, and then grab the request value. 
 
-Then - I run my required values through <code>alexaVerifier</code>, and here it just plain works. That's really all there is to it. (As an aside, I had some questions for the maintainer of that project and they were *very* quick to reply and try to help!)
+Then, I run my required values through <code>alexaVerifier</code>, and here it just plain works. That's really all there is to it. (As an aside, I had some questions for the maintainer of that project and they were *very* quick to reply and try to help!)
 
 The final changes were to how I worked with the data Alexa sent me. Previously I was used the args object, but as I described above, I needed to change my code to get this from the parsed body.
 
