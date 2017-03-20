@@ -9,8 +9,9 @@
 	"url": "/2017/03/20/my-openwhisk-alexa-skill-is-live"
 }
 
-I've blogged a few times now about my attempts to build an Alexa Skill with OpenWhisk (
-[An Introduction to Creating Alexa Skills with OpenWhisk](https://www.raymondcamden.com/2017/03/09/an-introduction-to-creating-alexa-skills-with-openwhisk) and [Creating Alexa Skills with OpenWhisk - Part Two](https://www.raymondcamden.com/2017/03/17/creating-alexa-skills-with-openwhisk-part-two)) and I'm happy to say today that my skill finally passed certification!
+I've blogged a few times now about my attempts to build an Alexa Skill with OpenWhisk (<a href="https://www.raymondcamden.com/2017/03/09/an-introduction-to-creating-alexa-skills-with-openwhisk">An Introduction to Creating Alexa Skills with OpenWhisk</a> and <a href="https://www.raymondcamden.com/2017/03/17/creating-alexa-skills-with-openwhisk-part-two">Creating Alexa Skills with OpenWhisk - Part Two</a>) and I'm happy to say today that my skill finally passed certification!
+
+<!--more-->
 
 ![Happy Letter of Happiness](https://static.raymondcamden.com/images/2017/3/alexa20a.png)
 
