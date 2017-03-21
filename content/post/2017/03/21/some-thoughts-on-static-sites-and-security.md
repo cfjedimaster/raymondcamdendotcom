@@ -49,3 +49,5 @@ More reading
 So those are my thoughts. I think - obviously - you can also do things like adding https, and I found a great article that covers those details here: [Which security measures make sense for a static web site?](https://security.stackexchange.com/questions/142496/which-security-measures-make-sense-for-a-static-web-site)
 
 I'd love to hear from people working with static sites in terms of what steps they are taking when it comes to security. Do you have a checklist? What do you look for? Let me know in the comments below!
+
+As a final note, don't forget that if you want to learn about static sites in general, the book I wrote with Brian Rinaldi was just released. I may be biased, but I think it's pretty great: [Working with Static Sites](http://shop.oreilly.com/product/0636920051879.do)
