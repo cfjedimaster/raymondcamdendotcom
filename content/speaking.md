@@ -11,33 +11,6 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 
 <h3>My Next Events</h3>
 
-<p>
-<a href="https://www.devnexus.com/s/index">Adding Dynamic Back to Static Site Generators</a><br/>
-DevNexus<br/>
-Atlanta, GA<br/>
-February 22-24, 2017
-</p>
-
-<p>
-<a href="https://forwardjs.com/">Serverless or Bust</a><br/>
-ForwardJS<br/>
-San Francisco, CA<br/>
-March 1, 2017
-</p>
-
-<p>
-<a href="http://mobilewebdevconference.com/san-francisco-2017/agenda/day-three-general-conference/1115-am">Best Practices for Apache Cordova/PhoneGap Development</a>
-Mobile+Web DevCon<br/>
-San Diego, CA<br/>
-March 1-3, 2017
-</p>
-
-<p>
-<a href="https://myibm.ibm.com/events/interconnect/all-sessions/session/1117A">Introduction to LoopBack</a><br/>
-InterConnect 2017<br/>
-Las Vegas, NV<br/>
-March 19-23, 2017
-</p>
 
 <p>
 <a href="https://www.intothebox.org/">Kick Your Server to the Curb and Go Serverless</a><br/>
@@ -154,3 +127,30 @@ Raleigh, NC<br/>
 February 4, 2017
 </p>
 
+<p>
+<a href="https://www.devnexus.com/s/index">Adding Dynamic Back to Static Site Generators</a><br/>
+DevNexus<br/>
+Atlanta, GA<br/>
+February 22-24, 2017
+</p>
+
+<p>
+<a href="https://forwardjs.com/">Serverless or Bust</a><br/>
+ForwardJS<br/>
+San Francisco, CA<br/>
+March 1, 2017
+</p>
+
+<p>
+<a href="http://mobilewebdevconference.com/san-francisco-2017/agenda/day-three-general-conference/1115-am">Best Practices for Apache Cordova/PhoneGap Development</a>
+Mobile+Web DevCon<br/>
+San Diego, CA<br/>
+March 1-3, 2017
+</p>
+
+<p>
+<a href="https://myibm.ibm.com/events/interconnect/all-sessions/session/1117A">Introduction to LoopBack</a><br/>
+InterConnect 2017<br/>
+Las Vegas, NV<br/>
+March 19-23, 2017
+</p>
