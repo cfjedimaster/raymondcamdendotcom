@@ -1,6 +1,6 @@
 
 {
-	"title": "Using IBM Watson Tone Analzyer in OpenWhisk",
+	"title": "Using IBM Watson Tone Analyzer in OpenWhisk",
 	"date": "2017-03-22T16:34:00-07:00",
 	"categories": [
 		"Serverless"
