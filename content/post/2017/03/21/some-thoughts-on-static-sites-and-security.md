@@ -34,7 +34,7 @@ You have to host your site, right? If the client puts those simple, flat files o
 
 For this site, I used [Netlify](https://www.netlify.com/) and [Amazon S3](https://aws.amazon.com/s3/). I trust the engineers behind these services much more than I trust myself, but I have to be aware of their services and pay attention to any security issues that may be found on them. The same would apply for GitHub too.  
 
-Speaking of GitHub, my site's public content is driven by checkins to my GitHub repo. If my credentials were hacked than that would be a vector to change the contents here. 
+Speaking of GitHub, my site's public content is driven by checkins to my GitHub repo. If my credentials were hacked then that would be a vector to change the contents here. 
 
 So yeah - I've removed ColdFusion, PHP, Mongo, etc from the equation, but I'm certainly *not* at 0% risk. 
 
