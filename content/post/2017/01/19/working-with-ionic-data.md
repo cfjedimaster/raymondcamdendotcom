@@ -10,6 +10,8 @@
 	"banner":"/images/banners/ionicdb.jpg"
 }
 
+<b>Edit on Match 30, 2017: Unfortunately, the Ionic folks decided to <i>not</i> ship the final version of this service. IonicDB is no more.</b>
+
 Today marks the launch of a new Ionic service, [IonicDB](http://docs.ionic.io/services/database/). For those 
 who fondly remember Parse (thanks again, Facebook), this will come as welcome news. IonicDB is a simple data storage
 system. It lets you store data in the cloud for your mobile apps and skip building a server just to handle simple data CRUD. It also
