@@ -12,6 +12,7 @@
 This post is just to clear up some things that confused me. Everything here is covered in the docs (mostly, although I think bits aren't 100% clear) but I wanted to get this down on (virtual) paper to help me remember.
 
 I am currently working on a set of OpenWhisk actions to work with [Elastic Search](https://www.elastic.co/). I haven't done anything with full text search since I last worked with Lucene and ColdFusion. It's something I always thought was kind of neat, but after moving to Node, I haven't really thought of it. My coworker, [Erin](http://erinmckean.com/), has been singing the praises of Elastic for a while now and this weekend I decided to look into it. 
+
 It's a bit rough to get started since everything requires a REST API call, but I used Postman to make that a bit easier and once I got started, I was pretty impressed. 
 
 Anyway, as I said, I'm working on some actions to work with an Elastic Search instance. You can see the current work here: https://github.com/cfjedimaster/Serverless-Examples/tree/master/elasticsearch
