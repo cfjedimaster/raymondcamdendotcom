@@ -119,4 +119,4 @@ And here is the result:
 
 ![Better error](https://static.raymondcamden.com/images/2017/4/ows3.png)
 
-Nice! The user of "error like" keys is arbitrary of course. I modified the reject to include `howBlue:"very"` and it was available in the result. It probably makes sense to follow a pattern like Carlos used above, just remember you can include additional stuff if you want as well.
+Nice! The use of "error like" keys is arbitrary of course. I modified the reject to include `howBlue:"very"` and it was available in the result. It probably makes sense to follow a pattern like Carlos used above, just remember you can include additional stuff if you want as well.
