@@ -14,9 +14,16 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 
 <p>
 <a href="https://www.intothebox.org/">Kick Your Server to the Curb and Go Serverless</a><br/>
-Into the Box<br/>
+<a href="https://www.intothebox.org/">Into the Box</a><br/>
 The Woodlands, TX<br/>
 April 26-28, 2017
+</p>
+
+<p>
+Introduction to LoopBack<br/>
+<a href="https://www.cloudfoundry.org/event/summit-silicon-valley-2017/">Cloud Foundry Summit Silicon Valley</a><br/>
+Santa Clara, CA<br/>
+June 13-15, 2017
 </p>
 
 <h3>My Past Events</h3>
