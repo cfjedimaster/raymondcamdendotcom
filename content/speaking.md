@@ -26,6 +26,13 @@ Santa Clara, CA<br/>
 June 13-15, 2017
 </p>
 
+<p>
+Kick your server to the curb with OpenWhisk<br/>
+<a href="http://www.kcdc.info/index.html">KCDC 2017</a><br/>
+Kansas City, MO<br/>
+August 3-4, 2017
+</p>
+
 <h3>My Past Events</h3>
 
 <a href="https://plus.google.com/u/0/events/cj9gq79q1nei2fmksdmhbjkkt1o">Working with Static Sites</a><br/>Online, July 1, 2015
