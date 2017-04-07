@@ -19,9 +19,7 @@ I began with a simple idea - an application that would allow you to quickly sear
 
 <p>
 
-<code>
-
-&lt;!DOCTYPE HTML&gt;
+<pre><code class="language-markup">&lt;!DOCTYPE HTML&gt;
 &lt;html&gt;
 &lt;head&gt;
 
@@ -60,7 +58,7 @@ p {
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -76,9 +74,7 @@ Now let's look at the code....
 
 <p>
 
-<code>
-
-var appid = "5252D701A7CE4B4F3C190F1403D2181F2C330F2E";
+<pre><code class="language-javascript">var appid = "5252D701A7CE4B4F3C190F1403D2181F2C330F2E";
 
 function init() {
 	document.addEventListener("deviceready", deviceready, true);
@@ -106,7 +102,7 @@ function deviceready() {
 
 	});
 }
-</code>
+</code></pre>
 
 <p>
 
@@ -130,9 +126,7 @@ That's a pretty important question, and I won't pretend to know the best answer 
 
 <p>
 
-<code>
-
-&lt;!DOCTYPE HTML&gt;
+<pre><code class="language-markup">&lt;!DOCTYPE HTML&gt;
 &lt;html&gt;
 &lt;head&gt;
 
@@ -176,7 +170,7 @@ p {
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -192,9 +186,7 @@ Ok, now let's take a look at the code.
 
 <p>
 
-<code>
-
-var appid = "5252D701A7CE4B4F3C190F1403D2181F2C330F2E";
+<pre><code class="language-javascript">var appid = "5252D701A7CE4B4F3C190F1403D2181F2C330F2E";
 
 function init() {
 	document.addEventListener("deviceready", deviceready, true);
@@ -255,7 +247,7 @@ function deviceready() {
 
 	});
 }
-</code>
+</code></pre>
 
 <p>
 
@@ -275,4 +267,8 @@ In the result handler, we can simply then grab the response object and assume th
 
 <p>
 
-That's it. If you want to play with this, I've included a zip of the Eclipse project. You will find the first draft in the assets folder as "www - Copy". You will also find an APK you can install. Note - I had JDK issues with the SpeechRecognizer Java file. So the version in my zip is slightly edited to get around that.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FVoiceSearch%2Ezip'>Download attached file.</a></p>
+That's it. If you want to play with this, I've included a zip of the Eclipse project. You will find the first draft in the assets folder as "www - Copy". You will also find an APK you can install. Note - I had JDK issues with the SpeechRecognizer Java file. So the version in my zip is slightly edited to get around that.
+
+<p>
+<a href="https://static.raymondcamden.com/enclosures/VoiceSearch%2Ezip">Download attached file.</a>
+</p>
