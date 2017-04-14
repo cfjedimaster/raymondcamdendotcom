@@ -61,28 +61,28 @@ I have not done a great job of tracking my various articles on other web sites, 
 <h3>My Books</h3>
 
 <p>
-<a href="http://shop.oreilly.com/product/0636920051879.do"><img src="https://static.raymondcamden.com/images/2017/3/ssglrg.jpg" style="float:left;max-width:175px;margin-right:10px" title="The Book!"></a>
-<a href="http://shop.oreilly.com/product/0636920043676.do"><img src="https://static.raymondcamden.com/images/books/clientsidedatastorage.jpg" title="Client-Side Data Storage" border="0" style="float:left;margin-right:10px;"></a>
+<a href="https://www.amazon.com/gp/product/B06XHGH789/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XHGH789&linkCode=as2&tag=raymondcamd06-20&linkId=f23f73d89dfe77d76a37e967d7e28cd0"><img src="https://static.raymondcamden.com/images/2017/3/ssglrg.jpg" style="float:left;max-width:175px;margin-right:10px" title="The Book!"></a>
+<a href="https://www.amazon.com/gp/product/1491935111/ref=as_li_tl?ie=UTF8&tag=raymondcamd06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491935111&linkId=239944c4f3cbf1e35ce47f4eb857b2a7"><img src="https://static.raymondcamden.com/images/books/clientsidedatastorage.jpg" title="Client-Side Data Storage" border="0" style="float:left;margin-right:10px;"></a>
 </p>
 <br clear="left">
 
 <p>
-<a href="https://www.manning.com/books/apache-cordova-in-action"><img src="https://static.raymondcamden.com/images/books/cordova.png" title="Apache Cordova in Action" border="0" style="float:left;margin-right:10px;"></a>
-<a href="https://www.packtpub.com/application-development/jquery-mobile-web-development-essentials-third-edition"><img src="https://static.raymondcamden.com/images/2016/03/jqm3small.jpg" style="float:left"></a>
+<a href="https://www.amazon.com/gp/product/1633430065/ref=as_li_tl?ie=UTF8&tag=raymondcamd06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1633430065&linkId=77fe8ca57d4789f895c2d1f7c20d8422"><img src="https://static.raymondcamden.com/images/books/cordova.png" title="Apache Cordova in Action" border="0" style="float:left;margin-right:10px;"></a>
+<a href="https://www.amazon.com/gp/product/178355505X/ref=as_li_tl?ie=UTF8&tag=raymondcamd06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=178355505X&linkId=f0cc46598be3d7c6fbe5c948703f9210"><img src="https://static.raymondcamden.com/images/2016/03/jqm3small.jpg" style="float:left"></a>
 </p>
 
 <br clear="left">
 
 Here are my older books - all related to ColdFusion:
 
-* <a href="https://www.amazon.com/dp/0321890965?tag=raymondcamden-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0321890965&adid=16B4PBXRWXZN17W0B6WJ&">Adobe ColdFusion Web Application Construction Kit: ColdFusion 10 Enhancements and Improvements</a>
+* <a href="https://www.amazon.com/gp/product/0321890965/ref=as_li_tl?ie=UTF8&tag=raymondcamd06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0321890965&linkId=c601a267bb7543b32d8e80509d9aa713">Adobe ColdFusion Web Application Construction Kit: ColdFusion 10 Enhancements and Improvements</a>
 * <a href="https://www.amazon.com/Adobe-ColdFusion-Web-Application-Construction/dp/032166034X/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=032166034X&pd_rd_r=5520TTRMZQCQJ71EWDED&pd_rd_w=AAxV1&pd_rd_wg=f1w3W&psc=1&refRID=5520TTRMZQCQJ71EWDED">Adobe ColdFusion 9 Web Application Construction Kit, Volume 1</a>
-* <a href="https://www.amazon.com/dp/0321679199?tag=raymondcamden-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0321679199&adid=04ZV529JDG6S4P5SZ5MR&">Adobe ColdFusion 9 Web Application Construction Kit, Volume 2</a>
+* <a href="https://www.amazon.com/dp/0321679199?tag=raymondcamd06-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0321679199&adid=04ZV529JDG6S4P5SZ5MR&">Adobe ColdFusion 9 Web Application Construction Kit, Volume 2</a>
 * <a href="https://www.amazon.com/Adobe-ColdFusion-Web-Application-Construction/dp/0321679202/ref=pd_bxgy_14_2?_encoding=UTF8&pd_rd_i=0321679202&pd_rd_r=P4K188FBB2SGNYGFFZCQ&pd_rd_w=ScYXo&pd_rd_wg=EvvwP&psc=1&refRID=P4K188FBB2SGNYGFFZCQ">Adobe ColdFusion 9 Web Application Construction Kit, Volume 3</a>
 * <a href="https://www.amazon.com/Adobe-ColdFusion-Web-Application-Construction/dp/032151548X/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=032151548X&pd_rd_r=FMPTKWNZBEYMQTFTVE02&pd_rd_w=SWQY2&pd_rd_wg=RebJX&psc=1&refRID=FMPTKWNZBEYMQTFTVE02">Adobe ColdFusion 8 Web Application Construction Kit, Volume 1</a>
-* <a href="https://www.amazon.com/dp/0321515463?tag=raymondcamden-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0321515463&adid=0WHKCS86JPVDVR9N8CXH&">Adobe ColdFusion 8 Web Application Construction Kit, Volume 2</a>
+* <a href="https://www.amazon.com/dp/0321515463?tagraymondcamd06-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0321515463&adid=0WHKCS86JPVDVR9N8CXH&">Adobe ColdFusion 8 Web Application Construction Kit, Volume 2</a>
 * <a href="https://www.amazon.com/Adobe-ColdFusion-Web-Application-Construction/dp/0321515471/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0321515471&pd_rd_r=FMPTKWNZBEYMQTFTVE02&pd_rd_w=SWQY2&pd_rd_wg=RebJX&psc=1&refRID=FMPTKWNZBEYMQTFTVE02">Adobe ColdFusion 8 Web Application Construction Kit, Volume 2</a>
-* <a href="https://www.amazon.com/dp/0321223675?tag=raymondcamden-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0321223675&adid=0MBYWXV24ZE426NSEKMR&">Macromedia ColdFusion MX 7 Web Application Construction Kit</a>
-* <a href="https://www.amazon.com/dp/0782141242?tag=raymondcamden-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0782141242&adid=1BD7HCTKJKJ8ADDWJJX6&">Mastering ColdFusion MX</a>
-* <a href="https://www.amazon.com/dp/0782141242?tag=raymondcamden-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0782141242&adid=1BD7HCTKJKJ8ADDWJJX6&">ColdFusion MX Developer's Handbook</a>
-* <a href="https://www.amazon.com/dp/0789723654?tag=raymondcamden-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0789723654&adid=01EA7WVK43ZQHYFQKKDH&">Allaire Spectra e-Business Construction Kit</a>
+* <a href="https://www.amazon.com/dp/0321223675?tag=raymondcamd06-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0321223675&adid=0MBYWXV24ZE426NSEKMR&">Macromedia ColdFusion MX 7 Web Application Construction Kit</a>
+* <a href="https://www.amazon.com/dp/0782141242?tag=raymondcamd06-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0782141242&adid=1BD7HCTKJKJ8ADDWJJX6&">Mastering ColdFusion MX</a>
+* <a href="https://www.amazon.com/dp/0782141242?tag=raymondcamd06-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0782141242&adid=1BD7HCTKJKJ8ADDWJJX6&">ColdFusion MX Developer's Handbook</a>
+* <a href="https://www.amazon.com/dp/0789723654?tag=raymondcamd06-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0789723654&adid=01EA7WVK43ZQHYFQKKDH&">Allaire Spectra e-Business Construction Kit</a>

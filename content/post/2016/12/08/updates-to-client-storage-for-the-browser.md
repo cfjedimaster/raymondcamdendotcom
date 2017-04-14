@@ -13,7 +13,7 @@
 **I made some edits to this post after some feedback from Dru Knox, a Chrome PM. I've marked them with "Edit:", so 
 please be sure to note those changes!**
 
-I've been interested in client-side storage for a few years now. (And in fact, last year I wrote a [book](https://www.amazon.com/Client-Side-Data-Storage-Keeping-Local/dp/1491935111/ref=as_sl_pc_qf_sp_asin_til?tag=raymondcamden-20&linkCode=w00&linkId=URSVDLKI2FLVLMFM&creativeASIN=1491935111) on it as well.) When I first began to dig into the topic, my focus was on the various APIs themselves. In other words, what were the mechanics of actually storing
+I've been interested in client-side storage for a few years now. (And in fact, last year I wrote a [book](https://www.amazon.com/Client-Side-Data-Storage-Keeping-Local/dp/1491935111/ref=as_sl_pc_qf_sp_asin_til?tag=raymondcamd06-20&linkCode=w00&linkId=URSVDLKI2FLVLMFM&creativeASIN=1491935111) on it as well.) When I first began to dig into the topic, my focus was on the various APIs themselves. In other words, what were the mechanics of actually storing
 and retrieving data. What I found is that we had multiple options, some easier than others, but in general, it was pretty cool to have a way 
 to store data on the client for both performance and offline support. 
 <!--more-->

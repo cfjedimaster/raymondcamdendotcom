@@ -43,6 +43,6 @@ On the desktop, I'd probably lean more towards IDB. Support is pretty solid and 
 
 Of course, an even easier solution would be to consider [PouchDB](https://pouchdb.com/), which abstracts away these details and picks the "best solution" for your current browser. I haven't used it a lot as the biggest feature of it is "sync", and generally I'm more concerned about just the local storage, but from everything I've seen it is a damn good solution and incredibly well supported.
 
-Want to learn more? (Warning - advertisment!) You can purchase a <a href="http://shop.oreilly.com/product/0636920043638.do">2+ hour video series</a> on the topic I created for O'Reilly or purchase <a href="https://www.amazon.com/Client-Side-Data-Storage-Keeping-Local/dp/1491935111?ie=UTF8&creativeASIN=1491935111&linkCode=w00&linkId=URSVDLKI2FLVLMFM&ref_=as_sl_pc_qf_sp_asin_til&tag=raymondcamden-20">the book</a> I wrote on the topic. (Or both. ;)
+Want to learn more? (Warning - advertisment!) You can purchase a <a href="http://shop.oreilly.com/product/0636920043638.do">2+ hour video series</a> on the topic I created for O'Reilly or purchase <a href="https://www.amazon.com/Client-Side-Data-Storage-Keeping-Local/dp/1491935111?ie=UTF8&creativeASIN=1491935111&linkCode=w00&linkId=URSVDLKI2FLVLMFM&ref_=as_sl_pc_qf_sp_asin_til&tag=raymondcamd06-20">the book</a> I wrote on the topic. (Or both. ;)
 
 <img src="https://static.raymondcamden.com/images/wp-content/uploads/2016/01/lrg.jpg" style="max-width:333px">
