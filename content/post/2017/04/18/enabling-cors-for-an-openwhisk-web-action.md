@@ -45,4 +45,4 @@ $.getJSON('https://openwhisk.ng.bluemix.net/api/v1/web/rcamden@us.ibm.com_My%20S
 
 I also think it would be valid to build this as a sequence. So you could have webFoo being the action, comprised of a sequence of foo + webify (or some such) where foo represents the real business logic and webify handles the 'complex' output required to return the result. 
 
-Thank you to @akrabat on the [OpenWhisk Slack](http://openwhisk-team.slack.com) for helping me figure this out!
+Thank you to [@akrabat](https://akrabat.com/) on the [OpenWhisk Slack](http://openwhisk-team.slack.com) for helping me figure this out!
