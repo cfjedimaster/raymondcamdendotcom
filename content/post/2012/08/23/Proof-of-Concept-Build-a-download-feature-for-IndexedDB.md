@@ -27,9 +27,9 @@ The third and final step is to stream it to the user. Fellow Adobian Christian C
 
 Simple enough? I decided to begin with an earlier application I wrote that allowed for simple Note creation. If you've got a recent Firefox installed, you can play with it right now:
 
-<a href="http://www.raymondcamden.com/demos/2012/aug/23/test.html">http://www.raymondcamden.com/demos/2012/aug/23/test.html</a>
+<a href="https://static.raymondcamden.com/demos/2012/aug/23/test.html">https://static.raymondcamden.com/demos/2012/aug/23/test.html</a>
 
-This will not work in Chrome... sometimes... due to the issue I reported <a href="http://www.raymondcamden.com/index.cfm/2012/6/12/Issues-with-IndexedDB-and-Chrome">here</a>. Oddly - Google Canary, on <b>Mac</b> only, seems to work now - perfectly. That's the main browser I used for testing. But the <b>exact</b> same Canary on Windows did not work. Confusing - I know. 
+This will not work in Chrome... sometimes... due to the issue I reported <a href="https://www.raymondcamden.com/2012/06/12/Issues-with-IndexedDB-and-Chrome">here</a>. Oddly - Google Canary, on <b>Mac</b> only, seems to work now - perfectly. That's the main browser I used for testing. But the <b>exact</b> same Canary on Windows did not work. Confusing - I know. 
 
 Even if you aren't using a browser that will handle the demo, I encourage you to hit the page and view source. I'm going to be sharing lots of snippets as we go on.
 
