@@ -11,7 +11,7 @@
 
 I've been thinking a lot lately about sequences and OpenWhisk. A few weeks ago I [blogged](https://www.raymondcamden.com/2017/04/07/from-actions-to-sequences-to-services) about how well sequences work to let you "mix and match" different actions into new creations. Today I'm writing about another powerful feature of sequences, that as "Input/Output Providers". I'm not necessarily sold on that name, but hopefully my blog post will make it clear what I'm talking about.
 
-Back when I first blogged on OpenWhisk (["Going Serverless with OpenWhisk"](https://www.raymondcamden.com/2016/12/23/going-serverless-with-openwhisk), I mentioned how the platform has support for automatically recognizing some of the services you add to [Bluemix](https://www.ibm.com/cloud-computing/bluemix/). In that post, I mentioned how when I added a Cloudant service, OpenWhisk automatically provisioned an instance of the Cloudant package with my credentials pre-set. This meant I could do full CRUD with Cloudant on OpenWhisk and not have to specify any authentication.
+Back when I first blogged on OpenWhisk (["Going Serverless with OpenWhisk"](https://www.raymondcamden.com/2016/12/23/going-serverless-with-openwhisk)), I mentioned how the platform has support for automatically recognizing some of the services you add to [Bluemix](https://www.ibm.com/cloud-computing/bluemix/). In that post, I mentioned how when I added a Cloudant service, OpenWhisk automatically provisioned an instance of the Cloudant package with my credentials pre-set. This meant I could do full CRUD with Cloudant on OpenWhisk and not have to specify any authentication.
 
 Cool!
 
