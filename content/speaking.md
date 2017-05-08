@@ -11,19 +11,18 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 
 <h3>My Next Events</h3>
 
-
 <p>
-<a href="https://www.intothebox.org/">Kick Your Server to the Curb and Go Serverless</a><br/>
-<a href="https://www.intothebox.org/">Into the Box</a><br/>
-The Woodlands, TX<br/>
-April 26-28, 2017
+Introduction to LoopBack and a Serverless talk<br/>
+<a href="http://gluecon.com">Gluecon</a><br/>
+Denver, CO<br/>
+May 24-25, 2017
 </p>
 
 <p>
-Introduction to LoopBack<br/>
-<a href="https://www.cloudfoundry.org/event/summit-silicon-valley-2017/">Cloud Foundry Summit Silicon Valley</a><br/>
-Santa Clara, CA<br/>
-June 13-15, 2017
+Kick Your Server to the Curb with OpenWhisk and Node.js for ColdFusion Developers<br/>
+<a href="http://www.cfobjective.com/">cfObjective</a><br/>
+Washington, DC<br/>
+July 20-21, 2017
 </p>
 
 <p>
@@ -167,4 +166,11 @@ March 1-3, 2017
 InterConnect 2017<br/>
 Las Vegas, NV<br/>
 March 19-23, 2017
+</p>
+
+<p>
+<a href="https://www.intothebox.org/">Kick Your Server to the Curb and Go Serverless</a><br/>
+<a href="https://www.intothebox.org/">Into the Box</a><br/>
+The Woodlands, TX<br/>
+April 26-28, 2017
 </p>
