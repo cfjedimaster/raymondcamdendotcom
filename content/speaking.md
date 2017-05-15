@@ -12,13 +12,6 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
-Introduction to LoopBack and a Serverless talk<br/>
-<a href="http://gluecon.com">Gluecon</a><br/>
-Denver, CO<br/>
-May 24-25, 2017
-</p>
-
-<p>
 Kick Your Server to the Curb with OpenWhisk and Node.js for ColdFusion Developers<br/>
 <a href="http://www.cfobjective.com/">cfObjective</a><br/>
 Washington, DC<br/>
