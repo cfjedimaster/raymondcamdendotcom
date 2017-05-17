@@ -2,14 +2,6 @@
 <section id="main">
     <article id="page-undefined" class="article article-type-page" itemscope="" itemprop="blogPost">
 
-		{{ if eq .Type "post" }}
-
-		<p><a href="https://hostek.com/#raycamden">
-			<img src="https://static.raymondcamden.com/images/ht_banner_camden_v2r3.jpg" class="centered" style="margin-bottom:10px;max-width:100%">
-		</a></p>
-
-		{{ end }}
-
         <div class="article-inner">
             {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
             <img src="https://static.raymondcamden.com{{ .Params.banner }}" class="article-banner" title="{{ .Title }}">
