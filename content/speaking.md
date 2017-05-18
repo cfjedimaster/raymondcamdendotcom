@@ -12,6 +12,12 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
+<a href="https://engage.vevent.com/index.jsp?eid=556&seid=90389">Go Serverless with OpenWhisk</a><br/>
+Online (and free!)<br/>
+June 7, 2017, 12:00PM CST
+</p>
+
+<p>
 Kick Your Server to the Curb with OpenWhisk and Node.js for ColdFusion Developers<br/>
 <a href="http://www.cfobjective.com/">cfObjective</a><br/>
 Washington, DC<br/>
