@@ -66,4 +66,4 @@ And that - as they say - is basically it. To summarize:
 <li>PhoneGap then simply uses Ajax to fetch that data.
 </ul>
 
-I've attached a zip of all the code used for this blog post below. If any part of this doesn't make sense, let me know, and I hope this was helpful.<p><a href='/enclosures/conversion.zip'>Download attached file.</a></p>
+I've attached a zip of all the code used for this blog post below. If any part of this doesn't make sense, let me know, and I hope this was helpful.<p><a href='https://static.raymondcamden.com/enclosures/conversion.zip'>Download attached file.</a></p>
