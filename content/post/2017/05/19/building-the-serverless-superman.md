@@ -21,11 +21,15 @@ So yes - I built something stupid again. Recently I discovered the awesomeness t
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ht" dir="ltr">Senior Developer – C#, .NET, IoT, Batman <a href="https://t.co/ulcL5zwotr">https://t.co/ulcL5zwotr</a> Job Essex</p>&mdash; Big Data Batman (@BigDataBatman) <a href="https://twitter.com/BigDataBatman/status/865616690796613632">May 19, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*That last one is a bit subtle.*
+<p>
+<i>That last one is a bit subtle.</i>
+</p>
 
-I thought it would be fun to build something similar for serverless, and obviously, I had to name it [Serverless Superman](https://twitter.com/serverlesssuper).
+I thought it would be fun to build something similar for serverless, and obviously, I had to name it <a href="https://twitter.com/serverlesssuper">Serverless Superman</a>.
 
-![The man, the myth, the legend...](https://static.raymondcamden.com/images/2017/5/ss1.jpg)
+<p>
+<img src="https://static.raymondcamden.com/images/2017/5/ss1.jpg" title="The man, the myth, the legend...">
+</p>
 
 Alright, so how did I build this? My basic idea was this:
 
