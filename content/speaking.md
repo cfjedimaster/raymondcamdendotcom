@@ -18,6 +18,13 @@ June 7, 2017, 12:00PM CST
 </p>
 
 <p>
+<a href="https://www.facebook.com/events/1920692501553535/?acontext=%7B%22ref%22%3A%224%22%2C%22action_history%22%3A%22null%22%7D">OpenWhisk Talk</a></br>
+Acadiana Software Group<br/>
+433 Jefferson St, Lafayette, Louisiana 70501
+June 14, 2017, 6:30PM
+</p>
+
+<p>
 Kick Your Server to the Curb with OpenWhisk and Node.js for ColdFusion Developers<br/>
 <a href="http://www.cfobjective.com/">cfObjective</a><br/>
 Washington, DC<br/>
