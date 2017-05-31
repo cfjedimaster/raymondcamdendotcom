@@ -21,14 +21,13 @@ They are - like most things in jQuery Mobile - incredibly simple to use. Just wr
 
 <p>
 
-<code>
-&lt;div data-role="collapsible"&gt;   
+<pre><code class="language-markup">&lt;div data-role="collapsible"&gt;   
     	&lt;h1&gt;Item One&lt;/h1&gt;
     	&lt;p&gt;
     	This is my content.
     	&lt;/p&gt;
 &lt;/div&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -36,14 +35,13 @@ And that's it. Really. If you want to make the content default to collapsed, you
 
 <p>
 
-<code>
-&lt;div data-role="collapsible" data-collapsed="true"&gt;   
+<pre><code class="language-markup">&lt;div data-role="collapsible" data-collapsed="true"&gt;   
     	&lt;h1&gt;Item One&lt;/h1&gt;
     	&lt;p&gt;
     	This is my content.
     	&lt;/p&gt;
 &lt;/div&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -51,13 +49,12 @@ Ok, so that's <i>incredibly</i> trivial. What isn't so trivial is how to make th
 
 <p>
 
-<code>
-$('div').live('expand', function(){
+<pre><code class="language-javascript">$('div').live('expand', function(){
     console.log('expand');
   }).live('collapse', function(){
     console.log('collapse');
 });
-</code>
+</code></pre>
 
 <p>
 
@@ -65,8 +62,7 @@ Easy enough, right? So I whipped up a super simple static front page:
 
 <p>
 
-<code>
-&lt;!DOCTYPE html&gt; 
+<pre><code class="language-markup">&lt;!DOCTYPE html&gt; 
 &lt;html&gt; 
 	&lt;head&gt; 
 	&lt;title&gt;Page Title&lt;/title&gt; 
@@ -114,7 +110,7 @@ Easy enough, right? So I whipped up a super simple static front page:
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -122,18 +118,11 @@ I've got two collapsible items here - hard coded. Normally this would probably b
 
 <p>
 
-<code>
-&lt;cfparam name="url.record" default=""&gt;
+<pre><code class="language-markup">&lt;cfparam name="url.record" default=""&gt;
 
 &lt;cfoutput&gt;
 This is dynamic data for record #url.record#
 &lt;/cfoutput&gt;
-</code>
+</code></pre>
 
-<p>
 
-Click the pretty demo button below to see this in action:
-
-<p>
-
-<a href="http://www.raymondcamden.com/demos/april52011/test.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby, and visit my wishlist or ELSE!" border="0"></a>
