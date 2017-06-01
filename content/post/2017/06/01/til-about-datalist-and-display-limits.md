@@ -94,7 +94,7 @@ First notice that it contracts the list UI a bit. I like this as it feels like a
 
 Notice that I'm only seeing AA20. It looks like Firefox limits the list items to 20. This seems a bit weird since they are already keeping the UI nice and small and providing a scrollbar, but, yep, that's exactly what the reader ran into. If I type AA2, I can finally see all the matching items:
 
-<img src="https://static.raymondcamden.com/images/2017/6/dl5.jpg" title="DL5" class="imgborder">
+<img src="https://static.raymondcamden.com/images/2017/6/dl5.png" title="DL5" class="imgborder">
 
 So yeah... there ya go. And as Šime had warned me on Twitter, this is definitely a feature that is a bit up in the air right now. Would I avoid datalist? No - I still think it is useful and it degrades nicely in my opinion, but definitely keep this in mind. If you were using Ajax along with the control, you could wait till you have enough input that has 20 or fewer matches, or even add a warning dynamically next to the control.
 
