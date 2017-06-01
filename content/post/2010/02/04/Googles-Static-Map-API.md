@@ -33,7 +33,7 @@ I tried a PDF version and noticed something odd. Whenever I embedded the URL dir
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfset key = "ABQIAAAAnKqaqda06cMGIKQ6i1ekrRT2yXp_ZAY8_ufC3CFXhHIE1NvwkxT2gB6zcbOMt6hlm0jA8TKTSu9K3g"&gt;
 &lt;cfset size = "400x400"&gt;
 &lt;cfset loc = "Lafayette, LA"&gt;
@@ -58,7 +58,7 @@ fjdsk lfjklsdjf jfkdklfklsjkf l dskfd kslfklf klfklk lfkldsfklfk lsdfkljsdfkls
 &lt;/cfdocument&gt;
 
 &lt;cfset fileWrite(expandPath("./googlemap.pdf"), mypdf)&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -66,11 +66,11 @@ I even whipped up a quick UDF to make it simpler to use:
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 function getStaticMap(string key, string address, string size, numeric zoom) {
 	return "http://maps.google.com/maps/api/staticmap?center=#urlEncodedFormat(arguments.address)#&zoom=#arguments.zoom#&key=#urlEncodedFormat(arguments.key)#&sensor=false&size=#arguments.size#";
 }
-</code>
+</code></pre>
 
 <p>
 
