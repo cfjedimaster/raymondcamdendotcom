@@ -28,8 +28,8 @@ I asked on Twitter and got two good tips - one from [Wes Bos](http://wesbos.com/
 
 <ol>
 <li> Get the raw body.
-<li>Convert that string into a stream using [string-to-stream](https://www.npmjs.com/package/string-to-stream).
-<li>Pass that steam to [parted](https://github.com/chjj/parted), which seemed like the most low level, simplest multipart form parser. 
+<li>Convert that string into a stream using <a href="https://www.npmjs.com/package/string-to-stream">string-to-stream</a>.
+<li>Pass that steam to <a href="https://github.com/chjj/parted">parted</a>, which seemed like the most low level, simplest multipart form parser. 
 </ol>
 
 This was all pretty frustrating and it seemed like there must be *some* library that would just let me pass a giant multipart string to it (and there probably is!), but I couldn't find a "one shot" solution.
