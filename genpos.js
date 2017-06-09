@@ -1,11 +1,26 @@
 #!/usr/bin/env node
 var fs = require('fs');
-if(process.argv.length != 3) {
-	console.log('Usage: genpos TITLE');
+if(process.argv.length < 3) {
+	console.log('Usage: genpos TITLE [CATEGORIES] [TAGS]');
 	process.exit(1);
 }
 
 var title = process.argv[2];
+
+if(process.argv.length >= 4) { 
+	categories = process.argv[3].split(',').map((cat) => {
+		return '"' + cat + '"';
+	}).join(',');
+} else {
+	categories = '"Uncategorized"';
+}
+if(process.argv.length >= 5) { 
+	tags = process.argv[4].split(',').map((tag) => {
+		return '"' + tag + '"';
+	}).join(',');
+} else {
+	tags = "";
+}
 
 var now = new Date();
 var year = now.getFullYear();
@@ -29,14 +44,13 @@ slug = slug.replace(/-{2,}/,'-');
 slug = slug.replace(/[^\w\-]+/g,'');
 
 //default template
-var template = `
-{
+var template = `{
 	"title": "${title}",
 	"date": "${date}",
 	"categories": [
-		"Uncategorized"
+		${categories}
 	],
-	"tags": [],
+	"tags": [${tags}],
 	"url": "/${year}/${month}/${day}/${slug}"
 }`;
 
@@ -73,6 +87,11 @@ try {
 }
 
 var fileName = slug + '.md';
+if(fs.existsSync(path+'/'+fileName)) {
+	console.log('POST NOT WRITTEN: '+path+'/'+fileName+ ' already exists.');
+	process.exit();
+}
+
 fs.writeFileSync(path+'/'+fileName, template,'utf8');
 
 console.log('Created '+path+'/'+fileName);
