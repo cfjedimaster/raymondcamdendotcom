@@ -58,8 +58,7 @@ There's nothing out of the ordinary here. This action will basically just echo w
 
 So given you've deployed this to OpenWhisk as `corsenabler`, to "expose" our cat API, all we do is this:
 
-	wsk action create --sequence isGoodCatAPI isGoodCat,enab
-lecors --web true
+	wsk action create --sequence isGoodCatAPI isGoodCat,enablecors --web true
 
 And that's it - you're done. You can see mine here (although there's no promise it will be up forever): https://openwhisk.ng.bluemix.net/api/v1/web/rcamden@us.ibm.com_My%20Space/default/isGoodCatAPI
 
