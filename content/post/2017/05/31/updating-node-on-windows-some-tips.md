@@ -5,7 +5,7 @@
 	"categories": [
 		"JavaScript"
 	],
-	"tags": ["node"],
+	"tags": ["nodejs"],
 	"url": "/2017/05/31/updating-nodejs-on-windows-some-tips"
 }
 
