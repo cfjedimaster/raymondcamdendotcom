@@ -28,7 +28,7 @@ That may be a bit hard to read in a screenshot so I've created a PDF export of t
 
 I'm *not* hosting this application live on the Internet as I'd be charged for usage, but you can find the complete source code for it on my GitHub here: https://github.com/cfjedimaster/recogtester
 
-Alright, first I'm going to dig into the code, and then I'll talk about the services and how easy/hard it was to make use of them. Disclaimer - at the time I wrote this blog entry I worked for IBM, so my opinion is biased. 
+Alright, first I'm going to dig into the code, and then I'll talk about the services and how easy/hard it was to make use of them. Disclaimer - I work for IBM, so my opinion may be biased. 
 
 The Server
 ===
