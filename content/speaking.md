@@ -12,19 +12,6 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
-<a href="https://engage.vevent.com/index.jsp?eid=556&seid=90389">Go Serverless with OpenWhisk</a><br/>
-Online (and free!)<br/>
-June 7, 2017, 12:00PM CST
-</p>
-
-<p>
-<a href="https://www.facebook.com/events/1920692501553535/?acontext=%7B%22ref%22%3A%224%22%2C%22action_history%22%3A%22null%22%7D">OpenWhisk Talk</a></br>
-Acadiana Software Group<br/>
-433 Jefferson St, Lafayette, Louisiana 70501
-June 14, 2017, 6:30PM
-</p>
-
-<p>
 Kick Your Server to the Curb with OpenWhisk and Node.js for ColdFusion Developers<br/>
 <a href="http://www.cfobjective.com/">cfObjective</a><br/>
 Washington, DC<br/>
@@ -37,6 +24,26 @@ Kick your server to the curb with OpenWhisk<br/>
 Kansas City, MO<br/>
 August 3-4, 2017
 </p>
+
+<p>
+Going Serverless with OpenWhisk<br/>
+<a href="http://connect.tech/">connect.tech</a><br/>
+Atlanta, GA<br/>
+September 20-22, 2017
+</p>
+
+<p>
+Building a Progressive Web App - a Practical Example<br/>
+<a href="http://ncdevcon.com/">NCDevCon</a><br/>
+Raleigh, NC<br/>
+October 7-8, 2017
+</p>
+
+<p>
+TBD<br/>
+<a href="https://allthingsopen.org/">All Things Open</a><br/>
+Raleigh, NC<br/>
+October 23-24, 2017
 
 <h3>My Past Events</h3>
 
@@ -179,4 +186,17 @@ March 19-23, 2017
 <a href="https://www.intothebox.org/">Into the Box</a><br/>
 The Woodlands, TX<br/>
 April 26-28, 2017
+</p>
+
+<p>
+<a href="https://engage.vevent.com/index.jsp?eid=556&seid=90389">Go Serverless with OpenWhisk</a><br/>
+Online (and free!)<br/>
+June 7, 2017, 12:00PM CST
+</p>
+
+<p>
+<a href="https://www.facebook.com/events/1920692501553535/?acontext=%7B%22ref%22%3A%224%22%2C%22action_history%22%3A%22null%22%7D">OpenWhisk Talk</a></br>
+Acadiana Software Group<br/>
+433 Jefferson St, Lafayette, Louisiana 70501
+June 14, 2017, 6:30PM
 </p>
