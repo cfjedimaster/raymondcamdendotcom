@@ -47,7 +47,9 @@ October 23-24, 2017
 
 <h3>My Past Events</h3>
 
+<p>
 <a href="https://plus.google.com/u/0/events/cj9gq79q1nei2fmksdmhbjkkt1o">Working with Static Sites</a><br/>Online, July 1, 2015
+</p>
 
 <a href="http://www.meetup.com/ionic_dallas/events/223045527/">Ionic Dallas</a><br/>Dallas, Texas, July 7, 2015
 
@@ -168,7 +170,7 @@ March 1, 2017
 </p>
 
 <p>
-<a href="http://mobilewebdevconference.com/san-francisco-2017/agenda/day-three-general-conference/1115-am">Best Practices for Apache Cordova/PhoneGap Development</a>
+<a href="http://mobilewebdevconference.com/san-francisco-2017/agenda/day-three-general-conference/1115-am">Best Practices for Apache Cordova/PhoneGap Development</a><br/>
 Mobile+Web DevCon<br/>
 San Diego, CA<br/>
 March 1-3, 2017
