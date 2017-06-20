@@ -40,7 +40,7 @@ October 7-8, 2017
 </p>
 
 <p>
-TBD<br/>
+Destroy the App Server!<br/>
 <a href="https://allthingsopen.org/">All Things Open</a><br/>
 Raleigh, NC<br/>
 October 23-24, 2017
