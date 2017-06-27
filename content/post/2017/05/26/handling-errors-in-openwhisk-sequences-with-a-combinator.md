@@ -24,7 +24,7 @@ Unfortunately what I've described above isn't quite possible yet, but you can ge
 
 Instead of copying and pasting the result in, I'll format it a bit. Here are the actions:
 
-* <strong>/whisk.system/combinators/eca</strong> Event-Condition-Action: run condition action and iff result is successful, run action.    (parameters: $actionName, $conditionName)
+* <strong>/whisk.system/combinators/eca</strong> Event-Condition-Action: run condition action and if result is successful, run action.    (parameters: $actionName, $conditionName)
 * <strong>/whisk.system/combinators/retry</strong> Retry invoking an action until success or attempt count is exhausted, which ever comes first. (parameters: $actionName, $attempts)
 * <strong>/whisk.system/combinators/forwarder</strong> Forward parameters around another action. (parameters: $actionArgs, $actionName, $forward)
 * <strong>/whisk.system/combinators/trycatch</strong> Wraps an action with a try-catch. If the action fails, invokes a second action to handle the error. (parameters: $catchName, $tryName)
