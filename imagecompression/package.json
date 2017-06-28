@@ -1,0 +1,19 @@
+{
+  "name": "imagecompression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-image": "^2.4.0",
+    "grunt-image-resize": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond Camden <raymondcamden@gmail.com> (https://www.raymondcamden.com)",
+  "license": "ISC"
+}

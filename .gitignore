@@ -2,3 +2,4 @@ public/
 static/.netlify
 debug.log
 .vscode/
+node_modules/
