@@ -19,8 +19,9 @@ If you find this information useful (currently at {{% numposts %}} posts), pleas
 I have not done a great job of tracking my various articles on other web sites, but I hope to correct that now. Consider the list below a beginning (as of July 2013) and certainly <i>not</i> a complete list.
 
 <ul>
-<li><a href="http://developer.telerik.com/topics/mobile-development/web-standards-mobile-caught-phonegap-2017-pt-2/">Have Web Standards on Mobile Caught Up to Phonegap in 2017? Pt. 2</a></li>
-<li><a href="http://developer.telerik.com/topics/mobile-development/have-web-standards-on-mobile-caught-up-to-phonegap-in-2017/">Have Web Standards on Mobile Caught Up to Phonegap in 2017? Pt. 1</a></li>
+<li><a href="http://developer.telerik.com/topics/cloud/why-serverless/">Why Serverless?</a> for the Telerik Developer Network</li>
+<li><a href="http://developer.telerik.com/topics/mobile-development/web-standards-mobile-caught-phonegap-2017-pt-2/">Have Web Standards on Mobile Caught Up to Phonegap in 2017? Pt. 2</a> for the Telerik Developer Network</li>
+<li><a href="http://developer.telerik.com/topics/mobile-development/have-web-standards-on-mobile-caught-up-to-phonegap-in-2017/">Have Web Standards on Mobile Caught Up to Phonegap in 2017? Pt. 1</a> for the Telerik Developer Network</li>
 <li><a href="https://developer.ibm.com/apiconnect/2017/01/17/best-practices-for-developers-learning-loopback/">Best Practices for Developers Learning Loopback</a> for IBM developerWorks</li>
 <li><a href="https://dzone.com/guides/web-development-applications-and-frameworks">Web Development: Applications and Frameworks</a> for DZone</li>
 <li><a href="http://developer.telerik.com/featured/building-node-based-apis-loopback-framework">Building Node-based APIs with the LoopBack Framework</a> for Telerik Developer Network</li>
