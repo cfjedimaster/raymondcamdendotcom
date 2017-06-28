@@ -2,7 +2,7 @@
 	"title": "Monitoring OpenWhisk Activity",
 	"date": "2017-06-16T08:44:00-07:00",
 	"categories": [
-		"serverless"
+		"Serverless"
 	],
 	"tags": ["openwhisk"],
 	"url": "/2017/06/16/monitoring-openwhisk-activity"

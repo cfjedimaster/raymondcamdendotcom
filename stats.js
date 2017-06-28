@@ -42,12 +42,14 @@ years.forEach((year) => {
 				let fmData = JSON.parse(fm);
 				if(fmData.categories) {
 					fmData.categories.forEach((cat) => {
+						cat = cat.toLowerCase();
 						if(!data.categories[cat]) data.categories[cat] = 0;
 						data.categories[cat]++;
 					});
 				}
 				if(fmData.tags) {
 					fmData.tags.forEach((tag) => {
+						tag = tag.toLowerCase();
 						if(!data.tags[tag]) data.tags[tag] = 0;
 						data.tags[tag]++;
 					});

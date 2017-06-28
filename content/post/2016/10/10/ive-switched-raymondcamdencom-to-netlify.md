@@ -3,7 +3,7 @@
 	"title": "I've switched RaymondCamden.com to Netlify",
 	"date": "2016-10-10T08:06:00-07:00",
 	"categories": [
-		"Static-Sites"
+		"Static Sites"
 	],
 	"tags": [],
 	"url": "/2016/10/10/ive-switched-raymondcamdencom-to-netlify"

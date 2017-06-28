@@ -2,7 +2,7 @@
 	"title": "Serverless Demo - Random Comic Book Character via Comic Vine API",
 	"date": "2017-06-19T11:39:00-07:00",
 	"categories": [
-		"serverless"
+		"Serverless"
 	],
 	"tags": ["openwhisk"],
 	"url": "/2017/06/19/serverless-demo-random-comic-book-character-via-comic-vine-api",

@@ -3,7 +3,7 @@
 	"title": "OpenWhisk Sequences and Errors",
 	"date": "2017-04-04T09:54:00-07:00",
 	"categories": [
-		"serverless"
+		"Serverless"
 	],
 	"tags": ["OpenWhisk"],
 	"url": "/2017/04/04/openwhisk-sequences-and-errors"

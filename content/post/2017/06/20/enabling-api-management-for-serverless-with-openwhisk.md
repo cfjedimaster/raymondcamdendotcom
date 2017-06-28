@@ -2,7 +2,7 @@
 	"title": "Enabling API Management for Serverless with OpenWhisk",
 	"date": "2017-06-20T11:54:00-07:00",
 	"categories": [
-		"serverless"
+		"Serverless"
 	],
 	"tags": ["openwhisk"],
 	"url": "/2017/06/20/enabling-api-management-for-serverless-with-openwhisk"

@@ -2,7 +2,7 @@
 	"title": "Update on My Random Comic Book Character API",
 	"date": "2017-06-21T12:35:00-07:00",
 	"categories": [
-		"serverless"
+		"Serverless"
 	],
 	"tags": ["openwhisk"],
 	"url": "/2017/06/21/update-on-my-random-comic-book-character-api"

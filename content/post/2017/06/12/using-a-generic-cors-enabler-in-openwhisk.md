@@ -2,7 +2,7 @@
 	"title": "Using a Generic CORS Enabler in OpenWhisk",
 	"date": "2017-06-12T14:44:00-07:00",
 	"categories": [
-		"serverless"
+		"Serverless"
 	],
 	"tags": ["openwhisk"],
 	"url": "/2017/06/12/using-a-generic-cors-enabler-in-openwhisk"

@@ -2,7 +2,7 @@
 	"title": "An OpenWhisk Monitor/Alert POC",
 	"date": "2017-06-27T14:54:00-07:00",
 	"categories": [
-		"serverless"
+		"Serverless"
 	],
 	"tags": ["openwhisk"],
 	"url": "/2017/06/27/an-openwhisk-monitoralert-poc",

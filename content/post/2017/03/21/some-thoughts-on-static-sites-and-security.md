@@ -3,7 +3,7 @@
 	"title": "Some Thoughts on Static Sites and Security",
 	"date": "2017-03-21T10:34:00-07:00",
 	"categories": [
-		"Static-Sites"
+		"Static Sites"
 	],
 	"tags": [],
 	"url": "/2017/03/21/some-thoughts-on-static-sites-and-security",
