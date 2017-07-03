@@ -9,6 +9,9 @@
 	"url": "/2017/03/02/designing-an-openwhisk-action-for-web-action-support"
 }
 
+<strong>Please note that there is an update to this blog post. Read it here: <a href="https://www.raymondcamden.com/2017/07/03/designing-an-openwhisk-action-for-web-action-support-take-two/">https://www.raymondcamden.com/2017/07/03/designing-an-openwhisk-action-for-web-action-support-take-two/</a>.</strong>
+
+
 Before I begin - a few words of caution. The feature I'm discussing today is - for the most part - bleeding edge for OpenWhisk. It is *really* new and most likely will change between now and when it is "formally" part of the platform. Secondly, what I built may not actually be the best idea either. Regular readers know that I'll often share code that is fun, but not exactly practical, so this isn't anything new per se, but I want to point out that what I demonstrate here may not be a good idea. I'm still *extremely* new to Serverless in general, so read with caution!
 
 Alright, so first off, a quick reminder. "Web Actions" are a new feature of [OpenWhisk](https://developer.ibm.com/openwhisk/) that allow you to return non-JSON responses from OpenWhisk actions. There are [docs](https://github.com/openwhisk/openwhisk/blob/master/docs/webactions.md) you can, and should, read to understand the basics as well as examples (here is [my post](https://www.raymondcamden.com/2017/02/15/building-a-form-handler-service-in-openwhisk-part-two/) which links to even more examples) of it in use. 
