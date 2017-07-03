@@ -10,7 +10,7 @@
 
 Back a few months ago I wrote up a quick blog post on how an OpenWhisk action could support running in both "regular" mode and "Web Action" mode: <a href="https://www.raymondcamden.com/2017/03/02/designing-an-openwhisk-action-for-web-action-support/">Designing an OpenWhisk Action for Web Action Support</a>. I started off that blog post with a warning stating that what I was covering was bleeding edge and likely to break. Turns out I was right - it did.
 
-I want to share a quick update to that blog post and demonstrate how it can be down now. Of course, things may *still* change in the future. In general, OpenWhisk is very good about not breaking things, and the main reason my code broke was because I was doing something not documented in the first place. However I still think this is something folks may want to do so I hope this is helpful.
+I want to share a quick update to that blog post and demonstrate how it can be done now. Of course, things may *still* change in the future. In general, OpenWhisk is very good about not breaking things, and the main reason my code broke was because I was doing something not documented in the first place. However I still think this is something folks may want to do so I hope this is helpful.
 
 I will not be rewriting the entire post, therefore, be sure you <a href="https://www.raymondcamden.com/2017/03/02/designing-an-openwhisk-action-for-web-action-support/">read</a> the post so you have some context as to what I'm doing.
 
@@ -63,4 +63,4 @@ https://openwhisk.ng.bluemix.net/api/v1/web/rcamden@us.ibm.com_My%20Space/defaul
 
 The image-only version still works, but Postman isn't rendering the preview for me. I can see the right header so I don't think it is an issue. 
 
-Finally, the old URLs still can work and the older __ow values can still be sent. If you are in production with an action and have clients pointing at the old URLs, the args you get will differ from folks using the new URLs. Thanks to @rr for reminding me of that on Slack (and for helping out with this in general).
+Finally, the old URLs still can work and the older __ow values can still be sent. If you are in production with an action and have clients pointing at the old URLs, the args you get will differ from folks using the new URLs. Thanks to <a href="http://ibm.biz/rrabbah">@rr</a> for reminding me of that on Slack (and for helping out with this in general).
