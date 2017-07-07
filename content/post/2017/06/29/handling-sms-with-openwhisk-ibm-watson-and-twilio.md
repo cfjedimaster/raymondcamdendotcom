@@ -9,6 +9,8 @@
 	"banner":"/images/banners/ow_sms.jpg"
 }
 
+<strong>I have made some important corrections to this guide - please see my followup here: https://www.raymondcamden.com/2017/07/07/handling-sms-with-openwhisk-ibm-watson-and-twilio-an-update</strong>
+
 Earlier this week I got a chance to play a bit with Twilio's API (<a href="https://www.raymondcamden.com/2017/06/27/an-openwhisk-monitoralert-poc/">An OpenWhisk Monitor/Alert POC</a>) and I have to admit I was *shocked* at how easy it was to use. It got me thinking about what else I could do with it (as an excuse to learn of course) and I whipped up a pretty cool demo I'd like to share.
 
 The idea is simple: Take a picture with your phone, text it to a phone number, and then let Watson's [Visual Recognition](https://www.ibm.com/watson/developercloud/visual-recognition.html) service try to determine what it is. Finally, respond with a description based on that data. Here is a sample from a picture of one of my cats:
