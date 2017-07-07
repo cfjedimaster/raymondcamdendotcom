@@ -26,6 +26,13 @@ August 3-4, 2017
 </p>
 
 <p>
+Building Alexa Skills with OpenWhisk<br/>
+<a href="http://midwestjs.com">MidwestJS</a><br/>
+Minneapolis, MN<br/>
+August 16-18, 2017
+</p>
+
+<p>
 Going Serverless with OpenWhisk<br/>
 <a href="http://connect.tech/">connect.tech</a><br/>
 Atlanta, GA<br/>
