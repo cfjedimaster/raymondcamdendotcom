@@ -1,5 +1,5 @@
 {
-	"title": "Serverless Basic",
+	"title": "Serverless BASIC",
 	"date": "2017-08-01T09:40:00-07:00",
 	"categories": [
 		"Serverless"
