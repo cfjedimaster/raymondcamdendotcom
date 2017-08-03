@@ -33,6 +33,14 @@ August 16-18, 2017
 </p>
 
 <p>
+Developing JavaScript in 2017<br/>
+<a href="http://certifiedfreshevents.com/events/javascript-2017/">Certified Fresh Events</a><br/>
+Online<br/>
+August 23, 2017
+</p>
+
+
+<p>
 Going Serverless with OpenWhisk<br/>
 <a href="http://connect.tech/">connect.tech</a><br/>
 Atlanta, GA<br/>
