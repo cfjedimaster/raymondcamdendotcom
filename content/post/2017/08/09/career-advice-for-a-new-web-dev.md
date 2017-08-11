@@ -14,7 +14,7 @@ So a few days ago, I sent out a simple tweet:
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-This was inspired by (and when I say "inspired by" I mean "coped from") a tweet by <a href="https://twitter.com/kentcdodds">Kent C. Dodds</a> late last week. 
+This was inspired by (and when I say "inspired by" I mean "copied from") a tweet by <a href="https://twitter.com/kentcdodds">Kent C. Dodds</a> late last week. 
 
 I've already gotten a few DMs and I'm trying my best to help out, but this one was an area I didn't have a lot of experience in and I thought I'd share it to see what people thought. It was definitely something I wanted to share publicly and in a place where I wasn't constrained by Tweet-size. Anyway, here is the question that was sent to me.
 
