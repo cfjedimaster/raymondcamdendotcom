@@ -32,7 +32,7 @@ Unfortunately <b>none of these</b> worked for Google+. No amount of Googling hel
 
 <p/>
 
-<code>
+<pre><code class="language-markup">
 &lt;html&gt;
 &lt;head&gt;
 &lt;title&gt;Test Title&lt;/title&gt;
@@ -55,7 +55,7 @@ This is a page.
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p/>
 
@@ -67,7 +67,7 @@ Ok, given the logic above, what about writing our own code to mimic this behavio
 
 <p/>
 
-<code>
+<pre><code class="language-markup">
 &lt;cffunction name="getURLPreview" output="false" returnType="string"&gt;
 	&lt;cfargument name="theurl" type="string" required="true"&gt;
 	&lt;cfargument name="defaultimageurl" type="string" required="false" default="" hint="If we can't find an image, the UDF will return this."&gt; 
@@ -111,7 +111,7 @@ Ok, given the logic above, what about writing our own code to mimic this behavio
 
 	&lt;cfreturn arguments.defaultimageurl&gt;
 &lt;/cffunction&gt;
-</code>
+</code></pre>
 
 <p/>
 
