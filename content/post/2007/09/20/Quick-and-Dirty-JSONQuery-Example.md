@@ -16,14 +16,13 @@ Yesterday in the ColdFusion chat room someone asked a question (a technical ques
 
 The first thing I did was get a query of data and serialize it using SerializeJSON:
 
-<code>
-&lt;cfquery name="getstuff" datasource="blogdev" maxrows="5"&gt;
+<pre><code class="language-markup">&lt;cfquery name="getstuff" datasource="blogdev" maxrows="5"&gt;
 select	id, title, posted
 from	tblblogentries
 &lt;/cfquery&gt;
 
 &lt;cfset jsondata = serializeJSON(getstuff)&gt;
-</code>
+</code></pre>
 
 At this point, jsondata is a string. Here is what it looked like:
 
@@ -33,22 +32,19 @@ At this point, jsondata is a string. Here is what it looked like:
 
 I wanted to work with this on the client side (the whole point of this entry), so I needed to set this data to a JavaScript variable. The cool thing about JSON is that it can be evaled (think of this like ColdFusion's evaluate function) directly to a variable, so I used this code to assign it:
 
-<code>
-&lt;script&gt;
+<pre><code class="language-markup">&lt;script&gt;
 mydata = eval(&lt;cfoutput&gt;#jsondata#&lt;/cfoutput&gt;)
-</code>
+</code></pre>
 
 For my demo, I built a quick form with a button. The idea is that you would hit the button, and I'd then run code that would loop over the query and display the contents. Here is the form I used and the 'area' I would use for output:
 
-<code>
-&lt;input type="button" value="Show Data" onClick="showData()"&gt;
+<pre><code class="language-markup">&lt;input type="button" value="Show Data" onClick="showData()"&gt;
 &lt;div id="content" /&gt;
-</code>
+</code></pre>
 
 Ok, nothing complex yet. Now let's take a look at showData():
 
-<code>
-function showData() {
+<pre><code class="language-javascript">function showData() {
 	var output = document.getElementById('content');
 	var colMap = new Object();
 	
@@ -62,15 +58,14 @@ function showData() {
 		output.innerHTML += str;
 	}
 }
-</code>
+</code></pre>
 
 The first line of code simply creates a pointer to my div. I'll be writing out to that later. Now I need to loop over my query. The question is - how? If you look at the JSON string I output earlier, you will see that it is an object with two main properties - columns and data. The columns property is a list of columns. The data property contains my rows of data. Note though that it isn't indexed by column names. Instead - the first item in the first row of data matches the first column name. So what I need to do is figure out what my columns are. To do this I create a column map - i.e., a mapping of columns to indexes. The first FOR loop does this.
 
 Once I have that - then it is a trivial matter to loop over my rows of data and pick the values I need. So for example, to get the title for row i, I use:
 
-<code>
-mydata.DATA[i][colMap["TITLE"]]
-</code>
+<pre><code class="language-javascript">mydata.DATA[i][colMap["TITLE"]]
+</code></pre>
 
 Make sense? I'll include the full source of the code below, but before I do, a few notes:
 
@@ -81,8 +76,7 @@ Make sense? I'll include the full source of the code below, but before I do, a f
 
 Now for the complete template:
 
-<code>
-&lt;cfquery name="getstuff" datasource="blogdev" maxrows="5"&gt;
+<pre><code class="language-markup">&lt;cfquery name="getstuff" datasource="blogdev" maxrows="5"&gt;
 select	id, title, posted
 from	tblblogentries
 &lt;/cfquery&gt;
@@ -110,4 +104,4 @@ function showData() {
 
 &lt;input type="button" value="Show Data" onClick="showData()"&gt;
 &lt;div id="content" /&gt;
-</code>
+</code></pre>
