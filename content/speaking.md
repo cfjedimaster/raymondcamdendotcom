@@ -12,20 +12,6 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
-Kick Your Server to the Curb with OpenWhisk and Node.js for ColdFusion Developers<br/>
-<a href="http://www.cfobjective.com/">cfObjective</a><br/>
-Washington, DC<br/>
-July 20-21, 2017
-</p>
-
-<p>
-Kick your server to the curb with OpenWhisk<br/>
-<a href="http://www.kcdc.info/index.html">KCDC 2017</a><br/>
-Kansas City, MO<br/>
-August 3-4, 2017
-</p>
-
-<p>
 Building Alexa Skills with OpenWhisk<br/>
 <a href="http://midwestjs.com">MidwestJS</a><br/>
 Minneapolis, MN<br/>
@@ -59,6 +45,22 @@ Destroy the App Server!<br/>
 <a href="https://allthingsopen.org/">All Things Open</a><br/>
 Raleigh, NC<br/>
 October 23-24, 2017
+</p>
+
+<p>
+A serverless talk and a JavaScript evolution talk.<br/>
+<a href="http://devreach.com/">DevReach</a><br/>
+Sofia, Bulgaria<br/>
+November 13-14, 2017
+</p>
+
+<p>
+Web and Mobile Development Strategy Update<br/>
+<a href="http://gilbaneconference.com/2017/Default.aspx/">Gilbane Digital Content Conference</a><br/>
+Boston, MA<br/>
+November 28-29, 2017
+</p>
+
 
 <h3>My Past Events</h3>
 
@@ -217,3 +219,18 @@ Acadiana Software Group<br/>
 433 Jefferson St, Lafayette, Louisiana 70501
 June 14, 2017, 6:30PM
 </p>
+
+<p>
+Kick Your Server to the Curb with OpenWhisk and Node.js for ColdFusion Developers<br/>
+<a href="http://www.cfobjective.com/">cfObjective</a><br/>
+Washington, DC<br/>
+July 20-21, 2017
+</p>
+
+<p>
+Kick your server to the curb with OpenWhisk<br/>
+<a href="http://www.kcdc.info/index.html">KCDC 2017</a><br/>
+Kansas City, MO<br/>
+August 3-4, 2017
+</p>
+
