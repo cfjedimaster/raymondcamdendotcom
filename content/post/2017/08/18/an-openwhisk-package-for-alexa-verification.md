@@ -8,6 +8,8 @@
 	"url": "/2017/08/18/an-openwhisk-package-for-alexa-verification"
 }
 
+<strong>Edit on August 19 - I had an error in my code that broke Alexa sessions. I've updated the code below and in GitHub.</strong>
+
 Yesterday I was working on a new Alexa skill (I really want the schwag Amazon is giving away this month for releasing a skill) and I had gotten to the point where I needed to lock down the service. I first talked about this back in March (<a href="https://www.raymondcamden.com/2017/03/17/creating-alexa-skills-with-openwhisk-part-two">Creating Alexa Skills with OpenWhisk - Part Two</a>). Basically - Amazon requires you to secure your Alexa service and run a variety of checks to ensure the request is really coming from Alexa. 
 
 Luckily there's a simple npm package for it (<a href="https://github.com/mreinstein/alexa-verifier">alexa-verifier</a>) and using it with OpenWhisk is pretty trivial. Once you add the code I demonstrated in the blog post, you then simply ensure you've enabled "raw" support for the API. So instead of <code>--web true</code> you would use <code>--web raw</code>.
@@ -27,7 +29,7 @@ function main(args) {
 
         alexaVerifier(signaturechainurl, signature, body, function(err) {
             if(err) reject(err);
-            resolve({request:request});
+            resolve(JSON.parse(body));
         });
 
     });
