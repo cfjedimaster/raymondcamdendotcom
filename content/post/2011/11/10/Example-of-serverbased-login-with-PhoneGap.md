@@ -11,6 +11,8 @@
 	"guid": "4427"
 }
 
+**I got a comment about a few things on this blog post and thought I'd do a quick edit. First, when I wrote this, I just assumed anyone doing a login request would be hitting a https server. My code shows hitting a http server because at the time, that's how my blog was hosted, but I assumed people running this code in production wouldn't do that. That was wrong. So to be clear, you should be logging in to something on https only. I'm changing the code to reflect that, even though the demo itself isn't online. Secondly - I mentioned in the article how I was unsure that storing credentials in LocalStorage was a good idea. I definitely do not think it is now. I'd look at the Secure Storage wrapper I blogged about last year: [Working with Ionic Native - Using Secure Storage](https://www.raymondcamden.com/2016/08/16/working-with-ionic-native-using-secure-storage)** 
+
 Yesterday I worked on a simple PhoneGap that would demonstrate how to perform a login before using the application. (Ok, technically, you are using the application when you login, but you get my drift.) I worked up a simple demo of this and then extended it to allow for automatic login after you've first successfully authenticated. This could probably be done better, but here's my first draft demo application that will hopefully be useful to others.
 
 <p>
@@ -100,7 +102,7 @@ function deviceReady() {
         var u = $("#username", this).val();
         var p = $("#password", this).val();
         if(u != '' && p!= '') {
-        	$.post("http://www.coldfusionjedi.com/demos/2011/nov/10/service.cfc?method=login&returnformat=json", {username:u,password:p}, function(res) {
+        	$.post("https://www.coldfusionjedi.com/demos/2011/nov/10/service.cfc?method=login&returnformat=json", {username:u,password:p}, function(res) {
         		if(res == true) {
         			$.mobile.changePage("some.html");
         		} else {
@@ -145,7 +147,7 @@ function handleLogin() {
 	var p = $("#password", form).val();
 	console.log("click");
 	if(u != '' && p!= '') {
-		$.post("http://www.coldfusionjedi.com/demos/2011/nov/10/service.cfc?method=login&returnformat=json", {username:u,password:p}, function(res) {
+		$.post("https://www.coldfusionjedi.com/demos/2011/nov/10/service.cfc?method=login&returnformat=json", {username:u,password:p}, function(res) {
 			if(res == true) {
 				//store
 				window.localStorage["username"] = u;
@@ -254,7 +256,7 @@ function handleLogin() {
 	var p = $("#password", form).val();
 	console.log("click");
 	if(u != '' && p!= '') {
-		$.post("http://www.coldfusionjedi.com/demos/2011/nov/10/service.cfc?method=login&returnformat=json", {username:u,password:p}, function(res) {
+		$.post("https://www.coldfusionjedi.com/demos/2011/nov/10/service.cfc?method=login&returnformat=json", {username:u,password:p}, function(res) {
 			if(res == true) {
 				//store
 				window.localStorage["username"] = u;
