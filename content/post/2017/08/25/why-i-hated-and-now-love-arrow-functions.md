@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', e => {
 
 It isn't a huge change, but it feels more compact, and since callbacks like this are littered everywhere in most JavaScript files, the shorter syntax really feels like a boon. 
 
-The other benefit of arrow functions are how they correct issues with this. If you've ever written a call back and realized that this.something inside wasn't working correctly, this is something you'll appreciate. For an example, I'm going to "borrow" the one MDN uses (I'll be linking to it in a moment). Consider this code:
+The other benefit of arrow functions are how they correct issues with `this`. If you've ever written a call back and realized that this.something inside wasn't working correctly, this is something you'll appreciate. For an example, I'm going to "borrow" the one MDN uses (I'll be linking to it in a moment). Consider this code:
 
 <pre><code class="language-javascript">function Person() {
   // The Person() constructor defines `this` as an instance of itself.

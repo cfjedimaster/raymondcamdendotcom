@@ -12,6 +12,9 @@ theme = "hugo-icarus-theme"
 disablePathToLower = true
 metaDataFormat = "json"
 
+[blackfriday]
+    smartypants = false
+
 [permalinks]
     post = "/:year/:month/:day/:slug"
 
