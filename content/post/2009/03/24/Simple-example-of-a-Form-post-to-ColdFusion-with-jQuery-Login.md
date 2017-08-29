@@ -14,8 +14,7 @@ A few days ago I <a href="http://www.raymondcamden.com/index.cfm/2009/3/20/Simpl
 <!--more-->
 Let's start with a simple Application.cfc file for my application.
 
-<code>
-&lt;cfcomponent output="false"&gt;
+<pre><code class="language-markup">&lt;cfcomponent output="false"&gt;
 	
 	&lt;cfset this.name = "jqlogin"&gt;
 
@@ -40,14 +39,13 @@ Let's start with a simple Application.cfc file for my application.
 	&lt;/cffunction&gt;
 
 &lt;/cfcomponent&gt;
-</code>
+</code></pre>
 
 There are two methods defined in this Application.cfc. The important one is the onRequest. It will be used to handle security for the application. If the request is not for my login page or my authentication CFC, and if you aren't logged in (notice I check a session variable initialized in the onSessionStart), then we push the user to the login page.
 
 Now let's look at auth.cfc:
 
-<code>
-&lt;cfcomponent&gt;
+<pre><code class="language-markup">&lt;cfcomponent&gt;
 
 &lt;cffunction name="processLogin" access="remote" output="false" returnType="string"&gt;
 	&lt;cfargument name="username" type="string" required="true"&gt;
@@ -63,14 +61,13 @@ Now let's look at auth.cfc:
 &lt;/cffunction&gt;
 	
 &lt;/cfcomponent&gt;
-</code>
+</code></pre>
 
 Obviously a real authentication CFC would have a bit more to it. This one simply checks for a hard coded username and password. Depending on if these values are specified correctly, the CFC will either return the word failure, or return success while also setting the session variable. Oh, and of course, I set the method to have remote access. (And yes, I did almost forget that.) 
 
 Ok, so far, nothing really special has been done. Let's look at login.cfm and how I used jQuery.
 
-<code>
-&lt;html&gt;
+<pre><code class="language-markup">&lt;html&gt;
 
 &lt;head&gt;
 &lt;script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"&gt;&lt;/script&gt;
@@ -115,10 +112,10 @@ $(document).ready(function() {
 &lt;/body&gt;
 
 &lt;/html&gt;
-</code>
+</code></pre>
 
 Let's take this from the bottom up. At the bottom of my page I have my login form with two simple fields. Below that I have a blank div with the id of status. 
 
 Moving up into the script code block, notice the my document.ready code simply hijacks the form's submit action. The send form should look pretty familiar to the one I did in the <a href="http://www.coldfusionjedi.com/index.cfm/2009/3/20/Simple-example-of-a-Form-post-to-ColdFusion-with-jQuery">last blog entry</a>. I start off by creating a message in the status div. This will let my users know that something is going on. Next, I use the built in serialize() function to convert the form into data and send it to my ColdFusion code. This time I'm posting to a CFC method, so I specify a returnFormat to keep the result in simple text. If a failure was returned, I set a message in the status div. If the result was good, I clear the status and then send the user to the home page. Why clear the status? If the home page takes a few seconds to load, I don't want the user to think that their login failed. 
 
-That's it. You can demo this here: <a href="http://www.coldfusionjedi.com/demos/jqlogin">http://www.coldfusionjedi.com/demos/jqlogin</a>. I've also attached the files to this blog entry.<p><a href='enclosures/E%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fjqlogin%2Ezip'>Download attached file.</a></p>
+That's it. <strike>You can demo this here: http://www.coldfusionjedi.com/demos/jqlogin. I've also attached the files to this blog entry.<p><a href='enclosures/E%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fjqlogin%2Ezip'>Download attached file.</a></strike> <i>Old demo links removed on 8/29/2017.</i></p>
