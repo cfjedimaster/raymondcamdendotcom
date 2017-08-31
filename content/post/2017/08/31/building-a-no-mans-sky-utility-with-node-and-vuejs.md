@@ -5,7 +5,8 @@
 		"Development"
 	],
 	"tags": ["javascript","vue"],
-	"url": "/2017/08/31/building-a-no-mans-sky-utility-with-node-and-vuejs"
+	"url": "/2017/08/31/building-a-no-mans-sky-utility-with-node-and-vuejs",
+	"banner":"/images/banners/nomansskyv.jpg"
 }
 
 Nearly a year ago I [blogged](https://www.raymondcamden.com/2016/09/04/review-no-mans-sky/) my review of "No Man's Sky", a game that garnered near universal hate or love, with not many people in the middle. Since that time, the game has been updated a few times and it has become incredibly rich. I'm now on my second play and I see myself dedicating all of my game playing time on it for the next few months. (This is also the first game I bought for both console and PC.) For a good look at what's changed, I recommend Kotaku's article: <a href="http://kotaku.com/no-mans-sky-is-good-now-1798630668">"No Man's Sky Is Good Now"</a>.

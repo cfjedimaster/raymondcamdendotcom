@@ -4,7 +4,7 @@
 	"categories": [
 		"Development"
 	],
-	"tags": ["javasript"],
+	"tags": ["javasript","vuejs"],
 	"url": "/2017/08/07/quick-example-of-vuejs"
 }
 
