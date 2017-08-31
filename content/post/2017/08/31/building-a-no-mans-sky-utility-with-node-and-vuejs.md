@@ -485,4 +485,4 @@ The final bit was the `neededResources` computed property which was simply a mat
 
 Outside of my frustrations, I am really falling hard for Vue. I love how I don't have to generate layout in my JS code. The computed properties part of this app was really freaking awesome. 
 
-As always though I'd happily take feedback on how I used Vue. If you have any suggestions, just let me know in a comment below!
+As always though I'd happily take feedback on how I used Vue. If you have any suggestions, just let me know in a comment below! You can find the complete source code for both the Node parsing scripts and the front end here: https://github.com/cfjedimaster/nomanssky/.
