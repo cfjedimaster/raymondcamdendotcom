@@ -5,7 +5,7 @@
 	"categories": [
 		"Development"
 	],
-	"tags": [],
+	"tags": ["alexa"],
 	"url": "/2017/03/08/a-tip-for-testing-alexa-skills"
 }
 

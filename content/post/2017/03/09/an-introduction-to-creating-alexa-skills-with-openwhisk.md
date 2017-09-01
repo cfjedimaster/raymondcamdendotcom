@@ -5,7 +5,7 @@
 	"categories": [
 		"Serverless"
 	],
-	"tags": ["openwhisk"],
+	"tags": ["openwhisk","alexa"],
 	"url": "/2017/03/09/an-introduction-to-creating-alexa-skills-with-openwhisk",
 	"banner":"/images/banners/alexaow.jpg"
 }

@@ -5,7 +5,7 @@
 	"categories": [
 		"Serverless"
 	],
-	"tags": ["openwhisk"],
+	"tags": ["openwhisk","alexa"],
 	"url": "/2017/03/31/another-openwhisk-alexa-skill-death-clock",
 	"banner":"/images/banners/deathclock.jpg"
 }

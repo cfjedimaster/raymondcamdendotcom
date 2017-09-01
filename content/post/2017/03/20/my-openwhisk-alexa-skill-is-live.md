@@ -5,7 +5,7 @@
 	"categories": [
 		"Serverless"
 	],
-	"tags": ["openwhisk"],
+	"tags": ["openwhisk","alexa"],
 	"url": "/2017/03/20/my-openwhisk-alexa-skill-is-live"
 }
 

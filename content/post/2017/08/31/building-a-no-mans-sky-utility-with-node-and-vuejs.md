@@ -4,7 +4,7 @@
 	"categories": [
 		"Development"
 	],
-	"tags": ["javascript","vue"],
+	"tags": ["javascript","vuejs"],
 	"url": "/2017/08/31/building-a-no-mans-sky-utility-with-node-and-vuejs",
 	"banner":"/images/banners/nomansskyv.jpg"
 }

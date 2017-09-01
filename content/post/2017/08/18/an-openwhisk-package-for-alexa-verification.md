@@ -4,7 +4,7 @@
 	"categories": [
 		"Serverless"
 	],
-	"tags": ["openwhisk"],
+	"tags": ["openwhisk","alexa"],
 	"url": "/2017/08/18/an-openwhisk-package-for-alexa-verification"
 }
 
