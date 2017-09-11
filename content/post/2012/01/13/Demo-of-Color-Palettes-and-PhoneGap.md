@@ -24,10 +24,10 @@ I began by working with two buttons - one to let you take a new picture and one 
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;input type="button" id="takePictureBtn" value="Take Picture"&gt;
 &lt;input type="button" id="picPictureBtn" value="Select Picture"&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -35,7 +35,7 @@ These buttons then were hooked up with event listeners:
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 $("#takePictureBtn").click(takePic);
 $("#picPictureBtn").click(selectPic);
 
@@ -47,7 +47,7 @@ function takePic(e){
 function selectPic(e) {
 	navigator.camera.getPicture(picSuccess, picFail, {quality:75, targetWidth:desiredWidth, targetHeight:desiredWidth, sourceType:Camera.PictureSourceType.PHOTOLIBRARY, destinationType:Camera.DestinationType.FILE_URI});
 	}
-</code>
+</code></pre>
 
 <p>
 
@@ -55,11 +55,11 @@ In both cases, the picture's file URI is sent to a success handler. I simply the
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 function picSuccess(imageURI) {
 	$("#yourimage").attr("src",imageURI);
 }
-</code>
+</code></pre>
 
 <p>
 
@@ -67,9 +67,9 @@ Now for the fun part. The Color Thief API is rather simple, but when I switched 
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 $("#yourimage").load(getSwatches);
-</code>
+</code></pre>
 
 <p>
 
@@ -77,14 +77,14 @@ The getSwatches function then will handle getting the color palette and assignin
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 function getSwatches(){
 	var colorArr = createPalette($("#yourimage"), 5);
 	for (var i = 0; i &lt; Math.min(5, colorArr.length); i++) {
 		$("#swatch"+i).css("background-color","rgb("+colorArr[i][0]+","+colorArr[i][1]+","+colorArr[i][2]+")");
 	}
 }	
-</code>
+</code></pre>
 
 <p>
 
@@ -109,4 +109,4 @@ And the results? Here are some samples:
 
 <p>
 
-I've included a zip of the project below. You will find the code in the assets folder and an APK in the bin folder.<p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2FColorThief%2Ezip'>Download attached file.</a></p>
+I've included a zip of the project below. You will find the code in the assets folder and an APK in the bin folder.<p><a href='https://static.raymondcamden.com/enclosures/ColorThief.zip'>Download attached file.</a></p>
