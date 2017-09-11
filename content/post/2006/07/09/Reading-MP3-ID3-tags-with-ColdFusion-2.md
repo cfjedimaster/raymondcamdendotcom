@@ -11,8 +11,8 @@
 
 So, almost a month ago I wrote about <a href="http://ray.camdenfamily.com/index.cfm/2006/6/13/Reading-MP3-ID3-tags-with-ColdFusion">reading  MP3 information</a> using ColdFusion. I promised a follow up the next day and ended up getting a bit busy with a new job, trips, etc. The sad thing is that I wrote the code a few days afterwards and it ended up being exceptionally simple. So - first off - sorry for the delay. Let's look at the CFC I ended up with. As you can see, it is so simple I can share all the code right here:
 <!--more-->
-<code>
-&lt;cfcomponent displayName="MP3" hint="Reads ID3 information from an MP3" output="false"&gt;
+
+<pre><code class="language-markup">&lt;cfcomponent displayName="MP3" hint="Reads ID3 information from an MP3" output="false"&gt;
 
 	&lt;cfset variables.filename = ""&gt;
 	&lt;cfset variables.loaded = false&gt;
@@ -108,7 +108,7 @@ So, almost a month ago I wrote about <a href="http://ray.camdenfamily.com/index.
 	&lt;/cffunction&gt;
 	
 &lt;/cfcomponent&gt;
-</code>
+</code></pre>
 
 So - first - a recap. In the last entry I talked about the <a href="http://javamusictag.sourceforge.net/">Java ID3 Tag Library</a>. This is the open source project that I'm wrapping with ColdFusion. ID3 tags are the encoded information in the MP3 file that tslks about the song. It contains different bits of information based on the style of ID3 tag used in the file. There are two main version of ID3, and various sub versions of each. The Java ID3 Tag Library supports working with both main styles of ID3 tags and has specific API calls to work with them.
 
