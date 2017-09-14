@@ -34,7 +34,7 @@ value="foo"
 &gt;
 </code></pre>
 
-So... right now some people are probably skaing their heads and wondering why I even bothered to blog this. But even today I'll find myself doing a "write/reload/type/hit button/test" cycle for a few minutes before I remember I can set a default to speed things up a bit. I'll normally include line breaks as I did above to remind myself to remove it later. 
+So... right now some people are probably shaking their heads and wondering why I even bothered to blog this. But even today I'll find myself doing a "write/reload/type/hit button/test" cycle for a few minutes before I remember I can set a default to speed things up a bit. I'll normally include line breaks as I did above to remind myself to remove it later. 
 
 I know there's browser extensions that can also pre-fill forms, but this is quicker and simpler to setup.
 
