@@ -12,21 +12,6 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
-Building Alexa Skills with OpenWhisk<br/>
-<a href="http://midwestjs.com">MidwestJS</a><br/>
-Minneapolis, MN<br/>
-August 16-18, 2017
-</p>
-
-<p>
-Developing JavaScript in 2017<br/>
-<a href="http://certifiedfreshevents.com/events/javascript-2017/">Certified Fresh Events</a><br/>
-Online<br/>
-August 23, 2017
-</p>
-
-
-<p>
 Going Serverless with OpenWhisk<br/>
 <a href="http://connect.tech/">connect.tech</a><br/>
 Atlanta, GA<br/>
@@ -41,17 +26,10 @@ October 7-8, 2017
 </p>
 
 <p>
-Destroy the App Server!<br/>
+Destroy the App Server! (Tenative - may not speak)<br/>
 <a href="https://allthingsopen.org/">All Things Open</a><br/>
 Raleigh, NC<br/>
 October 23-24, 2017
-</p>
-
-<p>
-A serverless talk and a JavaScript evolution talk.<br/>
-<a href="http://devreach.com/">DevReach</a><br/>
-Sofia, Bulgaria<br/>
-November 13-14, 2017
 </p>
 
 <p>
@@ -60,7 +38,6 @@ Web and Mobile Development Strategy Update<br/>
 Boston, MA<br/>
 November 28-29, 2017
 </p>
-
 
 <h3>My Past Events</h3>
 
@@ -233,4 +210,19 @@ Kick your server to the curb with OpenWhisk<br/>
 Kansas City, MO<br/>
 August 3-4, 2017
 </p>
+
+<p>
+Building Alexa Skills with OpenWhisk<br/>
+<a href="http://midwestjs.com">MidwestJS</a><br/>
+Minneapolis, MN<br/>
+August 16-18, 2017
+</p>
+
+<p>
+Developing JavaScript in 2017<br/>
+<a href="http://certifiedfreshevents.com/events/javascript-2017/">Certified Fresh Events</a><br/>
+Online<br/>
+August 23, 2017
+</p>
+
 
