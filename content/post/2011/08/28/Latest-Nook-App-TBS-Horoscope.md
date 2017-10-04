@@ -10,7 +10,7 @@
 	"guid": "4344"
 }
 
-A week or so ago I shared my <a href="http://www.raymondcamden.com/index.cfm/2011/8/19/Thoughts-on-developing-for-the-Nook">thoughts</a> on developing for the NookColor. Today I'm happy to say my second Nook app is available on the market. The turn around time for this app was <i>much</i> quicker than before. I had the idea for it last Sunday. By Monday night it was almost done. Tuesday I submitted my metadata and it was approved in a couple hours. I then submitted the application and it was approved by Friday. I checked Friday and it wasn't in the store yet, but as of this morning it's there. I'm pretty sure it was out Saturday as I'm seeing a few sales already.
+A week or so ago I shared my <a href="http://www.raymondcamden.com/2011/08/19/Thoughts-on-developing-for-the-Nook">thoughts</a> on developing for the NookColor. Today I'm happy to say my second Nook app is available on the market. The turn around time for this app was <i>much</i> quicker than before. I had the idea for it last Sunday. By Monday night it was almost done. Tuesday I submitted my metadata and it was approved in a couple hours. I then submitted the application and it was approved by Friday. I checked Friday and it wasn't in the store yet, but as of this morning it's there. I'm pretty sure it was out Saturday as I'm seeing a few sales already.
 <!--more-->
 <p/>
 
@@ -37,41 +37,41 @@ Yeah - that's crazy - again - unlike real, scientific horoscopes out there. (Ahe
 
 <p/>
 
-<code>
-	protected function getHoroscope(date:Date):String {
-		//A repeat of the above, but in theory, you could run the app for a while
-		var today:Date = new Date();
-		var dateString:String = (today.month+1) + "/" + today.date + "/" + today.fullYear;
+<pre><code class="language-javascript">
+protected function getHoroscope(date:Date):String {
+	//A repeat of the above, but in theory, you could run the app for a while
+	var today:Date = new Date();
+	var dateString:String = (today.month+1) + "/" + today.date + "/" + today.fullYear;
 
-		//See if we have one in the db
-		var stmt:SQLStatement = new SQLStatement();
-		stmt.sqlConnection = sqlConnection;
+	//See if we have one in the db
+	var stmt:SQLStatement = new SQLStatement();
+	stmt.sqlConnection = sqlConnection;
+	
+	stmt.text = "select horoscope from horoscopes where sign = :sign and date = :datestr";
+	stmt.parameters[":sign"] = data.sign.name;
+	stmt.parameters[":datestr"] = dateString;
+	stmt.execute();
+	var res:SQLResult = stmt.getResult();
+
+	if(!res.data) {
+		var newHoroscope:String = horoscopeGenerator.generateHoroscope();
+
+		var insStmt:SQLStatement = new SQLStatement();
+		insStmt.sqlConnection = sqlConnection;
+		insStmt.text = "insert into horoscopes(sign,horoscope,date) " + 
+						"values(:sign,:horoscope,:datestr)";
+		insStmt.parameters[":sign"] = data.sign.name;
+		insStmt.parameters[":horoscope"] = newHoroscope;
+		insStmt.parameters[":datestr"] = dateString;
 		
-		stmt.text = "select horoscope from horoscopes where sign = :sign and date = :datestr";
-		stmt.parameters[":sign"] = data.sign.name;
-		stmt.parameters[":datestr"] = dateString;
-		stmt.execute();
-		var res:SQLResult = stmt.getResult();
+		insStmt.execute();
 
-		if(!res.data) {
-			var newHoroscope:String = horoscopeGenerator.generateHoroscope();
-
-			var insStmt:SQLStatement = new SQLStatement();
-			insStmt.sqlConnection = sqlConnection;
-			insStmt.text = "insert into horoscopes(sign,horoscope,date) " + 
-						   "values(:sign,:horoscope,:datestr)";
-			insStmt.parameters[":sign"] = data.sign.name;
-			insStmt.parameters[":horoscope"] = newHoroscope;
-			insStmt.parameters[":datestr"] = dateString;
-			
-			insStmt.execute();
-
-			return newHoroscope;
-		} else {
-			return res.data[0].horoscope;
-		}
+		return newHoroscope;
+	} else {
+		return res.data[0].horoscope;
 	}
-</code>
+}
+</code></pre>
 
 <p/>
 
@@ -79,7 +79,7 @@ I'm using AIR's SQLite support to handle checking for an existing horoscope (I c
 
 <p/>
 
-<code>
+<pre><code class="language-javascript">
 package model {
 
 	public class HoroscopeGenerator {
@@ -156,7 +156,7 @@ package model {
 		
 	}
 }
-</code>
+</code></pre>
 
 <p>
 
