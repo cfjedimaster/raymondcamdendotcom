@@ -15,7 +15,7 @@ Web App Install Banner Stuff
 
 As a reminder, the [Web App Install Banner] feature is the Chrome thing where the browser will prompt the user to install your web app. I mentioned yesterday I had trouble getting this to trigger in my app, even though I had (as far as I know) did everything I needed to.
 
-First off - even though I couldn't get that prompt to occur, if I manually added the site via "Add to Homescreen", the app *was* saved correctly and recognized as a PWA. I'd share a screen shot of this but I assume you can trust me on this. 
+First off - even though I couldn't get that prompt to occur, if I manually added the site via "Add to Home screen", the app *was* saved correctly and recognized as a PWA. I'd share a screen shot of this but I assume you can trust me on this. 
 
 I asked some questions related to PWA on a private Google Developer expert channel and a Googler, [Paul Kinlan](https://paul.kinlan.me/), shared some details.
 
@@ -25,7 +25,9 @@ Second, there is a Chrome flag which bypasses this:
 
 	chrome://flags/#bypass-app-banner-engagement-checks
 
-In theory when you enable this, you can then use the "Add to Homescreen" link in devtools to force it. *However*, it does not force the prompt, it just "resets" it so that when you refresh the app, it's as if you never declined it or installed it before. I'm having trouble with remote debug and Android adb on my desktop so I've not yet confirmed this, but as I said, on a manual homescreen save, everything is kosher with my app so I think I'm good. Speaking of that...
+In theory when you enable this, you can then use the "Add to Homescreen" link in DevTools to force it. *However*, it does not force the prompt, it just "resets" it so that when you refresh the app, it's as if you never declined it or installed it before. I'm having trouble with remote debug and Android adb on my desktop so I've not yet confirmed this, but as I said, on a manual home screen save, everything is kosher with my app so I think I'm good. 
+
+*Edit:* So a few minutes after I released this blog post, I realized that I needed to set that Chrome flag on the device. Duh. I did that, restarted Chrome on my Android device, and instantly got the app installer banner. Woot!
 
 Lighthouse Audits
 ===
