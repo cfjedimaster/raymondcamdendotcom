@@ -4,7 +4,7 @@
 	"categories": [
 		"Development","JavaScript","Books"
 	],
-	"tags": [],
+	"tags": ["JavaScript"],
 	"url": "/2017/10/16/review-building-progressive-web-apps"
 }
 
