@@ -18,8 +18,7 @@ I'll begin with the initial template - the one that will use jQuery. It's going 
 
 <p/>
 
-<pre><code class="language-markup">
-&lt;html&gt;
+<pre><code class="language-markup">&lt;html&gt;
 
 &lt;head&gt;
 &lt;script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"&gt;&lt;/script&gt;
@@ -73,8 +72,7 @@ test2.cfm doesn't do much at all. I simply made it a bit slow so that the loadin
 
 <p/>
 
-<pre><code class="language-markup">
-&lt;cfset sleep(3000)&gt;
+<pre><code class="language-markup">&lt;cfset sleep(3000)&gt;
 &lt;cfoutput&gt;Hello world, #timeFormat(now(), "long")#&lt;/cfoutput&gt;
 </code></pre>
 

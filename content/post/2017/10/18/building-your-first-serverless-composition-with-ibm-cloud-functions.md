@@ -214,7 +214,7 @@ The JSON view is simply how Composer converts your code into JSON format. Here's
 
 And the Code view is simply my file. 
 
-Another change that my confuse you are sessions. Instead of an activation, invoking a Composer app creates a session. So you can use `fsh session list` to see your recent tests. Or my favorite, grab the last one with: `fsh session get --last`. 
+Another change that may confuse you are sessions. Instead of an activation, invoking a Composer app creates a session. So you can use `fsh session list` to see your recent tests. Or my favorite, grab the last one with: `fsh session get --last`. 
 
 ![Screen shot](https://static.raymondcamden.com/images/2017/10/fsh3.jpg)
 
