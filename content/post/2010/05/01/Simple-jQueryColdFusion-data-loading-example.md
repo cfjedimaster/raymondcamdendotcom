@@ -18,8 +18,7 @@ I'll begin with the initial template - the one that will use jQuery. It's going 
 
 <p/>
 
-<code>
-
+<pre><code class="language-markup">
 &lt;html&gt;
 
 &lt;head&gt;
@@ -62,7 +61,7 @@ Click the button below to start the process. It will call a remote service that 
 
 &lt;!--- This is the div for the result. ---&gt;
 &lt;div id="result"&gt;&lt;/div&gt;
-</code>
+</code></pre>
 
 <p/>
 
@@ -74,11 +73,14 @@ test2.cfm doesn't do much at all. I simply made it a bit slow so that the loadin
 
 <p/>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfset sleep(3000)&gt;
 &lt;cfoutput&gt;Hello world, #timeFormat(now(), "long")#&lt;/cfoutput&gt;
-</code>
+</code></pre>
 
 <p/>
 
-Not terribly much to it, but I thought it might be useful for folks who wanted a quick demo of how easy it is do Ajax with jQuery and ColdFusion. I've attached a zip of the two files to this blog entry and you can run the demo yourself <a href="http://www.raymondcamden.com/demos/may12010/test.cfm">here</a>.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Frecontactform%2Ezip'>Download attached file.</a></p>
+Not terribly much to it, but I thought it might be useful for folks who wanted a quick demo of how easy it is do Ajax with jQuery and ColdFusion. I've attached a zip of the two files to this blog entry and you can run the demo yourself.
+<p>
+
+<a href='https://static.raymondcamden.com/enclosures/recontactform.zip'>Download attached file.</a></p>
