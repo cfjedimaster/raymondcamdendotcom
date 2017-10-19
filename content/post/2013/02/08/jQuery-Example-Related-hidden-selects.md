@@ -38,4 +38,4 @@ If a value was selected, an AJAX call is fired off. Typically this would be to a
 
 And that's pretty much it. Not rocket science, but maybe useful. You can play with the demo by clicking the ginormous button below. This was tested in Chrome, Firefox, and IE10.
 
-<a href="http://www.raymondcamden.com/demos/2013/feb/8/test.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<a href="https://static.raymondcamden.com/demos/2013/feb/8/test2.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>

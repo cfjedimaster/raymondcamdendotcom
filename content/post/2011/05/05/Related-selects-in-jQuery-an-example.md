@@ -19,7 +19,7 @@ First, I began with a form:
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;form&gt;
 	
 	&lt;label for="states"&gt;States&lt;/label&gt;
@@ -37,15 +37,15 @@ First, I began with a form:
 	&lt;/select&gt;	
 	
 &lt;/form&gt;
-</code>
+</code></pre>
 
 <p>
 
-Here you can see my two selects. One labelled states and one for cities. Notice that cities is blank except for a top placeholder item. Now let's look at the JavaScript. The code isn't more than 20 lines so I've included the entire block here:
+Here you can see my two selects. One labeled states and one for cities. Notice that cities is blank except for a top placeholder item. Now let's look at the JavaScript. The code isn't more than 20 lines so I've included the entire block here:
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 //first, detect when initial DD changes
 $("#states").change(function() {
 	//get what they selected
@@ -64,7 +64,7 @@ $("#states").change(function() {
 		$("#cities").children().end().append(newoptions);
 	});
 });
-</code>
+</code></pre>
 
 <p>
 
@@ -80,8 +80,7 @@ And that's it. As I said, there's plugins out there to make this even easier, bu
 
 <p>
 
-<code>
-
+<pre><code class="language-markup">
 &lt;html&gt;
 
 &lt;head&gt;
@@ -135,7 +134,7 @@ $(document).ready(function() {
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -143,7 +142,7 @@ And the CFC:
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 component {
 
 	remote function getCities(required numeric stateid) { 
@@ -162,12 +161,5 @@ component {
 
 	
 }
-</code>
+</code></pre>
 
-<p>
-
-And you can play with it here:
-
-<p>
-
-<a href="http://www.raymondcamden.com/demos/may52011/test.html"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>

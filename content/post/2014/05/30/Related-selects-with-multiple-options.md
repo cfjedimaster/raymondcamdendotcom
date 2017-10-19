@@ -163,4 +163,4 @@ So - the only real difference here is handling the fact that jQuery will return 
 
 <p>
 So - a few small changes. First, our method signature went from requiring a number to a string. This lets us accept a value like 1, or 5,6. Next, the query was updated to do a "state in ()" type search. Again, this will work with one value or multiple. And... that's it. I've included a zip of both versions. The ColdFusion code requires the latest version if you want to run it as is.
-</p><p><a href='enclosures/C%3A%5Chosts%5C2013%2Eraymondcamden%2Ecom%5Cenclosures%2Frelatedselects%2Ezip'>Download attached file.</a></p>
+</p><p><a href='https://static.raymondcamden.com/enclosures/relatedselects.zip'>Download attached file.</a></p>
