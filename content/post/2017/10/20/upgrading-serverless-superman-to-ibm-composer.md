@@ -5,7 +5,8 @@
 		"Serverless"
 	],
 	"tags": ["openwhisk"],
-	"url": "/2017/10/20/upgrading-serverless-superman-to-ibm-composer"
+	"url": "/2017/10/20/upgrading-serverless-superman-to-ibm-composer",
+	"banner":"/images/banners/superfsh.jpg"
 }
 
 When IBM Composer was released, my plan was to try to slowly introduce readers to it with various different tutorials. My [post](http://localhost:1313/2017/10/18/building-your-first-serverless-composition-with-ibm-cloud-functions/) earlier this week is an example. But I've been thinking a lot lately about a particular problem that Composer can fix for me, so I'm skipping ahead to a more complex topic for the post today. I guess this is a long winded way of saying - if you are still learning Composer this post may be a bit complex, but I'm definitely going to do more simpler posts later. 
