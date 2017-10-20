@@ -22,7 +22,7 @@ Now you need the URL. You can get that like so:
 
 	wsk action get fbbot --url
 
-When you follow Facebook's guide, this is the URL you use for the webhook. Do *strong* add JSON to the end! I always do that as I'm used to building JSON-responding services, but Facebook requires a non-JSON response for verification. Just use the URL as is.
+When you follow Facebook's guide, this is the URL you use for the webhook. Do *not* add JSON to the end! I always do that as I'm used to building JSON-responding services, but Facebook requires a non-JSON response for verification. Just use the URL as is.
 
 Now for the code. I'm going to share the whole thing at the end, but first I want to share a few bits and pieces. Facebook will either send you a GET or POST request. The GET is always used for verification. You can handle this like so:
 
