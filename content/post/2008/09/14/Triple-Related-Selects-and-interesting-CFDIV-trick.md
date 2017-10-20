@@ -13,7 +13,7 @@ Last week I helped a user who was having problems with a multi-related select ap
 
 Lets take a look at his front end code first:
 
-<pre><code class="language-javascript">
+<pre><code class="language-markup">
 &lt;cfform name="Localiza"&gt;
 &lt;table&gt;
 &lt;tr&gt;
@@ -41,7 +41,7 @@ I had him simply debug that arguments being sent to the CFC methods, and as you 
 
 To fix this, I recommended that both the getState and getCounty methods should look for empty values being passed. Here is the complete CFC. Notice in the two latter methods how he handles and responds to the empty values.
 
-<pre><code class="language-javascript">
+<pre><code class="language-markup">
 &lt;cfcomponent&gt;
 
 &lt;cfinclude template="QryPlaces.cfm"&gt;
@@ -94,13 +94,13 @@ Yes, he is missing var statements and cfqueryparam tags. So these changes did so
 
 Ok, so all in all, a rather simple issue, and I thought folks might like to see this in action. The user, Rigo, was kind enough to take his code and package it up with fake query data. You can download it below, and run a live demo <a href="http://www.raymondcamden.com/demos/threeselects/places.cfm">here</a>. Now for the kind of cool part. I noticed when running his demo that the three values for the drop downs were being displayed on the page. He did this with this code:
 
-<pre><code class="language-javascript">
+<pre><code class="language-markup">
 &lt;cfdiv name="despliegue" bind="{SelDivision},{SelState},{SelCounty}"&gt;&lt;/cfdiv&gt;
 </code></pre>
 
 Note the bind statement. No URL, CFC, or JavaScript function is in use here. All he did was use the bound values. On a whim, I changed it to (and this is what you see in the live demo):
 
-<pre><code class="language-javascript">
+<pre><code class="language-markup">
 &lt;cfdiv name="despliegue" bind="static - {SelDivision},{SelState},{SelCounty}"&gt;&lt;/cfdiv&gt;
 </code></pre>
 
