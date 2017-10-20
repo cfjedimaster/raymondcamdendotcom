@@ -14,7 +14,7 @@ When IBM Composer was released, my plan was to try to slowly introduce readers t
 The Superman Problem
 ===
 
-Alright - so a few months ago I built one of my most complex applications on OpenWhisk, [Serverless Superman](https://www.raymondcamden.com/2017/05/19/building-the-serverless-superman/). While I encourage you to read the blog post for details, the idea was basically to find random tweets about serverless and tweet them out with the word "serverless" replaces with "Superman". (I can't believe I get paid to build stuff like this.)
+Alright - so a few months ago I built one of my most complex applications on OpenWhisk, [Serverless Superman](https://www.raymondcamden.com/2017/05/19/building-the-serverless-superman/). While I encourage you to read the blog post for details, the idea was basically to find random tweets about serverless and tweet them out with the word "serverless" replaced with "Superman". (I can't believe I get paid to build stuff like this.)
 
 The process was somewhat complex. Here is my attempt at building a flow chart to show how it worked. Note - I suck at flow charts. 
 
