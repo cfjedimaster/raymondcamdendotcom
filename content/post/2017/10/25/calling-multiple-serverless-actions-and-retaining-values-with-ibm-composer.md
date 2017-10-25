@@ -52,7 +52,7 @@ Then the second step's input is the output of the first one. That totally won't 
 
 That's a bit complex, but essentially I've got a call to watson/tone where I'm sure to preserve the input. Then a call to watson/pi where I first take the result of the previous action and pass in p.params as the input. The previous action in this case was the retain call and it stored input in p.params.
 
-Finally I combime into a new result with keyed names so it's easier to tell the tone analyzer result from the personality insights result.
+Finally I combine into a new result with keyed names so it's easier to tell the tone analyzer result from the personality insights result.
 
 Yeah, that's a mouthful, and to be honest, I couldn't have written this myself. It does make sense (mostly ;) to me now and it does work. I won't share the output as it's huge, but once I created it, it was a simple matter of using the `fsh` CLI to invoke the app. 
 
