@@ -26,31 +26,17 @@
 			to get notified of new posts.
 		</p>
 
-<h2>Want to read more like this?</h2>
-	<ul>
-	{{ range first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
-		<li class="relatedPost">
-		<a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a><br />
-		{{ .Description | markdownify }}
-		</li>
-	{{ else }}
-	Sorry, nothing recent related to this content is available.
-	{{ end }}
-	</ul>	
+		{{ $related := .Site.RegularPages.Related . | first 5 }}
+		{{ with $related }}
+		<h2>See Also</h2>
+		<ul>
+			{{ range . }}
+			<li class="relatedPost"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+			{{ end }}
+		</ul>
+		{{ end }}
+
 	</section>
-<!--
-	<section id="relatedPosts">
-	<h2>Related Articles</h2>
-	<ul>
-	{{ range first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
-		<li class="relatedPost">
-		<a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a><br />
-		{{ .Description | markdownify }}
-		</li>
-	{{ end }}
-	</ul>	
-	</section>
--->
 
 	{{ end }}
 	
