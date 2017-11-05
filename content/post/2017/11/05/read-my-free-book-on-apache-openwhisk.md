@@ -25,4 +25,4 @@ Here's the table of contents:
 * Using Triggers and Rules
 * Going Further with OpenWhisk
 
-I hope this is helpful to folks. OpenWhisk was my introduction to serverless, and it's obviously my favorite so far (although I do plan on learning more about Lambda and Azure Functions). Download the book and let me know what you think!
+I hope this is helpful to folks. OpenWhisk was my introduction to serverless, and it's obviously my favorite so far (although I do plan on learning more about Lambda and Azure Functions). [Download](https://www-01.ibm.com/marketing/iwm/dre/signup?source=urx-20147&S_PKG=ov61476) the book and let me know what you think!
