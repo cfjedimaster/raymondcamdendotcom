@@ -37,3 +37,5 @@ But now you can use "service bindings" instead. Basically set it up such that th
 
 I'd show a proper demo, but there's already a full blog post up on this demonstrating everything: [Simplify binding your IBM Cloud services to serverless Functions](https://www.ibm.com/blogs/bluemix/2017/11/simplify-binding-ibm-cloud-services-serverless-functions/).
 
+I'm adding a quick note here after publication - thank you to [Carlos Santana](https://twitter.com/csantanapr) for reminding me. Much like how `wsk` needs to be updated, so does the `wsk` plugin for `bx`. You can do that via the command: `bx plugin update`. 
+
