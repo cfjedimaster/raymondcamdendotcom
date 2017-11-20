@@ -36,3 +36,4 @@ One such difference is pretty bad ass if you are using any services. So for exam
 But now you can use "service bindings" instead. Basically set it up such that the credentials are passed to the action. So for example, given a service named 'conversation' and an action named 'enterpriseCatDemo', you could do this to have the credentials passed: `bx wsk service bind conversation enterpriseCatDemo`. The values will be passed as arguments named `__bx_creds` which is an object. It will contain the key `conversation` which includes the credentials. So if you bound another service named `foo`, then it would be in that key instead.
 
 I'd show a proper demo, but there's already a full blog post up on this demonstrating everything: [Simplify binding your IBM Cloud services to serverless Functions](https://www.ibm.com/blogs/bluemix/2017/11/simplify-binding-ibm-cloud-services-serverless-functions/).
+
