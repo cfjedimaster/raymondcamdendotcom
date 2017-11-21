@@ -19,6 +19,7 @@ If you find this information useful (currently at {{% numposts %}} posts), pleas
 I have not done a great job of tracking my various articles on other web sites, but I hope to correct that now. Consider the list below a beginning (as of July 2013) and certainly <i>not</i> a complete list.
 
 <ul>
+<li><a href="https://dzone.com/guides/web-development-frameworks-and-responsive-design">A View to Vue.js</a> for DZone</li> 
 <li><a href="https://developer.telerik.com/content-types/tutorials/im-not-using-jquery/">How I'm (Not) Using jQuery</a> for the Telerik Developer Network</li>
 <li><a href="http://developer.telerik.com/topics/cloud/why-serverless/">Why Serverless?</a> for the Telerik Developer Network</li>
 <li><a href="http://developer.telerik.com/topics/mobile-development/web-standards-mobile-caught-phonegap-2017-pt-2/">Have Web Standards on Mobile Caught Up to Phonegap in 2017? Pt. 2</a> for the Telerik Developer Network</li>
