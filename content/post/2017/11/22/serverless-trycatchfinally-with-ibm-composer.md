@@ -60,7 +60,7 @@ Alright, so what if we *don't* want an error reported? This is where a try/catch
 
 The composition consists of one command, `composer.try`. This command takes two arguments - the action to try running and an action to run on failure. In the example above an inline action is being used but you can definitely pass the name of an existing action instead. My inline action simply says to return a result with a string indicating the error. You could do other things of course, for example sending an email about the error so people could be notified. 
 
-So that's try/catch, nice and simple. How about try/catch/finally? That's simply a sequence where the "finally" part comes after the try/catch. Here's how that could look:
+So that's try/catch, nice and simple. How about try/catch/finally? While this isn't built into the composer function itself, you can "fake" it by simply using a sequence where the "finally" part comes after the try/catch. Here's how that could look:
 
 <pre><code class="language-javascript">composer.sequence(
     composer.try(
@@ -107,10 +107,10 @@ And here is the error condition version:
 
 What's cool is that the Composer's graphical shell does a kick butt job of rendering these calls. So for example, here is the good test:
 
-![Good example](https://static.raymondcamden.com/images/2017/11/trycatchgood.jpg)
+![Good example](https://static.raymondcamden.com/images/2017/11/trycatchgood2.jpg)
 
 And here is the bad run:
 
-![Bad example](https://static.raymondcamden.com/images/2017/11/trycatchbad.jpg)
+![Bad example](https://static.raymondcamden.com/images/2017/11/trycatchbad2a.jpg)
 
 If you have any questions about these examples, let me know!
