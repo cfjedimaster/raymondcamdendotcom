@@ -1,0 +1,12 @@
+{
+	"title": "Thank You!",
+	"date": "2017-11-23T00:59:00-07:00",
+	"categories": [
+		"misc"
+	],
+	"tags": [],
+	"url": "/2017/11/23/thank-you",
+	"banner":"/images/banners/2017thankyou.jpg"
+}
+
+For those of you outside America, today is Thanksgiving which is traditionally a day when we are extra thankful for the good things we have in life. I've got a lot to be thankful for in my life. I also want to share a quick thank you to all my readers who provide great feedback, awesome questions, and just make this worthwhile. Have a great day, love your friends and family, and please accept my thanks again!
