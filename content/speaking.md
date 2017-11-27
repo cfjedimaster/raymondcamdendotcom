@@ -11,32 +11,33 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 
 <h3>My Next Events</h3>
 
-<p>
-Going Serverless with OpenWhisk<br/>
-<a href="http://connect.tech/">connect.tech</a><br/>
-Atlanta, GA<br/>
-September 20-22, 2017
-</p>
-
-<p>
-Building a Progressive Web App - a Practical Example<br/>
-<a href="http://ncdevcon.com/">NCDevCon</a><br/>
-Raleigh, NC<br/>
-October 7-8, 2017
-</p>
-
-<p>
-Destroy the App Server! (Tenative - may not speak)<br/>
-<a href="https://allthingsopen.org/">All Things Open</a><br/>
-Raleigh, NC<br/>
-October 23-24, 2017
-</p>
 
 <p>
 Web and Mobile Development Strategy Update<br/>
 <a href="http://gilbaneconference.com/2017/Default.aspx/">Gilbane Digital Content Conference</a><br/>
 Boston, MA<br/>
 November 28-29, 2017
+</p>
+
+<p>
+Going Serverless with Apache OpenWhisk<br/>
+<a href="http://devnexus.com/">DevNexus</a><br/>
+Atlanta, GA<br/>
+February 21-23, 2018
+</p>
+
+<p>
+Don't Over-React - just use Vue!<br/>
+<a href="http://devnexus.com/">DevNexus</a><br/>
+Atlanta, GA<br/>
+February 21-23, 2018
+</p>
+
+<p>
+Building PWAs for People Terrified of PWAs<br/>
+<a href="http://jazzcon.tech/">JazzCon</a><br/>
+New Orleans, LA<br/>
+March 21-23, 2018
 </p>
 
 <h3>My Past Events</h3>
@@ -224,5 +225,20 @@ Developing JavaScript in 2017<br/>
 Online<br/>
 August 23, 2017
 </p>
+
+<p>
+Going Serverless with OpenWhisk<br/>
+<a href="http://connect.tech/">connect.tech</a><br/>
+Atlanta, GA<br/>
+September 20-22, 2017
+</p>
+
+<p>
+Building a Progressive Web App - a Practical Example<br/>
+<a href="http://ncdevcon.com/">NCDevCon</a><br/>
+Raleigh, NC<br/>
+October 7-8, 2017
+</p>
+
 
 
