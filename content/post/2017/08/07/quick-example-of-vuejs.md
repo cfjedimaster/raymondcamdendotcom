@@ -98,7 +98,7 @@ Ok, now let's look at the Vue version (and once again, I'm not saying this is th
 			&lt;ul&gt;
 				&lt;li v-for=&quot;name in names&quot;&gt;{{ name }}&lt;&#x2F;li&gt;
 			&lt;&#x2F;ul&gt;
-	`   &lt;&#x2F;div&gt;
+	    &lt;&#x2F;div&gt;
 			
 		&lt;script src=&quot;https:&#x2F;&#x2F;unpkg.com&#x2F;vue&quot;&gt;&lt;&#x2F;script&gt;
 		&lt;script&gt;
