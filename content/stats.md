@@ -45,7 +45,7 @@ function monthAsString(x) {
 }
 
 // literally pasted
-data = { years:
+data = { years: 
    { '2003': 222,
      '2004': 186,
      '2005': 575,
@@ -60,31 +60,31 @@ data = { years:
      '2014': 272,
      '2015': 252,
      '2016': 148,
-     '2017': 82 },
-  months: [ 481, 475, 489, 466, 525, 483, 496, 526, 479, 474, 494, 460 ],
-  posts: 5848,
-  categories:
-   { misc: 1167,
-     coldfusion: 3131,
-     development: 773,
-     books: 40,
+     '2017': 142 },
+  months: [ 481, 475, 489, 466, 525, 484, 507, 538, 488, 490, 504, 461 ],
+  posts: 5908,
+  categories: 
+   { misc: 1169,
+     coldfusion: 3132,
+     development: 796,
+     books: 41,
      movies: 34,
      'video games': 76,
      adoption: 14,
      music: 11,
      flex: 189,
      uncategorized: 15,
-     javascript: 637,
+     javascript: 647,
      jquery: 329,
      mobile: 493,
      html5: 274,
      design: 32,
      games: 5,
-     'static sites': 9,
+     'static sites': 10,
      television: 1,
-     serverless: 51,
+     serverless: 79,
      developer: 1 },
-  tags:
+  tags: 
    { 'front-end-interview-questions': 3,
      bluemix: 22,
      mobilefirst: 25,
@@ -94,19 +94,27 @@ data = { years:
      harpjs: 1,
      strongloop: 15,
      swift: 1,
-     nodejs: 19,
+     nodejs: 21,
      nativescript: 5,
-     javascript: 11,
-     windows: 5,
+     javascript: 24,
+     windows: 7,
      html5: 2,
      loopback: 4,
-     'advent of code': 9,
-     openwhisk: 50,
-     'visual studio code': 2,
-     jekyll: 1,
-     hugo: 1 },
-  wordCount: 1925160,
-  avgWordCount: 329.1997264021888 };
+     'advent of code': 10,
+     openwhisk: 78,
+     'visual studio code': 3,
+     jekyll: 2,
+     alexa: 8,
+     hugo: 1,
+     watson: 3,
+     development: 1,
+     javasript: 1,
+     vuejs: 8,
+     pwa: 1,
+     webpack: 1 },
+  wordCount: 1977650,
+  avgWordCount: 334.74102911306704 };
+
 
 
     //rewrite data.years
