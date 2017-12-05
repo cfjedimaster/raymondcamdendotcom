@@ -30,11 +30,15 @@ var day = String(now.getDate());
 if(day.length == 1) day = '0' + day;
 
 //2016-02-01T12:12:24-07:00
+/*
 var hour = String(now.getHours());
 if(hour.length == 1) hour = '0'+hour;
 var minute = String(now.getMinutes());
 if(minute.length == 1) minute = '0'+minute;
-var date = year + '-'+month+'-'+day+'T'+hour+':'+minute+':00-07:00';
+*/
+//var date = year + '-'+month+'-'+day+'T'+hour+':'+minute+':00-07:00';
+// hugo changed something in regards to time - so screw time
+var date = year + '-'+month+'-'+day;
 
 var slug = title.replace(/ /g,'-').toLowerCase();
 //remove multiple -
