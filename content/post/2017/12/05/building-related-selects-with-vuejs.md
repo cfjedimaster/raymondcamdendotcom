@@ -4,7 +4,7 @@
 	"categories": [
 		"Development"
 	],
-	"tags": ["javascript","vue.js"],
+	"tags": ["javascript","vuejs"],
 	"url": "/2017/12/05/building-related-selects-with-vuejs"
 }
 
