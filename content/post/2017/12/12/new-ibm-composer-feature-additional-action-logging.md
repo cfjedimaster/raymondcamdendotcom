@@ -8,7 +8,7 @@
 	"url": "/2017/12/12/new-ibm-composer-feature-additional-action-logging"
 }
 
-A pretty cool update landed in [IBM Composer](https://github.com/ibm-functions/composer/tree/master/docs) today, and I want to thank IBM engineer [Kerry Chang](http://researcher.watson.ibm.com/researcher/view.php?person=ibm-Kerry.Chang) for letting me know about it. When visualizing compositions, Composer will return information about the output of your actions, but do not provide that level of input for *inine* functions. Now typically these are very small bits of logic and you probably aren't too concerned about their output, but it can be something you miss if you're having trouble chasing down a bug. Another thing you don't get is the input to the composition. Now you can get both.
+A pretty cool update landed in [IBM Composer](https://github.com/ibm-functions/composer/tree/master/docs) today, and I want to thank IBM engineer [Kerry Chang](http://researcher.watson.ibm.com/researcher/view.php?person=ibm-Kerry.Chang) for letting me know about it. When visualizing compositions, Composer will return information about the output of your actions, but do not provide that level of output for *inine* functions. Now typically these are very small bits of logic and you probably aren't too concerned about their output, but it can be something you miss if you're having trouble chasing down a bug. Another thing you don't get is the input to the composition. Now you can get both.
 
 First, be sure you update your `fsh` command line:
 
@@ -88,3 +88,5 @@ and the inline action output:
 ![Output](https://static.raymondcamden.com/images/2017/12/fshl4.jpg)
 
 Hmm - I could probably make those graphics a bit easier to read. Let me know if you have trouble with em! Anyway, to disable this feature, simply update the composition and do *not* pass in the flag. This will remove the additional logging, and as the CLI says, there is a small performance penalty for adding this.
+
+p.s. Don't forget there is an [OpenWhisk slack](http://slack.openwhisk.org/) and you can join the #composer channel there if you want to talk about IBM Composer.
