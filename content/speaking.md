@@ -11,14 +11,6 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 
 <h3>My Next Events</h3>
 
-
-<p>
-Web and Mobile Development Strategy Update<br/>
-<a href="http://gilbaneconference.com/2017/Default.aspx/">Gilbane Digital Content Conference</a><br/>
-Boston, MA<br/>
-November 28-29, 2017
-</p>
-
 <p>
 Going Serverless with Apache OpenWhisk<br/>
 <a href="http://devnexus.com/">DevNexus</a><br/>
@@ -238,6 +230,13 @@ Building a Progressive Web App - a Practical Example<br/>
 <a href="http://ncdevcon.com/">NCDevCon</a><br/>
 Raleigh, NC<br/>
 October 7-8, 2017
+</p>
+
+<p>
+Web and Mobile Development Strategy Update<br/>
+<a href="http://gilbaneconference.com/2017/Default.aspx/">Gilbane Digital Content Conference</a><br/>
+Boston, MA<br/>
+November 28-29, 2017
 </p>
 
 
