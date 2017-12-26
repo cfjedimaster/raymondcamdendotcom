@@ -3,12 +3,33 @@ title = "Stats"
 +++
 
 This is a simple report of my blog content. It is not dynamic (I generated the 
-data on June 28, 2017). Do not view source - the code is crap.
+data last 2017). Do not view source - the code is crap.
 
 <div id="chart_div"></div>
 <div id="chart_month"></div>
 
-<h2>Category Data</h2>
+<h2>Category Data (This Year)</h2>
+<table>
+    <thead>
+    <tr>
+        <th>Category</th>
+        <th>Count</th>
+    </thead>
+    <tbody id="categoryDataThisYear"></tbody>    
+</table>
+
+<h2>Tag Data (This Year)</h2>
+
+<table>
+    <thead>
+    <tr>
+        <th>Tag</th>
+        <th>Count</th>
+    </thead>
+    <tbody id="tagDataThisYear"></tbody>    
+</table>
+
+<h2>Category Data (All Time)</h2>
 <table>
     <thead>
     <tr>
@@ -18,7 +39,7 @@ data on June 28, 2017). Do not view source - the code is crap.
     <tbody id="categoryData"></tbody>    
 </table>
 
-<h2>Tag Data</h2>
+<h2>Tag Data (All Time)</h2>
 
 <table>
     <thead>
@@ -60,61 +81,94 @@ data = { years:
      '2014': 272,
      '2015': 252,
      '2016': 148,
-     '2017': 142 },
-  months: [ 481, 475, 489, 466, 525, 484, 507, 538, 488, 490, 504, 461 ],
-  posts: 5908,
+     '2017': 152 },
+  months: [ 481, 475, 489, 466, 525, 484, 507, 538, 488, 490, 504, 471 ],
+  posts: 5918,
   categories: 
    { misc: 1169,
      coldfusion: 3132,
-     development: 796,
-     books: 41,
-     movies: 34,
-     'video games': 76,
+     development: 802,
+     books: 42,
+     movies: 36,
+     'video games': 77,
      adoption: 14,
-     music: 11,
+     music: 12,
      flex: 189,
      uncategorized: 15,
      javascript: 647,
      jquery: 329,
-     mobile: 493,
+     mobile: 494,
      html5: 274,
      design: 32,
      games: 5,
      'static sites': 10,
      television: 1,
-     serverless: 79,
+     serverless: 82,
      developer: 1 },
   tags: 
    { 'front-end-interview-questions': 3,
      bluemix: 22,
      mobilefirst: 25,
      ionic: 89,
-     cordova: 63,
+     cordova: 64,
      phonegap: 2,
      harpjs: 1,
      strongloop: 15,
      swift: 1,
      nodejs: 21,
      nativescript: 5,
-     javascript: 24,
+     javascript: 33,
      windows: 7,
      html5: 2,
      loopback: 4,
      'advent of code': 10,
-     openwhisk: 78,
+     openwhisk: 81,
      'visual studio code': 3,
      jekyll: 2,
      alexa: 8,
      hugo: 1,
      watson: 3,
      development: 1,
-     javasript: 1,
-     vuejs: 8,
+     vuejs: 14,
      pwa: 1,
      webpack: 1 },
-  wordCount: 1977650,
-  avgWordCount: 334.74102911306704 };
-
+  wordCount: 1991175,
+  wordCountThisYear: 144837,
+  categoriesThisYear: 
+   { serverless: 81,
+     mobile: 7,
+     coldfusion: 3,
+     javascript: 19,
+     development: 37,
+     misc: 4,
+     'static sites': 6,
+     developer: 1,
+     html5: 1,
+     books: 2,
+     movies: 2,
+     music: 1,
+     'video games': 1 },
+  tagsThisYear: 
+   { openwhisk: 80,
+     ionic: 6,
+     loopback: 1,
+     windows: 3,
+     'visual studio code': 3,
+     nodejs: 5,
+     jekyll: 2,
+     alexa: 8,
+     cordova: 2,
+     hugo: 1,
+     html5: 1,
+     watson: 3,
+     javascript: 22,
+     development: 1,
+     vuejs: 14,
+     pwa: 1,
+     webpack: 1,
+     'advent of code': 1 },
+  avgWordCount: 336.4607975667455,
+  avgWordCountThisYear: 952.875 }
 
 
     //rewrite data.years
@@ -208,11 +262,40 @@ data = { years:
         tagDiv.innerHTML += html;
     });
 
+    //new logic for This Year
+    //sort categories
+    sortedCats = Object.keys(data.categoriesThisYear).sort(function(a, b) {
+        if(data.categoriesThisYear[a] < data.categoriesThisYear[b]) return 1;
+        if(data.categoriesThisYear[a] > data.categoriesThisYear[b]) return -1;
+        return 0;
+    });
+
+    catDiv = document.querySelector('#categoryDataThisYear');
+    sortedCats.forEach(function(cat) {
+        var html = '<tr><td>'+cat+'</td><td>'+formatter.format(data.categoriesThisYear[cat])+'</td></tr>';
+        catDiv.innerHTML += html;
+    });
+
+    //sort tags
+    sortedTags = Object.keys(data.tagsThisYear).sort(function(a, b) {
+        if(data.tagsThisYear[a] < data.tagsThisYear[b]) return 1;
+        if(data.tagsThisYear[a] > data.tagsThisYear[b]) return -1;
+        return 0;
+    });
+
+    tagDiv = document.querySelector('#tagDataThisYear');
+    sortedTags.forEach(function(tag) {
+        var html = '<tr><td>'+tag+'</td><td>'+formatter.format(data.tagsThisYear[tag])+'</td></tr>';
+        tagDiv.innerHTML += html;
+    });
+    
 
     var misc = `
     <tr><td>Total Posts:</td><td>${formatter.format(data.posts)}</td></tr>
     <tr><td>Total Words:</td><td>${formatter.format(data.wordCount)}</td></tr>
     <tr><td>Average Words Per Post:</td><td>${formatter.format(data.avgWordCount)}</td></tr>
+    <tr><td>Total Words (This Year):</td><td>${formatter.format(data.wordCountThisYear)}</td></tr>
+    <tr><td>Average Words Per Post (This Year):</td><td>${formatter.format(data.avgWordCountThisYear)}</td></tr>
     `;
     document.querySelector('#miscData').innerHTML = misc;
 </script>

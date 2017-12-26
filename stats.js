@@ -13,8 +13,13 @@ var data = {
 	posts:0,
 	categories:{},
 	tags:{},
-	wordCount:0
+	wordCount:0,
+	wordCountThisYear:0,
+	categoriesThisYear:{},
+	tagsThisYear:{}
 };
+
+let thisYear = new Date().getFullYear();
 
 years = fs.readdirSync(path);
 years.forEach((year) => {
@@ -45,6 +50,10 @@ years.forEach((year) => {
 						cat = cat.toLowerCase();
 						if(!data.categories[cat]) data.categories[cat] = 0;
 						data.categories[cat]++;
+						if(year == thisYear) {
+							if(!data.categoriesThisYear[cat]) data.categoriesThisYear[cat] = 0;
+							data.categoriesThisYear[cat]++;								
+						}
 					});
 				}
 				if(fmData.tags) {
@@ -52,10 +61,17 @@ years.forEach((year) => {
 						tag = tag.toLowerCase();
 						if(!data.tags[tag]) data.tags[tag] = 0;
 						data.tags[tag]++;
+						if(year == thisYear) {
+							if(!data.tagsThisYear[tag]) data.tagsThisYear[tag] = 0;
+							data.tagsThisYear[tag]++;
+						}	
 					});
 				}
 
 				data.wordCount += rest.split(' ').length;
+				if(year == thisYear) {
+					data.wordCountThisYear += rest.split(' ').length;					
+				}
 			});
 		});
 	});
@@ -63,5 +79,6 @@ years.forEach((year) => {
 });
 
 data.avgWordCount = data.wordCount / data.posts;
+data.avgWordCountThisYear = data.wordCountThisYear / data.years[thisYear];
 
 console.log(data);
