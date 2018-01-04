@@ -14,7 +14,7 @@ When I first started learning Vue, I began hearing about [Vuex](https://vuex.vue
 Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion.
 </blockquote>
 
-Frankly, I felt kind of stupid as I didn't quite grok what "state management pattern" was supposed to mean. I also found the docs and examples... difficult. It's hard to explain exactly why, and in general, the Vue docs are incredibly good, but the Vuex docs didn't make sense to me. Sarah Drasner has a good article on it (["https://css-tricks.com/intro-to-vue-4-vuex/"](https://css-tricks.com/intro-to-vue-4-vuex/) but I still had difficulty wrapping my head around it.
+Frankly, I felt kind of stupid as I didn't quite grok what "state management pattern" was supposed to mean. I also found the docs and examples... difficult. It's hard to explain exactly why, and in general, the Vue docs are incredibly good, but the Vuex docs didn't make sense to me. Sarah Drasner has a good article on it (["Intro to Vue.js:Vuex"](https://css-tricks.com/intro-to-vue-4-vuex/)) but I still had difficulty wrapping my head around it.
 
 This feels wrong, but the closest mental model I have is an Angular provider. One of the things I've been missing since learning Vue is an idea of a central "data source" for my components to use. Typically this is a wrapper for an API service of some sort, but I love having all those calls packaged up in a provider that my Angular bits can make use of. I don't think that's a fair comparison to Vuex, but it feels like something in the same neighborhood at least. 
 
