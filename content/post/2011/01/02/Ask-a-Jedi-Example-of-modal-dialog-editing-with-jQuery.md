@@ -26,7 +26,7 @@ So - there are obviously a thousand different ways we could implement something 
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfquery name="getart"&gt;
 select	artid, artname, description, price
 from	art
@@ -53,7 +53,7 @@ from	art
 	&lt;/div&gt;
 	
 &lt;/cfoutput&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -70,7 +70,7 @@ Admit it - you love my design, don't you? I call this the "Sickly Green" theme. 
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfquery name="getart" maxrows="10"&gt;
 select	artid, artname, description, price
 from	art
@@ -153,7 +153,7 @@ $(document).ready(function() {
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -181,7 +181,7 @@ Alright - now let's kick it up to 11. So far we've gotten a dialog form working.
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfset getArt = new artservice().getArt()&gt;
 
 &lt;html&gt;
@@ -295,7 +295,7 @@ $(document).ready(function() {
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -303,4 +303,4 @@ There's a few changes here and there so let me try to address them one by one. F
 
 <p>
 
-And that's it. I'd put up a live example of this but I'd have to worry about spammers hitting the edit field. I did zip up all the files (including the CFC if you want to see it) and attached it to this blog entry. Enjoy!<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fmultiedit%2Ezip'>Download attached file.</a></p>
+And that's it. I'd put up a live example of this but I'd have to worry about spammers hitting the edit field. I did zip up all the files (including the CFC if you want to see it) and attached it to this blog entry. Enjoy!<p><a href='https://static.raymondcamden.com/enclosures/multiedit.zip'>Download attached file.</a></p>
