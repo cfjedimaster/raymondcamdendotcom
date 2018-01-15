@@ -58,6 +58,7 @@ I have not done a great job of tracking my various articles on other web sites, 
 
 <h3>My Videos</h3>
 <ul>
+<li><a href="https://www.lynda.com/Node-js-tutorials/Welcome/630621/689210-4.html">Building APIs with LoopBack</a></li>
 <li><a href="https://www.lynda.com/Ionic-tutorials/Learning-Ionic-Basics/562925-2.html">Learning Ionic</a></li>
 <li><a href="http://shop.oreilly.com/product/0636920043638.do">Client-Side Data Storage</a></li>
 <li><a href="http://shop.oreilly.com/product/0636920034971.do">JavaScript Templating</a></li>
