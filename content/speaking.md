@@ -32,6 +32,13 @@ New Orleans, LA<br/>
 March 21-23, 2018
 </p>
 
+<p>
+Building Alexa Skills Just to Mess with Your Kids<br/>
+<a href="https://conferences.oreilly.com/fluent/fl-ca/">FluentConf</a><br/>
+San Jose, CA<br/>
+June 12-14, 2018
+</p>
+
 <h3>My Past Events</h3>
 
 <p>
