@@ -68,7 +68,7 @@ I have not done a great job of tracking my various articles on other web sites, 
 <h3>My Books</h3>
 
 <p>
-<a href="https://www-01.ibm.com/marketing/iwm/dre/signup?source=urx-20147&S_PKG=ov61476"><img src="https://static.raymondcamden.com/images/books/owbook_small.jpg" title="Developing Serverless Applications" style="float:left;margin-right:10px"></a>
+<a href="http://www.oreilly.com/programming/free/developing-serverless-applications.csp"><img src="https://static.raymondcamden.com/images/books/owbook_small.jpg" title="Developing Serverless Applications" style="float:left;margin-right:10px"></a>
 <a href="https://www.amazon.com/gp/product/B06XHGH789/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XHGH789&linkCode=as2&tag=raymondcamd06-20&linkId=f23f73d89dfe77d76a37e967d7e28cd0"><img src="https://static.raymondcamden.com/images/2017/3/ssglrg.jpg" style="float:left;max-width:175px;margin-right:10px" title="The Book!"></a>
 <a href="https://www.amazon.com/gp/product/1491935111/ref=as_li_tl?ie=UTF8&tag=raymondcamd06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491935111&linkId=239944c4f3cbf1e35ce47f4eb857b2a7"><img src="https://static.raymondcamden.com/images/books/clientsidedatastorage.jpg" title="Client-Side Data Storage" border="0" style="float:left;margin-right:10px;"></a>
 </p>
