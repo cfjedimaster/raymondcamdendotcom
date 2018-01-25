@@ -260,11 +260,11 @@ https://cfjedimaster.github.io/webdemos/pwa_colorthief_2/
 
 In Chrome, both desktop and mobile, you *may* be prompted to add it to your home screen. On desktop they call it "app shelf" for some reason, but the icon is added to your desktop:
 
-![Desktop icon](https://static.raymondcamden.com/images/2018/pwact4.jpg)
+![Desktop icon](https://static.raymondcamden.com/images/2018/1/pwact4.jpg)
 
 And the resulting Lighthouse audit:
 
-![Lighthouse audit](https://static.raymondcamden.com/images/2018/pwact5.jpg)
+![Lighthouse audit](https://static.raymondcamden.com/images/2018/1/pwact5.jpg)
 
 WOOT!!! 100!! I am a JavaScript GOD! Ok, no, not really, and as I've said multiple times already in this post, building a PWA will involve more than what I've done here, but in about 30 minutes of work I:
 
