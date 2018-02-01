@@ -12,25 +12,19 @@ For a while now (certainly for as long as I've been using it), OpenWhisk/IBM Clo
 
 That works well. But CRON is... well, CRON is a very powerful and flexible system that looks like it was designed by the same people who created regular expressions. I know I can do anything I want with CRON but I absolutely hate doing everything with it.
 
-The good news is that now there is a better way! The Alarm package has a new feed called `interval`. The `interval` feed takes (among others) a parameter that specifies the number of minutes to wait between calls. So if you want an action to run every hour? 60. Want it to run once a day? 1440. And that's it. 
+The good news is that now there is a better way! The Alarm package has a new feed called `interval`. The `interval` feed takes (among others) a parameter that specifies the number of minutes to wait between calls. So if you want an action to run every hour? 60. Want it to run once a day? 1440. And that's it. The `interval` action also supports an optional `startDate` and `stopDate` parameter to let you specify a particular date range for the trigger. 
 
-The `interval` action also supports an optional `startDate` and `endDate` parameter to let you specify a particular date range for the trigger. So an example, consider this CRON based trigger:
+So an example, consider this CRON based trigger:
 
 	wsk trigger create periodic \
 		--feed /whisk.system/alarms/alarm \
 		--param cron "*/2 * * * *" \
-		--param trigger_payload "{\"name\":\"Odin\",\"place\":\"Valhalla\"}" \
-		--param startDate "2019-01-01T00:00:00.000Z" \
-		--param stopDate "2019-01-31T23:59:00.000Z"
 
 The `interval` version of this would be:
 
 	wsk trigger create periodic \
 		--feed /whisk.system/alarms/interval \
-		--param minutes "2" \
-		--param trigger_payload "{\"name\":\"Odin\",\"place\":\"Valhalla\"}" \
-		--param startDate "2019-01-01T00:00:00.000Z" \
-		--param stopDate "2019-01-31T23:59:00.000Z"
+		--param minutes 2 \
 
 I don't know about you, but that's a heck of a lot easier to understand. Of course, CRON does offer more complex support, so for example, running only on certain days, but frankly I'd rather write a line of JavaScript to exit early than spend an hour trying to get the CRON syntax right and hoping I didn't screw it up.
 
