@@ -12,6 +12,13 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
+Building APIs with LoopBack<br/>
+<a href="https://www.meetup.com/pdxnode/events/247002841/">PDXNode</a><br/>
+Online for me, Portland for locals.<br/>
+February 9, 9PM CST
+</p>
+
+<p>
 Going Serverless with Apache OpenWhisk<br/>
 <a href="http://devnexus.com/">DevNexus</a><br/>
 Atlanta, GA<br/>
