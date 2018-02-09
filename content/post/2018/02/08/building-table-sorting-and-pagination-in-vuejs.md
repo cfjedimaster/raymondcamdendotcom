@@ -5,7 +5,8 @@
 		"JavaScript"
 	],
 	"tags": ["vuejs"],
-	"url": "/2018/02/08/building-table-sorting-and-pagination-in-vuejs"
+	"url": "/2018/02/08/building-table-sorting-and-pagination-in-vuejs",
+  "banner":"/images/banners/hannes-egler-369155.jpg"
 }
 
 Earlier this week I was talking to a good friend of mine (who is also a recent convert to the School of Vue) and he was talking about the troubles he went through in adding table sorting and pagination to a table. He was making use of a particular Vue component that was - to be nice - "undocumented". While I was reasonable certain that other solutions existed, I thought it would be fun to take a stab at writing my own support for table sorting and pagination. Not a generic solution, but just a solution for a particular set of data.
@@ -192,3 +193,5 @@ Note the creation of a `start` and `end` value. I almost always screw this up so
 
 So that's it. There is definitely room for improvement. I'd like to add `disabled` to the buttons when they are at the 'edge' and I'd like to highlight, somehow, the table headers when sorting, but I'll leave that as an exercise to my readers. ;) (Don't forget you can fork my CodePens and add your own edits!)
 
+
+<i>Header Photo by <a href="https://unsplash.com/photos/u54GUxav9Hc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hannes Egler</a> on Unsplash</i>

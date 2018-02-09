@@ -5,7 +5,8 @@
 		"Development"
 	],
 	"tags": ["JavaScript"],
-	"url": "/2018/02/03/pointing-a-raygun-at-your-site"
+	"url": "/2018/02/03/pointing-a-raygun-at-your-site",
+  	"banner":"/images/banners/mitchel-boot-70005.jpg"
 }
 
 For a while now I've been talking about web site error reporting tools. Basically - services that will monitor your site for client-side errors that users get when trying to browse your site. You can read a review of some of these services I did for Telerik in my article here: [
@@ -90,3 +91,5 @@ Wrap Up
 ===
 
 All in all, this is a really good service. Keep in mind I only covered a portion of it and there is quite a bit more. It does seem to bit pricey, but honestly, it feels appropriately priced for what is provided, and the design by itself makes it a pleasure to use. As always, I'd like to hear from my readers if they have any experience with Raygun, good or bad. Just leave me a comment below. Now I'm off to fix that double avatar issue!
+
+<i>Header Photo by <a href="https://unsplash.com/photos/hOf9BaYUN88?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mitchel Boot</a> on Unsplash</i>
