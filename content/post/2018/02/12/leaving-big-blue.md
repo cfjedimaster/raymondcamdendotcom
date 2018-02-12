@@ -25,3 +25,5 @@ Frankly - I ended up kicking myself for not paying more attention to IBM.
 I've had a good time over the past few years talking about various IBM technologies, open source projects like LoopBack, and serverless with OpenWhisk. However, an opportunity came up that truly excited me and I thought it was too good to pass up.
 
 I've had the pleasure of working with some incredible talented people and the opportunty to learn a lot. My last day will next Friday, the 23rd, and I'll be sharing the news of my next adventure, soon after.
+
+<i>Header photo by <a href="https://unsplash.com/photos/MKvjc2kar7Q?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Esaias Tan</a> on Unsplash</i>
