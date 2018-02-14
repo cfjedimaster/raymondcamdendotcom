@@ -227,3 +227,5 @@ The only supported action now is movement, and you can see that in play in `doMo
 For errors I'm using alerts, but I really want to do something different. Like maybe have a div that is an active response to your input. It could handle both showing errors as well as responding to good commands ("You move west."), but I wasn't sure how to handle that visually. Anyone have an idea?
 
 So that's it. I've got some [notes](https://github.com/cfjedimaster/webdemos/blob/master/vuetextbasedgame/notes.txt) about what I want to do next. If you want to "play", visit the demo here:  https://cfjedimaster.github.io/webdemos/vuetextbasedgame/
+
+<i>Header photo by <a href="https://unsplash.com/photos/4PwRZXbXKxY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeremy Bishop</a> on Unsplash</i>
