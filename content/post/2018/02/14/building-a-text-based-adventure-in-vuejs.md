@@ -9,7 +9,7 @@
 	"banner":"/images/banners/cavegame.jpg"
 }
 
-Happy Valentines Day! Today I'm showing my love for Vue.js by building something totally impractical and fun - a text-based adventure in Vue.js. As a child of 80s, I grew up playing text-based games from Infocom. In fact, to this day I still say that some of the most interesting games ever created were done by Infocom. My favorite? "A Mind Forever Voyaging"
+<strong>Note - I found a bug with the room description that was fixed in a later build. Sorry about that!</strong> Happy Valentines Day! Today I'm showing my love for Vue.js by building something totally impractical and fun - a text-based adventure in Vue.js. As a child of 80s, I grew up playing text-based games from Infocom. In fact, to this day I still say that some of the most interesting games ever created were done by Infocom. My favorite? "A Mind Forever Voyaging"
 
 ![Cover art](https://static.raymondcamden.com/images/2018/2/mindv.jpg)
 
