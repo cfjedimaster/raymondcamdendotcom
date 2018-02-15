@@ -5,7 +5,8 @@
 		"Misc"
 	],
 	"tags": [],
-	"url": "/2018/02/15/happy-15"
+	"url": "/2018/02/15/happy-15",
+	"banner":"/images/banners/bd15.jpg"
 }
 
 Fifteen years ago today (ok, fifteen years and a few days) I [launched this little blog](https://www.raymondcamden.com/2003/02/12/395FA384-CC01-17D6-AE9B36479350D784) with the idea of trying to help others as well as myself. I've long believed that if I struggled with something then I needed to write it down to help myself remember what I figured out. That strategy has served me well I think and nearly 6000 posts later (currently at 5939 actually) I'm still enjoying this little mass of content I've created.
@@ -23,3 +24,5 @@ Over these past fifteen years, I have been very lucky with my readers. I've had 
 <img src="https://static.raymondcamden.com/images/2018/2/dogawesome.jpg" title="Awesome!" class="imgborder">
 
 I'll end with something I got a bit famous(infamous?) for - my [Amazon Wishlist](http://www.amazon.com/gp/registry/wishlist/2TCL1D08EZEYE/ref=cm_wl_rlist_go_v?). If you've found this content helpful and want to show your support, please visit the list and bill your boss for it. I'll definitely appreciate it. :)
+
+<i>Header photo by <a href="https://unsplash.com/photos/iVSK-XUYxdc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Wang Xi</a> on Unsplash</i>
