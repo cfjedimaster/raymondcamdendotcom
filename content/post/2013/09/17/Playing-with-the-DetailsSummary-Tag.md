@@ -57,7 +57,7 @@ Notice that the mere presence of the open attribute will set the dialog to open 
 </div>
 
 <p>
-So how well is this supported? Currently not terribly well:
+<strong>(Edit in Feb 2018 - I had to update some links here and you should note the text around this image is not out of date - support is pretty good!)</strong> So how well is this supported? Currently not terribly well:
 </p>
 
 ![CanIUse](https://static.raymondcamden.com/images/2013/09/details.jpg)
