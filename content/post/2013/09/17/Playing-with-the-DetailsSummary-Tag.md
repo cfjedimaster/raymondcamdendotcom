@@ -60,7 +60,7 @@ Notice that the mere presence of the open attribute will set the dialog to open 
 So how well is this supported? Currently not terribly well:
 </p>
 
-<iframe src="http://caniuse.com/details/embed/" style="width:650px;height:300px"></iframe>
+![CanIUse](https://static.raymondcamden.com/images/2013/09/details.jpg)
 
 <p>
 On mobile, support is pretty good. On desktop, IE and Firefox are the big ones missing. But here's the great thing. When it "breaks", you still have the exact same content. Here is a screen shot from Firefox of the past example. 
@@ -115,7 +115,7 @@ Works perfectly well even when it doesn't work - which to me is a great thing. H
 &lt;/details&gt;</code></pre>
 
 <p>
-You can run this code <a href="http://www.raymondcamden.com/demos/2013/sep/17/faq.html">here</a>, and as I said, no matter what browser you use you will be able to read the content. 
+You can run this code <a href="https://static.raymondcamden.com/demos/2013/sep/17/faq.html">here</a>, and as I said, no matter what browser you use you will be able to read the content. 
 </p>
 
 <p>
@@ -144,7 +144,7 @@ Finally - you may notice the there is no cursor change when you mouseover the ar
 }</code></pre>
 
 <p>
-If you want to see an example of this, check out my demo here: <a href="http://www.raymondcamden.com/demos/2013/sep/17/test2.html">http://www.raymondcamden.com/demos/2013/sep/17/test2.html</a> Forgive me for the color choices - I should have used Kuler.
+If you want to see an example of this, check out my demo here: <a href="https://static.raymondcamden.com/demos/2013/sep/17/test2.html">https://static.raymondcamden.com/demos/2013/sep/17/test2.html</a> Forgive me for the color choices - I should have used Kuler.
 </p>
 
 <p>
@@ -190,7 +190,7 @@ So, what if you <i>do</i> want to use some JavaScript with the tags? I built a s
 </code></pre>
 
 <p>
-I assume most of this makes sense. I have pointers towards both the details block as a whole as well as the summary. On the actual click event, I see if the open attribute is present. I negate the value as - from what I can tell - the event fired <i>before</i> the detail block either opened or closed. You can run this yourself in my demo here: <a href="http://www.raymondcamden.com/demos/2013/sep/17/test3.html">http://www.raymondcamden.com/demos/2013/sep/17/test3.html</a>
+I assume most of this makes sense. I have pointers towards both the details block as a whole as well as the summary. On the actual click event, I see if the open attribute is present. I negate the value as - from what I can tell - the event fired <i>before</i> the detail block either opened or closed. You can run this yourself in my demo here: <a href="https://static.raymondcamden.com/demos/2013/sep/17/test3.html">https://static.raymondcamden.com/demos/2013/sep/17/test3.html</a>
 </p>
 
 <p>
@@ -243,5 +243,5 @@ Finally, I thought it would be kinda cool to add in support for delayed loading 
 </code></pre>
 
 <p>
-You can view this demo here: <a href="http://www.raymondcamden.com/demos/2013/sep/17/test4.html">http://www.raymondcamden.com/demos/2013/sep/17/test4.html</a>
+You can view this demo here: <a href="https://static.raymondcamden.com/demos/2013/sep/17/test4.html">https://static.raymondcamden.com/demos/2013/sep/17/test4.html</a>
 </p>
