@@ -19,6 +19,8 @@ If you find this information useful (currently at {{% numposts %}} posts), pleas
 I have not done a great job of tracking my various articles on other web sites, but I hope to correct that now. Consider the list below a beginning (as of July 2013) and certainly <i>not</i> a complete list.
 
 <ul>
+<li><a href="https://www.telerik.com/blogs/a-gentle-and-practical-introduction-to-progressive-web-apps">A Gentle and Practical Introduction to Progressive Web Apps</a> for Telerik.</li>
+<li><a href="https://www.telerik.com/blogs/gentle-and-practical-introduction-to-progressive-web-apps-part-2">A Gentle and Practical Introduction to Progressive Web Apps - Part 2</a> for Telerik.</li>
 <li><a href="https://dzone.com/guides/web-development-frameworks-and-responsive-design">A View to Vue.js</a> for DZone</li> 
 <li><a href="https://developer.telerik.com/content-types/tutorials/im-not-using-jquery/">How I'm (Not) Using jQuery</a> for the Telerik Developer Network</li>
 <li><a href="http://developer.telerik.com/topics/cloud/why-serverless/">Why Serverless?</a> for the Telerik Developer Network</li>
