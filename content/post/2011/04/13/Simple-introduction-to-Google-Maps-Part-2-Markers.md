@@ -11,7 +11,7 @@
 	"guid": "4195"
 }
 
-Back in February I wrote a <a href="http://www.raymondcamden.com/index.cfm/2011/2/15/Simple-introduction-to-Google-Maps">simple introduction</a> to using Google Maps. ColdFusion makes this relatively easy, but there are times when you may want to use the Google Map service natively. It's also important to note that CFMAP makes use of the previous version of Google Maps. If you want to make use of the new hotness, you have to do it "by hand." As my blog post (hopefully) showed, this isn't terribly difficult at all. I thought I'd post a sequel that dealt with another part of the puzzle - markers. ColdFusion makes this really easy as well with the cfmapitem tag. Here's what I found when digging into the docs.
+Back in February I wrote a <a href="http://www.raymondcamden.com/2011/02/15/Simple-introduction-to-Google-Maps">simple introduction</a> to using Google Maps. ColdFusion makes this relatively easy, but there are times when you may want to use the Google Map service natively. It's also important to note that CFMAP makes use of the previous version of Google Maps. If you want to make use of the new hotness, you have to do it "by hand." As my blog post (hopefully) showed, this isn't terribly difficult at all. I thought I'd post a sequel that dealt with another part of the puzzle - markers. ColdFusion makes this really easy as well with the cfmapitem tag. Here's what I found when digging into the docs.
 <!--more-->
 <p>
 
@@ -33,7 +33,7 @@ The last item, "Info Windows", is actually something you have already seen if yo
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 
@@ -70,15 +70,15 @@ function initialize() {
 
 &lt;/body&gt;
 &lt;/html&gt; 
-</code>
+</code></pre>
 
 <p>
 
-So I assume you read the <a href="http://www.coldfusionjedi.com/index.cfm/2011/2/15/Simple-introduction-to-Google-Maps">previous entry</a> and I don't need to explain the code that initializes the map. Immediately after this code is the marker code, let's focus on that:
+So I assume you read the <a href="http://www.raymondcamden.com/2011/02/15/Simple-introduction-to-Google-Maps">previous entry</a> and I don't need to explain the code that initializes the map. Immediately after this code is the marker code, let's focus on that:
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 var marker = new google.maps.Marker({
   position: myLatlng,
   title:"Hello World!"
@@ -86,7 +86,7 @@ var marker = new google.maps.Marker({
 	
 // To add the marker to the map, call setMap();
 marker.setMap(map);  
-</code>
+</code></pre>
 
 <p>
 
@@ -94,17 +94,17 @@ I create the marker object with with a position (a longitude and latitude - we'v
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 var marker = new google.maps.Marker({
   position: myLatlng,
   title:"Hello World!",
   map:map
 });
-</code>
+</code></pre>
 
 <p>
 
-You can run this yourself here: <a href="http://www.coldfusionjedi.com/demos/april132011/test1.html">http://www.coldfusionjedi.com/demos/april132011/test1.html</a>
+<strike>You can run this yourself here: http://www.coldfusionjedi.com/demos/april132011/test1.html</strike>
 
 <p>
 
@@ -112,7 +112,7 @@ That works - but let's get some ColdFusion involved - check out this next exampl
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfquery name="getorders" datasource="cfartgallery" maxrows="10"&gt;
 select	orderid, total, orderdate, address, city, state, postalcode
 from	orders
@@ -161,11 +161,11 @@ function initialize() {
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 
-First - I added a query on top to get order information from the database. This includes address information for each order. Now look into our JavaScript. Because my order data isn't geocoded, I have to ask Google to geocode the data for me. I loop over each order and request such data and when I get it back, I use it to create a marker. Note the title includes a bit of information about the order itself. Not terribly complex but closer to a real application. You can see this one here: <a href="http://www.coldfusionjedi.com/demos/april132011/test2.cfm">http://www.coldfusionjedi.com/demos/april132011/test2.cfm</a> In case it isn't obvious, the title for the marker shows on mouse over.
+First - I added a query on top to get order information from the database. This includes address information for each order. Now look into our JavaScript. Because my order data isn't geocoded, I have to ask Google to geocode the data for me. I loop over each order and request such data and when I get it back, I use it to create a marker. Note the title includes a bit of information about the order itself. Not terribly complex but closer to a real application. You can see this one here: <strike>http://www.coldfusionjedi.com/demos/april132011/test2.cfm</strike> In case it isn't obvious, the title for the marker shows on mouse over.
 
 <p>
 
@@ -173,7 +173,7 @@ Ok - so what about the cute little info windows? Let's look at our next example:
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfquery name="getorders" datasource="cfartgallery" maxrows="10"&gt;
 select	orderid, total, orderdate, address, city, state, postalcode
 from	orders
@@ -229,11 +229,11 @@ function initialize() {
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 
-I'm going to focus on what's new here and that's the code right after the marker creation. You can see I make a new infowindow object. The content here is totally arbitrary, but I figured order details would be nice. Finally we add a click event to make it open when the marker is clicked. Still relatively simple, right? You can run this one here: <a href="http://www.coldfusionjedi.com/demos/april132011/test3.cfm">http://www.coldfusionjedi.com/demos/april132011/test3.cfm</a>
+I'm going to focus on what's new here and that's the code right after the marker creation. You can see I make a new infowindow object. The content here is totally arbitrary, but I figured order details would be nice. Finally we add a click event to make it open when the marker is clicked. Still relatively simple, right? You can run this one here: <strike>http://www.coldfusionjedi.com/demos/april132011/test3.cfm</strike>
 
 <p>
 
@@ -241,7 +241,7 @@ Time for our final demo. What spurred this blog post was a request from someone 
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfquery name="getorders" datasource="cfartgallery" maxrows="10"&gt;
 select	orderid, total, orderdate, address, city, state, postalcode
 from	orders
@@ -351,7 +351,7 @@ function initialize() {
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -363,12 +363,6 @@ Scroll down a bit to where I create the marker. I wanted a way to associate the 
 
 <p>
 
-So - next up is a click handler defined using jQuery syntax. If you look down a bit you can see I'm outputting the orders in a set of P blocks. I've asked jQuery to set up a click handler on those paragraphs. When you click, I grab the order id (I <b>love</b> data-* properties!) and then look for it within my markers array. If I find it - I first see if I need to close an existing infowindow. I then pan the map to the location and open the infowindow. All in all - rather simple? If you want to demo this, please be aware of the console.log messages I used to debug. Use in a Chrome browser or Firebug-enabled Firefox. 
-
-<p>
-
-<a href="http://www.coldfusionjedi.com/demos/april132011/test4.cfm"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
-
-<p>
+So - next up is a click handler defined using jQuery syntax. If you look down a bit you can see I'm outputting the orders in a set of P blocks. I've asked jQuery to set up a click handler on those paragraphs. When you click, I grab the order id (I <b>love</b> data-* properties!) and then look for it within my markers array. If I find it - I first see if I need to close an existing infowindow. I then pan the map to the location and open the infowindow. All in all - rather simple? <strike>If you want to demo this, please be aware of the console.log messages I used to debug. Use in a Chrome browser or Firebug-enabled Firefox. </strike>
 
 A big thank you to <a href="http://www.cfsilence.com">Todd Sharp</a> for help with the CSS.
