@@ -1,5 +1,5 @@
 {
-	"title": "Slide and Assets from My OpenWhisk Talk",
+	"title": "Slides and Assets from My OpenWhisk Talk",
 	"date": "2018-02-24",
 	"categories": [
 		"Serverless"

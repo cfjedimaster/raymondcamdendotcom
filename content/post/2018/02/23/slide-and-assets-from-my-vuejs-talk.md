@@ -1,5 +1,5 @@
 {
-	"title": "Slide and Assets from My Vue.js Talk",
+	"title": "Slides and Assets from My Vue.js Talk",
 	"date": "2018-02-23",
 	"categories": [
 		"JavaScript"

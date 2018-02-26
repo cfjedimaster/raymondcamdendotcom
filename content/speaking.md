@@ -12,27 +12,6 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
-Building APIs with LoopBack<br/>
-<a href="https://www.meetup.com/pdxnode/events/247002841/">PDXNode</a><br/>
-Online for me, Portland for locals.<br/>
-February 9, 9PM CST
-</p>
-
-<p>
-Going Serverless with Apache OpenWhisk<br/>
-<a href="http://devnexus.com/">DevNexus</a><br/>
-Atlanta, GA<br/>
-February 21-23, 2018
-</p>
-
-<p>
-Don't Over-React - just use Vue!<br/>
-<a href="http://devnexus.com/">DevNexus</a><br/>
-Atlanta, GA<br/>
-February 21-23, 2018
-</p>
-
-<p>
 Building PWAs for People Terrified of PWAs<br/>
 <a href="http://jazzcon.tech/">JazzCon</a><br/>
 New Orleans, LA<br/>
@@ -253,5 +232,25 @@ Boston, MA<br/>
 November 28-29, 2017
 </p>
 
+<p>
+Building APIs with LoopBack<br/>
+<a href="https://www.meetup.com/pdxnode/events/247002841/">PDXNode</a><br/>
+Online for me, Portland for locals.<br/>
+February 9, 9PM CST
+</p>
+
+<p>
+Going Serverless with Apache OpenWhisk<br/>
+<a href="http://devnexus.com/">DevNexus</a><br/>
+Atlanta, GA<br/>
+February 21-23, 2018
+</p>
+
+<p>
+Don't Over-React - just use Vue!<br/>
+<a href="http://devnexus.com/">DevNexus</a><br/>
+Atlanta, GA<br/>
+February 21-23, 2018
+</p>
 
 
