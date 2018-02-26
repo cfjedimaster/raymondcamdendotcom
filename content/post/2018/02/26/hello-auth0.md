@@ -1,5 +1,5 @@
 {
-	"title": "Hello Auth0!",
+	"title": "Hello Auth0 Extend!",
 	"date": "2018-02-26",
 	"categories": [
 		"Misc"
