@@ -22,7 +22,7 @@ metaDataFormat = "json"
 [params]
     # Tell me who you are
     author = "Raymond Camden"
-    bio = "Senior Developer Advocate for Auth0"
+    bio = "DevRel for Auth0 Extend, Star Wars nerd, Web/Serverless hacker, lover of good beer and good books. Oh, and cats."
     location = "Earth"
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
