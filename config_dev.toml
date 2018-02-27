@@ -23,7 +23,7 @@ ignoreFiles = [".*2003.*",".*2004.*",".*2005.*",".*2006.*",".*2007.*",".*2008.*"
 [params]
     # Tell me who you are
     author = "Raymond Camden"
-    bio = "Developer Advocate for IBM"
+    bio = "Senior Developer Advocate for Auth0"
     location = "Earth"
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io) and Kittens. Theme by [PPOffice](http://github.com/ppoffice)."
