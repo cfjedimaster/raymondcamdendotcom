@@ -5,8 +5,11 @@
         {{ partial "profile" . }}
         <section id="main">
             <section class="archives-wrap">
+                {{ $list := (.Data.Pages) }}
+                {{ $len := (len $list) }}
+
                 <div class="archive-category-wrap">
-                    <span class="archive-category">{{ .Title }}</span>
+                    <span class="archive-category">{{ .Title }} ({{ $len }} items)</span>
                 </div>
                 <div class="archives">
                     {{ range .Data.Pages }}
