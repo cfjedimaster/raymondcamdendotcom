@@ -70,6 +70,6 @@ And then finally - the comic is readable. (Whether or not the story is any good 
 
 <img src="https://static.raymondcamden.com/images/ScreenClip90.png" />
 
-Want to try it out? Hit the demo link below. Note that you may want to try with the latest Chrome and with a small comic. I've created a simple "comic" out of a zip of pictures that can be downloaded <a href="http://www.raymondcamden.com/demos/2012/may/28/comic.cbz">here</a>.
+<strike>Want to try it out? Hit the demo link below. Note that you may want to try with the latest Chrome and with a small comic. I've created a simple "comic" out of a zip of pictures that can be downloaded here.</strike>
 
-<a href="http://www.raymondcamden.com/demos/2012/may/28/"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
+<strong>Edit on 2/2/2018:</strong> Due to the age of the demo, and the fact that the File API is deprecated, I've removed the online demo. You can still download the code, but I would not recommend using it as is. Rather, you could unzip the binary data into IndexedDB. You can download the code here: https://static.raymondcamden.com/enclosures/2012_05_28.zip
