@@ -23,7 +23,7 @@ It isn't obvious from a static screenshot, but like any other modern editor you 
 Source Options
 ===
 
-Ok, this may not be something you would use very often, but on top of being able to source your webtask from a file locally, you can also source it from a URL. So at first blush that may sound too interesting, it's just copying from a URL versus a local file. But you can set it up so that the source is read from the URL every time the webtask is executed. What this means is that you can use GitHub to host the code for the webtask and know that whenever you commit your code, the webtask will be updated as well.
+Ok, this may not be something you would use very often, but on top of being able to source your webtask from a file locally, you can also source it from a URL. So at first blush that may not sound too interesting, it's just copying from a URL versus a local file. But you can set it up so that the source is read from the URL every time the webtask is executed. What this means is that you can use GitHub to host the code for the webtask and know that whenever you commit your code, the webtask will be updated as well.
 
 Express Support
 ===
