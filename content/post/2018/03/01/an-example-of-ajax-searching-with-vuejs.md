@@ -9,7 +9,7 @@
 	"banner":"/images/banners/ajaxsearch.jpg"
 }
 
-Last week I gave my very first [presentation on Vue.js](https://www.raymondcamden.com/2018/02/23/slide-and-assets-from-my-vuejs-talk/). In that talk I used the heck out of [CodePen](https://codepen.io/) my demos. I love how simple it is, I love that folks can edit and run my code. All in all, it is a just a great platform that works really well with Vue. But - for my presentation I really wanted a few demos that were entirely stand alone. I really like CodePen, but I worry that it is a bit too "abstract" at times, or by itself. I'm not sure if that makes sense, but in the end, I just wanted to have a few demos that were file based, 100% complete, and so forth.
+Last week I gave my very first [presentation on Vue.js](https://www.raymondcamden.com/2018/02/23/slide-and-assets-from-my-vuejs-talk/). In that talk I used the heck out of [CodePen](https://codepen.io/) for my demos. I love how simple it is, I love that folks can edit and run my code. All in all, it is a just a great platform that works really well with Vue. But - for my presentation I really wanted a few demos that were entirely standalone. I really like CodePen, but I worry that it is a bit too "abstract" at times, or by itself. I'm not sure if that makes sense, but in the end, I just wanted to have a few demos that were file based, 100% complete, and so forth.
 
 I really liked one of the demos I built, so I thought it would be nice to share it individually as a post. It isn't anything that I haven't covered before per se, but like I said, I liked it. :) The demo covers a pretty common use case: Providing a search interface that uses a remote API and return the results. 
 
@@ -147,7 +147,7 @@ const app = new Vue({
 });
 ```
 
-I added an `audio` variable meant to represent the current piece of audio being played. Then my `play` method simply makes use of the Audio API to play it. Note that I have code to stop it on a new search or when selecting a new sample. Before I had this though it was kind of fun to click like crazy and here all the samples playing at once.
+I added an `audio` variable meant to represent the current piece of audio being played. Then my `play` method simply makes use of the Audio API to play it. Note that I have code to stop it on a new search or when selecting a new sample. Before I had this though it was kind of fun to click like crazy and hear all the samples playing at once.
 
 You can try this version here: https://cfjedimaster.github.io/webdemos/ajax-search-2/. And the code may be found here: https://github.com/cfjedimaster/webdemos/tree/master/ajax-search-2. 
 

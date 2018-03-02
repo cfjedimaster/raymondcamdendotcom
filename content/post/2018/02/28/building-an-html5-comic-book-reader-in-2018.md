@@ -19,7 +19,7 @@ Comic books are typically stored in two file formats - CBR and CBZ. CBRs are sim
 
 Another thing I did back then was use the FileSystem API to handle storing images. This was only supported by Chrome and is now deprecated. If you want to store binary data, you should make use of IndexedDB which now supports binary data well.
 
-I decided to take a look into how I could update this code and was surprised to find an excellent library that handles both zips and rars. Heck, it even handles tar files. [uncompress.js](https://github.com/workhorsy/uncompress.js) worked well for my demo despite a lack of documentation. The author does provide multiple examples though. By piercing together various examples and just generally messing around, I got the new version working. 
+I decided to take a look into how I could update this code and was surprised to find an excellent library that handles both zips and rars. Heck, it even handles tar files. [uncompress.js](https://github.com/workhorsy/uncompress.js) worked well for my demo despite a lack of documentation. The author does provide multiple examples though. By piecing together various examples and just generally messing around, I got the new version working. 
 
 It now works well in Firefox and Chrome, and is *hella* fast. I didn't update it to Vue, or upgrade the old jQuery or Bootstrap, but that could be done by someone wanting to file a PR. 
 
