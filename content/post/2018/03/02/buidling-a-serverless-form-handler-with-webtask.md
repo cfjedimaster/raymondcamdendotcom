@@ -1,5 +1,5 @@
 {
-	"title": "Buidling a Serverless Form Handler with Webtask",
+	"title": "Building a Serverless Form Handler with Auth0 Webtasks",
 	"date": "2018-03-02",
 	"categories": [
 		"Serverless"
@@ -9,7 +9,7 @@
 	"banner":"/images/banners/wt_forms.jpg"
 }
 
-Earlier this week I decided to build a rather simple application with [Webtask](https://webtask.io/), a form handler. This was something I did many [months ago](https://www.raymondcamden.com/2017/02/15/building-a-form-handler-service-in-openwhisk-part-two/) with OpenWhisk and I was curious what the experience would be with Webtask. As usual in such things, even though it was pretty simple, I did run into a few things that helped me understand Webtask a bit more. Here is how I approached it.
+Earlier this week I decided to build a rather simple application with [Auth0 Webtask](https://webtask.io/), a form handler. This was something I did many [months ago](https://www.raymondcamden.com/2017/02/15/building-a-form-handler-service-in-openwhisk-part-two/) with OpenWhisk and I was curious what the experience would be with Auth0 Webtask. As usual in such things, even though it was pretty simple, I did run into a few things that helped me understand Auth0 Webtask a bit more. Here is how I approached it.
 
 First, I built a form. I actually had a simple form I used last week in my (very last) OpenWhisk talk, so I just copied that over. 
 
