@@ -19,6 +19,20 @@ March 21-23, 2018
 </p>
 
 <p>
+Building Amazon Alexa Skills and Rapid API Development with Node and LoopBack<br/>
+<a href="http://codestock.org/">CodeStock</a><br/>
+Knoxville, TN<br/>
+April 20-21, 2018
+</p>
+
+<p>
+PWA Talk<br/>
+<a href="https://www.intothebox.org/">Into the Box</a><br/>
+The Woodlands, TX<br/>
+April 26-27, 2018
+</p>
+
+<p>
 Building Alexa Skills Just to Mess with Your Kids<br/>
 <a href="https://conferences.oreilly.com/fluent/fl-ca/">FluentConf</a><br/>
 San Jose, CA<br/>
