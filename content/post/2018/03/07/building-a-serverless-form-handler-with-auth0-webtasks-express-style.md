@@ -137,4 +137,6 @@ Specifically note the `--no-parse --no-merge` aspect. There's another way to han
 
 If you want to see the full source code, you can view it here: https://github.com/cfjedimaster/Serverless-Examples/blob/master/webtask/form_handler_express.js. Don't forget that the webtask CLI let's you create a task based on a URL. If you've got the CLI installed and configured with your credentials, you could make your own copy and then edit it in the online editor. You will need your own Sendgrid key of course.
 
+Ok, so I promised up top I'd share what I thought. I'm... torn. :) While I still don't think I'd go for Express initially when working with serverless, I do like how I have my app "tied" together like this. In the scenario of needing to build a form and not needing a 'generic' service, I think Express worked really well here. Some code for the view - some code for the processing. 
+
 <i>Header photo by <a href="https://unsplash.com/photos/oxjo1IQBK7M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Matt Jones</a> on Unsplash</i>
