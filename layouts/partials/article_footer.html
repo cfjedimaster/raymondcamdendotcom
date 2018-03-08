@@ -4,7 +4,7 @@
     <a data-url="{{ .Permalink }}" data-id="{{ .UniqueID }}" class="article-share-link">
         {{with .Site.Data.l10n.articles.share}}{{.}}{{end}}
     </a>
-    <a href="{{ .Permalink }}/#disqus_thread" class="article-comment-link">
-        {{with .Site.Data.l10n.articles.comments}}{{.}}{{end}}
+    <a href="{{ .Permalink }}/#disqus_thread" class="article-comment-link" >
+        <span class="disqus-comment-count" data-disqus-url="https://www.raymondcamden.com{{ .RelPermalink }}">Comments</span>
     </a>
 </footer>
