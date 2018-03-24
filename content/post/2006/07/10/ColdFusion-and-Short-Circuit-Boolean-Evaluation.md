@@ -19,8 +19,7 @@ If you wanted to check if that statement was true, and immediately discovered th
 
 So let's look at a ColdFusion example. What if you wanted to check for the existence of a key inside a structure that is also inside a structure? Consider this code sample:
 
-<pre><code class="language-markup">
-&lt;cfif structKeyExists(myscope, "mydata") and structKeyExists(myscope.mydata, "johnny5")&gt;
+<pre><code class="language-markup">&lt;cfif structKeyExists(myscope, "mydata") and structKeyExists(myscope.mydata, "johnny5")&gt;
 </code></pre>
 
 Pay attention to the <b>second</b> half of the expression. If mydata was not a valid key in myscope, you would get an error, right? Well since ColdFusion uses short circuit boolean evaluation, it will never get to the second expression if the first one doesn't evaluate to true. This is handy as it saves us from quite a bit of typing. It also let me reference cheesy 80s robot movies in my blog which is always a good thing. Now I just need a way to get <a href="http://en.wikipedia.org/wiki/Maximillian_(robot)">Maximillian</a> into an entry.
