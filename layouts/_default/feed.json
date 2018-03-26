@@ -18,7 +18,7 @@
 				"content_text": {{ .Summary | jsonify }},
 				"url": "{{ .Permalink }}",
 				"date_published": "{{ replace .Date "-0700 -0700" "-0700"}}",
-				"tags": "{{ delimit .Params.tags "," }}"
+				"tags": ["{{ delimit .Params.tags "," }}"]
 			}
 		{{ end }}
     ]

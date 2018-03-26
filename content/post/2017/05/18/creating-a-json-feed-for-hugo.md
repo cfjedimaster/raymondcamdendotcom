@@ -46,7 +46,7 @@ Note that I'm specifying json as my output and I'm saying my layout will be the 
 				"content_text": {{ .Summary | jsonify }},
 				"url": "{{ .Permalink }}",
 				"date_published": "{{ .Date }}",
-				"tags": "{{ delimit .Params.tags "," }}"
+				"tags": ["{{ delimit .Params.tags "," }}"]
 			}
 		{{ end }}
     ]
@@ -76,7 +76,7 @@ Finally, the date one rendered a bit weird on my blog. Let's look at the output 
 				"content_text": "Recently a new specification was launched to recreate RSS in JSON, JSON Feed. For folks who may not be aware, RSS is an XML spec (well, multiple ones) for sharing content between sites. Blogs, primarily, and content-heavy sites typically make use of this. I\u0026rsquo;m not sure how many people outside of developers actually use RSS, but it\u0026rsquo;s still definitely a \u0026ldquo;thing\u0026rdquo; even if you don\u0026rsquo;t necessarily think of it when thinking about APIs.",
 				"url": "http://localhost:1313/2017/05/18/creating-a-json-feed-for-hugo/",
 				"date_published": "2017-05-18 11:32:00 -0700 -0700",
-				"tags": "hugo"
+				"tags": ["hugo"]
 			}
 		
 		, 
@@ -86,7 +86,7 @@ Finally, the date one rendered a bit weird on my blog. Let's look at the output 
 				"content_text": "While waiting at the airport this past weekend, I worked on a little utility to help me retrieve information about my OpenWhisk actions. As you know (hopefully know!), Bluemix provides a \u0026ldquo;stats\u0026rdquo; page for your OpenWhisk stuff but it is a bit limited in terms of how far it goes back and doesn\u0026rsquo;t yet provide good aggregate data about your action. So for example, I really wanted to see how well my action was responding in a simple tabular fashion.",
 				"url": "http://localhost:1313/2017/05/15/my-own-openwhisk-stat-tool/",
 				"date_published": "2017-05-15 09:22:00 -0700 -0700",
-				"tags": "openwhisk"
+				"tags": ["openwhisk"]
 			}
 		
 		, 
@@ -97,7 +97,7 @@ Finally, the date one rendered a bit weird on my blog. Let's look at the output 
 				"content_text": "Hey folks, this is just a warning to other users in case they run into the same issue I did. As you (may) know, OpenWhisk supports the idea of packages. Packages let you organize actions into a cohesive unit, much like packages in other languages/platforms. Packages can also have default parameters that apply to every action in the package.\nPackages can also be shared, which makes them callable by other users.",
 				"url": "http://localhost:1313/2017/04/28/bound-packages-openwhisk-and-web-actions/",
 				"date_published": "2017-04-28 09:08:00 -0700 -0700",
-				"tags": "openwhisk"
+				"tags": ["openwhisk"]
 			}
 		
     ]
