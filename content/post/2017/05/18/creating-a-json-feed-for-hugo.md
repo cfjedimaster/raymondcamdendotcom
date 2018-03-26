@@ -9,7 +9,7 @@
 	"url": "/2017/05/18/creating-a-json-feed-for-hugo"
 }
 
-Recently a new specification was launched to recreate RSS in JSON, [JSON Feed](https://jsonfeed.org). For folks who may not be aware, RSS is an XML spec (well, multiple ones) for sharing content between sites. Blogs, primarily, and content-heavy sites typically make use of this. I'm not sure how many people outside of developers actually *use* RSS, but it's still definitely a "thing" even if you don't necessarily think of it when thinking about APIs.
+*Edit on 3/26/2018 to fix tags, thanks to commenter Carl* Recently a new specification was launched to recreate RSS in JSON, [JSON Feed](https://jsonfeed.org). For folks who may not be aware, RSS is an XML spec (well, multiple ones) for sharing content between sites. Blogs, primarily, and content-heavy sites typically make use of this. I'm not sure how many people outside of developers actually *use* RSS, but it's still definitely a "thing" even if you don't necessarily think of it when thinking about APIs.
 
 The idea behind JSON Feed is to simply recreate the same, or similar, functionality in JSON as opposed to XML. You can read more about the launch on their [announcement post](https://jsonfeed.org/2017/05/17/announcing_json_feed) and read the full [spec](https://jsonfeed.org/version/1) as well. (And actually, this is one of the better written specs I've seen. You won't need a PhD in CompSci to grok it.)
 
