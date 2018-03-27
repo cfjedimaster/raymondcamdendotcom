@@ -9,7 +9,7 @@
 	"guid": "1587"
 }
 
-Last month I blogged about using ColdFusion's <a href="http://ray.camdenfamily.com/index.cfm/2006/9/14/Using-ColdFusions-Asynchronous-Gateway--3">Asynchronous Gateway</a>. Today I want to show another example of an Enterprise Gateway: The DirectoryWatcher. The DirectoryWatcher gateway does what you imagine it would - it watches a directory. It lets you monitor additions, changes, and deletions from a directory.
+Last month I blogged about using ColdFusion's <a href="https://www.raymondcamden.com/2006/09/14/Using-ColdFusions-Asynchronous-Gateway-3/">Asynchronous Gateway</a>. Today I want to show another example of an Enterprise Gateway: The DirectoryWatcher. The DirectoryWatcher gateway does what you imagine it would - it watches a directory. It lets you monitor additions, changes, and deletions from a directory.
 
 So with that in mind - let's build a simple example. I'm going to create a simple DirectoryWatcher to examine a folder that my client is using to drop images into. The DirectoryWatcher will do two things:
 <!--more-->
@@ -24,45 +24,43 @@ As before - we will start off in the Event Gateway Instances page of your ColdFu
 
 Let's start by taking a look at the config file. Again - if you copy from the samples folder (C:\CFusionMX7\gateway\config\directory-watcher.cfg), you only need to edit one line. Here is the file I used:
 
-<code>
-#
-# DirectoryWatcherGateway configuration file
-#
+	#
+	# DirectoryWatcherGateway configuration file
+	#
 
-# The directory you want to watch.  If you are entering a Windows path
-# either use forward slashes (C:/mydir) or escape the back slashes (C:\\mydir).
-directory=c:/apache2/htdocs/images
+	# The directory you want to watch.  If you are entering a Windows path
+	# either use forward slashes (C:/mydir) or escape the back slashes (C:\\mydir).
+	directory=c:/apache2/htdocs/images
 
-# Should we watch the directory and all subdirectories too
-# Default is no.  Set to 'yes' to do the recursion.
-recurse=no
+	# Should we watch the directory and all subdirectories too
+	# Default is no.  Set to 'yes' to do the recursion.
+	recurse=no
 
-# The interval between checks, in miliseconds
-# Default is 60 seconds
-interval=10000
+	# The interval between checks, in miliseconds
+	# Default is 60 seconds
+	interval=10000
 
-# The comma separated list of extensions to match.
-# Default is * - all files
-extensions=*
+	# The comma separated list of extensions to match.
+	# Default is * - all files
+	extensions=*
 
-# CFC Function for file Change events
-# Default is onChange, set to nothing if you don't want to see these events
-changeFunction=onChange
+	# CFC Function for file Change events
+	# Default is onChange, set to nothing if you don't want to see these events
+	changeFunction=onChange
 
-# CFC Function for file Add events
-# Default is onAdd, set to nothing if you don't want to see these events
-addFunction=onAdd
+	# CFC Function for file Add events
+	# Default is onAdd, set to nothing if you don't want to see these events
+	addFunction=onAdd
 
-# CFC Function for file Delete events
-# Default is onDelete, set to nothing if you don't want to see these events
-deleteFunction=onDelete
-</code>
+	# CFC Function for file Delete events
+	# Default is onDelete, set to nothing if you don't want to see these events
+	deleteFunction=onDelete
 
 Pay attention to the directory line. This tells the gateway what directory to monitor. I also made the gateway run a bit quicker then normal. The default interval was 60 seconds, but I changed it to 10. You may ask - why didn't I change the extensions? I want my watcher to "clean up" any non-image uploads, so by keeping the extensions setting to *, I can ensure my CFC will always run. 
 
 So far so good? Now let's take a look at the CFC:
 
-<code>
+```html
 &lt;cfcomponent&gt;
 
 &lt;cfset variables.imageExtensions = "jpg,gif,png"&gt;
@@ -104,7 +102,7 @@ So far so good? Now let's take a look at the CFC:
 &lt;/cffunction&gt;
 
 &lt;/cfcomponent&gt;
-</code>
+```
 
 I mentioned earlier that the DirectoryWatcher gateway lets you monitor both adds, edits, and deletes from a folder. In our case we only need to monitor adds. Therefore my CFC has one function - onAdd. ColdFusion will pass a structure of data to the component that includes the filename. Once I get that I check the extension. If it isn't valid, I delete it.
 
