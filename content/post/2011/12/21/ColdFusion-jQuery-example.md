@@ -27,8 +27,7 @@ I've done this in most all of my Ajax demos, but a quick little example couldn't
 
 <p>
 
-<code>
-
+<pre><code class="language-markup">
 &lt;html&gt;
 &lt;head&gt;
 &lt;script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"&gt;&lt;/script&gt;
@@ -59,7 +58,7 @@ $(document).ready(function() {
 &lt;input type="button" id="buttonTest" value="Push for Love"&gt;
 
 &lt;div id="status"&gt;&lt;/div&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -71,11 +70,11 @@ Our server side code....
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 &lt;cfset sleep(2000)&gt;
 
 &lt;cfoutput&gt;Hello from awesome. #randRange(1,100)#&lt;/cfoutput&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -84,8 +83,3 @@ The sleep command there is simply to help simulate a slow process.
 <p>
 
 And that's it. Sorry if this bores folks, but even when I do super simple examples for readers, I've got to turn it into a blog entry. :)
-
-<p>
-
-
-<a href="http://www.raymondcamden.com/demos/2011/dec/21/test.cfm"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a>
