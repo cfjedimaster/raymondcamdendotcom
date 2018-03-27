@@ -60,7 +60,7 @@ Pay attention to the directory line. This tells the gateway what directory to mo
 
 So far so good? Now let's take a look at the CFC:
 
-```html
+<pre><code class="language-markup">
 &lt;cfcomponent&gt;
 
 &lt;cfset variables.imageExtensions = "jpg,gif,png"&gt;
@@ -102,7 +102,7 @@ So far so good? Now let's take a look at the CFC:
 &lt;/cffunction&gt;
 
 &lt;/cfcomponent&gt;
-```
+</code></pre>
 
 I mentioned earlier that the DirectoryWatcher gateway lets you monitor both adds, edits, and deletes from a folder. In our case we only need to monitor adds. Therefore my CFC has one function - onAdd. ColdFusion will pass a structure of data to the component that includes the filename. Once I get that I check the extension. If it isn't valid, I delete it.
 
