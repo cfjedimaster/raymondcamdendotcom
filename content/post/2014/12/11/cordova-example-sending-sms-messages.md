@@ -60,7 +60,7 @@ First, the HTML. This application does one thing - prompt for a telephone number
 
 Which renders this lovely UI:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/iOS-Simulator-Screen-Shot-Dec-11-2014-10.39.52-AM.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2014/12/iOS-Simulator-Screen-Shot-Dec-11-2014-10.39.52-AM.png" alt="iOS Simulator Screen Shot Dec 11, 2014, 10.39.52 AM" width="600" height="382" class="alignnone size-full wp-image-5438" /></a>
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2014/12/iOS-Simulator-Screen-Shot-Dec-11-2014-10.39.52-AM.png" alt="iOS Simulator Screen Shot Dec 11, 2014, 10.39.52 AM" width="600" height="382" class="alignnone size-full wp-image-5438" />
 
 Now let's consider the JavaScript:
 
@@ -110,7 +110,7 @@ So as I mentioned above, the plugin has one method. It takes an object containin
 
 As I mentioned, on iOS and Windows Phones, the user will see the 'real' SMS application pop up. It will be pre-populated with the data sent from the plugin. Here is an example:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/IMG_4245mod.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2014/12/IMG_4245mod.png" alt="IMG_4245mod" width="423" height="750" class="alignnone size-full wp-image-5439" /></a>
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2014/12/IMG_4245mod.png" alt="IMG_4245mod" width="423" height="750" class="alignnone size-full wp-image-5439" />
 
 The user will need to hit Send to finish the process, but they won't have to actually type anything.
 

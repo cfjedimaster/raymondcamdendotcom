@@ -13,11 +13,11 @@
 
 Let's consider a fairly trivial, but probably typical, Ajax-based application. I've got a series of buttons:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot1.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot1.png" alt="shot1" width="418" height="404" class="alignnone size-full wp-image-5950" style="border: solid black 1px" /></a>
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot1.png" alt="shot1" width="418" height="404" class="alignnone size-full wp-image-5950" style="border: solid black 1px" />
 
 Each button, when clicked, hits a service on my application server and fetches some data. In my case, just a simple name:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/shot2.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot2.png" alt="shot2" width="418" height="404" class="alignnone size-full wp-image-5951" style="border: solid black 1px" /></a>
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/shot2.png" alt="shot2" width="418" height="404" class="alignnone size-full wp-image-5951" style="border: solid black 1px" />
 
 <!--more-->
 
@@ -59,7 +59,7 @@ $(document).ready(function() {
 
 I assume this makes sense to everyone as it is pretty boiler-plate Ajax with jQuery, but if it doesn't, just chime in below in a comment. Ok, so this <i>works</i>, but we have a small problem. What happens in the user clicks both buttons at nearly the same time? Well, you would probably say the last one wins, right? But are you sure? What if something goes wrong (database gremlin - always blame the database) and the last hit is the <i>first</i> one to return?
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/Untitled2.gif"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/Untitled2.gif" alt="Untitled2" width="443" height="438" class="alignnone size-full wp-image-5952" /></a>
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/Untitled2.gif" alt="Untitled2" width="443" height="438" class="alignnone size-full wp-image-5952" />
 
 What you can see (hopefully - still kinda new at making animated gifs) is that the user clicks the first button, then the second, and sees first the result from the second button and then the first one flashes in. 
 
@@ -106,7 +106,7 @@ $(document).ready(function() {
 
 I've added a simple call to disable all the buttons based on class. I then simple remove that attribute when the Ajax request is done. Furthermore, I also include some text to let the user know that - yes - something is happening - and maybe you should just calm the heck down and wait for it. The result makes it more obvious that something is happening and actively prevents the user from clicking the other buttons.
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/Untitled3.gif"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/Untitled3.gif" alt="Untitled3" width="443" height="438" class="alignnone size-full wp-image-5953" /></a>
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/Untitled3.gif" alt="Untitled3" width="443" height="438" class="alignnone size-full wp-image-5953" />
 
 Another strategy would be to actually kill the existing Ajax request. This is rather simple. The native XHR object has an abort method that will kill it, and jQuery's Ajax methods returns a wrapped XHR object that gives us access to the same method.
 
@@ -156,7 +156,7 @@ I use two variables, xhr and active, so that I can track active xhr requests. Th
 
 When using this, you can actually see the requests killed in dev tools:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/04/Untitled4.gif"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/Untitled4.gif" alt="Untitled4" width="750" height="567" class="alignnone size-full wp-image-5954" /></a>
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/04/Untitled4.gif" alt="Untitled4" width="750" height="567" class="alignnone size-full wp-image-5954" />
 
 Any comments on this? How are you handling this yourself in your Ajax-based applications?
 

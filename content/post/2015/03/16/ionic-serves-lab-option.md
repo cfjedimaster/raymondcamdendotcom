@@ -26,7 +26,7 @@ Amongst the ten plus options for this feature is the "Lab" feature, activated li
 
 The CLI help describes it as "Test your apps on multiple screen sizes and platform types". What this means in reality is this:
 
-<a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/ionic11.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/ionic11.png" alt="ionic1" width="600" height="517" class="alignnone size-full wp-image-5835" /></a>
+<img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/ionic11.png" alt="ionic1" width="600" height="517" class="alignnone size-full wp-image-5835" />
 
 As you can see, it shows you both an iOS and Android version of the application. For the Tabs UI, this is especially helpful as you can see how iOS and Android display them differently. You can also click on the platform name to open a new tab with just that platform. What's cool is that live reload continues to work for the first tab and the second as well.
 

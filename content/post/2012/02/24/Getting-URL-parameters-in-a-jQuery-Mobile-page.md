@@ -23,13 +23,14 @@ You can bind to the "pageshow" event easily enough and then fetch the URL parame
 
 <p>
 
+<pre><code class="language-javascript">
 <code>
 $("#artdetailpage").live("pageshow", function(e) {
   var query = window.location.search;
   query = query.replace("?id=","");
   //query is now an ID, do stuff with it...
 });
-</code>
+</code></pre>
 
 <p>
 
@@ -45,10 +46,10 @@ Turns out that jQuery Mobile stores the URL of the page in a data-page parameter
 
 <p>
 
-<code>
+<pre><code class="language-javascript">
 $("#artdetailpage").live("pageshow", function(e) {
   var query = $(this).data("url").split("?")[1];;
   query = query.replace("id=","");
   //query is now an ID, do stuff with it...
 });
-</code>
+</code></pre>
