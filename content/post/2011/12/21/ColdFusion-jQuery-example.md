@@ -27,8 +27,7 @@ I've done this in most all of my Ajax demos, but a quick little example couldn't
 
 <p>
 
-<pre><code class="language-markup">
-&lt;html&gt;
+<pre><code class="language-markup">&lt;html&gt;
 &lt;head&gt;
 &lt;script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -70,8 +69,7 @@ Our server side code....
 
 <p>
 
-<pre><code class="language-markup">
-&lt;cfset sleep(2000)&gt;
+<pre><code class="language-markup">&lt;cfset sleep(2000)&gt;
 
 &lt;cfoutput&gt;Hello from awesome. #randRange(1,100)#&lt;/cfoutput&gt;
 </code></pre>
