@@ -19,6 +19,7 @@ If you find this information useful (currently at {{% numposts %}} posts), pleas
 I have not done a great job of tracking my various articles on other web sites, but I hope to correct that now. Consider the list below a beginning (as of July 2013) and certainly <i>not</i> a complete list.
 
 <ul>
+<li><a href="https://www.telerik.com/blogs/a-gentle-and-practical-introduction-to-progressive-web-apps-part-4">A Gentle and Practical Introduction to Progressive Web Apps - Part 4</a> for Telerik.</li>
 <li><a href="https://www.telerik.com/blogs/a-gentle-and-practical-introduction-to-progressive-web-apps-part-3">A Gentle and Practical Introduction to Progressive Web Apps - Part 3</a> for Telerik.</li>
 <li><a href="https://vuejsdevelopers.com/2018/03/12/vue-js-filters-internationalization/">Build A i18n Filter Using Vue.js &amp; Native Web Specs</a> for VueJS Developers.</li>
 <li><a href="https://www.telerik.com/blogs/a-gentle-and-practical-introduction-to-progressive-web-apps">A Gentle and Practical Introduction to Progressive Web Apps</a> for Telerik.</li>
