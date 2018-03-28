@@ -55,7 +55,8 @@ var template = `{
 		${categories}
 	],
 	"tags": [${tags}],
-	"url": "/${year}/${month}/${day}/${slug}"
+	"url": "/${year}/${month}/${day}/${slug}",
+	"banner":"/images/banners/"
 }`;
 
 //console.log(template);
