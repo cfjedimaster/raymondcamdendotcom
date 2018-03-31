@@ -13,15 +13,13 @@ You may have heard of a file format called MP3. It is an audio format that is sm
 <!--more-->
 Of course, the nice thing is that most of the work is done for us. I did a quick Google search and came across the <a href="http://javamusictag.sourceforge.net/">Java ID3 Tag Library</a>. I downloaded the JAR and copied it to $CFMX_HOME/runtime/servers/lib/. I then restarted ColdFusion. So what next? I checked the project's <a href="http://javamusictag.sourceforge.net/QuickStart.html">quick start</a> guide and saw this Java example:
 
-<pre><code class="language-javascript">
-File sourceFile;
+<pre><code class="language-javascript">File sourceFile;
 MP3File mp3file = new MP3File(sourceFile);
 </code></pre>
 
 I knew this could be translated to ColdFusion as:
 
-<pre><code class="language-javascript">
-&lt;cfset mp3file = createObject("java", "xxxx")&gt;
+<pre><code class="language-javascript">&lt;cfset mp3file = createObject("java", "xxxx")&gt;
 &lt;cfset mp3file.init(somefilepath)&gt;
 </code></pre>
 
@@ -29,8 +27,7 @@ The problem was - what to use for the class name? I fumbled around a bit and fou
 
 I then checked the API and looked into how it returned ID3 tag information. The code supports two versions of ID3 information, ID3v1 and ID3v2. (There are actually subversions for each of these two versions.) For a quick test, I wrote some code to examine one of my folders and grab the information from the ID3v1 tag:
 
-<pre><code class="language-markup">
-&lt;cfset dir = "g:\music\80s\"&gt;
+<pre><code class="language-markup">&lt;cfset dir = "g:\music\80s\"&gt;
 
 &lt;cfdirectory action="list" directory="#dir#" filter="*.mp3" name="music"&gt;
 
