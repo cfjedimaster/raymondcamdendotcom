@@ -39,6 +39,13 @@ San Jose, CA<br/>
 June 12-14, 2018
 </p>
 
+<p>
+Getting Your Serverless on with Webtask<br/>
+<a href="https://www.meetup.com/tracydevs/events/249274330/?_cookie-check=ogOmubILi-buVrrq">Tracy Developer Meetup</a><br/>
+Tracy, CA<br/>
+June 13, 2018
+</p>
+
 <h3>My Past Events</h3>
 
 <p>
