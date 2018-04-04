@@ -40,6 +40,9 @@ While explicitly defined props are preferred for passing information to a child 
 
 Which simply means that as his component uses `img` as the root element, it already supported accepting an `alt` and `title` tag. (His code did have a preset `alt` tag that he removed.) Vue is actually pretty dang smart about this too. So if your component has an existing `class` or `style` value and you pass in custom values, it will merge them instead of replacing them. You can read about this [here](https://vuejs.org/v2/guide/components-props.html#Replacing-Merging-with-Existing-Attributes). Finally, if you don't like this, you can [disable](https://vuejs.org/v2/guide/components-props.html#Disabling-Attribute-Inheritance) the behavior in your component.
 
-All of this was documented, but something I missed, and a pleasant surprise. 
+All of this was documented, but something I missed, and a pleasant surprise. Want to see an example? For my last Vue.js presentation, I built a simple Nicolas Cage component. (It just wraps [PlaceCage.com](http://www.placecage.com/)). Initially I only built in support for height and width - both of which go into the URL to select the right picture. To support alt/title I don't have to do a thing. In the CodePen below, you can see where I'm using title and if you mouseover the result, it just plain works.
+
+<p data-height="400" data-theme-id="0" data-slug-hash="oqMZQV" data-default-tab="html,result" data-user="cfjedimaster" data-embed-version="2" data-pen-title="nicolas cage (testing alt/title)" class="codepen">See the Pen <a href="https://codepen.io/cfjedimaster/pen/oqMZQV/">nicolas cage (testing alt/title)</a> by Raymond Camden (<a href="https://codepen.io/cfjedimaster">@cfjedimaster</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 <i>Header photo by <a href="https://unsplash.com/photos/OqtafYT5kTw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ilya Pavlov</a> on Unsplash</i>
