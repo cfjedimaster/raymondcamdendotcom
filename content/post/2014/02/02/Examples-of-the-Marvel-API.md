@@ -198,7 +198,7 @@ And finally - 1960.
 </p>
 
 <p>
-Because of the API limit I can't share the live application, but I did take the rendered output and save that. If you're curious, you can get dynamically generated HTML by simply opening up the console and doing $(body).html(). You can view the static report here: <a href="http://www.raymondcamden.com/demos/2014/jan/31/report.html">http://www.raymondcamden.com/demos/2014/jan/31/report.html</a>
+Because of the API limit I can't share the live application, but I did take the rendered output and save that. If you're curious, you can get dynamically generated HTML by simply opening up the console and doing $(body).html(). You can view the static report here: <a href="https://static.raymondcamden.com/demos/2014/jan/31/report.html">https://static.raymondcamden.com/demos/2014/jan/31/report.html</a>
 </p>
 
 <p>
@@ -338,4 +338,4 @@ You can view this yourself here: <a href="http://marvel.raymondcamden.com">marve
 
 <p>
 I know I'm biased, but I love my demo. The first time I watched it I saw titles I had never heard of. I don't know if I'd consider myself a "serious" comic collector, I just buy what I like, but seeing the depth of history in the Marvel line is actually encouraging me to pick up more comics from the past. I've included the full source code for both my demos as an attachment to this blog post. I've removed the keys obviously.
-</p><p><a href='enclosures/C%3A%5Chosts%5C2013%2Eraymondcamden%2Ecom%5Cenclosures%2Fmarvel%2Ezip'>Download attached file.</a></p>
+</p><p><a href='https://static.raymondcamden.com/enclosures/marvel.zip'>Download attached file.</a></p>
