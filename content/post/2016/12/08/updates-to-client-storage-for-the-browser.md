@@ -32,7 +32,7 @@ suggest reading that article before continuing on. The basic premise is that the
 
 The StorageManager, at least for now, consists of three basic parts. The first, and this is the main focus of Wilson's 
 article, is the ability 
-to specify that data should be *really* persisted. This is the <code>persits</code> API. Yes, that name is a bit weird. 
+to specify that data should be *really* persisted. This is the <code>persists</code> API. Yes, that name is a bit weird. 
 Basically the idea is this. I can tell the browser to store the value "Cat" in LocalStorage under the key "BestAnimal." 
 Currently the browser will store this, but also kick it to the curb when the browser sees fit. Data that 
 is *persisted* though will be permanent.  This is cool, but I really take issue with the naming. I get that there is a difference between
@@ -128,7 +128,7 @@ $(document).ready(function() {
 	if(navigator.storage &amp;&amp; navigator.storage.estimate) {
 		navigator.storage.estimate().then(result =&gt; {
 			console.log(result);
-			console.log(&#x27;Percent used &#x27;+result.usage&#x2F;result.quota).toFixed(2);
+			console.log(&#x27;Percent used &#x27;+(result.usage&#x2F;result.quota).toFixed(2));
 		});
 	}
 });
