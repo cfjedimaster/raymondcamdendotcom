@@ -6,7 +6,7 @@
 	],
 	"tags": ["vuejs"],
 	"url": "/2018/04/16/missed-vueconfus-watch-parts-online",
-	"banner":"/images/banners/"
+	"banner":"/images/banners/vueconf.png"
 }
 
 I wasn't able to make this year's [VueConf US](http://us.vuejs.org/) (even though it was in my backyard), but luckily, some of the videos from the conference are online: 
