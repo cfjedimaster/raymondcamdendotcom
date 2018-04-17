@@ -25,9 +25,8 @@ This isn't going to be a real deep post - more of a "Cool, take a look" type thi
 
 I ran into a few issues while working with the code, but nothing too terrible. Here's a simple example with a few customizations:
 
-<p/>
 
-<code>
+<pre><code class="language-markup">
 &lt;html&gt;
 
 &lt;head&gt;
@@ -54,7 +53,7 @@ $(document).ready(function() {
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p/>
 
@@ -74,7 +73,7 @@ Finally it would be nice to include some events, right? I pointed to a CFC calle
 
 <p/>
 
-<code>
+<pre><code class="language-javascript">
 component {
 	url.returnformat="json";
 	
@@ -126,7 +125,7 @@ component {
 	}
 
 }
-</code>
+</code></pre>
 
 <p/>
 
@@ -138,7 +137,7 @@ Once I've got my data, it was a simple matter to convert it to an array of struc
 
 <p/>
 
-<a href="http://www.raymondcamden.com/demos/july162011B/test2.html"><img src="https://static.raymondcamden.com/images/cfjedi/icon_128.png" title="Demo, Baby" border="0"></a>
+<strong>The old demo has been removed. You can download it here: https://static.raymondcamden.com/enclosures/july162011B.zip</strong>
 
 <p/>
 
