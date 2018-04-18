@@ -23,6 +23,8 @@ First, when you begin the authentication process, it will ask you to open a URL 
 
 Do NOT click! If you do, the little panel there will disappear, and if your memory is like mine, you won't remember the code. I had to quit VSC and restart it to get the prompt again. You can select text in the dialog and put it in your clipboard, or just jot it down.
 
+**Oops!** So notice how in the screenshot above it says Copy. As in, um, Copy, like Ray, how could you miss that? Yep, that's all on me. I think maybe I was expecting it to pre-fill the form field with the code. Either way - just paste. Duh.
+
 Secondly, for me the first deployment was incredibly slow. I'd say about ten minutes. Maybe LoopBack is big (honestly I never really thought about it). Maybe it was provisioning things. But for whatever reason, that first push was definitely slow. *However*, after that it moved incredibly quick. I'd say maybe 30 seconds, or quicker, to get the app updated.
 
 Finally, the extension supports [viewing logs](https://code.visualstudio.com/tutorials/app-service-extension/tailing-logs) from your application. That's cool, but it didn't always consistently work for me. That being said, last night when I was testing I was having a bit of trouble with it and this morning it seems to be working perfectly fine. 
