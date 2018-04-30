@@ -12,24 +12,10 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
-Building PWAs for People Terrified of PWAs<br/>
-<a href="http://jazzcon.tech/">JazzCon</a><br/>
-New Orleans, LA<br/>
-March 21-23, 2018
-</p>
-
-<p>
-Building Amazon Alexa Skills and Rapid API Development with Node and LoopBack<br/>
-<a href="http://codestock.org/">CodeStock</a><br/>
-Knoxville, TN<br/>
-April 20-21, 2018
-</p>
-
-<p>
-PWA Talk<br/>
-<a href="https://www.intothebox.org/">Into the Box</a><br/>
-The Woodlands, TX<br/>
-April 26-27, 2018
+Bringing Dynamic Back to Static<br/>
+<a href="https://certifiedfreshevents.com/events/jamstack/">Modern Web Development with the JAMStack</a><br/>
+Online<br/>
+May 23rd, 2018
 </p>
 
 <p>
@@ -274,4 +260,24 @@ Atlanta, GA<br/>
 February 21-23, 2018
 </p>
 
+<p>
+Building PWAs for People Terrified of PWAs<br/>
+<a href="http://jazzcon.tech/">JazzCon</a><br/>
+New Orleans, LA<br/>
+March 21-23, 2018
+</p>
+
+<p>
+Building Amazon Alexa Skills and Rapid API Development with Node and LoopBack<br/>
+<a href="http://codestock.org/">CodeStock</a><br/>
+Knoxville, TN<br/>
+April 20-21, 2018
+</p>
+
+<p>
+PWA Talk<br/>
+<a href="https://www.intothebox.org/">Into the Box</a><br/>
+The Woodlands, TX<br/>
+April 26-27, 2018
+</p>
 
