@@ -22,7 +22,7 @@ I had to double check with Pema to grok exactly what he meant, but basically, in
 <!--more-->
 First, I wrote a template with a simple query and list of dynamic form fields:
 
-<code>
+<pre><code class="language-markup">
 &lt;cfquery name="getArt" datasource="cfartgallery" maxrows="10"&gt;
 select	artid, artname
 from	art
@@ -38,13 +38,13 @@ from	art
 &lt;/table&gt;
 &lt;input type="submit" name="save" value="Save" /&gt;
 &lt;/form&gt;
-</code>
+</code></pre>
 
 My query grabbed the primary key and artname from the ColdFusion sample database cfartgallery. I create one text field for each row and pass the primary key value in the name of the form field.
 
 Processing is rather simple as well:
 
-<code>
+<pre><code class="language-markup">
 &lt;cfif structKeyExists(form, "save")&gt;
 	&lt;cfloop item="field" collection="#form#"&gt;
 		&lt;cfif findNoCase("art_", field)&gt;
@@ -57,13 +57,13 @@ Processing is rather simple as well:
  		&lt;/cfif&gt;
 	&lt;/cfloop&gt;
 &lt;/cfif&gt;
-</code>
+</code></pre>
 
 If the save button was clicked, I loop over the form. If the form field begins with art_, I can grab the primary key using a list function. Then I do an update. 
 
 That's it. Pretty simple, but hopefully it helps Pema and others who may be new to ColdFusion. I've included the complete template below.
 
-<code>
+<pre><code class="language-markup">
 &lt;cfif structKeyExists(form, "save")&gt;
 	&lt;cfloop item="field" collection="#form#"&gt;
 		&lt;cfif findNoCase("art_", field)&gt;
@@ -92,4 +92,5 @@ from	art
 &lt;/table&gt;
 &lt;input type="submit" name="save" value="Save" /&gt;
 &lt;/form&gt;
-</code>
+</code></pre>
+
