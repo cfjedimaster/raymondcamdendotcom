@@ -1,7 +1,7 @@
 
 {
 	"title": "HTML Escaper Visual Studio Code Extension",
-	"date": "2016-02-10T9:21:00-07:00",
+	"date": "2016-02-10",
 	"categories": [
 		"Development"
 	],

@@ -1,7 +1,7 @@
 
 {
 	"title": "My PhoneGap Day 2016 Presentation",
-	"date": "2016-02-17T8:41:00-07:00",
+	"date": "2016-02-17",
 	"categories": [
 		"Development"
 	],

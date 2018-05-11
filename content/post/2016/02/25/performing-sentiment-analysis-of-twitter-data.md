@@ -1,7 +1,7 @@
 
 {
 	"title": "Performing sentiment analysis of Twitter data",
-	"date": "2016-02-25T8:44:00-07:00",
+	"date": "2016-02-25",
 	"categories": [
 		"JavaScript"
 	],

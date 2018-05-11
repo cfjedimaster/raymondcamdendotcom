@@ -1,7 +1,7 @@
 
 {
 	"title": "Displaying Google Street View images",
-	"date": "2016-02-13T9:43:00-07:00",
+	"date": "2016-02-13",
 	"categories": [
 		"JavaScript"
 	],

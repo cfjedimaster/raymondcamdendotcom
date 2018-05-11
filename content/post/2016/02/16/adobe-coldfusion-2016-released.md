@@ -1,7 +1,7 @@
 
 {
 	"title": "Adobe ColdFusion 2016 Released",
-	"date": "2016-02-16T5:35:00-07:00",
+	"date": "2016-02-16",
 	"categories": [
 		"ColdFusion"
 	],
