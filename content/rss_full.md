@@ -1,0 +1,5 @@
+{
+	"outputs":["xml"],
+	"layout":"rssfull"
+}
+

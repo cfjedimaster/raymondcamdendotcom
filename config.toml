@@ -12,6 +12,12 @@ theme = "hugo-icarus-theme"
 disablePathToLower = true
 metaDataFormat = "json"
 
+[outputFormats]
+  [outputFormats.xml]
+    baseName = "index"
+    isPlainText = true
+    mediaType = "application/xml"
+
 [blackfriday]
     smartypants = false
 
